@@ -15,10 +15,36 @@ As the name suggests, it was first sighted from Earth in 2035; of course, it was
 It was purchased in BF 21 by the Kainouda Development Company; it was then divided into lots and sold for development, along Extropian lines.
 
 The asteroid was originally occupied mostly by a mix of Extropian anarcho-capitalists and mutualists.
-Over time, several mutualist co-ops conglomerated, and their combined territory came to cover most of the rock; they then reorganized themselves into a direct-democratic polity.
-Even though the vast majority of the Thistledown is controlled by that cooperative, it is still technically owned by the Kainouda Development Company, and that company remains the major forum for “whole asteroid” affairs.
-Substantial parts of the Thistledown are still owned and occupied by anarcho-capitalists, most notably the space-port; there is also a small Hypercorp presence, centered around Infinite Loop, a series of small warrens connected by a tram.
-The Thistledown is a major outpost for the rare breed of Hypercorp that seeks to maintain a good relationship with either outer-system Anarchists or Titanians.
+However, over time, several of the Mutualist communities cooperated on large infrastructure projects, constructing large habs, minifacturing facilities, and power systems.
+In BF 13, several mutualist communities formed the Thistledown Cooperative, an organization to coordinate the construction of large mutualist projects and own and administer the results along mutualist-socialist lines.
+As the mutualists communities grew in size and influence, some an-caps began to fear the "expansionist" mutualists, leading to tensions between an-caps and mutualists.
+
+> **Minerva**: Which is somewhat amusing, because Mutualist and Anarcho-Capitalists are both stateless propertarian systems.
+>
+> **Gunslinger#MONOLITH**: Imagine looking at market-anarchists and being terrified of "socialism".
+>
+> **Anarcat**: I mean, there is a meaningful difference; mutualists use social-ownership schemes that "proper" an-caps don't.
+
+In BF 11, the Thistledown Cooperative began the design and planning for a large central cavern, and for spinning the asteroid for centrigrav.
+This became a contentious issue in Kainouda politics, and drove tenstions between the Thistledown Cooperative and other communities even higher.
+Over the early months of BF 10, there where sporadic instances of violence targetting mutualists and mutualist communities.
+However, highly agrieved an-caps failed to recruit many of their fellow an-caps or produced large-scale resistance; in the late months of BF 10 and the early months of BF 9, there was an exodus of "resistance" an-caps, leaving the Thistledown Cooperative in control of more than half of Kainouda 2035.
+
+> **Apotheotician**: This was bad times, but it could've been a lot worse.
+> Credit to our an-cap neighbors, most of them where fine with the Cooperative, so the violent anti-mutualists failed to recruit and couldn't get a lot of support.
+> Most of these guys have since given up and left.
+
+Ultimately, the Thistledown Chamber was constructed, and the asteroid was spun for 0.18G at the "equator" in BF 8.
+
+As the economy of Kainouda 2035 developed, as more infrastructure was constructed, and as the plans to spin the asteroid advanced, it began to become appealing territory.
+In BF 9, the Infinite Loop Consortium, a member of the Planetary Consortium, purchased space on the asteroid, and administered it along PC lines.
+
+During the Fall, the KDC constructed several habs near the asteroid; the habs where owned by the KDC, much like the asteroid, but the rights where sold to "cooperatives" that, in turn, consisted of the infugees and refugees that where settled there.
+Essentially, the habs where given to their refugee residents, and they where allowed to organize them as they saw fit.
+Today, only one of the five habitats is still run along Extropian lines; three of them where reorganized as Planetary Consortium hypercorps, and one of them is run by a scum swarm.
+
+Today, the asteroid is more than 90% Extropian — and more than 50% of it is held by the Thistledown Cooperative, allowing them to dominate its politics.
+However, enclaves of hypercapitalists, scum and social-anarchists can be found, making Kainouda 2035, in true Belter fashion, something of a crossroads.
 
 ## The Kainouda Development Company
 
