@@ -34,7 +34,7 @@ However, highly agrieved an-caps failed to recruit many of their fellow an-caps 
 > Credit to our an-cap neighbors, most of them where fine with the Cooperative, so the violent anti-mutualists failed to recruit and couldn't get a lot of support.
 > Most of these guys have since given up and left.
 
-Ultimately, the Thistledown Chamber was constructed, and the asteroid was spun for 0.18G at the "equator" in BF 8.
+Ultimately, the Thistledown Chamber was constructed, and the asteroid was spun — around its long axis, producing 0.18G at the "equator" — in BF 8.
 
 As the economy of Kainouda 2035 developed, as more infrastructure was constructed, and as the plans to spin the asteroid advanced, it began to become appealing territory.
 In BF 9, the Infinite Loop Consortium, a member of the Planetary Consortium, purchased space on the asteroid, and administered it along PC lines.
@@ -93,7 +93,7 @@ The Comms Consortium is also responsible for maintaing the security of the syste
 >
 > **Anarcat**: So, compromising the cables is pointless because of the quantum encryption; I'm guessing the ground stations have significant security?
 >
-> **Apotheotician**: Oh, yes.  Not my area of expertise, but the hardware types usually write it off as "not worth the trouble," like most high-security handle-your-ego parts of the hab.
+> **Apotheotician**: Oh, yes.  Not my area of expertise, but the hardware types usually write it off as "not worth the trouble," like most high-security handle-your-ego parts of any given hab.
 >
 > **Kai**: Spoiler: if you need to get onto the Thistledown discretely, either use the spaceport, use surface access, or, smartest way, dark-cast to Limehouse and then purchase an egocast over the local mesh from any random an-cap with a radio.
 >
@@ -103,13 +103,11 @@ The Comms Consortium is also responsible for maintaing the security of the syste
 >
 > **Gunslinger#MONOLITH**: Or bring a bot and EVA.
 >
-> **Anarcat**: Like that stunt you pulled in, *ah*, the hab with the japanese lanterns.
+> **Anarcat**: Like that stunt you pulled in, *ah*, the hab where squatters had hung japanese lanterns everywhere.
 >
 > **Gunslinger#MONOLITH**: Ha!  Exactly like that.
 
 ### Kainouda Defence
-
-
 
 ## The Thistledown Cooperative
 
@@ -128,6 +126,85 @@ The Cooperative's major holding is Thistledown Cavern, a massive, cylindrical ca
 
 During the Fall, the KDC led the hasty construction of 5 modular habs in orbit of Kainouda 2035; many of those Fall refugees still live there.
 A number of smaller habs have also been built nearby — although out of the volume claimed by the KDC and covered by the asteroid's defences.
+
+## The Carbon Compact
+
+The Carbon Compact a small Extropian habitat in orbit around Kainouda 2035.
+It is held by a single cooperative, and is run using a using a unique economic and political system intended to use market dynamics to make political decisions.
+Much like a Mutualist cooperative, the habitat, its major infrastructure, and many of its held resources are collectively owned, but "loaned" to members for productive use; their productive output is then exchanged in an open market.
+However, their political system is also market-based: much as individuals are given a fixed ammount disbursement of a local social money, they are also given a fixed disbursement of *political* currency; individuals can then spend *more* or *less* of their political currency when voting, to have a larger or smaller effect, correlating to how strong their preferences are in a given vote.
+
+> **Anarcat**: God, this frustrates me.
+> Some people call these kinds of habs "utilitarians," like that's a political faction.
+> Utilitarianism isn't a political or economic system, and its definitely not a faction.
+> Anyone can be a utilitarian; I, for example, am a utilitarian *Titanian*, and I live on a *Mutualist* habitat.
+>
+> **Gunslinger#MONOLITH**: Tip your fedora more.
+
+### The Habitat
+
+The Carbon Compact is a small Cole-bubble habitat, made from a small C-type asteroid (hence the "carbon" part of the name) that was towed into orbit around the Thistledown.
+The Compact is only 245m in diameter, and is spun to a third of a G at the equator — roughly Martian surface gravity.
+
+> **Anarcat**: If you're the kind of person who often jumps toward or off of spinning habs, that's about 1 RPM even, with an tangential velocity of about 27m/s at the equator.
+
+A environment suitable for baseline humans is maintained in the habitat.
+It's kept at 1atm of pressure, with temperatures running from 5C to 30C based on the time and season.
+A day-night cycle is maintained, as is a seasonal cycle (with an eight month "year").
+The habitat is sealed, without window-strips, and uses a plasma-tube for lighting.
+It includes a number of *wind breaks* and a few large dividers, in order to break up "rolling storms."
+
+### Extropian System
+
+Their particular Extropian scheme uses collective ownership much like a Mutualist cooperative.
+The Carbon Compact owns the habitat, its infrastructure, its major productive capitol, and its resource stores.
+The Compact uses a social-money scheme: every member gets an equal pay-out of their social currency, the Carbon Credit.
+The Carbon Credit can then be used to bid for access to raw materials and productive equipment, or to purchase goods that other members produce.
+
+At any given time, some resources are banked, some are disbursed to citizens, some are auctioned off for local use, and some are auctioned for export; only goods made for export-marked resources can be priced in credits or sold to outsiders.
+
+Unusually, their political system is also market-based.
+Rather than granting each member one vote in each election, each member is granted an equal amount of their political currency, the Carbon Voice, every three months; they can then spend that currency in elections.
+Spending more Voice allows someone to have a greater impact on an election.
+The theory is that this allows for a more expressive political system, that captures the fact that any given issue will be more important to some people than to others.
+In order to also represent the fact that some people may not care very much about governance at all, members are allowed to sell up to a quarter of their Voice in for other members Credits.
+
+> **Gunslinger#MONOLITH**: That seems like a very bad idea.
+>
+> **Minerva**: It is like Sam Harris fans took a poly-sci introductory course while very high.
+>
+> **Apotheotician**: It works out about like you'd think.
+> 
+> **Gunslinger#MONOLITH**: Specifically letting people sell their votes, though.
+> That's a *very* bad idea.
+> What stops me from showing up with a sack of credits, buying everyone's spare votes, and then electing myself King of Carbon Mountain?
+>
+> **Anarcat**: you're too subby to be a king?
+>
+> [@Anarcat has received a warning.]
+
+### Society
+
+The habitat has a permanent population of about eight and a half thousand; it can host up to roughly four thousand temporary residents, consisting of students, visiting scholars, and vacationers.
+
+The asteroid has two major industries: Kainouda Area Independant University, together with a handful of satelite labs; and a system of resourts covering half of the "equatorial strip" of the hab.
+KAIU is well-reguarded (maintaining a solid R-rep), and boasts particularly strong industrial engineering and economics programs.
+It is notable for being connected to both the Kainouda Area Research Corporation (which focuses on industrial engineering) and the Carbon Institute (an economics think-tank).
+The hab also hosts a number of resorts, including the Carbon Cove, a community sprawling over 230m of the equator, modelled (loosely) on the Greek mediterranean.
+
+> **Apotheotician**: And now you know why they have rules for efficiently selling stuff to outsiders.
+> 
+> **Gunslinger#MONOLITH**: Holy fuck Minerva was right about these people.
+>
+> **Minerva**: Thank you, @Gunslinger.
+>
+> **Kai**: I think I'd start killing people if I had to stay at that resort.
+>
+> **Gunslinger#MONOLITH**: Run by utilitarians, based on the "Greek mediterranean."  "Loosely!"
+>
+> **Anarcat**: I think you two are going a little overboard.
+
+The locals have a conservationist bent and a long-term view; they emphasize sustainability over growth, and tend to draw lightly on their resources.
 
 # The Old Text I'm Slicing From
 
