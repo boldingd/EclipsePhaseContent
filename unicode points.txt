@@ -1,3 +1,4 @@
 https://en.wikipedia.org/wiki/Dash
 endash – 
 emdash —
+ellipses …
