@@ -10,7 +10,7 @@ He plays fast and loose with the rules, and recently caused a minor political cr
 
 **RategoryTheory**
 
-### Gunslinger#MONOLITH
+### Gunslinger\#MONOLITH
 
 ### Plasmage
 
