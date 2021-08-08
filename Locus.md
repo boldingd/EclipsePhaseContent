@@ -269,7 +269,7 @@ Sometimes this works well, but it can also have all the problems you'd expect it
 >
 > **Bauble**: Nǐ xīn kǔ le!
 >
-> **anarcat**: oof.
+> **curé**: ahem.
 
 If you're in the Locus Federation, you can ask them to intervene.
 They do, in fact, have a Justice working-group; basically, they review the situation and assign penalties as appropriate.
@@ -279,13 +279,16 @@ There's a catch here, though, and it's a big one.
 Notice that the worst thing that happens is that your account gets locked and you're on your own; that also means that the worst thing that happens *if your neighbor takes revenge on you* is that their account gets locked or they're on their own.
 So, basically, the *real* worst-case scenario is that the person you victimize gets a few of their friends together and they come after you with their torturer's tools.
 
-> **Bauble**: Ratty's screaming at her screen.
+> **Bauble**: As our cell's local Scum, I'd like to stick up for the direct approach.
+> We do "justice" more-or-less the same way: people make enough enemies, and then something bad happens to them.
+> They either learn from the experience, or they decide to move on.
+> It works pretty well, as long as everyone involved knows how its going to work before-hand.
 >
-> **curé**: I'm not out of post-bans.
+> **anarcat**: Some of us might prefer a system with some guard-rails.
 >
-> **Bauble**: Right, sorry.
+> **Bauble**: Well, to each their own.
 
-What that basically means is, sometimes Locus descends into some good old-fashioned blood-feuding.
+This also means that major conflicts can descend into some good old-fashioned blood-feuding.
 This is pretty rare, but it *does* happen.
 There are, in fact, at the time that I write this, three publicly-known ongoing feuds on Locus (there may be more that we simple aren't aware of).
 The oldest one has been going on for nine years — that's right, it started before the Battle of Locus.
