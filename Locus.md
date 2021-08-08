@@ -236,7 +236,7 @@ There isn't a formal system.
 >
 > **\@curé**: No more.
 
-In the other right up, the author just sort of flippantly asserts that crime just kind of doesn't happen among enlightened socialists.
+In the other write-up, the author just sort of flippantly asserts that crime just kind of doesn't happen among enlightened socialists.
 It's true that, in an egalitarian society without poverty, there's certainly *less* crime — there basically are no crimes of poverty or desperation.
 But the basic assertion is still bullshit.
 
@@ -266,6 +266,10 @@ Sometimes this works well, but it can also have all the problems you'd expect it
 >
 > \[\@rategorytheory can no longer post]
 > \[\@Gunslinger can no longer post]
+>
+> **Bauble**: Nǐ xīn kǔ le!
+>
+> **anarcat**: ooph.
 
 If you're in the Locus Federation, you can ask them to intervene.
 They do, in fact, have a Justice working-group; basically, they review the situation and assign penalties as appropriate.
