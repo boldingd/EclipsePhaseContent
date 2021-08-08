@@ -286,7 +286,10 @@ So, basically, the *real* worst-case scenario is that the person you victimize g
 >
 > **anarcat**: Some of us might prefer a system with some guard-rails.
 >
-> **Bauble**: Well, to each their own.
+> **Bauble**: Jiù shì.
+> I guess so, but wouldn't a big stick count as a guardrail?
+>
+> **plasmage**: Depends on where you put it.
 
 This also means that major conflicts can descend into some good old-fashioned blood-feuding.
 This is pretty rare, but it *does* happen.
