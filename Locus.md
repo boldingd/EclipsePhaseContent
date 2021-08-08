@@ -287,7 +287,7 @@ So, basically, the *real* worst-case scenario is that the person you victimize g
 > **anarcat**: Some of us might prefer a system with some guard-rails.
 >
 > **Bauble**: Jiù shì.
-> I guess so, but wouldn't a big stick count as a guardrail?
+> I guess so, but couldn't a big stick count as a guardrail?
 >
 > **plasmage**: Depends on where you put it.
 
