@@ -26,7 +26,7 @@ I mean "granting freedom to the individual," not "an-cap."
 
 Their particular branch of libertarian socialist theory views flexibility as an advantage — basically, it's less a fleshed-out system, as much as it is a set of values and ideals, within which the cooperatives and people in a given area can *work out* their rules as needed.
 (That's my first gripe about the other write-up: they act like Locus doesn't have rules or organization: it does.
-Or, rather, the coops one it do.)
+Or, rather, the coops on it do.)
 
 Some libertarian socialist thinkers envisioned a society structured around federations of worker cooperatives, and that's more-or-less how Locus works.
 The station doesn't have an owner or an administrator, but it *is* dominated by a single, large federation of coops, the Locus Federation; and the federation pretty much structures their social/economic/political system.
@@ -130,7 +130,7 @@ Some of these people may be members of smaller, self-sufficient cooperatives, an
 > **anarcat**: *In theory*, potentially.
 > In practice, *probably* not, both because OSI never signed up to their economic system — they didn't join the Locus Federation — and because in practice you've got to be ready to hack your way past someone's security and deal with how they respond.
 >
-> And actually, your rep matters here, too, because rather someone would actually try to repossess your stuff or not depends on your (and their) social-credit scores.
+> And actually, your rep matters here, too, because whether someone would actually try to repossess your stuff or not depends on your (and their) social-credit scores.
 >
 > **rategorytheory**: So if *in practice* they never actually deal with the hassle of confiscating someone's personal property, *how is this not just Extropianism*?
 >
@@ -143,7 +143,7 @@ Some of these people may be members of smaller, self-sufficient cooperatives, an
 
 Well, what happens if you're a visitor?
 Basically, you have a simple choice; create an account with the Locus Federation and join their social-credit economy, or don't.
-If you create an account, you'll have an ex-cred balance and a social score, and there you go; if you don't, you're on your own, hope you brought your own oxygen.
+If you create an account, you'll have an ex-cred balance and a social score just like everyone else does, and there you go; if you don't, you're on your own, hope you brought your own oxygen.
 
 What happens if you build up a massive ex-cred debt, or otherwise trash your social-credit score?
 Basically, you'll still be entitled to "baseline survival" resources — remember, every account periodically gets some Baseline Resource Credits.
@@ -224,7 +224,8 @@ There isn't a formal system.
 
 > **rategorytheory**: **What?**
 >
-> **Bauble**: *Jesus christ* give it a rest.
+> **Bauble**: *Zhēn tǎo yàn!*
+> Give it a rest.
 >
 > **Gunslinger\#MONOLITH**: That's right, if we were on Locus, no-one would stop me from spacing you.
 > Truly, an enlightened society.
