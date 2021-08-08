@@ -290,6 +290,17 @@ So, basically, the *real* worst-case scenario is that the person you victimize g
 > I guess so, but couldn't a big stick count as a guardrail?
 >
 > **plasmage**: Depends on where you put it.
+>
+> **Bauble**: Behind the knee!
+> Apply pressure to the shin!
+>
+> **curé**: Osti de crisse, remind me why I have you two sociopaths in my cell?
+>
+> **plasmage**: Better to have the bear in the tent spitting out…
+> 
+> **Bauble**: Because these kinds of things tend to come up on ops?
+>
+> **curé**: Yeah, that'd be it.
 
 This also means that major conflicts can descend into some good old-fashioned blood-feuding.
 This is pretty rare, but it *does* happen.
