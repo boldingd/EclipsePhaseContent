@@ -269,7 +269,7 @@ Sometimes this works well, but it can also have all the problems you'd expect it
 >
 > **Bauble**: Nǐ xīn kǔ le!
 >
-> **anarcat**: ooph.
+> **anarcat**: oof.
 
 If you're in the Locus Federation, you can ask them to intervene.
 They do, in fact, have a Justice working-group; basically, they review the situation and assign penalties as appropriate.
