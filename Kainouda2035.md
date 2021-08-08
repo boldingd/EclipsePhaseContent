@@ -140,6 +140,8 @@ However, their political system is also market-based: much as individuals are gi
 > Anyone can be a utilitarian; I, for example, am a utilitarian *Titanian*, and I live on a *Mutualist* habitat.
 >
 > **Gunslinger#MONOLITH**: Tip your fedora more.
+>
+> **Anarcat**: Only if you get basic terminology right.
 
 ### The Habitat
 
@@ -187,8 +189,8 @@ In order to also represent the fact that some people may not care very much abou
 
 The habitat has a permanent population of about eight and a half thousand; it can host up to roughly four thousand temporary residents, consisting of students, visiting scholars, and vacationers.
 
-The asteroid has two major industries: Kainouda Area Independant University, together with a handful of satelite labs; and a system of resourts covering half of the "equatorial strip" of the hab.
-KAIU is well-reguarded (maintaining a solid R-rep), and boasts particularly strong industrial engineering and economics programs.
+The asteroid has two major industries: Kainouda Area Independent University, together with a handful of satellite labs; and a system of resorts covering half of the "equatorial strip" of the hab.
+KAIU is well-regarded (maintaining a solid R-rep), and boasts particularly strong industrial engineering and economics programs.
 It is notable for being connected to both the Kainouda Area Research Corporation (which focuses on industrial engineering) and the Carbon Institute (an economics think-tank).
 The hab also hosts a number of resorts, including the Carbon Cove, a community sprawling over 230m of the equator, modelled (loosely) on the Greek mediterranean.
 
