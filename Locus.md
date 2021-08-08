@@ -76,7 +76,7 @@ This has an effect *kind of* like a minimum income.
 >
 > **bauble**: Which is so unsurprising that it almost didn't need to be said!
 >
-> **\@curé**: All right, you two.
+> **curé**: All right, you two.
 > I'd really like it if I didn't have to mod my *own* sentinels.
 
 What your ex-cred balance *does* do is get factored into your social credit score, which the Locus Federation also maintains.
@@ -206,7 +206,7 @@ I'll let the reader decide how they feel about that.
 >
 > **Minerva**: \@curé, given that you are yourself and Extropian Mutualist, you should consider the way that your prejudices, and your association with \@anarcat, may impact your moderation decisions.
 >
-> **\@curé**: And you really need to learn to drop it when a router says to drop it.
+> **curé**: And you really need to learn to drop it when the channel mod says to drop it.
 
 So, up to a point, it depends on how much value you put on hard egalitarianism, or having a society where it's incredibly hard to become either phenomenally rich or desperately poor.
 
@@ -234,7 +234,7 @@ There isn't a formal system.
 > \[\@Bauble received a warning]
 > \[\@Gunslinger received a warning]
 >
-> **\@curé**: No more.
+> **curé**: No more.
 
 In the other write-up, the author just sort of flippantly asserts that crime just kind of doesn't happen among enlightened socialists.
 It's true that, in an egalitarian society without poverty, there's certainly *less* crime — there basically are no crimes of poverty or desperation.
@@ -264,8 +264,8 @@ Sometimes this works well, but it can also have all the problems you'd expect it
 >
 > **Gunslinger\#MONOLITH**: Fucking good, we'd re-invent money just to pay you to fuck off.
 >
-> \[\@rategorytheory can no longer post]
-> \[\@Gunslinger can no longer post]
+> \[\@rategorytheory has temporarily been muted]
+> \[\@Gunslinger has temporarily been muted]
 >
 > **Bauble**: Nǐ xīn kǔ le!
 >
@@ -345,7 +345,7 @@ Now, many Locis would tell you that, overall, crime and violence in their societ
 Some would also argue that their system, all things considered, still stacks up pretty well against the Martian or Jovian justice systems — and you know, I've never met someone outside the J.R. with a real positive view of *their* justice system, either.
 Some Locis even take it as a point of pride — "have no fear sending your egocast to me, because if I fork-nap you and my neighbors find out, they'll pop my stack with a rusty spoon," to paraphrase one of the old Firewall guides.
 
-Personally, I think that's *insane*.
+Personally, I'm not convinced.
 But then again, I don't live on Locus.
 
 ## Society
