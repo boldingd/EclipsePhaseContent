@@ -26,9 +26,9 @@ As the mutualists communities grew in size and influence, some an-caps began to 
 > **Anarcat**: I mean, there is a meaningful difference; mutualists use social-ownership schemes that "proper" an-caps don't.
 
 In BF 11, the Thistledown Cooperative began the design and planning for a large central cavern, and for spinning the asteroid for centrigrav.
-This became a contentious issue in Kainouda politics, and drove tenstions between the Thistledown Cooperative and other communities even higher.
-Over the early months of BF 10, there where sporadic instances of violence targetting mutualists and mutualist communities.
-However, highly agrieved an-caps failed to recruit many of their fellow an-caps or produced large-scale resistance; in the late months of BF 10 and the early months of BF 9, there was an exodus of "resistance" an-caps, leaving the Thistledown Cooperative in control of more than half of Kainouda 2035.
+This became a contentious issue in Kainouda politics, and drove tensions between the Thistledown Cooperative and other communities even higher.
+Over the early months of BF 10, there where sporadic instances of violence targeting mutualists and mutualist communities.
+However, highly aggrieved an-caps failed to recruit many of their fellow an-caps or produced large-scale resistance; in the late months of BF 10 and the early months of BF 9, there was an exodus of "resistance" an-caps, leaving the Thistledown Cooperative in control of more than half of Kainouda 2035.
 
 > **Apotheotician**: This was bad times, but it could've been a lot worse.
 > Credit to our an-cap neighbors, most of them where fine with the Cooperative, so the violent anti-mutualists failed to recruit and couldn't get a lot of support.
@@ -52,19 +52,19 @@ Technically, the KDC still owns the asteroid, and is still the forum under which
 The initial development was done along Extropian anarcho-capitalist lines, much in the same way that the *Extropy Now!* corporation began the development of Extropia.
 KDC purchased the asteroid, and then sold the development rights to tracts of it along anarcho-capitalist lines; the terms of these agreements required that residents defer to the KDC Forum for certain whole-asteroid concerns – notably including defense – but otherwise left purchasers at complete liberty as to how they used their property.
 
-The KDC Forum was where the controversial decision to spin the asteroid for gravity was hashed out; the KDC also maintains the asteroid's defences, as well as a few notable pieces of infrastructure (including the Kainouda Long-Range Communication and Egocasting Consortium, and several surface solar installations).
+The KDC Forum was where the controversial decision to spin the asteroid for gravity was hashed out; the KDC also maintains the asteroid's defenses, as well as a few notable pieces of infrastructure (including the Kainouda Long-Range Communication and Egocasting Consortium, and several surface solar installations).
 
 In true Extropian fashion, the original purchasers of the asteroid wanted the KDC to have as small a role as it possibly could, preferring that residents rely as much as possible on private, voluntary contract.
 
 ### Long-Range Communications
 
 The KDC manages the Kainouda Long-Range Communications and Egocasting Consortium — much more commonly called the "Comms Consortium," understandably.
-Originally, communication was handled by two an-cap microcorps, the larger of which owned two communications sattelites, and the smaller of which owned a third.
-Both sattelites orbit between 151km and 153km from the asteroid; they use high-bandwidth microwave and terrahertz links to communicate with a network of "ground stations" on the surface of the asteroid.
-The ground stations are attached to each other and to terminals deep within the rock by high-speed superconducing and fiber links.
+Originally, communication was handled by two an-cap microcorps, the larger of which owned two communications satellites, and the smaller of which owned a third.
+Both satellites orbit between 151km and 153km from the asteroid; they use high-bandwidth microwave and terahertz links to communicate with a network of "ground stations" on the surface of the asteroid.
+The ground stations are attached to each other and to terminals deep within the rock by high-speed superconducting and fiber links.
 The network of "ground stations" where shared between the two microcorps and jointly maintained.
-In BF 11, Experia opened a terminal on the asteroid, and also put a sattelite in orbit; building a parallel network of ground-stations proved impractical, so they joined the "consortium" to share and maintain the ground station network.
-In BF 5, Experia launched a second sattelite; in BF 3, the Thistledown Cooperative launched a sattelite of their own, and joined the ground-station consortium.
+In BF 11, Experia opened a terminal on the asteroid, and also put a satellite in orbit; building a parallel network of ground-stations proved impractical, so they joined the "consortium" to share and maintain the ground station network.
+In BF 5, Experia launched a second satellite; in BF 3, the Thistledown Cooperative launched a satellite of their own, and joined the ground-station consortium.
 In BF 2, a special contract was established between the ground-station consortium and the KDC — because the ground-station network represented a vital piece of shared infrastructure.
 
 > **Gunslinger#MONOLITH**: Ah yes, the efficiency of capitalism.
@@ -73,21 +73,21 @@ In BF 2, a special contract was established between the ground-station consortiu
 >
 > **RategoryTheory**: Don't take the bait.
 >
-> **Kai**: He's from Mars, he may mean "why are you launching sattelites and having them fire microwaves at ground-stations when you're on an asteroid."
+> **Bauble**: He's from Mars, he may mean "why are you launching satellites and having them fire microwaves at ground-stations when you're on an asteroid."
 >
 > **Anarcat**: That's actually a pretty common scheme.  Orbital velocity for the asteroid is *very* slow — much slower than the angular velocity at the surface, because it's spun for gravity.  And if you're 150km away, the asteroid takes up a much smaller slice of the sky, instead of blocking off half of it like if you where on the surface.  So it ends up being a lot easier to aim at whatever part of the sky you need to.
 >
-> **Kai**: It's also easy to expand, you just launch another sattelite.
+> **Bauble**: It's also easy to expand, you just launch another satellite.
 > 
 > **Anarcat**: It's easier to build, too.  Remember that the asteroid is spun for gravity; anything you build on the surface will be *hanging off*.  It's a lot easier to hang a small ground-station receiver than it is to hang a large comms spar.
 >
-> **Gunslinger#MONOLITH**: Jesus.  I *meant* how you need six sattelites, because you people can't share.
+> **Gunslinger#MONOLITH**: Jesus.  I *meant* how you need six satellites, because you people can't share.
 >
 > **Apotheotician**: Actually, they do share, and we actually do need all that capacity.  Pick a 48 hour window and we'll probably hit 85% utilization at some point.  Pick a five-day window and we'll probably exceed our total cap.
 
-The Comms Consortium manages the maintenance and sharing of the ground-station and cabling; it also manages a bandwidth-sharing arrangement between the various sattelites.
+The Comms Consortium manages the maintenance and sharing of the ground-station and cabling; it also manages a bandwidth-sharing arrangement between the various satellites.
 The bandwidth-sharing arrangement uses a "peering model" — basically meaning that they share equitably as-required, rather than paying each other for capacity.
-The Comms Consortium is also responsible for maintaing the security of the system: the microwave and hard-line links all use quantum encryption, which needs to be coordinated between the system's different users.
+The Comms Consortium is also responsible for maintaining the security of the system: the microwave and hard-line links all use quantum encryption, which needs to be coordinated between the system's different users.
 
 > **Apotheotician**: See?  Equitable, efficient sharing.  Which is kind of a problem if you're a Sentinel, because you can't guarantee your ego won't travel over Experia hardware at some point — if you're the kind of person where that would be problem, for example.
 >
@@ -95,19 +95,19 @@ The Comms Consortium is also responsible for maintaing the security of the syste
 >
 > **Apotheotician**: Oh, yes.  Not my area of expertise, but the hardware types usually write it off as "not worth the trouble," like most high-security handle-your-ego parts of any given hab.
 >
-> **Kai**: Spoiler: if you need to get onto the Thistledown discretely, either use the spaceport, use surface access, or, smartest way, dark-cast to Limehouse and then purchase an egocast over the local mesh from any random an-cap with a radio.
+> **Bauble**: Spoiler: if you need to get onto the Thistledown discretely, either use the spaceport, use surface access, or, smartest way, dark-cast to Limehouse and then purchase an egocast over the local mesh from any random an-cap with a radio.
 >
 > **GoodNewsHarbinger**: Or bring along some infosec talent that can make some room once you've got local mesh access.
 >
-> **Kai**: Or that, yes.
+> **Bauble**: Or that, yes.
 >
 > **Gunslinger#MONOLITH**: Or bring a bot and EVA.
 >
-> **Anarcat**: Like that stunt you pulled in, *ah*, the hab where squatters had hung japanese lanterns everywhere.
+> **anarcat**: Like that stunt you pulled in, *ah*, the hab where squatters had hung Japanese lanterns everywhere.
 >
 > **Gunslinger#MONOLITH**: Ha!  Exactly like that.
 
-### Kainouda Defence
+### Kainouda Defense
 
 ## The Thistledown Cooperative
 
@@ -125,7 +125,7 @@ The Cooperative's major holding is Thistledown Cavern, a massive, cylindrical ca
 ## Near-Orbit Habs
 
 During the Fall, the KDC led the hasty construction of 5 modular habs in orbit of Kainouda 2035; many of those Fall refugees still live there.
-A number of smaller habs have also been built nearby — although out of the volume claimed by the KDC and covered by the asteroid's defences.
+A number of smaller habs have also been built nearby — although out of the volume claimed by the KDC and covered by the asteroid's defenses.
 
 ## The Carbon Compact
 
@@ -134,21 +134,21 @@ It is held by a single cooperative, and is run using a using a unique economic a
 Much like a Mutualist cooperative, the habitat, its major infrastructure, and many of its held resources are collectively owned, but "loaned" to members for productive use; their productive output is then exchanged in an open market.
 However, their political system is also market-based: much as individuals are given a fixed ammount disbursement of a local social money, they are also given a fixed disbursement of *political* currency; individuals can then spend *more* or *less* of their political currency when voting, to have a larger or smaller effect, correlating to how strong their preferences are in a given vote.
 
-> **Anarcat**: God, this frustrates me.
+> **anarcat**: God, this frustrates me.
 > Some people call these kinds of habs "utilitarians," like that's a political faction.
 > Utilitarianism isn't a political or economic system, and its definitely not a faction.
 > Anyone can be a utilitarian; I, for example, am a utilitarian *Titanian*, and I live on a *Mutualist* habitat.
 >
 > **Gunslinger#MONOLITH**: Tip your fedora more.
 >
-> **Anarcat**: Only if you get basic terminology right.
+> **anarcat**: Only if you get basic terminology right.
 
 ### The Habitat
 
 The Carbon Compact is a small Cole-bubble habitat, made from a small C-type asteroid (hence the "carbon" part of the name) that was towed into orbit around the Thistledown.
 The Compact is only 245m in diameter, and is spun to a third of a G at the equator — roughly Martian surface gravity.
 
-> **Anarcat**: If you're the kind of person who often jumps toward or off of spinning habs, that's about 1 RPM even, with an tangential velocity of about 27m/s at the equator.
+> **anarcat**: If you're the kind of person who often jumps toward or off of spinning habs, that's about 1 RPM even, with an tangential velocity of about 27m/s at the equator.
 
 A environment suitable for baseline humans is maintained in the habitat.
 It's kept at 1atm of pressure, with temperatures running from 5C to 30C based on the time and season.
@@ -181,9 +181,9 @@ In order to also represent the fact that some people may not care very much abou
 > That's a *very* bad idea.
 > What stops me from showing up with a sack of credits, buying everyone's spare votes, and then electing myself King of Carbon Mountain?
 >
-> **Anarcat**: you're too subby to be a king?
+> **anarcat**: you're too subby to be a king?
 >
-> [@Anarcat has received a warning.]
+> \[\@anarcat has received a warning.\]
 
 ### Society
 
@@ -192,19 +192,19 @@ The habitat has a permanent population of about eight and a half thousand; it ca
 The asteroid has two major industries: Kainouda Area Independent University, together with a handful of satellite labs; and a system of resorts covering half of the "equatorial strip" of the hab.
 KAIU is well-regarded (maintaining a solid R-rep), and boasts particularly strong industrial engineering and economics programs.
 It is notable for being connected to both the Kainouda Area Research Corporation (which focuses on industrial engineering) and the Carbon Institute (an economics think-tank).
-The hab also hosts a number of resorts, including the Carbon Cove, a community sprawling over 230m of the equator, modelled (loosely) on the Greek mediterranean.
+The hab also hosts a number of resorts, including the Carbon Cove, a community sprawling over 230m of the equator, modelled (loosely) on the Greek Mediterranean.
 
 > **Apotheotician**: And now you know why they have rules for efficiently selling stuff to outsiders.
 > 
 > **Gunslinger#MONOLITH**: Holy fuck Minerva was right about these people.
 >
-> **Minerva**: Thank you, @Gunslinger.
+> **Minerva**: Thank you, \@Gunslinger.
 >
-> **Kai**: I think I'd start killing people if I had to stay at that resort.
+> **Bauble**: I think I'd start killing people if I had to stay at that resort.
 >
-> **Gunslinger#MONOLITH**: Run by utilitarians, based on the "Greek mediterranean."  "Loosely!"
+> **Gunslinger#MONOLITH**: Run by utilitarians, based on the "Greek Mediterranean."  "Loosely!"
 >
-> **Anarcat**: I think you two are going a little overboard.
+> **anarcat**: I think you two are going a little overboard.
 
 The locals have a conservationist bent and a long-term view; they emphasize sustainability over growth, and tend to draw lightly on their resources.
 
