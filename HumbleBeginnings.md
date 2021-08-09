@@ -126,7 +126,7 @@ Most of their habitats sport sufficient automated resource-gathering and industr
 Notably, their particular strict-socialist scheme is not set up to encourage members to be much more productive, since any additional resources or capital they produce would be yielded to the Cooperative to be equitably distributed.
 (In the minds of the founders of the Skyward Collective, at least, this is a feature rather than a bug; they tend to place a high premium on equitable distribution, and to have a dim view of excess and waste.)
 
-While the distinction may be minor, Skywards is technically a command economy, rather than a reputation economy.
+While it may be an academic point, Skywards is technically a command economy, rather than a reputation economy.
 While the Collective does administer a social network and keep reputation scores, these do not primarily determine each individuals resource allocations; rather, each member receives an equal base resource payout, potentially with any resource bumps earned by volunteering for a task from a work-queue.
 Beyond the operations of drones, auto-manufacturies and public fabbing, very little economic activity occurs, and so there is very little economic organization to speak of.
 
@@ -138,4 +138,33 @@ Beyond the operations of drones, auto-manufacturies and public fabbing, very lit
 > **anarcat**: You can really start to see the ways that these folks don't quite line up with the rest of the Autonomist Alliance.
 
 ### Work-Groups, Trustees and the Antisocial
+
+### Expansion
+
+## Habitats
+
+### Égalité
+
+Égalité is the founding hab for the Skyward Collective, and still its single largest member.
+
+Early on, both the founding cooperative and the entire collective movement had the same name, "*Humble Beginnings*."
+During the second year, it was decided allowing the founding hab to share the same name as the whole collective violated the spirit of communist equality; the hab was renamed *Égalité*.
+(Four months after that, it was decided that a slightly more stirring — and more wieldy — name was required for the collective, and it was renamed *Skyward*.)
+
+The hab was originally built by a pre-fall hypercorp in the Jovian Greeks to support mining operations.
+The 540m-radius torus was not an ideal design for so far from the sun, and it was abandoned by its original hypercorp owner in BF 6.
+The station's next occupants arrived barely three years later, aided by contacts in the former hypercorp owner's administration; importantly, this group had formed around a core of anarchist-communist theorists and activists.
+
+Infugee influx during the fall dramatically expanded their population; during and after the Fall, integrating and indoctrinating the new arrivals was a primary concern.
+The stations activist founders watched on with concern as the Hypercorp Consortium set about combing through stored infugee egos, sleeving them, and integrating them; concern for the Hypercorp Consortium's growing population led the occupants to launch an initiative to similarly grow the Autonomists' ranks with infugees, and this the Skyward Collective was born.
+
+Égalité remains the largest and most populous of the Skyward Collective's habs.
+Égalité is a torus hab with a radius of 544m, a rim-width of 89m, and a rim-height of 73m; it's spun to three-quarters of G, and a human-baseline environment is maintained inside — that is, one atmosphere of pressure, a 24-hour day/night cycle, a temperature between 14C and 27C, and a year-long seasonal cycle.
+It currently has a population of 65,000.
+
+> **anarcat**: Just to save you some headache, that's about 1.1 rpm, and a tangential velocity of 63m/s at the rim.
+>
+> **Bauble**: That population's also on the high-side for a torus that size.
+
+Égalité also retains some of the heavy infrastructure from its former life as a mining outpost; this gives 
 
