@@ -279,7 +279,7 @@ There's a catch here, though, and it's a big one.
 Notice that the worst thing that happens is that your account gets locked and you're on your own; that also means that the worst thing that happens *if your neighbor takes revenge on you* is that their account gets locked or they're on their own.
 So, basically, the *real* worst-case scenario is that the person you victimize gets a few of their friends together and they come after you with their torturer's tools.
 
-> **Bauble**: As our cell's local Scum, I'd like to stick up for the direct approach.
+> **Bauble**: As the local representative of the Scum, I'd like to stick up for the direct approach.
 > We do "justice" more-or-less the same way: people make enough enemies, and then something bad happens to them.
 > They either learn from the experience, or they decide to move on.
 > It works pretty well, as long as everyone involved knows how its going to work before-hand.
@@ -294,9 +294,9 @@ So, basically, the *real* worst-case scenario is that the person you victimize g
 > **Bauble**: Behind the knee!
 > Apply pressure to the shin!
 >
-> **curé**: Osti de crisse, remind me why I have you two sociopaths in my cell?
+> **curé**: Osti de crisse, remind me why I recruited you two?
 >
-> **plasmage**: Better to have the bear in the tent spitting out…
+> **plasmage**: Better to have the bear inside the tent spitting out…
 > 
 > **Bauble**: Because these kinds of things tend to come up on ops?
 >
@@ -373,3 +373,63 @@ And antisocial usages will get you rep hits, and a possible "collective reaction
 ### Unrestricted Technology
 
 And that brings us to probably the last thing I'd like to discuss: unrestricted technology, including but not limited to unrestricted nanofab.
+
+This is one area where I differ with my fellow Extropians: I'm pretty skeptical of unrestricted nanofab.
+I think the reasons why should be fairly obvious to everyone here: if you've been a Sentinel long enough, you've been in a situation where you've produced something with a hacked fabber that's done a lot of damage to someone's infrastructure.
+
+> **plasmage**: I leveled a small mountain on an exoworld!
+>
+> **Gunslinger\#MONOLITH**: I know, I was there!
+>
+> **anarcat**: That's an extreme example, but yes.
+>
+> **Gunslinger\#MONOLITH**: I remember you being pretty enthusiastic at the time.
+>
+> **anarcat**: Difference was, that was an op, and there wasn't any collateral damage.
+>
+> **H0N3**: You didn't have anything to do with that blueprint?
+> Didn't it come from curé?
+>
+> **anarcat**: I mean, that's kind of my *point*: I've helped write blueprints that can turn a fuel tank into a fusion bomb, and I'm telling you that it should probably be a *lot harder* to do that.
+
+So, I'm about to take a very dim view of the unrestricted tech environment on Locus, and I'm going to just go ahead and admit that it's hypocritical coming from an Extropian.
+
+They embrace unrestricted fab on Locus.
+The conservative flanks of the Tharsis League — yes, the part that's also friendly with the hypercorps — like to scare the public with images of public cornucopia machines on Locus listing weapons on the print menu.
+Well, that actually happens.
+Public CMs on Locus will print you an assault rifle as readily as they'll print you a sandwich.
+(Their panopticon means that everyone around you gets an alert that you're printing an assault rifle; I'll let you decide, in light of your own experiences as sentinels, if that's an adequate deterrent.)
+
+And it's not just light personal weapons: public fabbers won't have it on their menus, but seeker launchers, disassembler swarms, and more devilish things can be found on the local mesh — especially if you have a decent social-credit score and know how to work your contacts.
+
+Unrestricted fabrication isn't the only problem.
+There's no real restrictions on technological tinkering or R&D.
+*Boister's Armory* is a good example: blueprints available for… basically anything dangerous, including weapons capable of threatening ships and asteroids!
+
+And There are other coops and individuals poking around other technological avenues.
+People tinkering with bleeding-edge gene-modding, psychosurgical techniques, cognitive designs, nanotech, reactors… all restrained only by "self-policing," rep-hits if you admit to doing something stupid, and the threat of retaliation if you screw up too badly.
+
+I know, "the plural of anecdote isn't data," but just five weeks ago, one coop's hab-module got *digested* by a nanoswarm they where experimenting with.
+Fortunately, the outer hull and seals held, but as far as can be discerned, the swarm at pretty much everything out to the hull; exothermically, too, it was hot in there.
+The module was decoupled and chucked towards the inner system; it'll fall into the sun in something like a year and a half.
+
+*After that*, rumors started to circulate that another coop had gotten hold of this crazy, finely-etched silicate wafer, allegedly recovered form an exo-world.
+People thought it was art, because it shone beautifully when light hit it; but then someone thought that the etchings might actually be some kind of *program*.
+The damned fools started experimenting with different ways to interpret it, and actually tried *running* some of the executable versions!
+They'd already had their systems go black-screen-full-fan *more than once* when *somebody* detonated a bunch of hell-balls in their module, taking care of that problem.
+
+And just for good measure, lest you think that blind hostility is unique to the inner system, just three days ago a vanguardist group managed to obliterate their own module and sever the spar they where attached to while developing new weapons to fight the Consortium.
+
+> **Gunslinger\#MONOLITH**: Fucking tankies still ruining it for everyone.
+>
+> **rategorytheory**: That's a little flippant.
+>
+> **anarcat**: I think Ratty's right.
+> It's not like they didn't have the support of their neighbors, right up until they exploded.
+> Maybe even after.
+>
+> **Gunslinger\#MONOLITH**: If they still have public support even after they exploded, then what's the problem?
+>
+> **anarcat**: *Oof*, man.
+>
+> **plasmage**: Yeah, that's a swing and a miss.
