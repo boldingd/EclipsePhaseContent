@@ -1,14 +1,28 @@
 # The Skyward Collective
 
-The Skyward Collective is a social-anarchist cooperative consisting of a number of allied habitats.
+> **Bauble**: OK, so, our cell had a bit of a run-in with these folk, so \@curé asked me and \@Gunslinger to look into them.
+> For circle-As, they're hard to probe; we'll provide our comments on this write-up, but so far, there's not much we can add.
+>
+> **Gunslinger\#MONOLITH**: These people are weird.
+> They're all AAs, and most of them have good rep.
+> But there's a lot that sets them apart from the rest of the Alliance, and \@Bauble's right, they're hard to get access to.
+
+The Skyward Collective is an anarchist-communist cooperative consisting of a number of allied habitats.
 They're notable for their particular brand of hedonist collective anarchism, for their efforts at building new habitats and morphs, and for their advocacy for experimentation with safe seed AIs and super-intelligences.
 
 > **Gunslinger\#MONOLITH**: 🎵 one of these things is not like the others 🎵
 >
 > **anarcat**: Yeah, I feel like there's definitely going to be one main reason that we're interested in these folk.
+>
+> **Lola**: You're telling me.
 
 It should be noted early that, because of their preference for ad-hoc organization, different Skyward habs can have very different social structures.
 Some habs may have permanent working-groups that others do not; some may have very different lists of allowed nanotechnology; and some even have fundamentally different economic models.
+
+> **Padre**: "Allowed nanotechnology?"
+> Isn't that unusual for circle-A groups?
+>
+> **Bauble**: Yes, and yes.
 
 ## Founding Values
 
@@ -32,36 +46,36 @@ Only conflicts between habitats are subject to votes of the entire Skyward Colle
 Of course, the individual habitats can vary quite a bit in culture, norms, and organization.
 
 Each individual habitat establishes collective ownership of all capital — by a fairly expansive definition that allows little room for personal property.
-Member cooperatives generally opt for low labor requirements over high productive output: they broadly use the same types of automated resource-extraction and minifacturing that other societies use, but they generally don't supplement it with transhuman labor.
-Each member of the cooperative is granted a portion of the resources (feed-stock and energy) produced by the collective, public fabber time to produce their needs and wants, and housing on their habitats; their obligations in turn are minimal (besides surrendering all capital).
-
-Each habitat in the cooperative is administered as an ad-hoc direct-democracy.
-They use on-line polling of the entire hab population to make major decisions, while members form "working groups" to make smaller decisions and tackle ongoing problems.
-They prefer ad-hoc forms of social-organization and decision-making to fixed institutions and rules, creating working-groups as the need arises, and dissolving the working groups when the issue is resolved. 
-In principle, the cooperative attempts to keep formal structures (like the working-groups) to a minimum; in practice, most habitats establish a certain number of permanent working-groups, with set internal structure, to tackle important concerns like hab-maintenance or a civil justice.
-
-> **anarcat**: This is one of the potential fault-lines for this society.
-> Despite their best efforts, they've got the seeds for power groups and power-holders — the potential for high-rep members of this-or-that working-group to start treating some-or-other aspect of hab maintenance as their own little fiefdom.
->
-> **Babule**: Yeah, I was noticing that.
-> That happens on most Scum swarms — Liú takes responsibility for making things happen when they need to happen, and eventually he ends up "in charge" of those things that he usually makes happen.
-> For us, it's a feature, not a bug — but it sounds like these people would disagree?
->
-> **anarcat**: Yeah, pretty much.
-> Your circle-A cred is better then mine, so do please double-check my work, but as far as I've been able to find, they think that kind of "power-collection" is a Bad Thing.
-
-Absent these two mechanisms, there is no formal government or rule-making: individuals are free to conduct their affairs as they see fit.
-
-Obviously, not all tasks can be taken care of by automation: volunteers are rewarded with a slight bump in resource allocation and fabber priority queues.
-When not enough qualified volunteers can be recruited, individuals can be obligated to service; however, the community tends to avoid obligating members to service, so they keep their labor requirements to an absolute minimum.
+The output of productive capital is equally distributed by the collective itself; neither currency nor markets are used.
+Most systems are automated; where intelligent labor is required, volunteers are typically sought, and reward with resource-allocation bumps.
+When required, the Cooperative can compel service; broadly, they can set labor requirements, assign tasks by lottery, or "draft" individuals with unique and necessary skills.
 
 > **rategorytheory**: Who decides what tasks get what resource payouts?
 >
 > **Gunslinger\#MONOLITH**: Himmel, Arsch, und Zwirn!
 > Capitalism's ruined you.
 >
-> **anarcat**: It actually varies, hab-to-hab; most often, its a mix of work-groups and public voting.
-> *Égalité* has a bunch of work-groups responsible for different areas of the station, and they publish task lists.
+> **Bauble**: Usually it's a task-setting working group, sometimes it's a public vote.
+> *Égalité* has a bunch of work-groups responsible for different parts of the hab, for example, and they publish task lists.
+
+Member cooperatives generally opt for low labor requirements over high productive output: they broadly use the same types of automated resource-extraction and minifacturing that other societies use, but they generally don't supplement it with transhuman labor.
+Each member of the cooperative is granted a portion of the resources (feed-stock and energy) produced by the collective, public fabber time to produce their needs and wants, and housing on their habitats; their obligations in turn are minimal (besides surrendering all capital).
+
+Each habitat in the cooperative is administered as an ad-hoc direct-democracy.
+They use on-line polling of the entire hab population to make major decisions, while members form "working groups" to make smaller decisions and tackle ongoing tasks and problems.
+They prefer ad-hoc forms of social-organization and decision-making to fixed institutions and rules, creating working-groups as the need arises, and dissolving them when the issue is resolved. 
+In principle, the cooperative attempts to keep the number and duration of working-groups to a minimum; in practice, most habitats establish a certain number of permanent working-groups, with set internal structure, to tackle important concerns like hab-maintenance or civil justice.
+
+> **anarcat**: This is one of the potential fault-lines for this society.
+> Despite their best efforts, they've got the seeds for power groups and power-holders — the potential for high-rep members of this-or-that working-group to start treating some-or-other aspect of hab maintenance as their own little fiefdom.
+>
+> **Bauble**: Yeah, I was noticing that.
+> That happens on most Scum swarms — Liú takes responsibility for making things happen when they need to happen, and eventually he ends up "in charge" of those things that he usually makes happen.
+> For us, it's a feature, not a bug — but these people disagree.
+>
+> **Gunslinger\#MONOLITH**: Yeah, as far as I've been able to find, they think that kind of "power-collection" is a Bad Thing.
+
+Absent these two mechanisms, there is no formal government or rule-making: individuals are free to conduct their affairs as they see fit.
 
 Owing largely to their low-to-zero labor expectation, the cooperative tends not to be very productive.
 For comparison, per-capita resource allocations sit between one-half and one-third of the median resources consumed by a citizen of the Titanian Commonwealth, depending somewhat on the specific habitat and time.
