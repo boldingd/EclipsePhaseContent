@@ -9,20 +9,24 @@ Since then, it has come to be dominated by the Thistledown Cooperative, a large 
 > **Apotheotician**: Why thank you.
 > Also, hello; I'm the local they called in for comment.
 
-| Type | "Bear Habitat" (rotating asteroid chamber); beehive; nearby module habs |
+| Type | "Bear Habitat" (chamber in rotating asteroid); beehive; nearby module habs |
 | Faction | Extropian (87%); Hypercorp (8%); Scum (1%) |
 
 Population:
 - Extropian
-  - Thistledown:
+  - Thistledown: 315K
     - Cavern: 230K
     - Hive: 20K
-    - Total: 350K
   - Other Mutualist: 52K
+  - an-caps: 175K
+  - Objectivists: 3K
+  - "Utilitarians": 16K
+- "Minarchist": 6K
+- Hypercorp: 9K
 - Nearby Stations
-  - Infugee Habs: 1250 * 5 or so?
+  - Infugee Habs: 1250 * 5 or so? (6.250K)
   - Carbon Compact: 8.5K + 4K
-- Total: 800,000
+- Total: 600,000
 
 ## History
 
@@ -39,7 +43,7 @@ Many of the rocks anarcho-capitalists came to view this large, powerful faction 
 >
 > **Gunslinger#MONOLITH**: Imagine looking at market-anarchists and being terrified of "socialism".
 >
-> **anarcat**: I mean, we do build social mechanisms into our societies that an-caps don't.
+> **anarcat**: You understand mutualism has a collective-ownership mechanism, right?
 
 In BF 11, the Thistledown Cooperative began the design and planning for a large central cavern, and for spinning the asteroid for centrigrav.
 This became a contentious issue in Kainouda politics, and drove tensions between the Thistledown Cooperative and other communities even higher.
@@ -48,7 +52,7 @@ However, the small violent contingent failed to convince the wider an-cap commun
 This left even more of Kainouda 2035 in the hands of the Thistledown Cooperative.
 
 > **Apotheotician**: These were bad times, but it could've been a lot worse.
-> Credit to our an-cap neighbors, most of whom had no problem with the Cooperative.
+> Credit to our an-cap neighbors; most of them had no problem with the Cooperative.
 
 Ultimately, the Thistledown Chamber was constructed, and the asteroid was spun — around its long axis, producing 0.18G at the "equator" — in BF 8.
 
@@ -57,7 +61,7 @@ In BF 9, the Infinite Loop Consortium, a member of the Planetary Consortium, pur
 
 > **plasmage**: Wait, "Autonomist-friendly hypercorp?"
 >
-> **anarcat**: Yes indeed!
+> **anarcat**: Yup!
 > There aren't a ton of them, but they do exist.
 
 During the Fall, several habs where constructed under the KDC's auspices near the asteroid; these habs where then donated to "cooperatives" that consisted of the infugees and refugees that where settled there.
@@ -76,8 +80,6 @@ KDC purchased the asteroid, divided it into lots, and sold the lots for further 
 The KDC Forum was where the controversial decision to spin the asteroid for gravity was hashed out.
 It also maintains the asteroid's defenses, as well as a few notable pieces of infrastructure (including the Kainouda Long-Range Communication and Egocasting Consortium, and several surface solar installations).
 
-In true Extropian fashion, the original purchasers of the asteroid wanted the KDC to have as small a role as it possibly could, preferring that residents rely as much as possible on private, voluntary contract.
-
 ### Long-Range Communications
 
 The KDC manages the Kainouda Long-Range Communications and Egocasting Consortium — much more commonly called the "Comms Consortium," understandably.
@@ -91,24 +93,32 @@ In BF 2, a special contract was established between the ground-station consortiu
 
 > **Gunslinger#MONOLITH**: Ah yes, the efficiency of capitalism.
 >
-> **Anarcat**: What are you talking about?  Three different political factions are equitably sharing one piece of infrastructure.  What don't you like?
+> **anarcat**: What are you talking about?
+> Three different political factions are equitably sharing one piece of infrastructure.
+> What don't you like?
 >
 > **RategoryTheory**: Don't take the bait.
 >
 > **Bauble**: He's from Mars, he may mean "why are you launching satellites and having them fire microwaves at ground-stations when you're on an asteroid."
 >
-> **Anarcat**: That's actually a pretty common scheme.  Orbital velocity for the asteroid is *very* slow — much slower than the angular velocity at the surface, because it's spun for gravity.  And if you're 150km away, the asteroid takes up a much smaller slice of the sky, instead of blocking off half of it like if you where on the surface.  So it ends up being a lot easier to aim at whatever part of the sky you need to.
+> **Anarcat**: That's actually a pretty common scheme.
+> Orbital velocity for the asteroid is *very* slow — much slower than the angular velocity at the surface, because it's spun for gravity.
+> And if you're 150km away, the asteroid takes up a much smaller slice of the sky, instead of blocking off half of it like if you where on the surface.
+> So it ends up being a lot easier to aim at whatever part of the sky you need to.
 >
 > **Bauble**: It's also easy to expand, you just launch another satellite.
 > 
-> **Anarcat**: It's easier to build, too.  Remember that the asteroid is spun for gravity; anything you build on the surface will be *hanging off*.  It's a lot easier to hang a small ground-station receiver than it is to hang a large comms spar.
+> **Anarcat**: It's easier to build, too.
+> Remember that the asteroid is spun for gravity; anything you build on the surface will be *hanging off*.
+> It's a lot easier to hang a small ground-station receiver than it is to hang a large comms spar.
 >
-> **Gunslinger#MONOLITH**: Jesus.  I *meant* how you need six satellites, because you people can't share.
+> **Gunslinger#MONOLITH**: Jesus.
+> I *meant* how you need six satellites, because you people can't share.
 >
 > **Apotheotician**: Actually, they do share, and we actually do need all that capacity.  Pick a 48 hour window and we'll probably hit 85% utilization at some point.  Pick a five-day window and we'll probably exceed our total cap.
 
 The Comms Consortium manages the maintenance and sharing of the ground-station and cabling; it also manages a bandwidth-sharing arrangement between the various satellites.
-The bandwidth-sharing arrangement uses a "peering model" — basically meaning that they share equitably as-required, rather than paying each other for capacity.
+The bandwidth-sharing arrangement uses a peering model — basically, they share capacity as required, rather than paying each other for capacity.
 The Comms Consortium is also responsible for maintaining the security of the system: the microwave and hard-line links all use quantum encryption, which needs to be coordinated between the system's different users.
 
 > **Apotheotician**: See?  Equitable, efficient sharing.  Which is kind of a problem if you're a Sentinel, because you can't guarantee your ego won't travel over Experia hardware at some point — if you're the kind of person where that would be problem, for example.
@@ -151,8 +161,8 @@ The community banks and the cooperative itself are the only institutions allowed
 >
 > So, you guys went to a lot of trouble to re-invent market-anarchist taxes?
 >
-> **anarcat**: A bit snide, but you're not really wrong.
-> The intent is to create a social-distribution system that can run without a state (which might become an oppressive power center).
+> **anarcat**: I mean, kind of.
+> The intent is to create a social-distribution system that can run without a state.
 >
 > **RategoryTheory**: I mean, yes, obviously, but this doesn't strike you as inefficient?
 > Or a maybe seem like wasted effort, given that they wound up with "basically a state" anyway?
@@ -163,9 +173,7 @@ The community banks and the cooperative itself are the only institutions allowed
 >
 > **Bauble**: Spoiler: it's the socialist part she doesn't like.
 >
-> **Gunslinger#MONOLITH**: I repeat: imagine looking at market-anarchists and saying "that's too socialist."
-
-
+> **Gunslinger#MONOLITH**: I repeat: imagine looking at market-anarchists and saying "too socialist."
 
 ## Other Extropians
 
@@ -205,7 +213,7 @@ The Compact is only 245m in diameter, and is spun to a third of a G at the equat
 
 A environment suitable for baseline humans is maintained in the habitat.
 It's kept at 1atm of pressure, with temperatures running from 5C to 30C based on the time and season.
-A day-night cycle is maintained, as is a seasonal cycle (with an eight month "year").
+A day-night cycle is maintained (with a 24-hour day), as is a seasonal cycle (with an eight month "year").
 The habitat is sealed, without window-strips, and uses a plasma-tube for lighting.
 It includes a number of *wind breaks* and a few large dividers, in order to break up "rolling storms."
 
@@ -216,13 +224,14 @@ The Carbon Compact owns the habitat, its infrastructure, its major productive ca
 The Compact uses a social-money scheme: every member gets an equal pay-out of their social currency, the Carbon Credit.
 The Carbon Credit can then be used to bid for access to raw materials and productive equipment, or to purchase goods that other members produce.
 
-At any given time, some resources are banked, some are disbursed to citizens, some are auctioned off for local use, and some are auctioned for export; only goods made for export-marked resources can be priced in credits or sold to outsiders.
+At any given time, some resources are banked, some are disbursed to citizens, some are auctioned off for local use, and some are auctioned for export; only goods made from export-marked resources can be priced in credits or sold to outsiders.
 
 Unusually, their political system is also market-based.
-Rather than granting each member one vote in each election, each member is granted an equal amount of their political currency, the Carbon Voice, every three months; they can then spend that currency in elections.
-Spending more Voice allows someone to have a greater impact on an election.
+Rather than granting each member one vote in each poll, each member is granted an equal amount of their political currency, the Carbon Voice, every three months; they can then spend that currency in elections.
+Spending more Voice allows someone to have a greater impact on a particular vote.
 The theory is that this allows for a more expressive political system, that captures the fact that any given issue will be more important to some people than to others.
-In order to also represent the fact that some people may not care very much about governance at all, members are allowed to sell up to a quarter of their Voice in for other members Credits.
+In order to also represent the fact that some people may not care very much about governance at all, members are allowed to sell up to a quarter of their Voice to other members for Carbon Credits.
+(Notably, purchased Voice cannot be used on certain issues or for certain major decisions.)
 
 > **Gunslinger#MONOLITH**: That seems like a very bad idea.
 >
@@ -255,7 +264,8 @@ The hab also hosts a number of resorts, including the Carbon Cove, a community s
 >
 > **Bauble**: I think I'd start killing people if I had to stay at that resort.
 >
-> **Gunslinger#MONOLITH**: Run by utilitarians, based on the "Greek Mediterranean."  "Loosely!"
+> **Gunslinger#MONOLITH**: Run by utilitarians, based on the "Greek Mediterranean."
+> "Loosely!"
 >
 > **anarcat**: I think you two are going a little overboard.
 
