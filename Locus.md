@@ -25,22 +25,22 @@ Here it means "granting freedom to the individual" more generally, not "an-cap."
 
 Their particular branch of libertarian socialist theory views flexibility as an advantage — basically, it's less a fleshed-out system, and more a set of values and ideals, within which the cooperatives and people in a given area can *work out* their rules as needed.
 (That's my first gripe about the other write-up: they act like Locus doesn't have rules or organization: it does.
-Or, rather, the coops on it do.)
+Or, rather, the co-ops on it do.)
 
 The scheme used on Locus descends from a branch of libertarian socialist theory that envisioned a society organized around a stateless web of work worker cooperatives; the station is an attempt to translate that idea into a system that works in a post-industrial modern economy.
-The station doesn't have an owner or an administrator, but it *is* dominated by a single, large federation of coops, the Locus Federation; and the federation pretty much structures their social/economic/political system.
+The station doesn't have an owner or an administrator, but it *is* dominated by a single, large federation of co-ops, the Locus Federation; and the federation pretty much structures their social/economic/political system.
 And it does have rules.
 
 Also, worth noting is that no-one owns the station itself.
-The spars and cross-beams that make up the station, along with the rocks in the orbital neighborhood, are regarded as a commons — something owned by no-one, to be administered by the coops using and occupying it for the general benefit of everyone living there.
+The spars and cross-beams that make up the station, along with the rocks in the orbital neighborhood, are regarded as a commons — something owned by no-one, to be administered by the co-ops using and occupying it for the general benefit of everyone living there.
 
 ## The Locus Cooperative
 
-Most of the population of Locus — a hair over 90% — are members of (coops that are members of) the Locus Federation.
+Most of the population of Locus — a hair over 90% — are members of (co-ops that are members of) the Locus Federation.
 The Federation is made up of worker co-ops, individuals, and smaller groups of the previous two.
 The Federation isn't a government; it's a league of equals, and it pretty much exists just to maintain the social-credit economy.
 
-At it's top level, its centered around the Locus Federation Exchanges, markets where the members (individuals and coops) exchange goods and products.
+At it's top level, its centered around the Locus Federation Exchanges, markets where the members (individuals and co-ops) exchange goods and products.
 These exchanges are mediated by a local social-money, the Locus Federation Exchange Credit; most people call these ex-cred.
 
 > **rategorytheory**: Wait… you're telling me that these sanctimonious "to each according to their needs" pricks have a *capital market* at the center of their economy?
@@ -51,7 +51,7 @@ These exchanges are mediated by a local social-money, the Locus Federation Excha
 > It turns out there's really only a few ways to coordinate an economy, *especially* if you also reject the idea of a state.
 > But you might want to wait a bit before you start declaring ideological victory.
 
-While members and coops have ex-cred balances, those don't actually determine what you can acquire; your current social score does that.
+While members and co-ops have ex-cred balances, those don't actually determine what you can acquire; your current social score does that.
 So, let's say I want to buy a piece of artwork that has a price of 80 ex-cred, but my current ex-cred balance is 5; what happens?
 Well, the seller probably looks at my social credit score; if they like my history, and if my score is good, I get the sculpture; my ex-cred balance gets debited, and theirs gets credited.
 My ex-cred balance just goes negative, and that's that — having a negative ex-cred balance doesn't do anything on its own.
@@ -91,10 +91,10 @@ And they've also taken special care to make sure everyone can get food.
 ### Outsiders, Corner Cases, and FAQs
 
 So, the Locus Federation runs all this, through the Locus Federation Exchange, their ex-creds, and the social-network score they give you.
-But what happens if you're not a member of the Federation (or a member of a coop that is)?
+But what happens if you're not a member of the Federation (or a member of a co-op that is)?
 
 Basically, you're completely outside the system, and on your own.
-Individuals and coops may help you, or they may not; assume not.
+Individuals and co-ops may help you, or they may not; assume not.
 Community makers will also ignore you, and you won't be able to draw resources.
 
 On the up-side, though, joining the Federation is easy; basically, you just access their mesh and create an account in their system.
@@ -159,8 +159,8 @@ If you create an account, you'll have an ex-cred balance and a social score just
 What happens if you build up a massive ex-cred debt, or otherwise trash your social-credit score?
 Basically, you'll still be entitled to "baseline survival" resources — remember, every account periodically gets some Baseline Resource Credits.
 But, after that, you're on your own; most people will shun you, and you'll get cycled to the back of basically every resource queue.
-(Remember, the Locus Federation is a web of worker coops.
-Basically anything you get is coming from one of those coops, and they're not going to give you a damned thing if your social credit score is crazy negative.)
+(Remember, the Locus Federation is a web of worker co-ops.
+Basically anything you get is coming from one of those co-ops, and they're not going to give you a damned thing if your social credit score is crazy negative.)
 Eventually, in theory, either you'll stop being an antisocial element, or you'll learn to enjoy living off gruel.
 Or leave.
 
@@ -235,7 +235,7 @@ So "social-climber" types tend to have much better social-credit scores than oth
 > Their system does include mechanisms to compensate for that, but they're not effective enough.
 > That also leads to another problem: they assume they can cleanly separate "people with psychological conditions who need reasonable accommodation and support" from "bad people who are just jerks," and it turns out that it's frequently not that simple.
 >
-> And actually, owning stuff does still matter; because it's a web of coops and coops can own modules, there are still people on Locus who can just kind of damn their rep score and do what they want, because they own their own module or their coop is doing something vital like running a fusion power source.
+> And actually, owning stuff does still matter; because it's a web of co-ops and co-ops can own modules, there are still people on Locus who can just kind of damn their rep score and do what they want, because they own their own module or their co-op is doing something vital like running a fusion power source.
 >
 > I don't mean to condemn Locus too much; I'd still rather live on Locus than anywhere in the Jovian Republic, for example.
 > But it's important to have a *realistic* assessment of this society, one that includes its flaws and drawbacks.
@@ -274,7 +274,7 @@ So "social-climber" types tend to have much better social-credit scores than oth
 > Capturing rocks is tough.
 > Sometimes you don't have good candidates or you dig into them and they don't have the carbon you need; it happens to Extropians and Hypercorps, too.
 >
-> **anarcat**: Except that was preventable; problem wasn't they couldn't find the rocks, problem was that the whaling coops hadn't been whaling.
+> **anarcat**: Except that was preventable; problem wasn't they couldn't find the rocks, problem was that the whaling co-ops hadn't been whaling.
 > And also, you're missing the point: they starved the *unpopular*.
 
 ## Justice
@@ -288,7 +288,7 @@ Here, in my opinion, is where things start to go bad.
 
 I said before that the Locus Federation isn't a government, it's mainly just there to run the economy, right?
 That means that, among other things, the Federation doesn't have a criminal justice system.
-The Locus Federation *can* serve as a forum for dispute resolution, mainly when they involve disputes between coops in the Federation, but that's it; it doesn't have laws, or run a police force, or enforce social order, or have courts, or anything like that.
+The Locus Federation *can* serve as a forum for dispute resolution, mainly when they involve disputes between co-ops in the Federation, but that's it; it doesn't have laws, or run a police force, or enforce social order, or have courts, or anything like that.
 
 So how do law and justice work on Locus?
 Simply put, there isn't a formal system.
@@ -352,7 +352,7 @@ Well, that starts out being between you and your neighbor — again, the occupan
 >
 > **Gunslinger\#MONOLITH**: Depends.
 > For *you*, probably.
-> For people who can get their rep scores above zero, there are a lot of coops that provide medical services, social support, emotional support…
+> For people who can get their rep scores above zero, there are a lot of co-ops that provide medical services, social support, emotional support…
 >
 > **plasmage**: I mean, didn't you just kind of concede her point?
 > If you're unpopular and someone stabs you, too bad.
@@ -368,10 +368,10 @@ Well, that starts out being between you and your neighbor — again, the occupan
 >
 > **anarcat**: Yeah, I think we're all scared.
 
-If you're both members of the same coop, it might get handled by whatever internal procedures that coop has.
-Some coops have very reasonable and sophisticated internal conflict-resolution procedures; some do not.
+If you're both members of the same coop, it might get handled by whatever internal procedures that co-op has.
+Some co-ops have very reasonable and sophisticated internal conflict-resolution procedures; some do not.
 
-Another "middle step" is gathering up a working group — usually consisting of other involved parties, associates, and possibly volunteers from justice-related coops — and appealing to them to resolve the conflict.
+Another "middle step" is gathering up a working group — usually consisting of other involved parties, associates, and possibly volunteers from justice-related co-ops — and appealing to them to resolve the conflict.
 Sometimes this works well, but it can also have all the problems you'd expect it to have — if "twenty random passers-by holding an impromptu court" doesn't sound like the start of an impartial legal system that carefully balances the interests of the victim and the accused, that's because it generally isn't.
 
 > **rategorytheory**: There is no amount you could pay me to get me to set foot on this hab.
@@ -386,16 +386,16 @@ Sometimes this works well, but it can also have all the problems you'd expect it
 > **curé**: ahem.
 >
 > **Padre**: Actually, a question.
-> You mentioned "justice-related coops," but you didn't really go into them.
+> You mentioned "justice-related co-ops," but you didn't really go into them.
 > Isn't that also how Extropian justice works?
 >
 > **anarcat**: Actually, yes.
-> \@Gunslinger and \@Bauble might be better people to ask here, but Locus does have coops that specialize in conflict resolution, arbitration, and victim support.
+> \@Gunslinger and \@Bauble might be better people to ask here, but Locus does have co-ops that specialize in conflict resolution, arbitration, and victim support.
 >
 > They can definitely help, but, like Gunslinger kind of said earlier, they're not always impartial or available.
 > There aren't a lot of them, so they can't cover everything.
 > And they're not always impartial; the low-rep can find themselves at a distinct disadvantage.
-> And you have to actually request them; they're not assigned by the coop (like my mutualist coop does), or built into every contract (like an-caps usually do).
+> And you have to actually request them; they're not assigned by the co-op (like my mutualist co-op does), or built into every contract (like an-caps usually do).
 >
 > **Gunslinger\#MONOLITH**: The Extropian versions provides more "justice" to people who have more ability to pay, so I'll take our version.
 > And concerned-party-groups aren't perfect, but they're a lot less damaging than *cops* are.
@@ -406,7 +406,7 @@ Sometimes this works well, but it can also have all the problems you'd expect it
 If you're in the Locus Federation, you can ask them to intervene.
 They do, in fact, have a Justice working-group; basically, they review the situation and assign penalties as appropriate.
 These can include rep-hits, restitution, and at worst, suspension — basically, getting expelled from the Locus Federation.
-(This doesn't mean getting physically thrown off the station, since it's an un-owned commons; this means getting locked out of the rep-economy, and loosing access to the coops in the Federation and the resources they produce.)
+(This doesn't mean getting physically thrown off the station, since it's an un-owned commons; this means getting locked out of the rep-economy, and loosing access to the co-ops in the Federation and the resources they produce.)
 
 There's a catch here, though, and it's a big one.
 Notice that the worst thing that happens is that your account gets locked and you get thrown out on your own; that also means that the worst thing that happens *if your neighbor takes revenge on you* is that their account gets locked or they're on their own.
@@ -494,7 +494,7 @@ Somewhat like a Scum swarm or Extropian hab, consent is the main factor on Locus
 That also goes for commodities.
 Basically everything is legal on Locus, as long as it doesn't pose a large-scale threat to the station itself.
 (Not that they have a system to actually detect and stop that.
-And even then, if you're a well-heeled coop that people support, you can probably get away with it — as the "Toybox" cooperative does.)
+And even then, if you're a well-heeled co-op that people support, you can probably get away with it — as the "Toybox" cooperative does.)
 
 Party drugs, weird morphs, lurid personal mods, and assault weapons; it's all allowed on Locus — although availability might be an issue, given their more sluggish economy.
 And antisocial usages will get you rep hits, and a possible "collective reaction."
@@ -547,14 +547,14 @@ Unrestricted fabrication isn't the only problem.
 There's no real restrictions on technological tinkering or R&D.
 *Boister's Armory* is a good example: blueprints available for… basically anything dangerous, including weapons capable of threatening ships and asteroids!
 
-And There are other coops and individuals poking around other technological avenues.
+And There are other co-ops and individuals poking around other technological avenues.
 People tinkering with bleeding-edge gene-modding, psychosurgical techniques, cognitive designs, self-sustaining nanotech, exotic reactors… all restrained only by "self-policing," rep-hits if you admit to doing something stupid, and the threat of retaliation if you screw up too badly.
 
-I know, "the plural of anecdote isn't data," but just five weeks ago, one coop's hab-module got *digested* by a nanoswarm they where experimenting with.
+I know, "the plural of anecdote isn't data," but just five weeks ago, one coop's hab-module got *digested* by a nanoswarm they where experimenting with and lost control of.
 Fortunately, the outer hull and seals held, but as far as can be discerned, the swarm ate pretty much everything out to the hull; exothermically, too, it was hot in there.
 The module was decoupled and chucked towards the inner system; it'll fall into the sun in something like a year and a half.
 
-*After that*, rumors started to circulate that another coop had gotten hold of this crazy, finely-etched silicate wafer, allegedly recovered from an exo-world.
+*After that*, rumors started to circulate that another co-op had gotten hold of this crazy, finely-etched silicate wafer, allegedly recovered from an exo-world.
 People thought it was art, because it shone beautifully when light hit it; but then someone thought that the etchings might actually be some kind of *program*.
 The damned fools started experimenting with different ways to interpret it, and actually tried *running* some of the executable versions!
 They'd already had their systems go black-screen-full-fan *more than once* when *somebody* detonated a bunch of hell-balls in their module, taking care of that whole problem.
@@ -565,7 +565,7 @@ Hopefully.
 > **rategorytheory**: Yeah, I'm not sure off the top of my head if that would even melt surface lithography.
 >
 > **anarcat**: Well, so far, we haven't seen any more stories about it hitting circle-a.
-> Whether they actually destroyed it, or that coop just took the hint, or they're somewhere working with the thing and just not talking about it, we don't know.
+> Whether they actually destroyed it, or that co-op just took the hint, or they're somewhere working with the thing and just not talking about it, we don't know.
 
 And just for good measure, lest you think that blind hostility and factional animosity are unique to the inner system, just three days ago a vanguardist group managed to obliterate their own module and sever the spar they where attached to while developing new weapons to fight the Consortium.
 
@@ -590,7 +590,7 @@ And just for good measure, lest you think that blind hostility and factional ani
 > **Bauble**: We can safely say it was explosive.
 
 Now, to be fair, a counter-argument is that Locus doesn't have the kind of economic or social organization to run the kind of big, black-budget labs that the Consortium sets up.
-I don't think that's *entirely* true — there are plenty of decently-sized coops on Locus that have managed to fuck up in dangerous ways — but it is at least *partly* true in that most of those labs have lower access to resources, and there's relatively less motivation to engage in that kind of research, so the threat coming from Locus is at least lower than the threat coming from the Consortium.
+I don't think that's *entirely* true — there are plenty of decently-sized co-ops on Locus that have managed to fuck up in dangerous ways — but it is at least *partly* true in that most of those labs have lower access to resources, and there's relatively less motivation to engage in that kind of research, so the threat coming from Locus is at least lower than the threat coming from the Consortium.
 
 > **rategorytheory**: So wait, "we're too broke to be dangerous" is a positive thing now?
 >
