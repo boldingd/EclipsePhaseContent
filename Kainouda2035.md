@@ -10,7 +10,7 @@ Since then, it has come to be dominated by the Thistledown Cooperative, a large 
 > Also, hello; I'm the local they called in for comment.
 
 | Type | "Bear Habitat" (chamber in rotating asteroid); beehive; nearby module habs |
-| Faction | Extropian (87%); Hypercorp (8%); Scum (1%) |
+| Factions | Extropians, Hypercorps, Minarchist, others |
 
 Population:
 - Extropian
@@ -24,9 +24,9 @@ Population:
 - "Minarchist": 6K
 - Hypercorp: 9K
 - Nearby Stations
-  - Infugee Habs: 1250 * 5 or so? (6.250K)
+  - Infugee Habs: 6K (average 1,250 per hab, over 5 habs)
   - Carbon Compact: 8.5K + 4K
-- Total: 600,000
+- Total: 600K approx
 
 ## History
 
@@ -82,7 +82,7 @@ It also maintains the asteroid's defenses, as well as a few notable pieces of in
 
 ### Long-Range Communications
 
-The KDC manages the Kainouda Long-Range Communications and Egocasting Consortium — much more commonly called the "Comms Consortium," understandably.
+The KDC manages the Kainouda Long-Range Communications and Egocasting Consortium — much more commonly called either the "Comms Consortium" or the "KCEC," understandably.
 Originally, communication was handled by two an-cap microcorps, the larger of which owned two communications satellites, and the smaller of which owned a third.
 Both satellites orbit between 151km and 153km from the asteroid; they use high-bandwidth microwave and terahertz links to communicate with a network of "ground stations" on the surface of the asteroid.
 The ground stations are attached to each other and to terminals deep within the rock by high-speed superconducting and fiber links.
@@ -115,17 +115,19 @@ In BF 2, a special contract was established between the ground-station consortiu
 > **Gunslinger#MONOLITH**: Jesus.
 > I *meant* how you need six satellites, because you people can't share.
 >
-> **Apotheotician**: Actually, they do share, and we actually do need all that capacity.  Pick a 48 hour window and we'll probably hit 85% utilization at some point.  Pick a five-day window and we'll probably exceed our total cap.
+> **Apotheotician**: Actually, they do share, and we do need all that capacity.  Pick a 48 hour window and we'll probably hit 85% utilization at some point.  Pick a five-day window and we'll probably exceed our total cap.
 
 The Comms Consortium manages the maintenance and sharing of the ground-station and cabling; it also manages a bandwidth-sharing arrangement between the various satellites.
 The bandwidth-sharing arrangement uses a peering model — basically, they share capacity as required, rather than paying each other for capacity.
 The Comms Consortium is also responsible for maintaining the security of the system: the microwave and hard-line links all use quantum encryption, which needs to be coordinated between the system's different users.
 
-> **Apotheotician**: See?  Equitable, efficient sharing.  Which is kind of a problem if you're a Sentinel, because you can't guarantee your ego won't travel over Experia hardware at some point — if you're the kind of person where that would be problem, for example.
+> **Apotheotician**: See?  Equitable, efficient sharing.
+> Which is kind of a problem if you're a Sentinel, because you can't guarantee your ego won't travel over Experia hardware at some point — if you're the kind of person where that would be problem, for example.
 >
-> **Anarcat**: So, compromising the cables is pointless because of the quantum encryption; I'm guessing the ground stations have significant security?
+> **anarcat**: So, compromising the cables is pointless because of the quantum encryption; I'm guessing the ground stations have significant security?
 >
-> **Apotheotician**: Oh, yes.  Not my area of expertise, but the hardware types usually write it off as "not worth the trouble," like most high-security handle-your-ego parts of any given hab.
+> **Apotheotician**: Oh, yes.
+> Not my area of expertise, but the hardware types usually write it off as "not worth the trouble," like most high-security handle-your-ego parts of any given hab.
 >
 > **Bauble**: Spoiler: if you need to get onto the Thistledown discretely, either use the spaceport, use surface access, or, smartest way, dark-cast to Limehouse and then purchase an egocast over the local mesh from any random an-cap with a radio.
 >
@@ -143,16 +145,16 @@ The Comms Consortium is also responsible for maintaining the security of the sys
 
 ## The Thistledown Cooperative
 
-The Thistledown Cooperative is a large Extropian market-socialist cooperative that has come to dominate the affairs of Kainouda 2035; while technically an Extropian cooperative, it has come to operate more like a left-minarchist state.
-Almost five hundred thousand people are members of the Thistledown Cooperative — a solid majority of the asteroid's population.
-The Thistledown Cooperative also owns more than two-thirds of the asteroid's habitable volume, and large portions of its vital infrastructure.
+The Thistledown Cooperative is a large Extropian market-socialist cooperative that has come to dominate the affairs of Kainouda 2035; while nominally an Extropian cooperative, it has come to operate much like a (left-wing minarchist) state.
+Almost three-hundred and fifteen thousand people are members of the Thistledown Cooperative — a solid majority of the asteroid's population.
+The Thistledown Cooperative also owns more than two-thirds of the asteroid's habitable volume, and large portions of its vital infrastructure (like power and life-support systems).
 The Cooperative's major holding is the Thistledown Cavern, a massive, cylindrical cavern laid out along the axis of rotation (a little like a Jovian "Reagan Cylinder," although the residents prefer to call it a "Bear Habitat").
 
 ### Structure of the Cooperative
 
 The cooperative is organized along market-socialist lines, and run by direct-democratic vote.
 The cooperative's various assets — its habitats, infrastructure, and productive capital — are owned collectively.
-Infrastructure is administered by the cooperative directly; productive capital, like industrial mechs, minifacturies, and server farms, is managed by member-owned community banks.
+Infrastructure is administered by the cooperative directly; productive capital, like industrial mechs, minifacturies, and server farms, are held by member-owned community banks and leased to members of the cooperative.
 These community banks then lease their managed capital back to their members.
 There are several competing community banks; each bank is owned by its members, and each member of the Thistledown Cooperative is a member of exactly one of the various community banks.
 The community banks and the cooperative itself are the only institutions allowed to charge rent.
@@ -177,16 +179,27 @@ The community banks and the cooperative itself are the only institutions allowed
 
 ## Other Extropians
 
+### Other Mutualists
+
+### Anarcho-Capitalists
+
 ### The Spaceport
 
-## Infinite Loop
+### Objectivists
 
-## Outer System Industries
+## Minarchists
+
+## Hypercorps
+
+### Infinite Loop
+
+### Outer System Industries
 
 ## Near-Orbit Habs
 
 During the Fall, the KDC led the hasty construction of 5 modular habs in orbit of Kainouda 2035; many of those Fall refugees still live there.
-A number of smaller habs have also been built nearby — although out of the volume claimed by the KDC and covered by the asteroid's defenses.
+A number of smaller habs have also been built nearby — some as members of the KDC, others not.
+(Of course, the ones that aren't KDC members are built outside of the volume claimed by the KDC and covered by the asteroid's defenses.)
 
 ## The Carbon Compact
 
@@ -200,7 +213,7 @@ However, their political system is also market-based: much as individuals are gi
 > Utilitarianism isn't a political or economic system, and its definitely not a faction.
 > Anyone can be a utilitarian; I, for example, am a utilitarian *Titanian*, and I live on a *Mutualist* habitat.
 >
-> **Gunslinger#MONOLITH**: Tip your fedora more.
+> **Gunslinger\#MONOLITH**: Tip your fedora more.
 >
 > **anarcat**: Only if you get basic terminology right.
 
@@ -270,6 +283,25 @@ The hab also hosts a number of resorts, including the Carbon Cove, a community s
 > **anarcat**: I think you two are going a little overboard.
 
 The locals have a conservationist bent and a long-term view; they emphasize sustainability over growth, and tend to draw lightly on their resources.
+
+## Limehouse
+
+Limehouse is one of five module habitats constructed during the Fall to receive refugees.
+Ownership of the habitats was given to the refugees who settled there, to organize as they saw fit; three ultimately went hypercapitalist, while the fourth organized itself as an Extropian cooperative.
+The residents of Limehouse, however, failed to establish any kind of formal organization; whether the station is a Scum swarm or a failed society is something of a matter of perspective.
+
+### History
+
+The station was one of five constructed during the Fall to house refugees.
+Almost 1100 physical refugees where settled on the station, and another two thousand infugees where stored there;
+the initial population included a prison work-crew (guards and inmates) who hijacked an SOTV from Robins AFB, and a cache of some four-hundred-plus egos salvaged from the communications network of a Commonwealth-of-Nations-based minifacturing firm.
+
+Ownership of the stations was granted to the refugees that where settled there, for them to organize as they saw fit.
+Within fourteen months of the fall, three of the stations had opted to join the Planetary Consortium, and the fourth had organized itself as an Extropian cooperative — but Limehouse had failed to organize itself.
+Three months after the station was turned over to its residents, a proposal to organize it along hypercorporate lines was brought to a vote and soundly defeated; no other proposals where successfully brought to a vote.
+Since the station had been at least notionally granted as property to its resident, it might arguably have been extropian anarcho-capitalist by default, but a web of microcorps never developed.
+
+As the situation continued, a certain amount of self-sorting occurred; those with the resources to do so left, while the stations became something of a catch-basin for the 
 
 # The Old Text I'm Slicing From
 
