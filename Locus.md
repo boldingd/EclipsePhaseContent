@@ -376,6 +376,8 @@ Sometimes this works well, but it can also have all the problems you'd expect it
 
 > **rategorytheory**: There is no amount you could pay me to get me to set foot on this hab.
 >
+> **Minerva**: An ironic choice of expression.
+>
 > **Gunslinger\#MONOLITH**: Fucking good, we'd re-invent money just to pay you to fuck off.
 >
 > \[\@rategorytheory has temporarily been muted]
@@ -474,8 +476,8 @@ Now, many Locis would tell you that, overall, crime and violence in their societ
 Some would also argue that their system, all things considered, still stacks up pretty well against the Martian or Jovian justice systems — and you know, I've never met someone outside the J.R. with a real positive view of *their* justice system, either.
 Some Locis even take it as a point of pride — "have no fear sending your egocast to me, because if I fork-nap you and my neighbors find out, they'll pop my stack with a rusty spoon," to paraphrase one of the old Firewall guides.
 
-Personally, I'm pretty skeptical.
-And, more to the point, I think operatives heading to Locus should know how this works.
+Personally, I'm pretty skeptical; I think some rose-colored glasses are definitely involved.
+And, more to the point, I think operatives heading to Locus should know how this system works.
 
 ## Society
 
@@ -585,7 +587,7 @@ And just for good measure, lest you think that blind hostility and factional ani
 >
 > **rategorytheory**: By the way, do we know what they where building?
 >
-> **anarcat**: I mean, ask one of the routers what the other cells know — but not as far as I know.
+> **anarcat**: I mean, ask the routers what the other cells know — but not as far as I know.
 >
 > **Bauble**: We can safely say it was explosive.
 
