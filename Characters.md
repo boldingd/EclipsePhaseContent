@@ -3,10 +3,10 @@
 | Curé |
 | --- |
 | he/him |
-| Languages | (Quebecois) French (Native), English (Conversational), Haitian Creole (Conversational) |
+| Languages | (Quebecois) French (Native), English (Fluent), Haitian Creole (Conversational) |
 | Rank | Router |
-| Reputation | Contested |
-| Skills | psychosurgery, bio-engineer |
+| Reputation | Mixed, Contested |
+| Skills | psychosurgery, bio-engineering |
 
 **Curé** is an O.G. proxy.
 He was not, strictly speaking, a founding member of Firewall, but he joined the organization in its first year; he's been active and effective, and is very well-connected.
@@ -89,6 +89,14 @@ While his track-record is very good and his feedback tends to be positive, it is
 Care must be taken when he is placed on a team with either the particularly thin-skinned or the equally sharp.
 
 ### Plasmage
+
+| Plasmage |
+| --- |
+| he/him |
+| Languages | English (Native), Mandarin (Conversational) |
+| Rank | Proxy |
+| Reputation | Good |
+| Skills | Combat, Nanotechnology, Medicine, Psychosurgery, Ecology |
 
 The **Plasmage** is a Proxy operating out of the wilds on Mars.
 Notably, he served as a Sentinel for several years before becoming a proxy in his own right.
@@ -179,7 +187,19 @@ He is also active in Firewall's queer community, being bisexual (natch); and he 
 
 ### H0N3
 
-The **H0N3**
+The **H0N3** (pronounced "honey") is an AGI that almost grew up in the Organization; her cognitive-architecture was designed by a Sentinel (a Titanian, and also an AGI), who also raised her.
+She adopted a number of her progenetor's causes, including his fierce opposition to the Jovian Republic and his commitment to Firewall, and was eventually recruited into the organization.
+Also much like her progenitor, her approach tends to be "direct"; she tends to prefer hardy synthetic morphs, and brings a raft of combat skills to a mission.
+She is also noted for having an innocent and empathic demeanor, and a certain amount of naivite about the material world.
+
+While her skills have been invaluable to a number of teams and her reputation is good, her most recent deployment was something of a catastrophe, which has led to most members of her cell being stashed in various safehouses and hideouts until new identities can be forged.
+
+> **Bauble**: My English isn't very good, but I'm not clear: did she botch the mission, or did it just go south?
+>
+> **Plasmage**: Just went south.
+> They ran across some kind of high-level Hypercorp asset, she shot back, the team made it away, everyone needed new names afterwards.
+>
+> **Gunslinger\#MONOLITH**: And they all lived new lives, happily ever after.
 
 ### Bauble
 
@@ -190,6 +210,7 @@ The **H0N3**
 | Rank | Sentinel |
 | Reputation | Good |
 | Skills | smuggling, infiltration, (non-lethal) combat, fast-talking |
+| Tags | unusual ego |
 
 **Bauble** is a *sentinel* in *@Curé*'s cell; she's an accomplished smuggler, with ties to anarchist, criminal, and gatecrashing communities.
 She has contacts (criminal and legitimate) throughout the system, including the belt, Mars, Luna, Venus and the outer system — notably including the Love and Rage collective.
@@ -204,6 +225,28 @@ Bauble is noted for being cool in a crisis and particularly quick-witted, and ha
 Bauble is also notable for being something of a skin-walker, experimenting with a wide variety of exotic sleeves, and for her quiet presence in Firewall's queer subgroup (as she is non-binary and asexual).
 
 ### Padre
+
+| Padre |
+| --- |
+| He/Him |
+| Languages | English (Native), Spanish (Native), Greek (Fluent), Medieval Latin (Fluent), Aramaic (Basic), Hebrew (Basic) |
+| Rank | Sentinel |
+| Reputation | Very Good |
+| Skills | Melee Combat, Investigation, Pursuit, Deception, Infiltration |
+| Tags | unusual ego |
+
+> **RategoryTheory**: I'm tempted to call bullshit on *aramaic*.
+>
+> **anarcat**: Wanna bet on it?
+> I'll take your money.
+>
+> **Plasmage**: I can tell you with confidence that you shouldn't believe everything you read in a proxy's bio.
+>
+> **Gunslinger\#MONOLITH**: Modern or old?
+>
+> **Padre**: Column A, column B.
+> I got a disorganized crash-course when I spent a year doing research in Mosul.
+> And I'd like to point out that I never said I was *good* at Aramaic.
 
 The **Padre** is a proxy operating primarily out of the Jovian Republic.
 He typically does not directly coordinate operations; he is mainly involved in gathering intelligence from within the Republic, and providing resources and support to teams that need to operate in Jovian space.
@@ -225,3 +268,40 @@ In any case, one vital service the Padre provides is access to the subtle, unoff
 >
 > **anarcat**: The Padre knows I'm not taking a swipe.
 > Well, not much of one.
+
+### Dash
+
+| Dash |
+| --- |
+| She/Her |
+| Languages | English (Native), French (Conversational), Mandarin (Basic) |
+| Rank | Sentinel |
+| Reputation | Very Good |
+| Skills | Melee Combat, Investigation, Pursuit, Deception, Infiltration |
+| Tags | unusual ego |
+
+**Dash** is a sentinel who operates in the Extropian belt.
+In an environment where the boundary between the legal and the criminal can be thin indeed, she serves as a bounty-hunter, bodyguard and enforcer.
+She's cultivated a diverse array of skills, focusing on combat, but also including intimidation, interrogation, deceipt, pursuit, and some basic piloting.
+Her overall feedback is strong.
+
+### Cyrano de Bergerac's Pansexual Cephalopod Understudy
+
+| \*Akimbo |
+| --- |
+| He/Him |
+| Languages | English (Native), (Egyptian) Arabic (Fluent), Enceladus Deep (Conversational) |
+| Rank | Sentinel |
+| Reputation | Very Good |
+| Skills | Combat, Tactics, Infiltration |
+| Tags | unusual ego |
+
+Notes:
+
+- You should probably set a nickname for this account, it changes handles a lot.
+  It's original display-name was "8xAkimbo Raging Bulls", and it's commonly referred to as "Akimbo" or "RB" in conversation.
+  (Note, you can use \[this\] or \[account-name:*id*\] with an account-id to use the account's current display name, which will be rendered like this: *Cyrano de Bergerac's Pansexual Cephalopod Understudy*.)
+
+Commonly called "Akimbo" or "RBs," *Cyrano de Bergerac's Pansexual Cephalopod Understudy* is a sentinel known for his effectiveness in combat and infiltration.
+Being an octopus uplift, Akimbos prefers morphs that resemble his natural form and provide it's advantages — although he is also perfectly capable of functioning in a conventional humanoid morphs.
+He has an excellent track-record and good feedback; his only real demerits are a slightly irritable personal style and being more than a little "gung-ho."
