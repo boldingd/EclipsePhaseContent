@@ -2,3 +2,6 @@ https://en.wikipedia.org/wiki/Dash
 endash – 
 emdash —
 ellipses …
+arrow →
+
+Oh hey, (Unicode Points)[https://unicode-table.com/en/sets/arrow-symbols/#right-arrows]
