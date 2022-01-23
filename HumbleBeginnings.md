@@ -601,8 +601,6 @@ They mainly use the zeppelins' thrusters to hold near the equator, far away from
 | Location | Main Belt |
 | Faction | Autonomist, Skyward Collective |
 
-
-
 ### Secret Hab near Égalité
 
 **\/\/ No External Circulation; \/\/Need-to-Know Only**

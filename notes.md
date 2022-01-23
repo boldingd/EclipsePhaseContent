@@ -25,7 +25,19 @@ Code names:
 
 - "Akimbo" → Otto Quazar
 - Dash → Lola
+- Bauble → Kai
 
 Space and Planet Links:
 
 - Nasa's [Planet info sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_ratio.html)
+
+Style notes:
+
+- I was doing markings like this: 
+  - **\/\/ No External Circulation; \/\/Need-to-Know Only**
+  - **\/\/ Sentinel Identity Exposure; \/\/ Need-to-Know Only (implied)**
+  - (Classification marks can go in text-bits or directly in document text)
+- And I had some in-line chat notices like this:
+  - \[ A cross-reference with an _operational_file_ was created _here_. \]
+  - \[ \@Minerva has created an issue _here_: formal complaint: factional bias. _12_ accounts have subscribed. \]
+  - \[ \@Bauble attached files: _XP_recordings_, _comms_records_ \]
