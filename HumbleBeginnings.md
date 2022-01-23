@@ -68,7 +68,7 @@ Unsurprisingly, individual habitats can vary quite a bit.
 ### A Note on Language
 
 The Skyward Collective is highly polyglot, drawing as it does from fall refugee and infugee populations, and from those at the bottom rungs of other societies.
-However, a formal style of Quebecoise French has become the unofficial common language of the collective, owing to the fact that several of the movement's founders where Quebecoise, and most of their early discussions and documents where written first in Quebecoise French.
+However, joual, an informal style of Quebecois French, has become the unofficial common language of the collective, owing to the fact that several of the movement's founders where French Canadian (and poor), and most of their early discussions and documents where written first in idiomatic Quebecois French.
 (This is much to the chagrin of those same founders, who wanted to avoid anything so divisive and privileged as an official language.)
 
 A particular variant of Barsoomian is also becoming common — "Barsoomian" being the common name for the creole of French and Arabic commonly spoken in the Sufi and Maker communities on Mars.
@@ -481,7 +481,7 @@ Notably, some of their working-groups appear to enjoy both greater access to res
 | Type | Torus (radius 544m) |
 | Gravity | 0.75G (centrigrav) |
 | Population | 65K |
-| Languages | French (Quebecoise), English, Barsoomian (Skyward), Mandarin, Arabic, Spanish |
+| Languages | French (Quebecois), English, Barsoomian (Skyward), Mandarin, Arabic, Spanish |
 | Faction | Autonomist, Skyward Collective |
 
 Égalité is the founding hab for the Skyward Collective, and still its single largest member.
@@ -570,9 +570,9 @@ The habitat has living space for a little more than three thousand people.
 > Also, I was keeping an eye on \@Bauble's telemetry; immunogenics, infosec and psych-scan all stayed clean.
 > We lost contact with her in the burrow, but scans and records matched up when she came out — and I don't fuck around with that kind of thing, I went through her systems and ego *thoroughly*, there wasn't a synapose out of place in her connectome.
 
-### Chantier-galerie
+### Chateau Montgolfier
 
-| Chantier-galerie |
+| Chateau Montgolfier |
 | --- |
 | Type | "Gantry" mesh (triangular mesh, 500m to a side) |
 | Gravity | 0.91G (venusian gravity) |
@@ -580,14 +580,14 @@ The habitat has living space for a little more than three thousand people.
 | Languages | French, English, German, Arabic |
 | Faction | Autonomist, Skyward Collective |
 
-Chantier-galerie is a settlement on Venus consisting of three zeppelins and a handfull of smaller structures (some little more than survival bubbles) that have all been lashed to a large, light-weight mesh.
+Chateau Montgolfier is a settlement on Venus consisting of three zeppelins and a handfull of smaller structures (some little more than survival bubbles) that have all been lashed to a large, light-weight mesh.
 The three zeppelins are laid out in an "inverted triangle" formation, with two at the port and starboard of the leading edge and one at the back, in an attempt to keep the mesh (relatively) free of prop backwash.
 (The down-side is that the leading zeppelins must maneuver carefully to ensure tension on the front of the mesh, as it will otherwise begin to "flap" dangerously.)
 
-The current carrying capacity of the "chantier" is limited, both in terms of occupants and lifting capacity; it is believed that the collective intends it as much as the starting-point for some other construction project as a permanent habitat in itself — however, given the Collective's drive to house the unhoused, the chantier is filled to capacity, and likely to remain so.
-(The Chantier is occupied by about 360 people, possibly with further occupants as infomorphs.)
+The current carrying capacity of the "chateau" is limited, both in terms of occupants and lifting capacity; it is believed that the collective intends it as much as the starting-point for some other construction project as a permanent habitat in itself — however, given the Collective's drive to house the unhoused, the chantier is filled to capacity, and likely to remain so.
+(The Chateau is occupied by about 360 people, possibly with further occupants as infomorphs.)
 
-Notably, the Chantier's navigational control is limited; to a great degree, they are at the mercy of the winds.
+Notably, the Chateau's navigational control is limited; to a great degree, they are at the mercy of the winds.
 They mainly use the zeppelins' thrusters to hold near the equator, far away from the planet's polar vortices.
 
 ### Armoise
