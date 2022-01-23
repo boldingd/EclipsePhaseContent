@@ -10,6 +10,8 @@ Analogously, Quebecois phrases, for writing Etienne/Cure:
   - "J’suis tanné / I’m fed up" might be especially useful.
 - (7 phrases you will only hear in quebecois)[https://acis.com/blog/7-phrases-you-will-only-hear-in-quebecois/]
 - (Common french phrases)[https://takelessons.com/live/french/useful-french-phrases-travelers-z04], which is probably more continental french.
+- [Wikipedia's article about joual](https://en.wikipedia.org/wiki/Joual), which is almost certainly what Etienne speaks.
+  - Thanks to Acier for the tip.
 
 (Medieval(?) latin phrases)[https://en.wikipedia.org/wiki/List_of_Latin_phrases], which might be amusing to have the Padre throw at people:
 
