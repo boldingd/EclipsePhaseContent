@@ -3,7 +3,7 @@
 | Curé |
 | --- |
 | he/him |
-| Languages | (Quebecois) French (Native), English (Fluent), Haitian Creole (Conversational) |
+| Languages | (Quebecois) French (Native), English (Fluent), Haitian Creole (Conversational), Barsoomian (Conversational) |
 | Rank | Router |
 | Reputation | Mixed, Contested |
 | Skills | psychosurgery, bio-engineering |

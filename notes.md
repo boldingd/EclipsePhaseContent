@@ -19,8 +19,13 @@ German notes for Franz/Gunslinger
 - (Saying sorry in german)[https://www.babbel.com/en/magazine/sorry-in-german]
 - (also saying sorry in german)[https://www.fluentu.com/blog/german/sorry-in-german/]
 - (more saying sorry, with different scenarios)[https://www.germanpod101.com/blog/2019/09/12/how-to-say-sorry-in-german/#2]
+- A [searchable list of German idioms](https://matterhornlanguages.com/)
 
 Code names:
 
 - "Akimbo" → Otto Quazar
 - Dash → Lola
+
+Space and Planet Links:
+
+- Nasa's [Planet info sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_ratio.html)

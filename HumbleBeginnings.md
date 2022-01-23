@@ -65,6 +65,16 @@ Beyond this, each member collective is given near-complete autonomy, with comple
 
 Unsurprisingly, individual habitats can vary quite a bit.
 
+### A Note on Language
+
+The Skyward Collective is highly polyglot, drawing as it does from fall refugee and infugee populations, and from those at the bottom rungs of other societies.
+However, a formal style of Quebecoise French has become the unofficial common language of the collective, owing to the fact that several of the movement's founders where Quebecoise, and most of their early discussions and documents where written first in Quebecoise French.
+(This is much to the chagrin of those same founders, who wanted to avoid anything so divisive and privileged as an official language.)
+
+A particular variant of Barsoomian is also becoming common — "Barsoomian" being the common name for the creole of French and Arabic commonly spoken in the Sufi and Maker communities on Mars.
+This is happening in spite of there being very few native speakers of the language in the collective; instead, it appears to be happening because the language is common enough on the circle-A network, and because it is at least partly intelligeable to speakers of both French and Arabic.
+(Of course, the Skyward variant is based on Quebecois rather than continental French, and even includes a few English loan-words and idioms.)
+
 ## Member Collectives
 
 Each individual habitat establishes collective ownership of all capital — by a fairly expansive definition that allows little room for personal property.
@@ -409,11 +419,11 @@ Notably, some of their working-groups appear to enjoy both greater access to res
 
 > **Bauble**: So, this.
 > This is Firewall's main concern.
-> And honestly, *duì bù qǐ*, but we haven't been able to learn much, like we said.
+> And honestly, *duì bù qǐ*, we haven't been able to learn much, like we said.
 >
-> As far as we can tell form circle-A and their public mesh, most of them are hedonist an-coms.
+> As far as we can tell from circle-A and their public mesh, most of them are hedonist an-coms.
 > They just want to get laid and get high, not lead a revolution or build ASIs.
-> They don't know what's happening on the secret projects, and don't seem to care.
+> They don't know what's happening on the secret projects, and they don't care.
 > And the secret project groups don't leave much mesh presence, and their members don't talk.
 >
 > **Gunslinger\#MONOLITH**: We looked over their public records.
@@ -429,7 +439,7 @@ Notably, some of their working-groups appear to enjoy both greater access to res
 >
 > **Bauble**: And we've also tried to call in some circle-A and Guan-Xi favors, work some external contacts.
 > So far, not much.
-> We've got some rumors, and we've uncovered some hints of an outside suplly-chain, but that's it.
+> We've got some rumors, and we've uncovered some hints of an outside supply-chain, but that's it.
 > We haven't got anything on what's inside those black-budget groups.
 >
 > **Plasmage**: What about infosec?
@@ -438,7 +448,8 @@ Notably, some of their working-groups appear to enjoy both greater access to res
 > Neither of us are infosec experts, and we didn't want to risk trying to hack a target that might have an ASI active.
 > Certainly not without making a preliminary report first.
 >
-> **Curé**: No, that's a good call.
+> **Curé**: No, you did the right thing.
+>
 > Gut-level, you two: what's the threat assessment?
 >
 > **Padre**: Seconded, for the record.
@@ -464,6 +475,14 @@ Notably, some of their working-groups appear to enjoy both greater access to res
 ## Habitats
 
 ### Égalité
+
+| Égalité |
+| --- |
+| Type | Torus (radius 544m) |
+| Gravity | 0.75G (centrigrav) |
+| Population | 65K |
+| Languages | French (Quebecoise), English, Barsoomian (Skyward), Mandarin, Arabic, Spanish |
+| Faction | Autonomist, Skyward Collective |
 
 Égalité is the founding hab for the Skyward Collective, and still its single largest member.
 
@@ -496,19 +515,70 @@ All of the judges in their court system are required to be Trusted Members, who 
 
 ### Dewi's Refuge
 
+| Dewi's Refuge |
+| --- |
+| Type | Sub-Surface Cavern (130m diameter) |
+| Gravity | 0.166G (lunar gravity) |
+| Population | 85 |
+| Languages | French, Hindi, Mandarin |
+| Faction | Contested: Autonomist, Skyward Collective; Lunar-LaGrange Alliance |
+
 Dewi's Refuge is a small community burrowed into the surface of Luna.
 It's named for Suharto Dewi, an Indonesian entrepreneur who constructed the habitat more than forty years before the Fall.
 Dewi survived the Fall and is still alive, but decided to sell off rather than modernise the old habitat; the Skywards Collective purchased it from him.
 
-The factional status of the habitat is disputed: the LLA argues that selling the habitat doesn't transfer it out of the alliance, and thus Dewi's Refuge is still subject to their rules and obligations.
-While the Collective has made some pretense of leaving the habitat unoccupied until the issues can be resolved, they have sent work crews to the habitat to maintain it; LLA officials maintain, with some reason, that these "work crews" are in fact the few occupants that the Collective wishes to settle.
+Complicating matters is that the hab was still occupied, if only by a hand-full of people.
+The collective has worked hard to win these people over, and has enjoyed some success — cancelling rent being an excellent way to make a positive impression on someone — but they are not yet confident that they have enough public support to carry a vote to depart the LLA.
+
+For this reason, the factional status of the habitat is disputed.
+The LLA accepts that the Skyward Collective (or the shell-company they used to purchase the hab) are the legal owners, and that ultimately they have the right to depart the LLA; however, not wishing to see a communist presence take hold on the moon, the Alliance has used the presence of "Alliance-member" prior residents in the habitat to delay the collective taking possession of the Hab.
+Complicating matters, it is in principle possible for a habitat to be a member of both the Skyward Collective and the Lunar-LaGrange Alliance at the same time, since the terms of the Alliance do not require a capitalist economy; this has been offered as a compromise position.
+
+Because of the conflicted status, the Collective has refrained from fully occupying the habitat — although they have sent in small work-crews, totalling a bit more than 30 people, to continue the maintenance of the hab.
+The LLA maintains — not without reason — that these are in fact the first permanent occupants of the habitat.
 
 The habitat is small and simply constructed: it consists of a primary chamber, roughly circular, about 130m in diameter, 20m high at the center, and burried 4m down; the center is occupied by a green-space park, a small circulating stream, and public buildings, with private residences and businesses located in modules coming off the walls of the chamber.
 Five side-tunnles radiate from the cenntral chamber, the longest being about 50m long; these tunnels are lined with smaller modules.
 
 The habitat has living space for a little more than three thousand people.
 
+> **\/\/ Sentinel Identity Exposure; \/\/ Need-to-Know Only (implied)**
+>
+> **Bauble**: I've marked this bit for sensitive data.
+> My old cell had an op targetting these guys, and that's part of what got @curé interested.
+> That op ended with me owing the collective a circle-a favour.
+> They had me smuggle a package past the LLA into this hab, Dewi's Refuge.
+>
+> They weren't fucking around.
+> The package had a smart-matter case, and I didn't want to fuck with it — I didn't think I could get past it without pissing off whatever was inside, even with a COT.
+> (And \@plasmage gets real pissy when you open dangerous packages without his permission.)
+> And I couldn't get it to \@anarcat or \@plasmage, so I made the hand-off.
+>
+> They weren't sloppy, no amatures there.
+> They didn't offer information, and I didn't pry — you don't ask questions or make small-talk on these kinds of jobs, unless you *want* them to think you're a cop.
+> My impression wasn't quan-xi background; I think they're learning how to do counter-intel.
+>
+> I'll attach the XP streams I've got.
+>
+> \[ \@Bauble attached files: _XP_recordings_, _comms_records_ \]
+>
+> **Plasmage**: For the record, I could see the package over the tac-net.
+> It looked like it was smart-matter, probably self-healing, probably with immunogenic capabilities — the kind of thing that could conceal who-knows-what capabilities.
+> I've seen \@anarcat rig up that kind of thing, and he usually also fits 'em with sensors that detect if you're scanning them with radar or terrahertz, and explosives if you detect imaging or a case-breach.
+> So we decided not to fuck with it!
+>
+> Also, I was keeping an eye on \@Bauble's telemetry; immunogenics, infosec and psych-scan all stayed clean.
+> We lost contact with her in the burrow, but scans and records matched up when she came out — and I don't fuck around with that kind of thing, I went through her systems and ego *thoroughly*, there wasn't a synapose out of place in her connectome.
+
 ### Chantier-galerie
+
+| Chantier-galerie |
+| --- |
+| Type | "Gantry" mesh (triangular mesh, 500m to a side) |
+| Gravity | 0.91G (venusian gravity) |
+| Population | 366 |
+| Languages | French, English, German, Arabic |
+| Faction | Autonomist, Skyward Collective |
 
 Chantier-galerie is a settlement on Venus consisting of three zeppelins and a handfull of smaller structures (some little more than survival bubbles) that have all been lashed to a large, light-weight mesh.
 The three zeppelins are laid out in an "inverted triangle" formation, with two at the port and starboard of the leading edge and one at the back, in an attempt to keep the mesh (relatively) free of prop backwash.
@@ -517,4 +587,59 @@ The three zeppelins are laid out in an "inverted triangle" formation, with two a
 The current carrying capacity of the "chantier" is limited, both in terms of occupants and lifting capacity; it is believed that the collective intends it as much as the starting-point for some other construction project as a permanent habitat in itself — however, given the Collective's drive to house the unhoused, the chantier is filled to capacity, and likely to remain so.
 (The Chantier is occupied by about 360 people, possibly with further occupants as infomorphs.)
 
-Notably, the Chantier's navigational control is limited; to a great degree, they are at the mercy of the winds, mainly using the zeppelins' thrusters to hold near the equator, far away from the planet's polar vortices.
+Notably, the Chantier's navigational control is limited; to a great degree, they are at the mercy of the winds.
+They mainly use the zeppelins' thrusters to hold near the equator, far away from the planet's polar vortices.
+
+### Armoise
+
+| Armoise |
+| --- |
+| Type | Beehive |
+| Gravity | Microgravity; 0.2G (centrigrav track), 0.3G (centrigrav track) |
+| Population | 9K |
+| Languages | French, English, Skyward Barsoomian, Chinese, Russian |
+| Location | Main Belt |
+| Faction | Autonomist, Skyward Collective |
+
+
+
+### Secret Hab near Égalité
+
+**\/\/ No External Circulation; \/\/Need-to-Know Only**
+
+So far, we've basically copied the text from the existing knowledge-base and added notes — and we're still going to do that — but we're inserting some original research here.
+
+We were investigating the possibility of a hidden habitat somewhere, probably near Égalité.
+We were keeping a low profile, and that limited what we could do: we dug up some info on a hidden supply chain running into Égalité, passing through circle-A and guan-xi hands, but we couldn't look into it without risking exposure.
+
+> **anarcat**: I'm sure you and \@Bauble are on it, but I do know hab design.
+> I can take a look at that data if you want.
+>
+> **Dash**: I was going to say the same thing.
+> Me an \@Nautílos have a lot of experience rocketing around the 'belt discretely, maybe we'll see something you've missed.
+>
+> **Gunslinger\#MONOLITH**: Not here, that data's got me and Bauble's real names and circle-A handles in it.
+> And some of our contacts, too.
+> I'll ask \@curé to add you to the case-file.
+>
+> \[ A cross-reference with an _operational_file_ was created _here_. \]
+>
+> **Bauble**: Bù cuò!
+>
+> **Gunslinger\#MONOLITH**: Oder er werden so wie Schmidt's Katze abgehen.
+> Or he'll just go ahead and do it.
+
+Among other things, it sounds like they might be running metallic hydrogen into Égalité off-the-books.
+Égalité's out in the Jovian Greeks, so that suggests that they're running OTVs over short distances.
+
+But — and here's the need-to-know part — I (\@Gunslinger) have contacts in a Firewall cell that does old-school sig-int, and that includes whole-sky IR surveys.
+They show warm spots on a few rocks near Égalité, but nothing very high-energy — and a secret lab would probably be dumping a lot of heat.
+They also haven't seen anything that looks like a met-H drive flare, at least not any secret ones, not any that Égalité didn't report on their open mesh.
+
+Now, their whole-sky surveys take about thirty hours, so there's about that big of a gap between scans of any given location — so it's possible they've just missed 'em.
+Unlikely, but possible.
+They're willing to do a long-term continuous survey of the place, but they've got a long queue of survey requests, and it'd require either Proxy approval or me calling this an "emergency" to get bumped up in the queue, and I don't think we're there yet.
+
+\@Bauble thinks these guys might be fairly competent at spycraft, and they might already be playing the game, and I agree.
+We think it's also possible that these might be false leads, meant to lead people off the trail, or maybe even a trap.
+Any agent that checks these leads should proceed with caution.
