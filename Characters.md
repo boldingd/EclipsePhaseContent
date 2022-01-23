@@ -63,10 +63,10 @@ Though Gunslinger is a remarkable shot with a long-rifle — as the name implies
 >
 > **anarcat**: And/or the Stalker games.
 
-He's widely held to be fairly old, perhaps more than 80; it's believed that he travelled to Mars for his own reasons prior to the Fall; and that, having now spent several years outside of the conservative culture(s) of old Earth, he has, in of a fit of transhuman liberation, become something of a skinwalker and hedonist.
+Like any Sentinel, the details of his identity are secret, but it's widely known that he's fairly old, in his 90's; that he travelled to Mars for his own reasons prior to the Fall; and that, having now spent several years outside of the conservative culture(s) of old Earth, he has, in of a fit of transhuman liberation, become something of a skinwalker and hedonist.
 
 His (pre-fall) background was in academics (specifically history and preservation, having had an advanced degree and teaching position in the former), and his (post-fall) employement has been a mix of museum work and the "acquisition" of artifacts for the private market.
-Notably, this gives him access to a wide network of social contacts, from respectable colleagues in Martian academia to the buyers and brokers of artefacts on the Guan-Xi; independantly, the personal wealth he's accrued has come with a certain degree of access to the "upper crust" of Mars, and his more hedonistic reincarnation (and left-leaning values) has earned him a positive reputation on Locus.
+Notably, this gives him access to a wide network of social contacts, from respectable colleagues in Martian academia to the buyers and brokers of artefacts on the Guan-Xi; independantly, the personal wealth he's accrued has come with a certain degree of access to the "upper crust" of Martian society; and his more hedonistic reincarnation (and left-leaning values) has earned him a positive reputation in a number of autonomist communities, including Locus.
 Impressively, he also has some presence in gatecrashing circles, and has provided his archaeological and preservationist expertise to first-in teams.
 
 > **RategoryTheory**: So he's a real historian but also a looter, and he's an anarchist but also a rich Martian?
@@ -76,7 +76,7 @@ Impressively, he also has some presence in gatecrashing circles, and has provide
 > **Gunslinger\#MONOLITH**: Kind of like an Extropian cat teaming up with a capitalist rat?
 > Funny how it's the last half of "anarco-capitalist" that always seems to win out.
 >
-> **anarcat**: Look at that, he's also an asshole despite being a hypocrit.
+> **anarcat**: Look at that, he's also an asshole despite being a hypocrite.
 > The pattern continues.
 >
 > \[\@RategoryTheory has received a warning.\]
@@ -86,7 +86,7 @@ Impressively, he also has some presence in gatecrashing circles, and has provide
 He is fairly left-leaning and quite transhumanist in general, and is strongly aligned with the Pragmatist block in Firewall's internal politics — though given his background and skillset, he is not widely believed to be actively involved in any particular pragmatist projects.
 
 While his track-record is very good and his feedback tends to be positive, it is noted that he can be somewhat eccentric and more than a bit *tetchy*.
-Care must be taken when he is placed on a team with either the particularly thin-skinned or the equally sharp.
+Care must be taken when he is placed on a team with either the particularly thin-skinned or the equally sharp-tongued.
 
 ### Plasmage
 
@@ -141,7 +141,7 @@ He is also reputed to have particular trouble when resleeving, being prone to st
 | Anarcat |
 | ------- |
 | he/him |
-| Languages | English (Native), Skandinaviska (Fluent), (Belgian) French (Basic) |
+| Languages | English (Native), Skandinaviska (Fluent), French (Belgian) (Basic) |
 | Rank | Sentinel |
 | Reputation | Good |
 | Skills | engineering, infiltration, programming, needlers |
@@ -199,7 +199,7 @@ While her skills have been invaluable to a number of teams and her reputation is
 > **Plasmage**: Just went south.
 > They ran across some kind of high-level Hypercorp asset, she shot back, the team made it away, everyone needed new names afterwards.
 >
-> **Gunslinger\#MONOLITH**: And they all lived new lives, happily ever after.
+> **Gunslinger\#MONOLITH**: And they all lived happily ever after, far away, as completely different people.
 
 ### Bauble
 
@@ -208,11 +208,11 @@ While her skills have been invaluable to a number of teams and her reputation is
 | flexible; she/her, or appropriate for morph |
 | Languages | Mandarin (Native), English (Fluent) |
 | Rank | Sentinel |
-| Reputation | Good |
+| Reputation | Very Good |
 | Skills | smuggling, infiltration, (non-lethal) combat, fast-talking |
 | Tags | unusual ego |
 
-**Bauble** is a *sentinel* in *@Curé*'s cell; she's an accomplished smuggler, with ties to anarchist, criminal, and gatecrashing communities.
+**Bauble** is a *sentinel* in *\@Curé*'s cell; she's an accomplished smuggler, with ties to anarchist, criminal, and gatecrashing communities.
 She has contacts (criminal and legitimate) throughout the system, including the belt, Mars, Luna, Venus and the outer system — notably including the Love and Rage collective.
 Rumors have it that she comes from Chinese lunar stock, and may have had connections with the Steel Liberators; and that she's recently been "on sabbatical" after surviving a particularly harrowing series of missions, with sources variably placing her current location in Venusian orbit, in the Martian outback laying low in Movement-aligned scum, or on Carnival via the Rage Gate.
 
@@ -222,6 +222,18 @@ Bauble is also an expert glass-blower — a talent that can be surprisingly usef
 
 Bauble is noted for being cool in a crisis and particularly quick-witted, and has a unique talent for improvising her way through a crisis — a talent which may come in part from long practice, as she is also known for her disdain for planning and her tendency to launch herself into motion before she's entirely sure what she's going to do.
 
+> **anarcat**: I can vouch for her ability to pick up the tune and start playing along *real fucking fast*.
+> She's snatched victory from the jaws of defeat on more than one op I've been on.
+>
+> **BerkeleyMew**: Yeah, her gift for slinging bullshit and summoning resources from god-knows-where is a thing to see.
+>
+> **plasmage**: So much so that it's more than worth the number of disasters that she *causes*.
+>
+> **BerkeleyMew**: J’suis tanné, mon tabarnak.
+>
+> **curé**: Criss.
+> Nous devons discuter un peu.
+
 Bauble is also notable for being something of a skin-walker, experimenting with a wide variety of exotic sleeves, and for her quiet presence in Firewall's queer subgroup (as she is non-binary and asexual).
 
 ### Padre
@@ -229,11 +241,11 @@ Bauble is also notable for being something of a skin-walker, experimenting with 
 | Padre |
 | --- |
 | He/Him |
-| Languages | English (Native), Spanish (Native), Greek (Fluent), Medieval Latin (Fluent), Aramaic (Basic), Hebrew (Basic) |
-| Rank | Sentinel |
+| Languages | English (Native), Spanish (Native), Classical Greek (Fluent), Medieval Latin (Fluent), Aramaic (Basic), Liturgical Hebrew (Basic) |
+| Rank | Proxy |
 | Reputation | Very Good |
-| Skills | Melee Combat, Investigation, Pursuit, Deception, Infiltration |
-| Tags | unusual ego |
+| Skills | Intelligence, Logistical Support |
+| Tags | Won't Fork |
 
 > **RategoryTheory**: I'm tempted to call bullshit on *aramaic*.
 >
@@ -254,7 +266,7 @@ He typically does not directly coordinate operations; he is mainly involved in g
 While the Padre leans conservative (unsurprisingly), he is known for his moderate temperament, for his surprisingly cosmopolitan outlook, and for his moderate political stance (in terms of Firewall's internal politics).
 Notably, he is one of few solid Conservatives who still commands trust and respect in Pragmatist circles, and so he is an important peacemaker and trusted broker within the organization.
 
-It is widely held that the Padre's name is literal — that he is in fact a priest or minister in some religious organization in the Jovian area.
+It is widely held that the Padre's name is literal — that he is in fact a priest or minister in some religious organization in the Jovian Republic.
 The common theory is that he isn't Catholic — while Catholicism is far and away the majority religion of the Jovian Republic, it is neither the sole nor official religion there.
 There are also communities from several other Christian denominations, of various Muslim and Jewish sects, and of non-Abrahamic religions.
 In any case, one vital service the Padre provides is access to the subtle, unofficial chain of religious leaders and movements operating in the solar system — most prominently in the Jovian Republic, in the Muslim communities of Mars, and the Buddhist and Taoist communities on Luna.
@@ -269,28 +281,30 @@ In any case, one vital service the Padre provides is access to the subtle, unoff
 > **anarcat**: The Padre knows I'm not taking a swipe.
 > Well, not much of one.
 
-### Dash
+### BerkeleyMew
 
-| Dash |
+| BerkeleyMew |
 | --- |
 | She/Her |
-| Languages | English (Native), French (Conversational), Mandarin (Basic) |
+| Languages | English (Native), French (Quebecois) (Fluent), Mandarin (Basic) |
 | Rank | Sentinel |
 | Reputation | Very Good |
 | Skills | Melee Combat, Investigation, Pursuit, Deception, Infiltration |
 | Tags | unusual ego |
 
-**Dash** is a sentinel who operates in the Extropian belt.
-In an environment where the boundary between the legal and the criminal can be thin indeed, she serves as a bounty-hunter, bodyguard and enforcer.
+**BerkeleyMew** is a sentinel who operates in the Extropian belt with her partner \@Nautílos.
+In an environment where the boundary between the legal and the criminal can be thin indeed, she works as a bounty-hunter, bodyguard, and enforcer.
 She's cultivated a diverse array of skills, focusing on combat, but also including intimidation, interrogation, deceipt, pursuit, and some basic piloting.
-Her overall feedback is strong.
+She also provides access to a web of connection in both the Extropian and criminal networks.
+
+Her overall feedback is strong, with particular positive feedback from an operation on the slopes of Olympus that became *interesting* and *fluid*.
 
 ### Cyrano de Bergerac's Pansexual Cephalopod Understudy
 
 | \*Akimbo |
 | --- |
 | He/Him |
-| Languages | English (Native), (Egyptian) Arabic (Fluent), Enceladus Deep (Conversational) |
+| Languages | English (Native), Arabic (Egyptian) (Fluent), Enceladus Deep (Conversational) |
 | Rank | Sentinel |
 | Reputation | Very Good |
 | Skills | Combat, Tactics, Infiltration |
@@ -299,9 +313,35 @@ Her overall feedback is strong.
 Notes:
 
 - You should probably set a nickname for this account, it changes handles a lot.
-  It's original display-name was "8xAkimbo Raging Bulls", and it's commonly referred to as "Akimbo" or "RB" in conversation.
+  It's original display-name was "8xAkimbo Raging Bulls", and it's commonly referred to as "Akimbo" or "RBs" in conversation.
   (Note, you can use \[this\] or \[account-name:*id*\] with an account-id to use the account's current display name, which will be rendered like this: *Cyrano de Bergerac's Pansexual Cephalopod Understudy*.)
 
-Commonly called "Akimbo" or "RBs," *Cyrano de Bergerac's Pansexual Cephalopod Understudy* is a sentinel known for his effectiveness in combat and infiltration.
-Being an octopus uplift, Akimbos prefers morphs that resemble his natural form and provide it's advantages — although he is also perfectly capable of functioning in a conventional humanoid morphs.
+Commonly called "Akimbo" or "RBs," *Cyrano de Bergerac's Pansexual Cephalopod Understudy* is a sentinel known for his effectiveness in combat and infiltration, and more recently for his support and advisory work.
 He has an excellent track-record and good feedback; his only real demerits are a slightly irritable personal style and being more than a little "gung-ho."
+
+Being an octopus uplift, Akimbo prefers morphs that resemble his natural form and provide it's advantages — although experience has shown that he is perfectly capable of functioning in conventional humanoid morphs.
+
+Akimbo was initially recruited by \@curé and operated in his cell, but, for reasons unknown, has since been moved to a safe-house and assigned to support cells.
+In his current capacity, he has contributed to CASE:ENFIELD, a cell developing libraries of useful fabber blueprints, and CASE:MELCHETT, a cell providing training and support to teams who lack combat expertise.
+(Unlike \@anarcat, Akimbo's arrangement is temporary, and he will be returned to field work once the issue has been resolved — whatever that issue was.)
+
+### 0514NOMAD
+
+| 0514NOMAD |
+| --- |
+| She/Her |
+| Languages | English (Native), Barsoomian (Fluent), Arabic (Algerian) (Conversational), French (Quebecois) (Conversational), Skandinaviska (Basic) |
+| Rank | Sentinel |
+| Reputation | Very Good |
+| Skills | Combat, Tactics, Survival, Academic Sociology, Psychoanalysis |
+| Tags | Limited Access |
+
+0514NOMAD is a Sentinel known for her combat effectiveness, her sociological skills, and her deep connections in the Maker and Sufi Nomad communities in the Martian outback.
+While her feedback and track-record are good, her current access to i-net is limited, owing to her current situation: for the last 16 months, she has been travelling with a Scum swarm in the Martian outback, interacting heavily with Sufi nomads, and assisting the Titan Quarantine Zone Guard Cooperative.
+Firewall has an official "hands-off" policy in regard to the latter group, as they operate in the open, and thus are almost certainly under active surveilance by other intelligence agencies.
+(She hasn't been removed from Firewall because our sources of intelligence on the Martian outback in general and the Sufi Nomad communities in specific are perilously few, and her op-sec is good.)
+
+0514NOMAD is known for being *reserved* in her personal style, cool in a crisis, and professional.
+Notably, owing to her experience with the organization and professional demeanor, she often falls into an unofficial "command" role in operations and has also been a valuable guide and mentor for new and inexperienced Sentinels.
+
+Operatives contacting her for aide or collaboration should be aware that she has a young daughter, and that this can introduce a certain amount of unavoidable logistical drag.
