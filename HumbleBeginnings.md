@@ -384,14 +384,14 @@ By working within local legal systems where possible, they sometimes attempt to 
 >
 > **Gunslinger\#MONOLITH**: I think the eviidence is a little strong there though.
 >
-> Bauble and I put out some feelers on the Guan Xi, and we've got some responses.
+> Bauble and I put out some feelers on the Guanxi, and we've got some responses.
 > Nothing to report — yet — but it's a distinct possibility.
 >
 > **Plasmage**: You guys don't have much, do you?
 >
 > **Curé**: Bon.
 > Good work, you two.
-> I think it's worth it to push on those Guan-Xi contacts.
+> I think it's worth it to push on those Guanxi contacts.
 > We'll coordinate that in the casefile.
 > Keep at it, I don't want to get blind-sided here.
 >
@@ -437,9 +437,9 @@ Notably, some of their working-groups appear to enjoy both greater access to res
 >
 > And yes, anarcat, we checked thermals; there's some hot radiators, but the hab's big and crowded enough that there's no way to be sure.
 >
-> **Bauble**: And we've also tried to call in some circle-A and Guan-Xi favors, work some external contacts.
+> **Bauble**: And we've also tried to call in some circle-A and Guanxi favors, work some external contacts.
 > So far, not much.
-> We've got some rumors, and we've uncovered some hints of an outside supply-chain, but that's it.
+> We've got some rumors, and we've uncovered some evidence of an outside supply-chain, but that's it.
 > We haven't got anything on what's inside those black-budget groups.
 >
 > **Plasmage**: What about infosec?
@@ -468,6 +468,7 @@ Notably, some of their working-groups appear to enjoy both greater access to res
 > I think there's enough to justify active measures.
 >
 > **Curé**: Crisse de câlice de tabarnak, I am not thrilled to send sentinels into a theatre with a possible active ASI.
+>
 > All right, I'll start the paperwork.
 >
 > **anarcat**: I'll get my infiltration pants on.
@@ -482,6 +483,7 @@ Notably, some of their working-groups appear to enjoy both greater access to res
 | Gravity | 0.75G (centrigrav) |
 | Population | 65K |
 | Languages | French (Quebecois), English, Barsoomian (Skyward), Mandarin, Arabic, Spanish |
+| Location | Jovian Greeks |
 | Faction | Autonomist, Skyward Collective |
 
 Égalité is the founding hab for the Skyward Collective, and still its single largest member.
@@ -490,12 +492,13 @@ Early on, both the founding cooperative and the entire collective movement had t
 During the second year, it was decided allowing the founding hab to share the same name as the whole collective violated the spirit of communist equality; the hab was renamed *Égalité*.
 (Four months after that, it was decided that a slightly more stirring — and more wieldy — name was required for the collective, and it was renamed *Skyward*.)
 
-The hab was originally built by a pre-fall hypercorp in the Jovian Greeks to support mining operations.
-The 540m-radius torus was not an ideal design for so far from the sun, and it was abandoned by its original hypercorp owner in BF 6.
+The 540m-radius torus hab was originally built by a pre-fall hypercorp in an asteroid family in the Jovian Greeks to support mining operations.
+It was abandoned by its original hypercorp owner when major mining operations ceased in BF 6.
+(It should be noted that the asteroids in the family still contain small veins of metals; mining ceased because the hypercorp could not compete with cheapter metals mined in the primary asteroid belt and inner system.)
 The station's next occupants arrived barely three years later, aided by contacts in the former hypercorp owner's administration; this group had formed around a core of anarchist-communist theorists and activists.
 
-Infugee influx during the fall dramatically expanded their population; during and after the Fall, integrating and indoctrinating the new arrivals was a primary concern.
-The stations activist founders watched on with concern as the Hypercorp Consortium set about combing through stored infugee egos, sleeving them, and integrating them; concern for the Hypercorp Consortium's growing population led the occupants to launch an initiative to similarly grow the Autonomists' ranks with infugees, and this the Skyward Collective was born.
+Infugee influx during the Fall dramatically expanded their population; during and after the Fall, sleeving, integrating and indoctrinating the new arrivals was a primary concern.
+The stations activist founders watched on with concern as the Hypercorp Consortium set about combing through the infugee egos that they had received, sleeving them, and integrating them; concern for the Hypercorp Consortium's growing population led the occupants to launch an initiative to similarly grow the Autonomist Alliance's ranks with infugees; and thus the Skyward Collective was born.
 
 Égalité remains the largest and most populous of the Skyward Collective's habs.
 Égalité is a torus hab with a radius of 544m, a rim-width of 89m, and a rim-height of 73m; it's spun to three-quarters of G, and a human-baseline environment is maintained inside — that is, one atmosphere of pressure, a 24-hour day/night cycle, a temperature between 14C and 27C, and a year-long seasonal cycle.
@@ -507,6 +510,9 @@ It currently has a population of 65,000.
 > They're packed in like we are.
 
 Égalité also retains some of the heavy infrastructure from its former life as a mining outpost; this gives it an ability to mine local asteroids and to produce some larger pieces of equipment.
+However, the Trojans in general are relatively metal-poor, and the family of asteroids that Égalité occupipes is "metal rich" only in comparison to the other Trojans — is still fairly poor compared to any given metallic asteroid in the main belt.
+However, like most of the Jovian trojans, the nearby asteroids are rich in ice, organic compounds, and silicates, meaning that the raw ingrediants for organics (including food and morphs), fuel, environments, carbon allotropes, and computing elements are plentiful.
+This means that, much like hydrocarbon-rich Titan, carbon allotropes (like diamond, graphite, graphene, and carbon nanotubes) are commonly used as construction materials in places where inner-system societies would use metals, and that organic, self-growing components are in much greater use.
 
 Despite the hedonist leanings of most of its residents, Égalité has a fairly sophisticated civil society.
 They have a number of Working Groups, including several different Task Groups, responsible for various areas of maintenance and hab-operation; large Civil Peace, Justic, and Social Support groups responsible for policing the habitat, prosecuting antisocial elements and providing support to those who are struggling, respectively; a Defence Group Federation that managers several smaller groups responsible for different aspects of the habitat's defence; and several research groups.
@@ -521,6 +527,7 @@ All of the judges in their court system are required to be Trusted Members, who 
 | Gravity | 0.166G (lunar gravity) |
 | Population | 85 |
 | Languages | French, Hindi, Mandarin |
+| Location | Luna |
 | Faction | Contested: Autonomist, Skyward Collective; Lunar-LaGrange Alliance |
 
 Dewi's Refuge is a small community burrowed into the surface of Luna.
@@ -554,7 +561,7 @@ The habitat has living space for a little more than three thousand people.
 > (And \@plasmage gets real pissy when you open dangerous packages without his permission.)
 > And I couldn't get it to \@anarcat or \@plasmage, so I made the hand-off.
 >
-> They weren't sloppy, no amatures there.
+> They weren't half-assing it, either.
 > They didn't offer information, and I didn't pry — you don't ask questions or make small-talk on these kinds of jobs, unless you *want* them to think you're a cop.
 > My impression wasn't quan-xi background; I think they're learning how to do counter-intel.
 >
@@ -563,12 +570,12 @@ The habitat has living space for a little more than three thousand people.
 > \[ \@Bauble attached files: _XP_recordings_, _comms_records_ \]
 >
 > **Plasmage**: For the record, I could see the package over the tac-net.
-> It looked like it was smart-matter, probably self-healing, probably with immunogenic capabilities — the kind of thing that could conceal who-knows-what capabilities.
-> I've seen \@anarcat rig up that kind of thing, and he usually also fits 'em with sensors that detect if you're scanning them with radar or terrahertz, and explosives if you detect imaging or a case-breach.
+> It looked like it was smart-matter, probably self-healing, probably with immunogenic capabilities — the kind of thing that could have who-knows-what capabilities.
+> Me and \@anarcat have rigged up that kind of thing, and we usually also fit 'em with sensors that detect if they're being scanned with radar or terrahertz, and explosives in case of a breach.
 > So we decided not to fuck with it!
 >
 > Also, I was keeping an eye on \@Bauble's telemetry; immunogenics, infosec and psych-scan all stayed clean.
-> We lost contact with her in the burrow, but scans and records matched up when she came out — and I don't fuck around with that kind of thing, I went through her systems and ego *thoroughly*, there wasn't a synapose out of place in her connectome.
+> We lost contact with her in the burrow, but scans and records matched up when she came out — and I don't fuck around with that kind of thing, I went through her systems and ego *thoroughly* and there wasn't a synapse out of place.
 
 ### Chateau Montgolfier
 
@@ -578,6 +585,7 @@ The habitat has living space for a little more than three thousand people.
 | Gravity | 0.91G (venusian gravity) |
 | Population | 366 |
 | Languages | French, English, German, Arabic |
+| Location | Venus |
 | Faction | Autonomist, Skyward Collective |
 
 Chateau Montgolfier is a settlement on Venus consisting of three zeppelins and a handfull of smaller structures (some little more than survival bubbles) that have all been lashed to a large, light-weight mesh.
@@ -608,7 +616,7 @@ They mainly use the zeppelins' thrusters to hold near the equator, far away from
 So far, we've basically copied the text from the existing knowledge-base and added notes — and we're still going to do that — but we're inserting some original research here.
 
 We were investigating the possibility of a hidden habitat somewhere, probably near Égalité.
-We were keeping a low profile, and that limited what we could do: we dug up some info on a hidden supply chain running into Égalité, passing through circle-A and guan-xi hands, but we couldn't look into it without risking exposure.
+We were keeping a low profile, and that limited what we could do: we dug up some info on a hidden supply chain running into Égalité, passing through circle-A and guanxi hands, but we couldn't look into it without risking exposure.
 
 > **anarcat**: I'm sure you and \@Bauble are on it, but I do know hab design.
 > I can take a look at that data if you want.
