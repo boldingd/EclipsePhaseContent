@@ -477,8 +477,8 @@ Notably, some of their working-groups appear to enjoy both greater access to res
 
 ### Égalité
 
-| Égalité |
-| --- |
+| Égalité | |
+| --- | --- |
 | Type | Torus (radius 544m) |
 | Gravity | 0.75G (centrigrav) |
 | Population | 65K |
@@ -521,8 +521,8 @@ All of the judges in their court system are required to be Trusted Members, who 
 
 ### Dewi's Refuge
 
-| Dewi's Refuge |
-| --- |
+| Dewi's Refuge | |
+| --- | --- |
 | Type | Sub-Surface Cavern (130m diameter) |
 | Gravity | 0.166G (lunar gravity) |
 | Population | 85 |
@@ -579,8 +579,8 @@ The habitat has living space for a little more than three thousand people.
 
 ### Chateau Montgolfier
 
-| Chateau Montgolfier |
-| --- |
+| Chateau Montgolfier | |
+| --- | --- |
 | Type | "Gantry" mesh (triangular mesh, 500m to a side) |
 | Gravity | 0.91G (venusian gravity) |
 | Population | 366 |
@@ -600,8 +600,8 @@ They mainly use the zeppelins' thrusters to hold near the equator, far away from
 
 ### Armoise
 
-| Armoise |
-| --- |
+| Armoise | |
+| --- | --- |
 | Type | Beehive |
 | Gravity | Microgravity; 0.2G (centrigrav track), 0.3G (centrigrav track) |
 | Population | 9K |
