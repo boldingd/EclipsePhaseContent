@@ -1,3 +1,5 @@
+## General Notes
+
 Mandarin phrases — useful for writing Kai/Bauble
 
 - (common phrases)[https://www.travelandleisure.com/travel-tips/basic-mandarin-chinese-words-phrases]
@@ -44,3 +46,51 @@ Style notes:
   - \[ A cross-reference with an _operational_file_ was created _here_. \]
   - \[ \@Minerva has created an issue _here_: formal complaint: factional bias. _12_ accounts have subscribed. \]
   - \[ \@Bauble attached files: _XP_recordings_, _comms_records_ \]
+
+## Networks
+
+I keep messing up the network names, emberassingly enough.
+Quoted from the book, they are:
+
+- The @-list: the Circle-A list for anarchists,
+Barsoomians, Extropians, scum, and Titanians,
+noted as @-rep.
+- CivicNet: used by the Jovian Republic, Lunar-
+Lagrange Alliance, Morningstar Constellation,
+Planetary Consortium, and many hypercorps,
+referred to as c-rep.
+- EcoWave: used by nano-ecologists, preservation-
+ists, and reclaimers, referred to as e-rep.
+- Fame: the seen-and-be-seen network used by
+socialites, artists, glitterati, and media, referred
+to as f-rep.
+- Guanxi: used by the triads and numerous crimi-
+nal entities, referred to as g-rep.
+- The Eye: used by Firewall, noted as i-rep.
+- RNA: Research Network Affiliation, used by
+argonauts, technologists, scientists, and research-
+ers, referred to as r-rep.
+
+## Notes for Skyward
+
+References (mostly Wikipedia) while working on Egalite:
+
+- the [Jovian trohans](https://en.wikipedia.org/wiki/Jupiter_trojan), where "Trojan" here refers to both the Trojans and the Greeks.
+  - Notably, the Trojans can also form families.
+  - Wikipedia is in a little bit of a fight with itself, claiming that the spectrum matches "water, charcoal, and silicates" but then also saying that "there's no firm evidence of water, organics or other compounds."
+  - It also suggests that some of them might be very like comets, big balls of ice.
+  - It lists them as "mostly" being [D-type](https://en.wikipedia.org/wiki/D-type_asteroid) (silicate) asteroids, with a "small number" of [C-type](https://en.wikipedia.org/wiki/C-type_asteroid) (carbonaceous) asteroids.
+- [Horseshoe orbits](https://en.wikipedia.org/wiki/Horseshoe_orbit#Tadpole_orbit).
+  - I *think* that no known Trojan actually has a horse-shoe orbit, although they can in theory; most(?) of them have *tadbpole* orbits, which are covered in the same article.
+  - They're really crazy.
+    They are both very complex and very cool.
+- The book says that tin-cans are common because they don't need thick hulls for radiation shielding, but I don't *think* that's correct, because you're still going to need a thick hull for [cosmic-ray](https://en.wikipedia.org/wiki/Cosmic_ray) shielding, because one source on Wikipedia suggested that anything that can hold 1atm of pressure can pretty much hold against 1G of gravity, and because Hamilton cylinders and Cole bubbles are pretty much designed specifically to be efficient in terms of mass when it comes to hull construction and radiation shielding.
+  - I'm also having a *very* hard time believing that a cluster or module-hab could give you *more* usable space (as the book claims) for the same hull mass.
+    I'm outright calling BS on that.
+
+Notably, [Neptune also has Trojans](https://en.wikipedia.org/wiki/Neptune_trojan); apparently, the consensus is that it doesn't have many, although at least one source indicates that there could be a lot of them.
+(Amusingly, one source also suggests that there might be many fewer large Jovian trojans than where previously thought.
+Probably still enough of them that thet setting still works, but fewer.)
+
+The write-up in the book is good; it starts on Rimward p.54.
+Locus proper starts on Rimward p.58.
