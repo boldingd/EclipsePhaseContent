@@ -52,24 +52,13 @@ Style notes:
 I keep messing up the network names, emberassingly enough.
 Quoted from the book (CRB p.125), they are:
 
-- The @-list: the Circle-A list for anarchists,
-Barsoomians, Extropians, scum, and Titanians,
-noted as @-rep.
-- CivicNet: used by the Jovian Republic, Lunar-
-Lagrange Alliance, Morningstar Constellation,
-Planetary Consortium, and many hypercorps,
-referred to as c-rep.
-- EcoWave: used by nano-ecologists, preservation-
-ists, and reclaimers, referred to as e-rep.
-- Fame: the seen-and-be-seen network used by
-socialites, artists, glitterati, and media, referred
-to as f-rep.
-- Guanxi: used by the triads and numerous crimi-
-nal entities, referred to as g-rep.
+- The @-list: the Circle-A list for anarchists, Barsoomians, Extropians, scum, and Titanians, noted as @-rep.
+- CivicNet: used by the Jovian Republic, Lunar-Lagrange Alliance, Morningstar Constellation, Planetary Consortium, and many hypercorps, referred to as c-rep.
+- EcoWave: used by nano-ecologists, preservationists, and reclaimers, referred to as e-rep.
+- Fame: the seen-and-be-seen network used by socialites, artists, glitterati, and media, referred to as f-rep.
+- Guanxi: used by the triads and numerous criminal entities, referred to as g-rep.
 - The Eye: used by Firewall, noted as i-rep.
-- RNA: Research Network Affiliation, used by
-argonauts, technologists, scientists, and research-
-ers, referred to as r-rep.
+- RNA: Research Network Affiliation, used by argonauts, technologists, scientists, and researchers, referred to as r-rep.
 
 Notably, I've written "Guanxi" every way but the right way.
 
