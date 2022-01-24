@@ -286,6 +286,15 @@ The locals have a conservationist bent and a long-term view; they emphasize sust
 
 ## Limehouse
 
+| Limehouse | |
+| --- | --- |
+| Type | Module |
+| Gravity | Microgravity; 0.2G (two 90m centrigrav tracks), 0.5G (150 centrigrav track) |
+| Population | 2,300 (1,100 in morphs, 1,200 infomorphs; 1,400 infugees in cold storage not counted) |
+| Languages | English, Hindi, Portugese, Spanish |
+| Location | Main Belt (in orbit around Kainouda 2035) |
+| Faction | Subjective: None, or Scum, or Criminal |
+
 Limehouse is one of five module habitats constructed during the Fall to receive refugees.
 Ownership of the habitats was given to the refugees who settled there, to organize as they saw fit; three ultimately went hypercapitalist, while the fourth organized itself as an Extropian cooperative.
 The residents of Limehouse, however, failed to establish any kind of formal organization; whether the station is a Scum swarm or a failed society is something of a matter of perspective.
@@ -294,14 +303,21 @@ The residents of Limehouse, however, failed to establish any kind of formal orga
 
 The station was one of five constructed during the Fall to house refugees.
 Almost 1100 physical refugees where settled on the station, and another two thousand infugees where stored there;
-the initial population included a prison work-crew (guards and inmates) who hijacked an SOTV from Robins AFB, and a cache of some four-hundred-plus egos salvaged from the communications network of a Commonwealth-of-Nations-based minifacturing firm.
+the initial population was diverse, including for example a prison work-crew (both guards and inmates) who hijacked an SOTV from Robins AFB in the United States, and a cache of some four-hundred-plus egos salvaged from the communications network of a Commonwealth-of-Nations-based minifacturing firm.
 
 Ownership of the stations was granted to the refugees that where settled there, for them to organize as they saw fit.
 Within fourteen months of the fall, three of the stations had opted to join the Planetary Consortium, and the fourth had organized itself as an Extropian cooperative — but Limehouse had failed to organize itself.
 Three months after the station was turned over to its residents, a proposal to organize it along hypercorporate lines was brought to a vote and soundly defeated; no other proposals where successfully brought to a vote.
-Since the station had been at least notionally granted as property to its resident, it might arguably have been extropian anarcho-capitalist by default, but a web of microcorps never developed.
+Since the station had been at least notionally granted as property to its resident, it might arguably have been extropian anarcho-capitalist by default, but a functional web of microcorps never developed.
 
-As the situation continued, a certain amount of self-sorting occurred; those with the resources to do so left, while the stations became something of a catch-basin for the 
+As the situation continued, a certain amount of self-sorting occurred; those with the resources to do so left, while the stations became something of a catch-basin for the criminals, burn-outs and antisocial elements of the Kainouda 2035 "neighborhood."
+Social organization on the station was eventually dominated by two groups: one centered around a pool of working-class refugees, who brought with them a certain "labour-party" social identity, and another centered around a small web of criminal gangs.
+
+In the years since the fall, several of the stations residents have joined either the Circle-A or Guanxi networks — or both — and the stations' informal social structure and "punk anarchist" style marks it as a Scum swarm.
+
+### Culture
+
+
 
 # The Old Text I'm Slicing From
 
