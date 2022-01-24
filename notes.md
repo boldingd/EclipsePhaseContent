@@ -50,7 +50,7 @@ Style notes:
 ## Networks
 
 I keep messing up the network names, emberassingly enough.
-Quoted from the book, they are:
+Quoted from the book (CRB p.125), they are:
 
 - The @-list: the Circle-A list for anarchists,
 Barsoomians, Extropians, scum, and Titanians,
@@ -70,6 +70,8 @@ nal entities, referred to as g-rep.
 - RNA: Research Network Affiliation, used by
 argonauts, technologists, scientists, and research-
 ers, referred to as r-rep.
+
+Notably, I've written "Guanxi" every way but the right way.
 
 ## Notes for Skyward
 
