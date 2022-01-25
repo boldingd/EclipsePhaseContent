@@ -1,12 +1,13 @@
 ### Curé
 
-| Curé |
-| --- |
-| he/him |
-| Languages | (Quebecois) French (Native), English (Fluent), Haitian Creole (Conversational), Barsoomian (Conversational) |
-| Rank | Router |
-| Reputation | Mixed, Contested |
+| Curé | |
+| --- | --- |
+| Identity | Human, he/him |
+| Languages | French (Quebecois) (Native), English (Fluent), Haitian Creole (Conversational), Barsoomian (Conversational) |
+| Rank | Proxy |
+| Reputation | Good, Contested |
 | Skills | psychosurgery, bio-engineering |
+| Tags | |
 
 **Curé** is an O.G. proxy.
 He was not, strictly speaking, a founding member of Firewall, but he joined the organization in its first year; he's been active and effective, and is very well-connected.
@@ -34,25 +35,27 @@ He's also made more of a show of abiding by the organization's rules, at least i
 
 ### RategoryTheory
 
-| RategoryTheory |
-| --- |
-| she/her |
+| RategoryTheory | |
+| --- | --- |
+| Identity | AGI, she/her |
 | Languages | English (Native), German (Fluent), Hebrew (Conversational) |
 | Rank | Sentinel |
 | Reputation | Good |
 | Skills | infosec, psychosurgery, hypercorp connections |
+| Tags | |
 
 **RategoryTheory**
 
 ### Gunslinger\#MONOLITH
 
-| Gunslinger |
-| --- |
-| he/him |
+| Gunslinger | |
+| --- | --- |
+| Identity | Human, he/him or they/them |
 | Languages | German (Native), English (Conversational), Russian (Conversational) |
 | Rank | Sentinel |
 | Reputation | Good |
 | Skills | history, networking, investigation, shooting, smuggling |
+| Tags | |
 
 **Gunslinger** is a Sentinel originally recruited by \@Curé, who has since rotated through a handfull of other cells; he is currently on "detached assignment," coordinating with \@Plasmage and keeping an eye on the southeast edge of the Martian T.Q.Z.
 Though Gunslinger is a remarkable shot with a long-rifle — as the name implies — he also brings an advanced degree in history; connections in several social circles; a smattering of survival, infiltration and social skills; and personal holdings and resources on Mars.
@@ -90,13 +93,14 @@ Care must be taken when he is placed on a team with either the particularly thin
 
 ### Plasmage
 
-| Plasmage |
-| --- |
-| he/him |
+| Plasmage | |
+| --- | --- |
+| Identity | Human, he/him |
 | Languages | English (Native), Mandarin (Conversational) |
 | Rank | Proxy |
 | Reputation | Good |
 | Skills | Combat, Nanotechnology, Medicine, Psychosurgery, Ecology |
+| Tags | Unusual Ego, Difficulty Resleeving, Morph Requirements |
 
 The **Plasmage** is a Proxy operating out of the wilds on Mars.
 Notably, he served as a Sentinel for several years before becoming a proxy in his own right.
@@ -138,13 +142,14 @@ He is also reputed to have particular trouble when resleeving, being prone to st
 
 ### Anarcat
 
-| Anarcat |
-| ------- |
-| he/him |
+| Anarcat | |
+| --- | --- |
+| Identity | Human, he/him |
 | Languages | English (Native), Skandinaviska (Fluent), French (Belgian) (Basic) |
 | Rank | Sentinel |
 | Reputation | Good |
 | Skills | engineering, infiltration, programming, needlers |
+| Tags | Unusual Ego |
 
 **Anarcat** is a jack of all trades, but a master of none; his most developed skills lie in engineering and infiltration, and he is currently serving a "technical support" roll in *@Curé*'s cell.
 
@@ -185,9 +190,18 @@ Although he is a member of an Extropian Mutualist community in 'Belt, he spent h
 
 He is also active in Firewall's queer community, being bisexual (natch); and he has connections to the furry community (this has allegedly been useful in an operation, although the details of how this could possibly be the case are perhaps best not contemplated).
 
-### H0N3
+### H0N-3
 
-The **H0N3** (pronounced "honey") is an AGI that almost grew up in the Organization; her cognitive-architecture was designed by a Sentinel (a Titanian, and also an AGI), who also raised her.
+| H0N-3 | |
+| --- | --- |
+| Identity | AGI, she/her |
+| Languages | Skandinaviska (Native), English (Fluent) |
+| Rank | Sentinel |
+| Reputation | Good |
+| Skills | Combat |
+| Tags | Unusual Ego |
+
+The **H0N-3** (pronounced "honey") is an AGI that almost grew up in the Organization; her cognitive-architecture was designed by a Sentinel (a Titanian, and also an AGI), who also raised her.
 She adopted a number of her progenetor's causes, including his fierce opposition to the Jovian Republic and his commitment to Firewall, and was eventually recruited into the organization.
 Also much like her progenitor, her approach tends to be "direct"; she tends to prefer hardy synthetic morphs, and brings a raft of combat skills to a mission.
 She is also noted for having an innocent and empathic demeanor, and a certain amount of naivite about the material world.
@@ -203,9 +217,9 @@ While her skills have been invaluable to a number of teams and her reputation is
 
 ### Bauble
 
-| Bauble |
-| --- |
-| flexible; she/her, or appropriate for morph |
+| Bauble | |
+| --- | --- |
+| Identity | Human, flexible (she/her, or appropriate for morph) |
 | Languages | Mandarin (Native), English (Fluent) |
 | Rank | Sentinel |
 | Reputation | Very Good |
@@ -238,10 +252,10 @@ Bauble is also notable for being something of a skin-walker, experimenting with 
 
 ### Padre
 
-| Padre |
-| --- |
-| He/Him |
-| Languages | English (Native), Spanish (Native), Classical Greek (Fluent), Medieval Latin (Fluent), Aramaic (Basic), Liturgical Hebrew (Basic) |
+| Padre | |
+| --- | --- |
+| Identity | Human, he/him |
+| Languages | English (Native), Spanish (Native), Classical Greek (Fluent), Medieval Latin (Fluent), Aramaic (Basic), Classical Hebrew (Basic) |
 | Rank | Proxy |
 | Reputation | Very Good |
 | Skills | Intelligence, Logistical Support |
@@ -283,14 +297,14 @@ In any case, one vital service the Padre provides is access to the subtle, unoff
 
 ### BerkeleyMew
 
-| BerkeleyMew |
-| --- |
-| She/Her |
+| BerkeleyMew | |
+| --- | --- |
+| Identity | Human, she/her |
 | Languages | English (Native), French (Quebecois) (Fluent), Mandarin (Basic) |
 | Rank | Sentinel |
 | Reputation | Very Good |
 | Skills | Melee Combat, Investigation, Pursuit, Deception, Infiltration |
-| Tags | unusual ego |
+| Tags | |
 
 **BerkeleyMew** is a sentinel who operates in the Extropian belt with her partner \@Nautílos.
 In an environment where the boundary between the legal and the criminal can be thin indeed, she works as a bounty-hunter, bodyguard, and enforcer.
@@ -301,14 +315,14 @@ Her overall feedback is strong, with particular positive feedback from an operat
 
 ### Cyrano de Bergerac's Pansexual Cephalopod Understudy
 
-| \*Akimbo |
-| --- |
-| He/Him |
+| \*Akimbo | |
+| --- | --- |
+| Identity | Octapus uplift, he/him |
 | Languages | English (Native), Arabic (Egyptian) (Fluent), Enceladus Deep (Conversational) |
 | Rank | Sentinel |
 | Reputation | Very Good |
 | Skills | Combat, Tactics, Infiltration |
-| Tags | unusual ego |
+| Tags | |
 
 Notes:
 
@@ -327,21 +341,21 @@ In his current capacity, he has contributed to CASE:ENFIELD, a cell developing l
 
 ### 0514NOMAD
 
-| 0514NOMAD |
-| --- |
-| She/Her |
+| 0514NOMAD | |
+| --- | --- |
+| Identity | Human, she/her |
 | Languages | English (Native), Barsoomian (Fluent), Arabic (Algerian) (Conversational), French (Quebecois) (Conversational), Skandinaviska (Basic) |
 | Rank | Sentinel |
 | Reputation | Very Good |
 | Skills | Combat, Tactics, Survival, Academic Sociology, Psychoanalysis |
 | Tags | Limited Access |
 
-0514NOMAD is a Sentinel known for her combat effectiveness, her sociological skills, and her deep connections in the Maker and Sufi Nomad communities in the Martian outback.
+0514NOMAD is a Sentinel known for her combat effectiveness, her academic background and skill as a sociologist, and her deep connections in the Martian outback, particularly in the Maker and Sufi Nomad communities.
 While her feedback and track-record are good, her current access to i-net is limited, owing to her current situation: for the last 16 months, she has been travelling with a Scum swarm in the Martian outback, interacting heavily with Sufi nomads, and assisting the Titan Quarantine Zone Guard Cooperative.
 Firewall has an official "hands-off" policy in regard to the latter group, as they operate in the open, and thus are almost certainly under active surveilance by other intelligence agencies.
 (She hasn't been removed from Firewall because our sources of intelligence on the Martian outback in general and the Sufi Nomad communities in specific are perilously few, and her op-sec is good.)
 
 0514NOMAD is known for being *reserved* in her personal style, cool in a crisis, and professional.
-Notably, owing to her experience with the organization and professional demeanor, she often falls into an unofficial "command" role in operations and has also been a valuable guide and mentor for new and inexperienced Sentinels.
+Notably, owing to her experience with the organization and professional demeanor, she often falls into an unofficial "command" role in operations, and has also been a valuable guide and mentor for new and inexperienced Sentinels.
 
 Operatives contacting her for aide or collaboration should be aware that she has a young daughter, and that this can introduce a certain amount of unavoidable logistical drag.
