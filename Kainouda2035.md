@@ -201,89 +201,6 @@ During the Fall, the KDC led the hasty construction of 5 modular habs in orbit o
 A number of smaller habs have also been built nearby — some as members of the KDC, others not.
 (Of course, the ones that aren't KDC members are built outside of the volume claimed by the KDC and covered by the asteroid's defenses.)
 
-## The Carbon Compact
-
-The Carbon Compact a small Extropian habitat in orbit around Kainouda 2035.
-It is held by a single cooperative, and is run using a using a unique economic and political system intended to use market dynamics to make political decisions.
-Much like a Mutualist cooperative, the habitat, its major infrastructure, and many of its held resources are collectively owned, but "loaned" to members for productive use; their productive output is then exchanged in an open market.
-However, their political system is also market-based: much as individuals are given a fixed ammount disbursement of a local social money, they are also given a fixed disbursement of *political* currency; individuals can then spend *more* or *less* of their political currency when voting, to have a larger or smaller effect, correlating to how strong their preferences are in a given vote.
-
-> **anarcat**: God, this frustrates me.
-> Some people call these kinds of habs "utilitarians," like that's a political faction.
-> Utilitarianism isn't a political or economic system, and its definitely not a faction.
-> Anyone can be a utilitarian; I, for example, am a utilitarian *Titanian*, and I live on a *Mutualist* habitat.
->
-> **Gunslinger\#MONOLITH**: Tip your fedora more.
->
-> **anarcat**: Only if you get basic terminology right.
-
-### The Habitat
-
-The Carbon Compact is a small Cole-bubble habitat, made from a small C-type asteroid (hence the "carbon" part of the name) that was towed into orbit around the Thistledown.
-The Compact is only 245m in diameter, and is spun to a third of a G at the equator — roughly Martian surface gravity.
-
-> **anarcat**: If you're the kind of person who often jumps toward or off of spinning habs, that's about 1 RPM even, with an tangential velocity of about 27m/s at the equator.
-
-A environment suitable for baseline humans is maintained in the habitat.
-It's kept at 1atm of pressure, with temperatures running from 5C to 30C based on the time and season.
-A day-night cycle is maintained (with a 24-hour day), as is a seasonal cycle (with an eight month "year").
-The habitat is sealed, without window-strips, and uses a plasma-tube for lighting.
-It includes a number of *wind breaks* and a few large dividers, in order to break up "rolling storms."
-
-### Extropian System
-
-Their particular Extropian scheme uses collective ownership much like a Mutualist cooperative.
-The Carbon Compact owns the habitat, its infrastructure, its major productive capitol, and its resource stores.
-The Compact uses a social-money scheme: every member gets an equal pay-out of their social currency, the Carbon Credit.
-The Carbon Credit can then be used to bid for access to raw materials and productive equipment, or to purchase goods that other members produce.
-
-At any given time, some resources are banked, some are disbursed to citizens, some are auctioned off for local use, and some are auctioned for export; only goods made from export-marked resources can be priced in credits or sold to outsiders.
-
-Unusually, their political system is also market-based.
-Rather than granting each member one vote in each poll, each member is granted an equal amount of their political currency, the Carbon Voice, every three months; they can then spend that currency in elections.
-Spending more Voice allows someone to have a greater impact on a particular vote.
-The theory is that this allows for a more expressive political system, that captures the fact that any given issue will be more important to some people than to others.
-In order to also represent the fact that some people may not care very much about governance at all, members are allowed to sell up to a quarter of their Voice to other members for Carbon Credits.
-(Notably, purchased Voice cannot be used on certain issues or for certain major decisions.)
-
-> **Gunslinger#MONOLITH**: That seems like a very bad idea.
->
-> **Minerva**: It is like Sam Harris fans took a poly-sci introductory course while very high.
->
-> **Apotheotician**: It works out about like you'd think.
-> 
-> **Gunslinger#MONOLITH**: Specifically letting people sell their votes, though.
-> That's a *very* bad idea.
-> What stops me from showing up with a sack of credits, buying everyone's spare votes, and then electing myself King of Carbon Mountain?
->
-> **anarcat**: you're too subby to be a king?
->
-> \[\@anarcat has received a warning.\]
-
-### Society
-
-The habitat has a permanent population of about eight and a half thousand; it can host up to roughly four thousand temporary residents, consisting of students, visiting scholars, and vacationers.
-
-The asteroid has two major industries: Kainouda Area Independent University, together with a handful of satellite labs; and a system of resorts covering half of the "equatorial strip" of the hab.
-KAIU is well-regarded (maintaining a solid R-rep), and boasts particularly strong industrial engineering and economics programs.
-It is notable for being connected to both the Kainouda Area Research Corporation (which focuses on industrial engineering) and the Carbon Institute (an economics think-tank).
-The hab also hosts a number of resorts, including the Carbon Cove, a community sprawling over 230m of the equator, modelled (loosely) on the Greek Mediterranean.
-
-> **Apotheotician**: And now you know why they have rules for efficiently selling stuff to outsiders.
-> 
-> **Gunslinger#MONOLITH**: Holy fuck Minerva was right about these people.
->
-> **Minerva**: Thank you, \@Gunslinger.
->
-> **Bauble**: I think I'd start killing people if I had to stay at that resort.
->
-> **Gunslinger#MONOLITH**: Run by utilitarians, based on the "Greek Mediterranean."
-> "Loosely!"
->
-> **anarcat**: I think you two are going a little overboard.
-
-The locals have a conservationist bent and a long-term view; they emphasize sustainability over growth, and tend to draw lightly on their resources.
-
 ## Limehouse
 
 | Limehouse | |
@@ -313,11 +230,215 @@ Since the station had been at least notionally granted as property to its reside
 As the situation continued, a certain amount of self-sorting occurred; those with the resources to do so left, while the stations became something of a catch-basin for the criminals, burn-outs and antisocial elements of the Kainouda 2035 "neighborhood."
 Social organization on the station was eventually dominated by two groups: one centered around a pool of working-class refugees, who brought with them a certain "labour-party" social identity, and another centered around a small web of criminal gangs.
 
-In the years since the fall, several of the stations residents have joined either the Circle-A or Guanxi networks — or both — and the stations' informal social structure and "punk anarchist" style marks it as a Scum swarm.
+In the years since the fall, several of the stations residents have joined either the Circle-A or Guanxi networks — or both — and the stations' informal social structure, "punk anarchist" style, and open criminal element mark it as a Scum swarm.
 
-### Culture
+### Organization
 
+Like most Scum swarms, Limehouse has no formal organization, rule-making or governings systems, or economic system.
+The locals tend to be anti-authoritarian, individualistic and libertine, and hedonistic.
+Clear, mutual, informed consent and staying out of what doesn't concern you are the two corner-stones of society on Limehouse.
 
+Unlike many other genera of anarchism, the Scum generally don't concern themselves with theory or hold themselves to formal process; instead, Scum swarms tend to run on a mix of personal authority, reputation, tradition, reciprocity, and violence — ranging from the pointed shove to the angry mob.
+Limehouse is no different: there are no reputation scores, no affinity groups or workers' councils, and no public decision-making system.
+The "civil society" of Limehouse instead runs on informal authority, a certain kind of tradition, and shouted obscenities.
+Those who command the respect of their peers — either through toughness, a commanding personality, a reputation for getting important jobs done, or armed back-up — corral groups of their fellows into action.
+People tend to repeat things that work, so people who prove to be good at keeping the station running — or enriching their followers — tend to get trusted with more power, and ad-hoc arrangements crystalize into crews, gangs, and bosses.
+
+> **Bauble**: *Fuck*, this is the most bloodless description of a Scum swarm I've ever read.
+> It's like if I wrote a book report on fucking.
+>
+> **RategoryTheory**: So it's… wrong, or…?
+>
+> **Bauble**: No, it's just… we would never talk about ourselves this way.
+>
+> **anarcat**: So it does not meet with your approval?
+>
+> **Bauble**: It does not.
+>
+> **plasmage**: \>\@Bauble Thank you for being civil.
+>
+> **Bauble**: \>\@plasmage I'll blow your dad and swallow your brother, lǎodà.
+>
+> **anarcat**: Well then.
+>
+> **plasmage**: 我應該知道的更好。
+>
+> Wait, aren't you asexual?
+> Wasn't that the point?
+>
+> **Bauble**: I don't let that get in the way of a good threat.
+
+In practice, Limehouse is broken into crews and gangs.
+
+## The Carbon Compact
+
+| The Carbon Compact | |
+| --- | --- |
+| Type | Bear Hab (285m minor axis, 315m major axis; multiple chambers) |
+| Gravity | Microgravity; 0.3G (main chamber, centrigrav); 0.5G (two secondary tracks, centrigrav) |
+| Population | 8K permanent, up to 4K temporary |
+| Languages | English, Mandarin, Arabic |
+| Location | Main Belt (about five hundred kilometers from Kainouda 2035) |
+| Faction | Extropian Mutualist |
+
+The Carbon Compact a small (in relative terms) Extropian Mutualist habitat near (also in relative terms) Kainouda 2035.
+It is held by a single cooperative, and is run using an unusual variant of direct democracy that is intended to capture the fact that not every votes is invested in every decision.
+The Carbon Compact hosts a university, several affiliated think-tanks and research labs, and a number of small luxury resorts.
+
+> **anarcat**: God, this frustrates me.
+> Some people call these kinds of habs "utilitarians," like that's a political system or a faction on circle-A.
+> Utilitarianism is an *ethical system*, it doesn't imply any kind of political organization.
+> Anyone can be a utilitarian; I, for example, am a utilitarian *Titanian*, and I live on a *Mutualist* habitat.
+> And it *definitely* dosn't imply some kind of weird social-money-voting thing!
+>
+> **Gunslinger\#MONOLITH**: Tip your fedora more.
+>
+> **anarcat**: Only if you get basic terminology right.
+
+### The Habitat
+
+In some ways, the Carbon Compact habitat is similar to the Thistledown, if much smaller.
+It is also a Bear Habitat — an asteroid that has had a large central chamber constructed, which is then spun for gravity.
+The Carbon Compact's habitat was constructed in a small, oblong, C-type asteroid (hence the "carbon" part of the name) that was towed into the orbital neighborhood of the Thistledown in AF 3.
+The asteroid itself is irregular and oblong, about 315m on its long axis and 285m on its short axis.
+
+The asteroid contains a single main chamber, about 285m long and 245m in diameter at the middle, and spun to 0.3G (a little less than Martian surface gravity).
+(Note that the chamber itself is rotated, but the asteroid itself is not.)
+Somewhat uniquely, the chamber's floor slopes "up-hill," giving it a layout a little bit like the interior of a bubble-hab; this means that the relative centrigrav is less the further you move from the "equator" of the chamber.
+The chamber is only about 95m in diameter at the end caps; the centrigrav there is only 0.1G, which is low enough that Coriolis forces are noticable.
+
+The asteroid also contains two smaller grav-tracks, built around the interior chamber at either end; this is one of the reasons that the chamber narrows.
+These tracks are 230m in diameter, only about 60m "long", and spun up to 0.5G.
+They do completely cancel the torque of the main chamber, but they do help manage precession; they also allow the Compact a limited degree of attitude control, by using them as reaction wheels (like Hamilton cylinders often do).
+
+The habitat also contains a limited area of beehive tunnels; since the asteroid itself is not spinning, these tunnels are in microgravity.
+They are viewed as relatively poor real-estate, and so they are often used for industrial and support equipment, as housing for the poor, and for installations that require strong security (since bing surrounded by rock walls provides good access-control).
+
+An environment suitable for baseline humans is maintained in the habitat.
+It's kept at 1atm of pressure, with temperatures running from 5C to 30C based on the time and season.
+A day/night cycle is maintained (with a 24-hour day), as is a seasonal cycle (with an eight month "year").
+The habitat is sealed, of course, and lacks window strips; a plasma tube is used for lighting in the main chamber, and lights are fixed to the "ceiling" of the smaller centrigrav tracks.
+Rolling storms aren't much of a concern for a habitat so small, especially not when it is spun to such a low gravity; their only wind breaks are two rows of stylized columns running along the "prime meridian" of the main chamber.
+
+### Extropian System
+
+The Carbon Compact uses a collective-ownership mechanism similar to most other Mutualist habs.
+The habitat, its infrastructure, its major productive capitol, and its resource stores are all held collectively, granted to member-owned "banks," and leased to members for productive use.
+The Compact uses a social-money scheme, where every member gets an equal pay-out of their social currency, the Carbon Credit; those credit can then be used to bid for access to raw materials and productive equipment, or to purchase goods that other members produce.
+At any given time, some resources are banked, some are disbursed to citizens, some are auctioned off for local use, and some are auctioned for export; only goods made from export-marked resources can be priced in credits or sold to outsiders.
+
+They use a variant of direct-democratic voting to make political decisions.
+Rather than granting each member one vote in each poll, each member is granted an equal amount of their political currency, the Carbon Voice, every three months; they can then spend that currency in elections.
+Voters can spend a varying ammount of Voice in any given poll, allowing them to have a greater or lesser influence on the eventual outcome; the theory is that this allows for a more expressive political system, that captures the fact that any given issue will be more important to some people than to others.
+In order to also represent the fact that some people may not care very much about governance at all, and to inject a measure of market efficiency into their politics, members are allowed to sell up to a quarter of their Voice to other members for Carbon Credits.
+
+> **Gunslinger#MONOLITH**: That seems like a very bad idea.
+>
+> **Minerva**: It is like Sam Harris fans took a poly-sci introductory course while very high.
+>
+> **Apotheotician**: It works out about like you'd think.
+> 
+> **Gunslinger#MONOLITH**: Specifically letting people sell their votes, though.
+> That's a *very* bad idea.
+> What stops me from showing up with a sack of credits, buying everyone's spare votes, and then electing myself King of Carbon Mountain?
+>
+> **anarcat**: You're too subby to be a king?
+>
+> \[\@anarcat has received a warning.\]
+
+The system does have a few notable limits, intended to prevent abuse: some polls bar the use of purchased Voice, including revisions to their charter or decisions that "fundamentally" impact the entire hab (like adjusting the hab environment); and most polls have an upper limit on the ammount of Voice that any one person can spend (for example, a vote to adjust the amount of feed-stock allocated for external sale might limit each participant to spending no more than 3 Voice).
+
+> **RategoryTheory**: Oh, well that'll fix it.
+>
+> **Gunslinger#MONOLITH**: Come on, you should love this!
+> It's free-market *voting*!
+> They built "the rich get more say!" right into their political system!
+>
+> **Bauble**: Jesus christ!
+> You can't not pick at ratty even when you agree with her!
+
+### Society
+
+The habitat has a permanent population of about eight and a half thousand, and can comfortably support another four thousand visitors.
+Residents are from a diverse array of backgrounds, drawn from all over Earth and Luna; notable pockets where drawn from Hong Kong, Toronto, Atlanta, San Francisco, and Dubai.
+Visitors, in turn, usually consist of students, scholars, and vacationers.
+
+> **Gunslinger#MONOLITH**: So, every old-earth city populated by rich investor-class assholes.
+>
+> **plasmage**: And Atlanta, for some reason.
+>
+> **BerkeleyMew**: Hey, I'm going to defend Toronto.
+> I don't know how, but I will.
+>
+> **Padre**: I'm disapointed Houston didn't make the list, then I could've found out what \@Gunslinger thinks of my old stomping-grounds.
+>
+> **anarcat**: When where you in Houston?
+>
+> **Padre**: Before seminary.
+>
+> **anarcat**: Ohhh I didn't know that.
+>
+> **plasmage**: Real useful discussion you're having there.
+>
+> **anarcat**: Oh come on, less useful than 'slinger bitching about Dubai?
+
+The asteroid has two major industries: Kainouda Area Independent University, together with a handful of satellite labs and think-tanks; and a system of resorts covering two-thirds of the of the "equatorial strip."
+
+KAIU is well-regarded (meaning it maintains a solid R-rep), and boasts particularly strong industrial engineering and economics programs.
+It is notable for being connected to both the Kainouda Area Research Corporation (which focuses on industrial engineering) and the Carbon Institute (an economics think-tank).
+The habitat also hosts a number of other smaller think-tanks and labs, which also feed off of the pool of talent (and clientele) attracted by KAIU.
+
+The hab also hosts a number of resorts, most laid out on the shores of a meandering series of rivers and lakes that circles the main chamber at the "equator" (or "valley floor," depending on how you want to view it).
+These include the Carbon Cove, which sprawls over 230m of the equator and is modelled (loosely) on the Greek Mediterranean; the Grand Chorus Hotel, which is themed after a Cancún resort; and the Overlook, which is themed after a mountain in and located on an artificial outcropping half-way up the "slope" of the chamber.
+
+> **RategoryTheory**: I don't want to join the dog-pile here, but, at 245m radius, you've got about a kilomter and a half to work with, so "stream" and "pond" might be better words.
+>
+> **Apotheotician**: And now you know why they have rules for efficiently selling stuff to outsiders.
+> 
+> **Gunslinger#MONOLITH**: Holy fuck Minerva was right about these people.
+>
+> **Minerva**: Thank you, \@Gunslinger.
+>
+> **Bauble**: I think I'd start killing people if I had to stay at the Carbon Cove.
+>
+> **Gunslinger#MONOLITH**: Run by utilitarians, based on the "Greek Mediterranean."
+> "Loosely!"
+>
+> **anarcat**: I mean, maybe dial it back a *little*.
+>
+> **RategoryTheory**: No, AC, don't you see?
+> It's a moral outrage when people go on vacation.
+
+Minor local concerns include Liu-Worth-Jacobson, a boutique ecosystem design firm contracted by both the Grand Chorus and the Carbon Cove and responsible for maintaining the carefully-divided micro-ecosystems of both hotels; a local Argonaut mirror for a number of engineering-related projects and journals, maintained in collaboration with KAIU; and Chorus Lake Defence, a microcorp that focuses on defending the habitat from external threats (which is complicated by the fact that the habitat is not permitted to deploy its own weaponry while it remains within the area covered by Kainouda 2035's defensive systems).
+
+Notably, the locals have a conservationist bent and a long-term view; they emphasize sustainability over growth, and tend to draw lightly on their resources.
+
+> **Apotheotician**: As much as we've all had fun watching Gunslinger really hate these people for no particular reason, it's worth noting that the Compact can be useful to Sentinels because it's a place in the Kainouda area where F-rep spends — even if that network is going to be shallow, because you're talking about a handful of resorts with about two thousand guests total.
+>
+> **plasmage**: And r-rep, although you'll probably have better luck with the Argonaut facilities in the Thistledown.
+>
+> Unless you're from the old-style university system on Mars, actually.
+>
+> **Padre**: Do they actually draw enough of the glitterati for that to be a useful strategy?
+>
+> **Apotheotician**: That's my understanding, but it's hard to tell.
+> I don't have the f-rep to get into the really good parties, myself.
+> But I'm told there are a few meta-celebrities that are regulars.
+> And, more useful, a few of the associated underlings, handlers, managers, and brokers.
+>
+> For what it's worth, while they're fairly high-class places, Carbon Cove and Grand Chorus aren't the kinds of places that cater to oligarchs proper.
+> Rumor has it that one or two of those folks *have* come to visit, but they have smaller, off-the-books, private arrangements.
+
+### Rapid Transit
+
+One notable feature of the compact is an external rotating track; this track is used to provide low-reaction-mass transit to the Thistledown.
+The track is aligned such that, if release is timed very precisely, it will "throw" an object to the Thistledown.
+This allows travellers to get an initial "boost" of speed without spending reaction mass.
+(Of course, a ship would still need to spend reaction mass to *stop* upon reaching the Thistledown.)
+
+The track is kept in motion, because accelerating it and decelerating would require energy; it typically rotates with an angular velocity of 40m/s (which means that someone hanging off of it would experience 0.52 centrigrav).
+The track can be adjusted, should either more "free" acceleration or less subjective centrigrav be desired, although this is rare, because the energy requirements to speed it up or slow it down are significant.
+With just the free boost from the track, the 500km journey to the Thistledown would take about three and a half hours.
 
 # The Old Text I'm Slicing From
 
