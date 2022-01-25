@@ -1,10 +1,12 @@
-## General Notes
+## Character Notes
 
 Mandarin phrases — useful for writing Kai/Bauble
 
 - (common phrases)[https://www.travelandleisure.com/travel-tips/basic-mandarin-chinese-words-phrases]
 - ("bold interjections")[https://www.fluentu.com/blog/chinese/chinese-interjections/]
 - ("saying sorry in chinese")[https://www.fluentu.com/blog/chinese/sorry-in-chinese/]
+- [this list of angry phrases](https://www.chineseclass101.com/blog/2020/05/10/angry-phrases-in-chinese/#1)
+  - notably "Nǐ suàn lǎojǐ?" — literally "you're what number down the line," referring to birth order, and idiomatically meaning "you're not in charge" — seems very Kai.
 
 Analogously, Quebecois phrases, for writing Etienne/Cure:
 
@@ -32,11 +34,21 @@ Code names:
   - and now BerkeleyMew → Lola
 - Bauble → Kai
 
+## Science Notes
+
+Notes I lost with the old drive:
+
+- The [centrigrav calculator](https://www.artificial-gravity.com/sw/SpinCalc/) that I was using, with the helpful green-zone lights!
+- A [discussion on coriolis storms in centrigrav habs](https://worldbuilding.stackexchange.com/questions/148474/vertical-cyclones-in-a-rotating-space-habitat).
+  (Result seems to be: it's complex.)
+
 Space and Planet Links:
 
 - Nasa's [Planet info sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_ratio.html)
 
-Style notes:
+I might yell [here](https://en.wikipedia.org/wiki/Talk:Terrarium_(space_habitat)).
+
+## Style Notes
 
 - I was doing markings like this: 
   - **\/\/ No External Circulation; \/\/Need-to-Know Only**
