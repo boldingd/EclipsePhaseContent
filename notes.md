@@ -48,6 +48,20 @@ Space and Planet Links:
 
 I might yell [here](https://en.wikipedia.org/wiki/Talk:Terrarium_(space_habitat)).
 
+## Mutualism Notes
+
+- King K recommended — or at least name-dropped — Clarence Swartz as a source on mutualism.
+  I think that's [this guy](https://www.panarchy.org/swartz/mutualism.1.html)
+  - there's a [one-page version of "What Is Mutualism" at the "anarchist's library"](https://theanarchistlibrary.org/library/clarence-lee-swartz-in-collaboration-with-the-mutualist-associates-what-is-mutualism).
+    (Whew, we're really getting into some "fuck you, dad, I *won't* clean my room!" here.)
+  - Reading [Chapter III: The Case for Mutualism](https://www.panarchy.org/swartz/mutualism.3.html), I kind of get what the CRB meant; this sounds a lot like an-cap-ism, with a left-wing accent.
+    It definitely also has the thing of naively blaming the state for everything; the two principles are something Rand would agree with.
+- From the same site, [this guide](https://www.panarchy.org/debellis/onpanarchy.html) might be useful.
+- Remember: it's a sci-fi setting you're making up, you're allowed to riff on a theme.
+- Oh hey, [mutualist.org](http://www.mutualist.org/) might be a good place to start.
+- Project Gutenberg does have some [Proudhon](https://www.gutenberg.org/files/360/360-h/360-h.htm).
+  The chapter titles do not fill me with confidence.
+
 ## Style Notes
 
 - I was doing markings like this: 
