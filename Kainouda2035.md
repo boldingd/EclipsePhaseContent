@@ -1,13 +1,75 @@
 # Kainouda 2035
 
 Kainouda 2035 is an asteroid colony in the main belt.
-It was originally an Extropian project: it was claimed by the Kainouda 2035 Development Company (The KDC), which then sold shares of it to other parties, chiefly Extropians, for development.
+It was originally — and in some sense still is — an Extropian project; it was claimed by the Kainouda 2035 Development Company (The KDC), which then sold shares of it to other parties, chiefly Extropians, for development.
 Since then, it has come to be dominated by the Thistledown Cooperative, a large Extropian Mutualist cooperative – although large swaths of the asteroid are still run along anarcho-capitalist lines, and it hosts outposts of several other polities as well.
 
 > **Anarcat**: this hab is kind of what I love about the belt; so many different people and communities, all crammed in together, and managing to get along pretty well.
 >
 > **Apotheotician**: Why thank you.
 > Also, hello; I'm the local they called in for comment.
+>
+> **RategoryTheory**: \@anarcat 500 $Cr says you cannot concisely define "mutualism."
+>
+> **anarcat**: If you'll take the equivalent value in local co-op credit, you're on.
+> Who's judging this?
+> The channel at large?
+>
+> **RategoryTheory**: I don't think either are real interested in Gunny's thoughts.
+> Your fellow mutualists?
+>
+> **Apotheotician**: Well, if you want the full list of other mutualists in this thread, I think that's me and \@curé.
+>
+> **RategoryTheory**: Can we get an outsider for a tie-breaker vote?
+>
+> **anarcat**: I'll take the \@Padre, if he'll do it.
+>
+> **RategoryTheory**: Deal.
+>
+> **anarcat**: OK, here goes.
+> Wrong, but informative: "market anarchy, without private property."
+> Compare-and-contrast with an-caps: "anarco-capitalism, but without private property."
+>
+> **RategoryTheory**: Jury?
+>
+> **Apotheotician**: I agree, wrong but informative.
+> One vote for.
+>
+> **curé**: About the best you could do in five words.
+> One vote for.
+>
+> **Padre**: I mean, it's catchy, but it's not really an answer.
+> One vote against.
+>
+> **Gunslinger\#MONOLITH**: You didn't say "mutual aide," so half-credit.
+>
+> **RategoryTheory**: \>\@Gunslinger We very specifically didn't ask you.
+>
+> **anarcat**: The ayes have it.
+>
+> **RategoryTheory**: Arright, credits on their way to the 'belt.
+> Interested in Rount 2?
+> How does this actually work?
+> What institutions does this society have?
+>
+> **anarcat**: Honest answer: yeah, that's the tough question.
+> Glib answer: Whatever institutions and mutual-aide societies they choose to build.
+>
+> **curé**: Yeah, you, uh, kinda missed that.
+> One vote against.
+> Sorry, AC.
+>
+> **Apotheotician**: He did kinda miss it, but I still agree.
+> One vote for.
+>
+> **Padre**: It's an honest non-answer, but it's still a non-answer.
+> One vote against.
+>
+> **anarcat**: Shit.
+> No hard feelings curé.
+> Arright, I'll ready an offering to the currency exchange.
+>
+> **plasmage**: This really is what you people do for fun, isn't it?
 
 | Type | "Bear Habitat" (chamber in rotating asteroid); beehive; nearby module habs |
 | Factions | Extropians, Hypercorps, Minarchist, others |
@@ -80,16 +142,17 @@ KDC purchased the asteroid, divided it into lots, and sold the lots for further 
 The KDC Forum was where the controversial decision to spin the asteroid for gravity was hashed out.
 It also maintains the asteroid's defenses, as well as a few notable pieces of infrastructure (including the Kainouda Long-Range Communication and Egocasting Consortium, and several surface solar installations).
 
-### Long-Range Communications
+### Long-Range Communications and the KCEC
 
-The KDC manages the Kainouda Long-Range Communications and Egocasting Consortium — much more commonly called either the "Comms Consortium" or the "KCEC," understandably.
+The KDC manages the Kainouda Long-Range Communications and Egocasting Consortium — much more commonly called either "Com-Con" or the "KCEC," understandably.
 Originally, communication was handled by two an-cap microcorps, the larger of which owned two communications satellites, and the smaller of which owned a third.
-Both satellites orbit between 151km and 153km from the asteroid; they use high-bandwidth microwave and terahertz links to communicate with a network of "ground stations" on the surface of the asteroid.
+Both satellites orbit between 151km and 153km from the asteroid; they use high-bandwidth microwave and terahertz links to communicate with a network of ground stations on the surface of the asteroid.
 The ground stations are attached to each other and to terminals deep within the rock by high-speed superconducting and fiber links.
-The network of "ground stations" where shared between the two microcorps and jointly maintained.
+The network of "ground stations" was shared between the two microcorps, and jointly maintained.
+
 In BF 11, Experia opened a terminal on the asteroid, and also put a satellite in orbit; building a parallel network of ground-stations proved impractical, so they joined the "consortium" to share and maintain the ground station network.
-In BF 5, Experia launched a second satellite; in BF 3, the Thistledown Cooperative launched a satellite of their own, and joined the ground-station consortium.
-In BF 2, a special contract was established between the ground-station consortium and the KDC — because the ground-station network represented a vital piece of shared infrastructure.
+In BF 5, Experia launched a second satellite; in BF 3, the Thistledown Cooperative launched a satellite of their own, and joined the ground-station consortium as well.
+In BF 2, a special contract was established between the ground-station consortium and the KDC — because the ground-station network represented a vital piece of shared infrastructure, the integrity of which concerned the entire asteroid.
 
 > **Gunslinger#MONOLITH**: Ah yes, the efficiency of capitalism.
 >
@@ -101,24 +164,28 @@ In BF 2, a special contract was established between the ground-station consortiu
 >
 > **Bauble**: He's from Mars, he may mean "why are you launching satellites and having them fire microwaves at ground-stations when you're on an asteroid."
 >
-> **Anarcat**: That's actually a pretty common scheme.
+> **anarcat**: That's actually a pretty common scheme.
 > Orbital velocity for the asteroid is *very* slow — much slower than the angular velocity at the surface, because it's spun for gravity.
 > And if you're 150km away, the asteroid takes up a much smaller slice of the sky, instead of blocking off half of it like if you where on the surface.
 > So it ends up being a lot easier to aim at whatever part of the sky you need to.
 >
 > **Bauble**: It's also easy to expand, you just launch another satellite.
 > 
-> **Anarcat**: It's easier to build, too.
+> **anarcat**: It's easier to build, too.
 > Remember that the asteroid is spun for gravity; anything you build on the surface will be *hanging off*.
 > It's a lot easier to hang a small ground-station receiver than it is to hang a large comms spar.
 >
 > **Gunslinger#MONOLITH**: Jesus.
-> I *meant* how you need six satellites, because you people can't share.
+> I *meant* how each capitalist society has to have its own satellites, because you people can't share.
 >
-> **Apotheotician**: Actually, they do share, and we do need all that capacity.  Pick a 48 hour window and we'll probably hit 85% utilization at some point.  Pick a five-day window and we'll probably exceed our total cap.
+> **Apotheotician**: Actually, they have a peering agreement, so they do share.
+> And we do need all that capacity.
+> Pick a 48 hour window and we'll probably hit 85% utilization at some point.
+> Pick a five-day window and we'll probably exceed our total cap.
 
-The Comms Consortium manages the maintenance and sharing of the ground-station and cabling; it also manages a bandwidth-sharing arrangement between the various satellites.
-The bandwidth-sharing arrangement uses a peering model — basically, they share capacity as required, rather than paying each other for capacity.
+The KCEC manages the maintenance of the ground-stations and connective cabling, and it also oversees a bandwidth-sharing arrangement between the various groups with satellites in orbit.
+The bandwidth-sharing arrangement uses a peering model — essentially, they share capacity as required, without attempting to track (and bill) their use of each-other's networks.
+
 The Comms Consortium is also responsible for maintaining the security of the system: the microwave and hard-line links all use quantum encryption, which needs to be coordinated between the system's different users.
 
 > **Apotheotician**: See?  Equitable, efficient sharing.
@@ -127,7 +194,8 @@ The Comms Consortium is also responsible for maintaining the security of the sys
 > **anarcat**: So, compromising the cables is pointless because of the quantum encryption; I'm guessing the ground stations have significant security?
 >
 > **Apotheotician**: Oh, yes.
-> Not my area of expertise, but the hardware types usually write it off as "not worth the trouble," like most high-security handle-your-ego parts of any given hab.
+> Not my area of expertise, but the hardware types usually write it off as "not worth the trouble."
+> Like most high-security handle-your-ego parts of any given hab.
 >
 > **Bauble**: Spoiler: if you need to get onto the Thistledown discretely, either use the spaceport, use surface access, or, smartest way, dark-cast to Limehouse and then purchase an egocast over the local mesh from any random an-cap with a radio.
 >
@@ -141,45 +209,149 @@ The Comms Consortium is also responsible for maintaining the security of the sys
 >
 > **Gunslinger#MONOLITH**: Ha!  Exactly like that.
 
-### Kainouda Defense
+### Defensive Systems and the KEDC
+
+The KDC is also responsible for the defence of the asteroid, which is managed through the Kainouda External Defense Consortium.
+
+One of the few on-going obligations that an owner incurrs when purchasing a plot of Kainouda 2035 from the KDC is to contribute dues to the KDC to pay for the ongoing defence of the asteroid; the KDC in turn does this via a special contract with the Kainouda External Defense Consortium.
+The KEDC, in turn, contracts out to various microcorps to construct, operate, and crew the satellites defences.
+
+Notably, contractors do not bring their own hardware; instead, the KEDC purchases defensive systems from construction microcorps, and then pays to have them crewed in seperate contracts; this is to prevent one contractor from holding the KDC hostage (metaphorically or literally).
+The operation of the defensive systems are also broken into multiple contracts; this both helps to control prices, and to ensure that one failed contract renewal does not leave all of the asteroid's defenses uncrewed.
+
+Like many large, prosperous habitats — especially those in the asteroid belt — Kainouda 2035's defense systems are substantial.
+
+#### Satellites and Emplacements
+
+Primary defense is provided by a fleet of satellites.
+There are more than one hundred of them, built with various sizes, roles, and capabilities; they orbit at altitudes between 15km and 160km.
+These include large weapons satellites, carrying batteries of anti-ship missiles, destroyer-scale particle-beam bolters, and point-defense systems; smaller satellites carrying radar, infrared, and other sensors; point-defense satellites capable of engaging missiles, fighters, and humans; on-station drones; and other satellites whose specifications the KEDC has not disclosed.
+
+The orbits of these satellites are inclined so they do not pass in front of the axial space-ports — although because the satellites are orbiting and can rotate freely, this does not restrict their coverage or field of fire.
+
+As a final measure, the asteroid also has some defense emplacements on its surface — although these are few, because they must be designed carry their own weight while "hanging" off the surface of the asteroid, and because their fields-of-view are limited compared to the orbiting satellites.
+
+> **anarcat**: Short reminder: a grid of IR and radar sensors like that is *very* hard to defeat.
+> Space is very cold, you are very not, and IR sensors are very good.
+>
+> And thermodynamics doesn't *actually* let you do most of the stuff that you've seen in movies.
+> 
+> **Apotheotician**: Again, not my area of expertise, but that's the impression I've got from the sneakier Sentinels that have come through: hard enough to be a practical impossibility.
+> 
+> Those point-defense satellites are the other problem: you get shredded very shortly after you're detected.
+>
+> **Bauble**: I'll say it again.
+> This hab, like most habs, you'll want to dark-cast.
+> Or find some way to go through the space-port "legit."
+>
+> **Gunslinger\#MONOLITH**: Stupid question, but could jamming or hacking work?
+> I'm guessing jamming is a no-go because they've probably got ALIs on the platforms that take over.
+>
+> **anarcat**: I mean, *probably*.
+> And I'm willing to bet that their communication to C&C is through farcasters, just like the communications satellites, so you'd probably have to hack the actual C&C system in the hab.
+> And if you're hacking the *probably* air-gapped C&C system in the hab, you're already on board.
+>
+> **Gunslinger\#MONOLITH**: OK, stop being a prick.
+> I know you've defeated systems like this before; how'd you do it?
+>
+> **anarcat**: Short answer: small bots falling slowly.
+> Carefully-designed bots can be very small, very dark, have very low radar signatures, and survive getting very cold.
+> And they can afford to fall slowly, taking weeks or months to drift to the target.
+>
+> One time I used an orange — a literal orange!
+> Flesh has a pretty low radar return, so I put a protean hive inside an orange, covered it in dull-black organic grease and adhesive, cooled it, and gently lobbed it at the target.
+> Damn thing took two-and-a-half months to get captured and spiral in.
+> When it hit, it stuck to the surface, made some proteans, the proteans scurried out and made a bot, and the bot pinged me.
+>
+> **Gunslinger\#MONOLITH**: You're the devil.
+>
+> **H0N3**: Why couldn't you do that with a person?
+>
+> **anarcat**: Too big; either too warm or made of too much metal — sometimes both; too impatient to wait two months, and the breathy ones can't cary that much air; most of the breathy ones also can't get *that* cold, even in medical statis; too easy to see, because all these satellites and habs are also covered in cameras.
+>
+> **H0N3**: Why is falling slowly important?
+> Why not fall quickly?
+>
+> **anarcat**: You need to burn thrusters to start and stop, and burning thrusters means being seen in IR.
+> Cold-gas jets exist, but they aren't powerful, not enough to stop you if you get launched at high speed.
+>
+> **Bauble**: Or you could stop dragging it out with this bush-league spy-movie bullshit and BUY A FUCKING DARK-CAST.
+>
+> **anarcat**: Or that.
+
+#### Ships
+
+Ships and drones take a secondary role in defense.
+The KDEC fields relatively few drones, relying on fewer than three dosen fighter craft.
+In their place, it fields several larger craft, four "corvettes" and three "clippers."
+
+The "corvettes" are intended to act as deterrants for larger attackers, like pirates.
+The corvettes are about the size of an SOTV, and carry heavy weaponry: two of them are armed with batteries of anti-ship missiles, while the third carries a naval-scale particle-beam weapon and a point-defense system.
+
+The "clippers," in turn, are intended to patrol commercial traffic in the space near the hab.
+They are about the size of an LOTV, and are more lightly armed than the corvettes, carrying only two lower-energy particle-beam weapons; howevery, they also carry a large radar system, imaging and inspection systems, point-defense systems, and a small compliment of marines and security drones.
+
+Of course, while these craft are durable, they are not armored the way that a destroyer would be.
+Lacking a fusion (or antimatter) drive, they also do not have the range that a destroyer would.
 
 ## The Thistledown Cooperative
 
-The Thistledown Cooperative is a large Extropian market-socialist cooperative that has come to dominate the affairs of Kainouda 2035; while nominally an Extropian cooperative, it has come to operate much like a (left-wing minarchist) state.
+The Thistledown Cooperative is a large Extropian market-socialist cooperative that has come to dominate the affairs of Kainouda 2035.
 Almost three-hundred and fifteen thousand people are members of the Thistledown Cooperative — a solid majority of the asteroid's population.
-The Thistledown Cooperative also owns more than two-thirds of the asteroid's habitable volume, and large portions of its vital infrastructure (like power and life-support systems).
+The Thistledown Cooperative also owns more than two-thirds of the asteroid's habitable volume, and large portions of its infrastructure (like power and life-support systems).
 The Cooperative's major holding is the Thistledown Cavern, a massive, cylindrical cavern laid out along the axis of rotation (a little like a Jovian "Reagan Cylinder," although the residents prefer to call it a "Bear Habitat").
 
 ### Structure of the Cooperative
 
 The cooperative is organized along market-socialist lines, and run by direct-democratic vote.
 The cooperative's various assets — its habitats, infrastructure, and productive capital — are owned collectively.
-Infrastructure is administered by the cooperative directly; productive capital, like industrial mechs, minifacturies, and server farms, are held by member-owned community banks and leased to members of the cooperative.
-These community banks then lease their managed capital back to their members.
-There are several competing community banks; each bank is owned by its members, and each member of the Thistledown Cooperative is a member of exactly one of the various community banks.
-The community banks and the cooperative itself are the only institutions allowed to charge rent.
+Infrastructure is administered by the cooperative directly; productive capital, like industrial mechs, minifacturies, and server farms, are held by member-owned community banks and leased to members of the cooperative for productive use.
+These community banks compete with one another, encouraging the efficient allocation of resources; each member of the Thistledown Cooperative is a member of exactly one community bank.
+The community banks and the Cooperative itself are the only institutions allowed to charge rent.
 
 > **RategoryTheory**: So, basically, I get to "own" a cornucopia machine, as long as I pay a recurring fee to an institution that the community controls?
 >
 > So, you guys went to a lot of trouble to re-invent market-anarchist taxes?
 >
-> **anarcat**: I mean, kind of.
-> The intent is to create a social-distribution system that can run without a state.
+> **anarcat**: I mean, actually, yes.
+> The intent is to create a social-distribution system that can run without a dangerous central authority.
+> And hey, look at that, we did!
 >
-> **RategoryTheory**: I mean, yes, obviously, but this doesn't strike you as inefficient?
-> Or a maybe seem like wasted effort, given that they wound up with "basically a state" anyway?
+> **Apotheotician**: You say "we" but, for the record, you are not a member of the Thistledown Cooperative.
+>
+> **anarcat**: Oh, right.
+> That's correct.
+> I'm a mutualist, but I'm not from the Thistledown.
+>
+> **RategoryTheory**: \>\@anarcat I mean, yes, obviously, but this doesn't strike you as inefficient?
+> Or maybe seem like wasted effort, given that they wound up with "basically a state" anyway?
 >
 > **Apotheotician**: No?
-> What don't you like?
 > Compare our system to the government of any Venusian habitat and tell me we're the ones wasting effort.
+>
+> And anyway, I thought you where a big fan of markets, what part of this don't you like?
 >
 > **Bauble**: Spoiler: it's the socialist part she doesn't like.
 >
 > **Gunslinger#MONOLITH**: I repeat: imagine looking at market-anarchists and saying "too socialist."
+>
+> **plasmage**: I'm just amused we got to see ratty and catty be on opposite sides of something.
+> Usually the Firewall chapter of the John Stuart Mill fan-club are pretty much on the same page.
+>
+> **Padre**: We just need ratty and gunny to get on the same side of something, and we'll be right on track for the eschaton.
+>
+> **RategoryTheory**: \>\@Apotheotician It's the part where I'm still paying taxes — to a group I *have to join* — but we're not calling it a "government" so that's totally fine and we're totally still anarchists.
+>
+> Or, actually, it's the part where the not-a-government gets to tax me, but doesn't guarantee my rights or enforce laws I get to vote on or run an impartial court system or anything.
+>
+> **anarcat**: Well, it actually kind of does, funnily enough.
+> I guess we'll find out if it meets with your approval when we get to that part of the write-up.
 
 ## Other Extropians
 
 ### Other Mutualists
+
+Of course, there 
 
 ### Anarcho-Capitalists
 
@@ -191,7 +363,20 @@ The community banks and the cooperative itself are the only institutions allowed
 
 ## Hypercorps
 
+A handful of Hypercorps also call Kainouda 2035 home.
+In true Hypercorp fashion, this is accomplished with a web of consortiums and holding companies — notionally led by the Kainouda HyperConsortium, KHC.
+Although the KHC owns the area on the asteroid taken up by the Infinite Loop grav
+
+> **Gunslinger\#MONOLITH**: They needed to build one centri-grav track, so they formed a keiretsu.
+> Capitalism!
+>
+> **Bauble**: Weeb.
+
+
+
 ### Infinite Loop
+
+
 
 ### Outer System Industries
 
@@ -515,3 +700,33 @@ Other sites on Kainouda
         ◦ other Extropians think of Objectivists the way everyone else thinks of Extropians, as dangerous and deluded sociopaths that no-one else really wants to deal with
 
 Tentatively (re-)named one of the stations *Limehouse*, after the part of london where the opium dens where.
+
+# Re-Working
+
+## The Thistledown
+
+I'd like to rethink this and make sure I've got it straight before I write it.
+
+- Skimming some quick-links on Mutualism makes me less confident that it makes sense or means anything.
+- It also sounds *very* libertarian; other than not liking rent or land-lords, and liking mutual-aide groups in principle, there isn't a huge difference.
+- On the other hand, this is a future sci-fi setting, and we do get to write whatever we want, so… fuck it, more or less.
+- The community-bank things do have attestation in at least one source, but they *also* don't make any sense, so … they will be interpreted loosely.
+  - I'm thinking I might replace them with something like a member-owned cooperative structure that basically buys a habitat and uses a micro-currency for their internal dealings.
+  - *That might be kind of thematically appropriate, because they're building a voluntary mutual-aide association inside an existing capitalist structure.*
+  - And I guess they also allow external users to *optionally* use their micro-currency.
+  - The question that still leaves me is how that community *expands*, because that's a necessary element to the plot.
+  - And then webs of micro-corps and mutual-aide groups form around that, and then they merge.
+- Stage one of the merger is agreeing to shift to one common micro-currency; this necessitates forming a "central bank" to manage it.
+- Stage two of the merger is *some kind of tax-and-spend structure* forming, so that the cooperatives can keep building infrastructure.
+  - And this is kind of a departure, because "What Is Mutualism" made it pretty clear that taxes *aren't* ok.
+  - Although the EP version says that "community banks can charge interest."
+  - And one of those web-sites did mention that "the monetary thinking \[in What is Mutualism\] is out of date."
+
+## The Hypercorps
+
+Who owns what, since I've written two sentences and written myself into answering that.
+
+- The HyperConsortium buys the territory, but they're a shell-company.
+- They're *probably* owned by OSI, and the other hypercorps who wanted to set up shop on the asteroid.
+- In turn, they sublicensed to Infinite Loop and KHC Support (name?), and 
+- OSI (and other hypercorp clients) are leasing space, but also partial owners of the company they're leasing from.
