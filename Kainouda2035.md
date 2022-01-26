@@ -1,7 +1,16 @@
 # Kainouda 2035
 
+| Kainouda 2035 | |
+| --- | --- |
+| Type | Bear Habitat (Chamber in rotating asteroid); beehives (under centrigrav) |
+| Gravity |  |
+| Population | 600K |
+| Languages | English, Mandarin, Hindi, Russian, Arabic |
+| Location | Main Belt |
+| Faction | Extropian; Scum; Hypercorp; others |
+
 Kainouda 2035 is an asteroid colony in the main belt.
-It was originally — and in some sense still is — an Extropian project; it was claimed by the Kainouda 2035 Development Company (The KDC), which then sold shares of it to other parties, chiefly Extropians, for development.
+It was originally — and to a great extent still is — an Extropian project; it was claimed by the Kainouda 2035 Development Company (The KDC), which then sold shares of it to other parties, chiefly Extropians, for development.
 Since then, it has come to be dominated by the Thistledown Cooperative, a large Extropian Mutualist cooperative – although large swaths of the asteroid are still run along anarcho-capitalist lines, and it hosts outposts of several other polities as well.
 
 > **Anarcat**: this hab is kind of what I love about the belt; so many different people and communities, all crammed in together, and managing to get along pretty well.
@@ -71,24 +80,7 @@ Since then, it has come to be dominated by the Thistledown Cooperative, a large 
 >
 > **plasmage**: This really is what you people do for fun, isn't it?
 
-| Type | "Bear Habitat" (chamber in rotating asteroid); beehive; nearby module habs |
-| Factions | Extropians, Hypercorps, Minarchist, others |
-
-Population:
-- Extropian
-  - Thistledown: 315K
-    - Cavern: 230K
-    - Hive: 20K
-  - Other Mutualist: 52K
-  - an-caps: 175K
-  - Objectivists: 3K
-  - "Utilitarians": 16K
-- "Minarchist": 6K
-- Hypercorp: 9K
-- Nearby Stations
-  - Infugee Habs: 6K (average 1,250 per hab, over 5 habs)
-  - Carbon Compact: 8.5K + 4K
-- Total: 600K approx
+The habitat 
 
 ## History
 
@@ -363,20 +355,42 @@ Of course, there
 
 ## Hypercorps
 
-A handful of Hypercorps also call Kainouda 2035 home.
-In true Hypercorp fashion, this is accomplished with a web of consortiums and holding companies — notionally led by the Kainouda HyperConsortium, KHC.
-Although the KHC owns the area on the asteroid taken up by the Infinite Loop grav
+A handful of Hypercorps also call Kainouda 2035 home — an appealing arrangement for hypercorps that do regular business with Extropian microcorps, or the rare breed that do business with outer-system Autonomists.
+Most of these hypercorps are organized under the auspices of the Kainouda Holdings HyperConsortium, a consortium and holding company that exists to establish and maintain a hypercapitalist presence on the asteroid — and to shield those hypercorps from enemies within the consortium.
+
+### The Kainouda Holdings HyperConsortium
+
+The Kainouda Holdings HyperConsortium — is a holding-company and corporate consortium that was established to build a hypercapitalist hab-space in Kainouda 2035.
+The KHHC was set up in BF 10 by hypercapitalist investors who wished to do business in the Extropian belt and Autonommist outer-system — some of which are known, and some of which remain undisclosed to this day.
+Kainouda 2035 was viewed as a prime candidate early on, owing in part to the Thistledown Cooperative's plans to spin the asteroid — still in the preliminary stages in BF 10 — and a drop in "land" prices owing to the departure of so many anarco-capitalists.
+KHHC was able to snap up a roughly-circular tract of territory aligned with the proposed axis of rotation for fairly cheap at the end of BF 10; several subsidiary hypercorps where established in January of BF 9, including Infinite Loop and Kainouda Support Industries and Provisions; and ground was broken for the transport track the same month.
+
+Kainouda Holdings Hyperconsortium still operates today, and still (technically) owns much of the terrain that they purchased from the KDC.
+In practice, though, they are little more than a holding company: they own Infinite Loop, KSIP, and several of the other subsidiaries that actually operate the infrastructure of the track.
+
+Notably, since many of the KHHC's clients do business with autonomists, they frequently face significant pressure from within the Planetary Consortium; in order to insulate its clients from this pressure, KHC has a somewhat unusual internal set-up.
+Wheras most hypercorps avoid being tied down to physical assets, it is not unusual for KHHC's tenants to purchase the rights to their modules outright.
+It is also not unusual for KHHC tenants to purchase shares in the KHHC itself, creating a kind of circular relationship.
+For example, OSI pays a service fee to Infinite Loop; KHHC owns a seventy-one-percent stake in Infinite Loop, so Infinite Loop pays dividents to KHHC; and OSI owns a ten-percent stake in KHHC, and could in principle receive dividents from KHHC, derived from fees that OSI paid.
 
 > **Gunslinger\#MONOLITH**: They needed to build one centri-grav track, so they formed a keiretsu.
 > Capitalism!
 >
 > **Bauble**: Weeb.
 
-
-
 ### Infinite Loop
 
+In some ways, Infinite Loop is actually the hypercorp that defines the hypercapitalist presence on Kainouda 2035 — both culturally and physically.
+Infinite Loop operates the circular transit track and "commons" that runs around the axis of rotation, and that all the modules constructed by KHHC are attached too.
+This network physically connects all the various KHHC modules, and provides easy transit between them; it also provides a continuous strip of "green space" for the use of residents.
+Physically, the green-space is "above" the trams; its size varies, but it's usually about 25m across and 10m high.
+The green-space is covered in small parks, paths, ponds, benches, pavillians, and "public" facilities — and, of course, dotted with shops, restaraunts and kiosks, as well as access-point to nearby Extropian-owned habs and tunnels.
+The trams are "underground" (relative to the greenspace), and consist of two tracks, one running spinward and one running anti-spinward.
 
+One disadvantage of this approach, given the low centrigrav of the asteroid, is that the apparent gravity varies significantly with the tram's motion; for this reason, the spinward tram is sometimes called the "high-grav line" or "crusher car," while the anti-spinward tram is called the "low-grav car," "bounce-cab," or the "roller-coaster" — among other less kind names.
+When the spinward line reaches speed, it more than doubles the apparent centrigrav — hence "crusher car."
+More disorientingly, as the anti-spinward line accelerates, it cancels the induced rotation of the asteroid, briefly becoming a microgravity environment; as it continues to accelerate, it induces its own weak centrigrav.
+As it breaks for a stop, the process plays out in reverse; hence, the roller-coaster.
 
 ### Outer System Industries
 
