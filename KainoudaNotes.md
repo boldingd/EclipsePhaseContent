@@ -1,3 +1,22 @@
+# The population table
+
+Population:
+
+- Extropian
+  - Thistledown: 315K
+    - Cavern: 230K
+    - Hive: 20K
+  - Other Mutualist: 52K
+  - an-caps: 175K
+  - Objectivists: 3K
+  - "Utilitarians": 16K
+- "Minarchist": 6K
+- Hypercorp: 9K
+- Nearby Stations
+  - Infugee Habs: 6K (average 1,250 per hab, over 5 habs)
+  - Carbon Compact: 8.5K + 4K
+- Total: 600K approx
+
 # The Old Text I'm Slicing From
 
 Kainouda 2035 is an asteroid colony in the main belt.  It was originally an Extropian project: it was claimed by the Kainouda 2035 Development Company, which then sold shares of it to other parties, chiefly Extropians, for development.  Over time, several mutualist co-ops conglomerated, and their combined territory came to cover most of the rock; they then reorganized themselves into a direct-democratic polity.  Even though the vast majority of the Thistledown is controlled by that cooperative, it is still technically owned by the Kainouda Development Company, and that company remains the major forum for “whole asteroid” affairs.  Substantial parts of the Thistledown are still owned and occupied by Extropians, most notably the space-port; there is also a small Hypercorp presence, centered around Infinite Loop, a series of small warrens connected by a tram.  The Thistledown is a major outpost for the rare breed of Hypercorp that seeks to maintain a good relationship with either outer-system Anarchists or Titanians.
@@ -111,4 +130,82 @@ Did a hypercorp buy land for hope, did Infinite Loop have a specific plan, or di
 I feel like oligarchs and owners probably had things in motion way before capital was purchased, so probably OSI — and maybe some other concerns — started putting feelers out.
 
 Actually, that's a question: was OSI operating before, somewhere else, or was this their first digs?
-Kind of like a lot of hypercorps — or maybe old-world coprs — there probably was something, but they probably merged and acquired.
+Kind of like a lot of hypercorps — or maybe old-world corps — there probably was something, but they probably merged and acquired.
+I need to be careful, though, because I want Raniere to be likable.
+
+I don't want to spend a lot of time thinking about it; I have not been working effectively for the last hour or two.
+I'm getting hung up on details that aren't important.
+
+The Timeline:
+
+- BF 21: Kainouda purchased
+- BF 13: Thistledown Cooperative
+- BF 9: Infinite Loop established (in anticipation of spin)
+- BF 8: asteroid spun
+
+From the book:
+
+- A quick timeline is on CRB p.37.
+  - "Argonauts split from hypercorps" and "Belt colonized" in BF 40-20.
+- But also, on CRB p.57
+  > Various forms of anarchism and similar libertarian ideologies were quite common among the first transhumans who settled space in the two decades before the Fall.
+- While I'm at it, there's a concise description of Hypercorps on CRB p.70.
+- From CRB p.79
+  > Titan was originally settled in the late 21st century by a European academic consortium, making it the only major body in the system colonized primarily by non-hypercorp interests.
+  - Notably, the write-up in that bloc doesn't exactly match what they've written later -- I don't think -- and it also doesn't make a lot of sense, because it's still assuming a primarily-rep economy.
+- From Rimward p.16
+  > The first ventures to the Main Belt for mining and habitat development were launched decades before the Fall. In addition to Earth corporations that staked their claims to mineral-rich asteroids, there were also plenty of rugged individualists and wealthy entrepreneurs who supported Earth’s expanding reach deeper into space.
+  - That *loosely* ligns up with "BF 40-20" for the colonization of the main belt.
+- From Sunward p.145:
+  > Though thousands of hypercorps are full members of the Planetary Consortium—the business entity, that is—the vast majority have no actual voting power (outside of the Ministry) and hold no shares. That privilege is set aside for the Consortium’s founding members, who have changed little since its beginning a decade ago.
+  - From Sunward p.145, the consortium used to be the *Offworld Consortium," but remade itself as the fall wrapped up (and apparently incorporated "Mars's terraforming infrastructure" and the U.N. at that point, lol).
+
+Let's assume:
+
+- Raniere was already *fairly* well-heeled, and might have had some independant small hypercorps doing what OSI was going to do.
+- I want OSI to be reasonably big, but it also probably shouldn't be *that* old because that wouldn't line up with the history of the setting.
+  - Or, after doing some re-reading, it kind of might.
+- A quick call is that Raniere may have already headed up some short-torm operations and "corporate alliances" with the Outer System, and may already have run a few open-source micro-ops.
+  - So he was already *somewhat* established when he started OSI proper in say BF 3.
+- Arright, I've hit meta-done-with-it, so:
+  - Raniere was a name in robotics and had run collaboration ops between BF 7-3
+  - OSI is established in BF 3, and absorbed several of his previous operations.
+  - OSI moves into its current digs in AF 2.
+- So if Infinite Loop was founded in BF 9, it predates the Hypercorp Consortium *as such*.
+- That also means that OSI is older than the Consortium itself.
+
+In that case:
+
+- It probably makes sense for something like KHC -- the Kainouda HyperConsortium -- to exist, but to exist mainly as a holding company.
+  - Something for investers to own, to unite the work of other companies.
+  - *It might work both ways: investers bought shares and invested in it to get it off the ground, but "client" companies may also have bought small shares in it so that they can be at least partial masters of their own fate.
+    Or the *owners* of client companies may also be partial owners of KHC, that might make even more sense.
+    - Like Carbine's line, this turns KHC into a weird kind of keiretsu.
+  - Actually, if we wanted to lean more in that direction, we could have something more like a central bank, which the behind-the-scenes owners hold, and which then holds shares in basically everything in infinite loop.
+  - Actually, one of the themes of the Consortium is "fast, flexible, and mean," so it might be fairly thematic for them to *not* invest in permanent interests in each-other.
+  - So *infinite loop*, and perhaps an infrastructure hypercorp, might be two hypercorps that KHC owns, and that do all the actual work.
+  - There might be a bunch more other hypercorps that are at least partly owned by the holding companies -- and these might be the smaller burrows.
+- Looking at what these words actually *mean*:
+  - So a consortium is a partnership of existing businesses.
+    In that mold, you've got some existing companies that unite to colonise (a part of) an asteroid.
+  - Whereas a holding company is "Alphabet" or "Meta", an entity that exists to own a bunch of smaller companies that actually Do Things, and their IP.
+    So in that scenario, the holding company unites investors, and then shuffles businesses and assets around to create smaller companies that actually do work.
+  - And then you've got the [keiretsu](https://en.wikipedia.org/wiki/Keiretsu), which is a Japanese riff on the consortium that includes a (an informal?) hierarchy of control and cross-connecting reciprocal ownership.
+    "with interlocking business relationships and shareholdings."
+- One possibility is that it was originally a Consortium -- although that kind of requries large(?) pre-existing companies that had existing holdings or specific plans.
+  - Which could work if some of the hypercorps are subsidiaries or projects of existing hypercorps.
+  - and then OSI has the option of paying rent forever like a tenent, or blunting that effect by buying a chunk of KHC (at which point they'd be paying rent to themselves, indirectly through KHC).
+- And the other option is that KHC is a holding company, IL et al. are companies they spawned for specific tasks, and OSI is just a tenant (without any ownership stake in the others).
+  - and a variant of that is that KHC bought partial rights to a module, like a T3BE question on real property.
+- Hmm.
+  Thinking about it, I kind of like the idea that OSI has tied itself down more than hypercorps usually do, because they're constantly getting picked at by internal enemies who don't like their ties to the outer system.
+  Like they have a need to "defend" themselves.
+- Allright, so that's what I'm going with.
+  - KHC is a holding company, with IL et al. as subsidiaries.
+  - OSI was a tenant, but then they bought a stake in KHC itself, and they bought out their module.
+  - (We'll say that happened early in AF 4.)
+- Actually, since OSI isn't the only "odd tenant" of Infinite Loop, we might even say that that's a somewhat normal procedure -- "tenants" might buy-out a module, and might buy a partial stake in the KHC itself.
+- OK, yeah, I like that.
+  - "It's a little weird out here, because they're insulating themselves from their rivals and enemies."
+  - It's kind of like joining the consortium; it's normal for "tenants" to buy partial owernship in the KHC itself.
+  - And modules can be either rented or purchased.
