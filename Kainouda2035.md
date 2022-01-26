@@ -80,7 +80,18 @@ Since then, it has come to be dominated by the Thistledown Cooperative, a large 
 >
 > **plasmage**: This really is what you people do for fun, isn't it?
 
-The habitat 
+The asteroid is oblong, about 35km long (along its major axis) and 10km in diameter at its widest point (along its minor axis).
+It is M-type, relatively rich in iron, nickel, and other metals, but poorer in organics, volatiles, and silicate rocks — although extensive mining and development has denuded it of most of its valuable metals.
+
+The asteroid is spun for centrifugal gravity — a highly-controversial decision at the time, since it was originally colonized as a beehive.
+It rotates at about 0.16rpm, providing 0.2G at the floor of the Thistledown chamber, and 0.29G at the surface.
+
+> **anarcat**: That's about 600km/h tangential velocity on the asteroid's surface; trying to jump onto it is not advised.
+>
+> **Gunslinger\#MONOLITH**: That had to require a lot of fuel to do.
+>
+> **anarcat**: It's not so bad if you're using fusion motors, but yeah.
+> That's one of a couple of reasons people usually spin the chamber floor, not the whole rock.
 
 ## History
 
@@ -381,18 +392,55 @@ For example, OSI pays a service fee to Infinite Loop; KHHC owns a seventy-one-pe
 ### Infinite Loop
 
 In some ways, Infinite Loop is actually the hypercorp that defines the hypercapitalist presence on Kainouda 2035 — both culturally and physically.
-Infinite Loop operates the circular transit track and "commons" that runs around the axis of rotation, and that all the modules constructed by KHHC are attached too.
+Infinite Loop operates the circular transit track and "commons" that runs around the axis of rotation, and that all the modules constructed by KHHC are attached too; the Loop is 8km in radius, and experiences about 0.22G centrigrav. 
 This network physically connects all the various KHHC modules, and provides easy transit between them; it also provides a continuous strip of "green space" for the use of residents.
 Physically, the green-space is "above" the trams; its size varies, but it's usually about 25m across and 10m high.
 The green-space is covered in small parks, paths, ponds, benches, pavillians, and "public" facilities — and, of course, dotted with shops, restaraunts and kiosks, as well as access-point to nearby Extropian-owned habs and tunnels.
 The trams are "underground" (relative to the greenspace), and consist of two tracks, one running spinward and one running anti-spinward.
 
-One disadvantage of this approach, given the low centrigrav of the asteroid, is that the apparent gravity varies significantly with the tram's motion; for this reason, the spinward tram is sometimes called the "high-grav line" or "crusher car," while the anti-spinward tram is called the "low-grav car," "bounce-cab," or the "roller-coaster" — among other less kind names.
-When the spinward line reaches speed, it more than doubles the apparent centrigrav — hence "crusher car."
-More disorientingly, as the anti-spinward line accelerates, it cancels the induced rotation of the asteroid, briefly becoming a microgravity environment; as it continues to accelerate, it induces its own weak centrigrav.
-As it breaks for a stop, the process plays out in reverse; hence, the roller-coaster.
+One disadvantage of this approach, given the low centrigrav of the asteroid, is that the apparent gravity varies significantly with the tram's motion; for this reason, the spinward tram is sometimes called the "high-grav line" or "crusher car," while the anti-spinward tram is called the "low-grav line" or the "bounce-car."
+When the spinward line reaches speed, riders experience 0.46G — about twice the normal centrigrav in the loop, hence "crusher car."
+On the other hand, when the anti-spinward car reaches speed, riders experience only 0.08G — less than half the normal gravity of the loop.
+
+Notably, power, air, water, and data lines also run along the Loop, connecting the various hypercapitalist warrens to resources produced (or procured) by Kainouda Support Industries and Provisions.
+(KSIP is responsible for maintaining the lines, despite their being located in the loop.)
+
+### Kainouda Support Industries and Provisions
+
+Kainouda Support Industries and Provisions is responsible for providing the various KHHC habs with power, life-support, and data services.
+While they do have facilities of their own — including two small fusion power plants and several sizable sludge ponds — they purchase most of their power and life-support from other firms, including solar-power installations on the surface or in orbit.
+
+### Habs
+
+A number of hypercorps run habs connected to the loop, covering a wide array of designs, styles, and budgets.
+Most are relatively small, around the size of old-Earth mid-rises and including housing for between 50 and 200 people, as well as shared recreational spaces.
+
+> **Gunslinger#MONOLITH**: And the difference between a hypercorp hab and an extropian hab would be…
+>
+> **anarcat**: The fabbers are locked down, you get paid in real actual Bank-of-Progress credits and not a micro-currency pegged to them, and you're a hypercorp resident, so you get to "vote" for a rep in the Planetary Congress and your hypercorp gets representation in the Ministry.
+>
+> **Gunslinger#MONOLITH**: Right, their fabbers are locked down, unless they take a five-minute tram ride to ancapistan, where they can buy all the scary, subversive toys their hearts desire.
+>
+> **Apotheotician**: They don't even have to do that.
+> There are a couple of Extropian microcorps that specialize in fabbing proscribed items and then delivering them to hypercorpers by drone.
+>
+> **Gunslinger#MONOLITH**: And K-whatever can't stop them from doing that?
+>
+> **Apotheotician**: The KHHC doesn't care.
+> They're not super concerned about staying in the Hypercorp Council's good graces.
 
 ### Outer System Industries
+
+Outer-Systems Industrias is one of the larger hypercorps based on the Thistledown.
+An unusual hypercorp, they do business in the outer system, forming partnerships with autonomist groups.
+
+OSI has found a number of niches in the outer system.
+In particular:
+
+- They operate a number of large-scale manufacturing facilities, providing production capabilities that smaller autonomist projects often lack;
+  - in particular, this includes the production of morphs, animals, and bots, since these still cannot be produced effectively with nanofabrication.
+- They contribute to open-source software and fab-blueprint projects, with the understanding that they can license those things and sell them for profit in the inner system.
+- The produce goods covered by restrictive licenses, and exchange them for rep and local microcurrencies.
 
 ## Near-Orbit Habs
 

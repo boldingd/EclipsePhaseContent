@@ -1,4 +1,4 @@
-# The population table
+# Calculations and Tables
 
 Population:
 
@@ -16,6 +16,39 @@ Population:
   - Infugee Habs: 6K (average 1,250 per hab, over 5 habs)
   - Carbon Compact: 8.5K + 4K
 - Total: 600K approx
+
+centrigrav:
+
+- Let's keep the target of 0.2G on the Thistledown floor.
+- Dimensions:
+  - Originally: "the asteroid is almost 30km long and 9km in radius at the widest, but the Cavern is only 15km long, and 4.5km in radius."
+  - Now: "43km long (along its major axis) and 23km in diameter"
+  - Let's assume the Thistledown cavern is 11km in radius and 25km long.
+- So, assuming r=11km and fg=0.2G, that's…
+  - that gives us an *angular* velocity of 0.1275rpm, and a *tangential* velocity of 146.88m/s (which is… holy shit, 529.2 km/h).
+  - Some back-of-the-envelope math says that might be about right for 0.1-ish RPM.
+- If we step down to 0.1G, that'd give us 0.09rpm and 103.9m/s tangential.
+  Which is 375km/h.
+- And if we use 0.1275rpm and zoom out to 23km radius (at the surface), that's… 0.42G and 307.1 m/s angular.
+  - Which is a whopping 1105.56 km/s.
+- I'm not thrilled with how this math is working.
+  In particular, it makes the cooperative kind of pricks if they spin to a comfy 0.2G *for them* even though they're not even half-way to the surface.
+  - So I may turn those radii down a little.
+  - Let's try 35km long/10km radius for the rock, and 20kmlong/7km radius
+  - oh hey, actually, the old numbers probably wouldn't work, because I said "radius" for one and "diameter" for the other.
+  - that gives us: 0.16rpm, 117m/s on the chamber floor, and 0.286G / 167.6m/s on the surface.
+  - I like that better; they're not crushing the guys on the rim and breaking up the rock at that point.
+  - (that's 421.2 km/h at the chamber floor)
+  - also that's 0.22G in the Loop.
+
+Notably for Infinite Loop, the [Shanghai Maglev](https://en.wikipedia.org/wiki/Shanghai_maglev_train) ([maglevs](https://en.wikipedia.org/wiki/Maglev)) can cover a distance of 30.5 km in 8 minutes at about 430km/h-ish.
+So the bounce-train might still work in some form.
+If we assume the bounce-train runs much more slowly -- around 200km/h -- and if we assume that the bounce-train track is a little wider than the Thistledown chamber, about 8km, then we get:
+
+- linear velocity at train floor: 0.23G, 134m/s → 482.4km/h.
+- adjusted "high-grav": about 680 kph ballpark → 190m/s ballpark → 0.46G
+- *Oh hey, that calc can just change the units.  God dammit.*
+- adjusted "low-grav": about 280 kph ballpark → 0.077G.
 
 # The Old Text I'm Slicing From
 
