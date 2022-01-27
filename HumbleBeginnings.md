@@ -46,7 +46,7 @@ For example, most outer-system habitats tend more towards libertarian socialism 
 >
 > **anarcat**: A flameware that we don't need to have, I'm going to say, before Gunslinger decides to "help".
 
-## The Skyward Collective
+## The Structure of the Collective
 
 The Skyward Collective is itself a federation of smaller collectives, with each member collective usually representing a single habitat or community.
 
@@ -547,21 +547,6 @@ The LLA maintains — not without reason  that these are in fact the first perma
 The habitat is small and simply constructed: it consists of a primary chamber, roughly circular, about 130m in diameter, 20m high at the center, and burried 6m down; the center is occupied by a green-space park, a small circulating stream, and public buildings, with private residences and businesses located in modules set into the wall of the chamber.
 Five side-tunnles radiate from the central chamber, the longest being about 50m long; these tunnels are lined with smaller modules.
 
-> **plasmage**: How hard would that be to infiltrate, do you think?
->
-> **anarcate**: I mean, that's not exactly a detailed description, but probably not hard?
->
-> **Bauble**: Not hard.
-> They don't have the kind of major security that big, rich habs have.
-> Main access is by by standard air-locks with IR and t-ray cameras, doors in trenches on the surface.
-> They've got standard spimes inside, and that's about it.
-> And they're circle-A, so they're not checking nanotat IDs.
->
-> **plasmage**: So someone with circle-A rep could just walk in?
->
-> **Bauble**: Maybe.
-> They're also on guard there, kind of suspicious.
-
 The habitat has living space for a little more than three thousand people — assuming needed maintenance and upkeep is performed, and in particular that the life-support systems are modernised.
 
 > **\/\/ Sentinel Identity Exposure; \/\/ Need-to-Know Only (implied)**
@@ -596,6 +581,23 @@ The habitat has living space for a little more than three thousand people — as
 >
 > Also, I was keeping an eye on \@Bauble's telemetry; immunogenics, infosec and psych-scan all stayed clean.
 > We lost contact with her in the burrow, but scans and records matched up when she came out — and I don't fuck around with that kind of thing, I went through her systems and ego *thoroughly* and there wasn't a synapse out of place.
+>
+> **curé**: How hard do you think it'd be to get back in?
+>
+> **Bauble**: Not hard.
+> They don't have the kind of major security that big, rich habs have.
+> Main access is by by standard air-locks with IR and t-ray cameras, doors in trenches on the surface.
+> They've got standard spimes inside, better cameras at critical points, but that's about it.
+> And they're circle-A, so they're not checking nanotat IDs.
+>
+> **Padre**: So someone with circle-A rep could just walk in?
+>
+> **Bauble**: Maybe.
+> They're also on guard there, suspicious of people who don't have a good reason for being there.
+>
+> **Padre**: So it sounds like a technological infiltration would be our best bet there.
+>
+> **Bauble**: I'm not the proxy here, but yeah, that sounds right.
 
 ### Chateau Montgolfier
 
