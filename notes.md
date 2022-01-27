@@ -46,7 +46,11 @@ Space and Planet Links:
 
 - Nasa's [Planet info sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_ratio.html)
 
-I might yell [here](https://en.wikipedia.org/wiki/Talk:Terrarium_(space_habitat)).
+Asteroid habs:
+
+- I might yell [here](https://en.wikipedia.org/wiki/Talk:Terrarium_(space_habitat)).
+- Oh hey, Wikipedia has an article on [asteroid habs](https://en.wikipedia.org/wiki/Colonization_of_the_asteroids).
+- And [asteroids in general](https://en.wikipedia.org/wiki/Category:Asteroids).
 
 ## Mutualism Notes
 
