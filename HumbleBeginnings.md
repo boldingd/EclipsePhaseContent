@@ -65,14 +65,223 @@ Beyond this, each member collective is given near-complete autonomy, with comple
 
 Unsurprisingly, individual habitats can vary quite a bit.
 
-### A Note on Language
+### Expansion
+
+One of the overarching Skyward Collectives major goals is acquire and populate new habitats.
+Unlike most Autonomist organizations, the Skyward Collective aims to expand their reach and grow their numbers, with the specific aim of providing a counter-weight to the inner-system capitalist governments.
+
+The collective's founders where concerned by the much greater rate at which the capitalist economies of the inner-system where resleeving and integrating infugees: many outer-system polities, with slower and less-productive economies and lower incentive for growth, only slowly selected and reinstantiated infugee egos, while Mars in particular was capable of sustaining a much larger population, and the hypercapitalist economy was capable of producing morphs at a much greater rate, and of matching them with infugee egos and indentures.
+Therefore, one of their major goals for the Skyward Collective was to create a collectivist-anarchist model that could be implemented throughout the system, and that could rapidly resleeve and integrate infugees, providing the Autonomist Alliance with desperately needed numbers.
+
+The collective rejects violence, for both moral and practical reasons — the Collective could never defend itself against an attack by either the Planetary Consortium or the Jovian Republic.
+In order to expand, the Collective acquires old or abandoned habitats through legitimate means (by whatever definition the "owning" group or polity uses) and establishes new peer collectives in them.
+This nonviolent strategy does allow them to avoid outright conflict with existing powers, but it can also subject the collective's colonization efforts to high costs and open-ended delays — especially if the current owner's factional government is unwilling to see one of their habitats pass into Autonomist hands.
+
+By working within local legal systems where they exist, the Collective is sometimes able to establish new member collectives "behind enemy lines," within the inner system; for example, they have purchased a small surface hab on Luna, have occupied an abandoned mining outpost in the inner belt, and have built an improvised "aerostat" on Venus by attaching three large zeppelins and a dozen smaller envelopes to a large mesh on Venus.
+
+> **Gunslinger\#MONOLITH**: So this is the other reason that we're interested in these guys.
+>
+> Two things are important to point out here: one is that they *are* nonviolent, and the other is that they definitely aren't the only vanguardist group in the outer-system.
+>
+> But, *\@curé*'s pretty worried that, long-term, these folk are going to lead to more inter-factional conflict in the solar system, not less.
+>
+> **Minerva**: While I share *\@curé*'s concerns, I am dismayed that he only seems to apply them to peacefully expansionist anarchist communities, and not to violently expansionist or repressive capitalist ones.
+>
+> **anarcat**: If you think he has no criticisms of the Consortium, you don't know the man at all.
+>
+> **Plasmage**: Also, that's not helpful *right now*.
+>
+> **Minerva**: I feel it is necessary context for the discussion, as it goes directly to its legitimacy.
+> If the fact that we are having this discussion is owed to bias on the part of the initiating router, then all of its conclusions may be suspect.
+>
+> **anarcat**: Again, if you think that we're only having this discussion because Cure is biased, you don't know the man at all.
+> And I think it's damned interesting that you've suddenly come to this opinion *now*.
+>
+> **Plasmage**: Take a breath, 'cat.
+> \[ Edited \]
+>
+> **Padre**: I think Curé is loath to step in and silence criticism of *himself*, so I'm going to make an executive decision here.
+> This is not the time for this conversation.
+> If you'd like to make a complaint, I can pull some concerned proxies together and we can hear you out, but we're not going to do that in a comment thread in the middle of an intel report.
+>
+> **Minerva**: Very well, but I would like to register my objections formally.
+>
+> **Padre**: You may.
+>
+> Anyway, \@Gunslinger and \@Bauble, you where saying?
+>
+> \[ \@Minerva has created an issue _here_: formal complaint: factional bias.
+> _12_ accounts have subscribed. \]
+>
+> **Bauble**: Minerva, you have a gift for getting moderated.
+>
+> Anyway, yeah.
+> These guys are peaceful expansionists.
+> They're not violent directly, but they are buying up old, abandoned habs and planting autonomist seeds behind capitalist lines.
+> And the hypercorps are not thrilled.
+>
+> **Plasmage**: Children, if you can't stop fighting, I'm gonna have to separate you.
+>
+> **anarcat**: Interesting choice of words, there.
+> The hypercorps aren't thrilled; how are the other polities taking it?
+>
+> **Gunslinger\#MONOLITH**: I mean, that's kind of beyond the scope of the mission — but lucky you, we knew what \@Curé's interest was, so we checked.
+>
+> The Venusians officially don't care.
+> They're already sharing the skies with an aerostat from another faction, so it doesn't make matters much worse if a bunch of anarchists tie a bunch of balloons together and call it home.
+>
+> The Lunars are a little pissier; they're more conservative, so they're not real happy about outer-system-types making a home next door.
+> But the way the LLA is set up, there isn't a whole lot they can do about it; as long as the Collective doesn't start a fight — or try to join the LLA — the LLA doesn't get to have a say.
+> At least, not officially.
+>
+> On mars, the Skywards' presence sort-of gets folded in to the fight between the Movement and the Consortium.
+> Technically, owing to their being nonviolent (and really not wanting to piss the Consortium off just yet), they've been avoiding getting pulled into the fight — but its real obvious which side they're on.
+>
+> So far, they haven't occupied a hab in the Jovian hegemony — at least not that we could find, not on the record.
+> But every indication is that the Jovians would not be real welcoming neighbors.
+>
+> **Bauble**: No offense to the Padre.
+>
+> **Padre**: None taken.
+>
+> **anarcat**: Salute to Gunslinger for not throwing sharper elbows there, I know you have *Opinions* about the Movement and the League.
+>
+> **Plasmage**: You said "on the record."
+> Are there any indications that they've got something going off-the-record in Jovian space?
+>
+> **BerkeleyMew**: For that matter, we know that these folks keep some secrets: any indications that they have some not-so-non-violent deniable ops?
+>
+> **Bauble**: *\>\@Plasmage* duì bù qǐ.
+> Some, but nothing definitive.
+> They've got a couple of black-budget working groups, so maybe.
+> They've got two or three that have the right set-up to be cluster-habs they're setting up somewhere, and if you where sneaking a hab in the Jovian Republic's territory, you'd want to keep it a secret.
+>
+> But that's it, nothing definite.
+>
+> *\>\@BerkeleyMew* Basically the same.
+> The Skyward Collective has some black-budget working groups that could be covert-ops; so do some of the individual habs.
+> But we haven't been able to get inside, so we don't know.
+>
+> **Gunslinger\#MONOLITH**: I think the evidence is a little stronger there though.
+>
+> Bauble and I put out some feelers on the Guanxi, and we've got some responses.
+> Nothing to report — yet — but it's a distinct possibility.
+>
+> **Plasmage**: You guys don't have much, do you?
+>
+> **Curé**: Bon.
+> Good work, you two.
+> I think it's worth it to push on those Guanxi contacts.
+> We'll coordinate that in the casefile.
+> Keep at it, I don't want to get blind-sided here.
+>
+> \[ A cross-reference with an _operational_file_ was created _here_. \]
+>
+> **Padre**: Loop me in on that too, if you would.
+> Maybe I can help keep that from turning into a flame-war with Das Fretchen.
+>
+> **Curé**: Invite sent.
+
+In principle, membership in a collective is open to anyone; in practice, however, the Collective has a preference for those who lack their own resources, and for those who can be indoctrinated into the Collective's communist values.
+For this reason, they preferrentialy recruit from the ranks of Fall infugees, and from the unprivileged and oppressed at the fringes of other societies.
+
+The Collective does usually make an attempt to verify a new member's identity and check their history, checking relevant reputation scores and verifying brainprint scans when possible (if a record exists, and if the new member consents).
+Members are rarely rejected outright.
+Instead, new members undergo a short probationary period; those with solid circle-A reputations are put through a shorter probation, while those with "red flags" (or entirely without records) are subject to a longer probationary period.
+
+> **plasmage**: OK, question: if they'll take any random wash-out sight-unseen, how is infiltrating these people hard?
+>
+> **Bauble**: Their mesh and social-networks are just as transparent as any other anarchist society, and some of their coops have groups that like to point ALIs at those networks to look for signs of infiltration.
+> But yeah, in general, they accept that they're likely to get infiltrated, and they're not trying very hard to stop it.
+>
+> They control access to their secret-project working-groups *far* more tightly.
+> Those groups are usually invite-only, and you've got to earn credentials in some other project before they even think of inviting you — at least, that's how we think it works.
+> And who knows what kinds of internal security those projects have?
+>
+> **Padre**: And I'm guessing those ALIs get very interested in anyone who seems too curious about those groups.
+>
+> **Gunslinger\#MONOLITH**: We don't know, because we can't see their code.
+> But that's likely.
+
+So far, despite their goals, their numbers remain relatively small; the entire collective numbers slightly more than 140,000 people (as nearly as can be determined).
+
+### Technology, Research, and Safe Seed AI
+
+The Skywards Cooperative also maintains a number of working-groups running research projects.
+(And somewhat at odds with the society's resource-spare hedonistic norms, some of these working-groups are fairly well resourced.)
+
+The Cooperative engages in research in automation and ALI development, the better to operate their society in the near-total absence of human labor; and in organic and nano-tissue construction materials for general use.
+
+Very unusually, they are advocates for the development of safe super-intelligence and seed intelligence.
+The founders argued — and the collective generally accepts — that the development of these technologies is inevitable, that their potential is enormous — even fundamentally transformative, for both individuals and society — and that it can be done safely and equitably.
+So far, all of their work is in advocacy and theory — they have not resumed experimenting with the technologies that caused the Fall, out of both an extreme concern for safety and deference to the judgement of the broader transhuman community.
+
+Notably, some of their working-groups appear to enjoy both greater access to resources and greater secrecy for their efforts — although this is difficult to assess.
+
+> **Bauble**: So, this.
+> This is Firewall's main concern.
+> And honestly, *duì bù qǐ*, we haven't been able to learn much, like we said.
+>
+> As far as we can tell from circle-A and their public mesh, most of them are hedonist an-coms.
+> They just want to get laid and get high, not lead a revolution or build ASIs.
+> They don't know what's happening on the secret projects, and they don't care.
+> And the secret project groups don't leave much mesh presence, and their members don't talk.
+>
+> **Gunslinger\#MONOLITH**: We looked over their public records.
+> They've got a few work-groups that have large resource-allocations and don't have to make their records public.
+> They might just be doing something that they don't want the Consortium to see, like building out the hab's defences — or they might be black-budget ASI labs.
+>
+> But we've also gone over their records pretty closely, and Égalité in particular has a gap between the resources they take in and the resources they either save or pay out.
+> So even after you account for the no-public-records working-groups, there's still a sizable chunk of resources that just goes missing.
+>
+> We can't tell from remote work, we might need an *active operation*.
+>
+> And yes, anarcat, we checked thermals; there's some hot radiators, but the hab's big and crowded enough that there's no way to be sure.
+>
+> **Bauble**: And we've also tried to call in some circle-A and Guanxi favors, work some external contacts.
+> So far, not much.
+> We've got some rumors, and we've uncovered some evidence of an outside supply-chain, but that's it.
+> We haven't got anything on what's inside those black-budget groups.
+>
+> **Plasmage**: What about infosec?
+>
+> **Gunslinger\#MONOLITH**: Meine Entschuldigung, aber — we didn't try hacking.
+> Neither of us are infosec experts, and we didn't want to risk trying to hack a target that might have an ASI active.
+> Certainly not without making a preliminary report first.
+>
+> **Curé**: No, you did the right thing.
+>
+> Gut-level, you two: what's the threat assessment?
+>
+> **Padre**: Seconded, for the record.
+>
+> **Bauble**: Major.
+> Bad.
+> These people creep me the fuck out.
+> There's something not right happening here.
+> I don't like it when anarchists start keeping secrets.
+> I'll bet you half a grand their ASI group has an active project. 
+>
+> **Gunslinger\#MONOLITH**: Abstain.
+> Unsure.
+> Honestly.
+> But I agree, they're hiding something.
+> I think there's enough to justify active measures.
+>
+> **Curé**: Crisse de câlice de tabarnak, I am not thrilled to send sentinels into a theatre with a possible active ASI.
+>
+> All right, I'll start the paperwork.
+>
+> **anarcat**: I'll get my infiltration pants on.
+
+### Language
 
 The Skyward Collective is highly polyglot, drawing as it does from fall refugee and infugee populations, and from those at the bottom rungs of other societies.
 However, joual, an informal style of Quebecois French, has become the unofficial common language of the collective, owing to the fact that several of the movement's founders where French Canadian (and poor), and most of their early discussions and documents where written first in idiomatic Quebecois French.
 (This is much to the chagrin of those same founders, who wanted to avoid anything so divisive and privileged as an official language.)
 
 A particular variant of Barsoomian is also becoming common — "Barsoomian" being the common name for the creole of French and Arabic commonly spoken in the Sufi and Maker communities on Mars.
-This is happening in spite of there being very few native speakers of the language in the collective; instead, it appears to be happening because the language is common enough on the circle-A network, and because it is at least partly intelligeable to speakers of both French and Arabic.
+This is happening in spite of the fact that there are very few native speakers of the language in the collective; instead, it appears to be happening because the language is common enough on the circle-A network, and because it is at least partly intelligeable to speakers of both French and Arabic.
 (Of course, the Skyward variant is based on Quebecois rather than continental French, and even includes a few English loan-words and idioms.)
 
 ## Member Collectives
@@ -290,189 +499,6 @@ However, the abuse, neglect or viovlation of prisoners is also strictly forbidde
 >
 > **Gunslinger\#MONOLITH**: "At least."
 
-### Expansion
-
-Unlike some autonomist collectives, Skyward Collective aims to expand their reach and grow their numbers, with the specific aim of providing a counter-weight to the inner-system capitalist governments.
-The collective's founders where concerned by the much greater rate at which the capitalist economies of the inner-system where resleeving and integrating infugees: many outer-system polities, with slower and less-productive economies and lower incentive for growth, only slowly selected and reinstantiated infugee egos, while Mars in particular was capable of sustaining a much larger population, and the hypercapitalist economy was capable of producing morphs at a much greater rate, and matching them with infugee egos and indentures.
-A major goal for the Skyward Collective was to create a collectivist-anarchist model that could be implemented throughout the system, and that could rapidly resleeve and integrate infugees, providing the Autonomist Alliance with desperately needed numbers.
-
-The Skyward Collective are generally nonviolent; in order to expand, they aim to acquire old or abandoned habitats through legitimate means and establish peer collectives in them.
-By working within local legal systems where possible, they sometimes attempt to establish peer member collectives "behind enemy lines," within the inner system; for example, they have purchased a small surface hab on Luna, have occupied an abandoned mining outpost in the inner belt, and have built an improvised "aerostat" on Venus by attaching three large zeppelins and a dozen smaller envelopes to a large mesh on Venus.
-
-> **Gunslinger\#MONOLITH**: So this is the other reason that we're interested in these guys.
->
-> Two things are important to point out here: one is that they *are* nonviolent, and the other is that they definitely aren't the only vanguardist group in the outer-system.
->
-> But, *\@curé*'s pretty worried that, long-term, these folk are going to lead to more inter-factional conflict in the solar system, not less.
->
-> **Minerva**: While I share *\@curé*'s concerns, I am dismayed that he only seems to apply them to peacefully expansionist anarchist communities, and not to violently expansionist or repressive capitalist ones.
->
-> **anarcat**: If you think he has no criticisms of the Consortium, you don't know the man at all.
->
-> **Plasmage**: Also, that's not helpful *right now*.
->
-> **Minerva**: I feel it is necessary context for the discussion, as it goes directly to its legitimacy.
-> If the fact that we are having this discussion is owed to bias on the part of the initiating router, then all of its conclusions may be suspect.
->
-> **anarcat**: Again, if you think that we're only having this discussion because Cure is biased, you don't know the man at all.
-> And I think it's damned interesting that you've suddenly come to this opinion *now*.
->
-> **Plasmage**: Take a breath, 'cat.
-> \[ Edited \]
->
-> **Padre**: I think Curé is loath to step in and silence criticism of *himself*, so I'm going to make an executive decision here.
-> This is not the time for this conversation.
-> If you'd like to make a complaint, I can pull some concerned proxies together and we can hear you out, but we're not going to do that in a comment thread in the middle of an intel report.
->
-> **Minerva**: Very well, but I would like to register my objections formally.
->
-> **Padre**: You may.
->
-> Anyway, \@Gunslinger and \@Bauble, you where saying?
->
-> \[ \@Minerva has created an issue _here_: formal complaint: factional bias.
-> _12_ accounts have subscribed. \]
->
-> **Bauble**: Minerva, you have a gift for getting moderated.
->
-> Anyway, yeah.
-> These guys are peaceful expansionists.
-> They're not violent directly, but they are buying up old, abandoned habs and planting autonomist seeds behind capitalist lines.
-> And the hypercorps are not thrilled.
->
-> **Plasmage**: Children, if you can't stop fighting, I'm gonna have to separate you.
->
-> **anarcat**: Interesting choice of words, there.
-> The hypercorps aren't thrilled; how are the other polities taking it?
->
-> **Gunslinger\#MONOLITH**: I mean, that's kind of beyond the scope of the mission — but lucky you, we knew what \@Curé's interest was, so we checked.
->
-> The Venusians officially don't care.
-> They're already sharing the skies with an aerostat from another faction, so it doesn't make matters much worse if a bunch of anarchists tie a bunch of balloons together and call it home.
->
-> The Lunars are a little pissier; they're more conservative, so they're not real happy about outer-system-types making a home next door.
-> But the way the LLA is set up, there isn't a whole lot they can do about it; as long as the Collective doesn't start a fight — or try to join the LLA — the LLA doesn't get to have a say.
-> At least, not officially.
->
-> On mars, the Skywards' presence sort-of gets folded in to the fight between the Movement and the Consortium.
-> Technically, owing to their being nonviolent (and really not wanting to piss the Consortium off just yet), they've been avoiding getting pulled into the fight — but its real obvious which side they're on.
->
-> So far, they haven't occupied a hab in the Jovian's hegemony — at least not that we could find, not on the record.
-> But every indication is that the Jovians would not be real welcoming neighbors.
->
-> **Bauble**: No offense to the Padre.
->
-> **Padre**: None taken.
->
-> **anarcat**: Salute to Gunslinger for not throwing sharper elbows there, I know you have *Opinions* about the Movement and the League.
->
-> **Plasmage**: You said "on the record."
-> Are there any indications that they've got something going off-the-record in Jovian space?
->
-> **Lola**: For that matter, we know that these folks keep some secrets: any indications that they have some not-so-non-violent deniable ops?
->
-> **Bauble**: \@Plasmage duì bù qǐ.
-> Some, but nothing definitive.
-> They've got a couple of black-budget working groups, so maybe.
-> They've got two or three that have the right set-up to be cluster-habs they're setting up somewhere, and if you where sneaking a hab in the Jovian Republic's territory, you'd want to keep it a secret.
->
-> But that's it, nothing definite.
->
-> *\@Lola* Basically the same.
-> The Skyward Collective has some black-budget working groups that could be covert-ops; so do some of the individual habs.
-> But we haven't been able to get inside, so we don't know.
->
-> **Gunslinger\#MONOLITH**: I think the eviidence is a little strong there though.
->
-> Bauble and I put out some feelers on the Guanxi, and we've got some responses.
-> Nothing to report — yet — but it's a distinct possibility.
->
-> **Plasmage**: You guys don't have much, do you?
->
-> **Curé**: Bon.
-> Good work, you two.
-> I think it's worth it to push on those Guanxi contacts.
-> We'll coordinate that in the casefile.
-> Keep at it, I don't want to get blind-sided here.
->
-> \[ A cross-reference with an _operational_file_ was created _here_. \]
->
-> **Padre**: Loop me in on that too, if you would.
-> Maybe I can help keep that from turning into a flame-war with Das Fretchen.
->
-> **Curé**: Invite sent.
-
-So far, despite their goals, their numbers remain relatively small; the entire collective numbers slightly more than 140,000 people (as nearly as can be determined).
-
-### Technology, Research, and Safe Seed AI
-
-The Skywards Cooperative also maintains a number of working-groups running research projects.
-(And somewhat at odds with the society's resource-spare hedonistic norms, some of these working-groups are fairly well resourced.)
-
-The Cooperative engages in research in automation and ALI development, the better to operate their society in the near-total absence of human labor; and in organic and nano-tissue construction materials for general use.
-
-Very unusually, they are advocates for the development of safe super-intelligence and seed intelligence.
-The founders argued — and the collective generally accepts — that the development of these technologies is inevitable, that their potential is enormous — even fundamentally transformative, for both individuals and society — and that it can be done safely and equitably.
-So far, all of their work is in advocacy and theory — they have not resumed experimenting with the technologies that caused the Fall, out of both an extreme concern for safety and deference to the judgement of the broader transhuman community.
-
-Notably, some of their working-groups appear to enjoy both greater access to resources and greater secrecy for their efforts — although this is difficult to assess.
-
-> **Bauble**: So, this.
-> This is Firewall's main concern.
-> And honestly, *duì bù qǐ*, we haven't been able to learn much, like we said.
->
-> As far as we can tell from circle-A and their public mesh, most of them are hedonist an-coms.
-> They just want to get laid and get high, not lead a revolution or build ASIs.
-> They don't know what's happening on the secret projects, and they don't care.
-> And the secret project groups don't leave much mesh presence, and their members don't talk.
->
-> **Gunslinger\#MONOLITH**: We looked over their public records.
-> They've got a few work-groups that have large resource-allocations and don't have to make their records public.
-> They might just be doing something that they don't want the Consortium to see, like building out the hab's defences — or they might be black-budget ASI labs.
->
-> But we've also gone over their records pretty closely, and Égalité in particular has a gap between the resources they take in and the resources they either save or pay out.
-> So even after you account for the no-public-records working-groups, there's still a sizable chunk of resources that just goes missing.
->
-> We can't tell from remote work, we might need an *active operation*.
->
-> And yes, anarcat, we checked thermals; there's some hot radiators, but the hab's big and crowded enough that there's no way to be sure.
->
-> **Bauble**: And we've also tried to call in some circle-A and Guanxi favors, work some external contacts.
-> So far, not much.
-> We've got some rumors, and we've uncovered some evidence of an outside supply-chain, but that's it.
-> We haven't got anything on what's inside those black-budget groups.
->
-> **Plasmage**: What about infosec?
->
-> **Gunslinger\#MONOLITH**: Meine Entschuldigung, aber — we didn't try hacking.
-> Neither of us are infosec experts, and we didn't want to risk trying to hack a target that might have an ASI active.
-> Certainly not without making a preliminary report first.
->
-> **Curé**: No, you did the right thing.
->
-> Gut-level, you two: what's the threat assessment?
->
-> **Padre**: Seconded, for the record.
->
-> **Bauble**: Major.
-> Bad.
-> These people creep me the fuck out.
-> There's something not right happening here.
-> I don't like it when anarchists start keeping secrets.
-> I'll bet you half a grand their ASI group has an active project. 
->
-> **Gunslinger\#MONOLITH**: Abstain.
-> Unsure.
-> Honestly.
-> But I agree, they're hiding something.
-> I think there's enough to justify active measures.
->
-> **Curé**: Crisse de câlice de tabarnak, I am not thrilled to send sentinels into a theatre with a possible active ASI.
->
-> All right, I'll start the paperwork.
->
-> **anarcat**: I'll get my infiltration pants on.
-
 ## Habitats
 
 ### Égalité
@@ -630,6 +656,22 @@ They use their limited mobility to hold near the equator, far away from the plan
 | Languages | French, English, Skyward Barsoomian, Chinese, Russian |
 | Location | Main Belt |
 | Faction | Autonomist, Skyward Collective |
+
+Armoise is a beehave habitat located inside a roughly-spherical S-type asteroid about 11km in diameter.
+The asteroid was claimed by an Extropian microcorp and mined extensively between BF 19 and 11, after which it was abandoned.
+Over the next fifteen years, it saw occasional visits from scavengers and squatters; in AF 5, it was unoccupied.
+The microcorp that had originally claimed the asteroid had broken up after they finished mining it — not an unusual arrangement.
+The Collective contacted several of the principles, who where willing to sell their claim on the rock for a pittance of @-rep and credits, since they had neither the desire not capability to make any use of it.
+
+While almost all of the equipment had since been either stolen or scrapped for feed-stock, the physical hulls of the beehive hab-modules where intact — for the most part, anyway.
+A team was dispatched from Égalité with nanofabbing gear and construction mechs; sixteen months later, basic power and life-support had been established, and enough of the caverns and tunnels had been refurbished to provide living space for more than a thousand people.
+
+Over the last five years, the work has continued; all of the original modules have since been either restored or scrapped for feed-stock, with new construction occuring in mining tunnels and caverns.
+
+While the asteroid does still contain small metal deposites, it is generally metal-poor; fortunately, the residents of Égalité are used to operating without easy access to metals, and have brought with them many techniques perfected in the outer system.
+
+The asteroid's present population is approximately nine thousand, drawn from the Extropian belt, Mars, and Jupiter.
+If other, similar beehive habs are any guide, the habitat's ultimate carrying capacity might be in the area of ninety thousand people.
 
 ### Secret Hab near Égalité
 
