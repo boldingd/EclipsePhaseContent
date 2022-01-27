@@ -532,22 +532,37 @@ All of the judges in their court system are required to be Trusted Members, who 
 
 Dewi's Refuge is a small community burrowed into the surface of Luna.
 It's named for Suharto Dewi, an Indonesian entrepreneur who constructed the habitat more than forty years before the Fall.
-Dewi survived the Fall and is still alive, but decided to sell off rather than modernise the old habitat; the Skywards Collective purchased it from him.
+More fortunate than many, Dewi survived the Fall; he decided to sell off the old hab rather than modernise it, and the Skywards Collective purchased it from him.
 
 Complicating matters is that the hab was still occupied, if only by a hand-full of people.
 The collective has worked hard to win these people over, and has enjoyed some success — cancelling rent being an excellent way to make a positive impression on someone — but they are not yet confident that they have enough public support to carry a vote to depart the LLA.
 
 For this reason, the factional status of the habitat is disputed.
-The LLA accepts that the Skyward Collective (or the shell-company they used to purchase the hab) are the legal owners, and that ultimately they have the right to depart the LLA; however, not wishing to see a communist presence take hold on the moon, the Alliance has used the presence of "Alliance-member" prior residents in the habitat to delay the collective taking possession of the Hab.
-Complicating matters, it is in principle possible for a habitat to be a member of both the Skyward Collective and the Lunar-LaGrange Alliance at the same time, since the terms of the Alliance do not require a capitalist economy; this has been offered as a compromise position.
+The LLA accepts that the Skyward Collective (or the shell-company they used to purchase the hab) are the legal owners, and that ultimately they have the right to depart the Alliance; however, not wishing to see a communist presence take hold on Luna, the Alliance has used the presence of "prior Alliance member" residents in the habitat to delay the Collective's taking possession of it.
+Complicating matters, it is in principle possible for a habitat to be a member of both the Skyward Collective and the Lunar-LaGrange Alliance at the same time, since the terms of the Alliance do not require that member-habs maintain a capitalist economy or prevent them from joining other organizations; while this is a potential compromise position, it is appealing to neither the LLA nor the Skyward Collective.
 
-Because of the conflicted status, the Collective has refrained from fully occupying the habitat — although they have sent in small work-crews, totalling a bit more than 30 people, to continue the maintenance of the hab.
-The LLA maintains — not without reason — that these are in fact the first permanent occupants of the habitat.
+Because of the conflicted status, the Collective has refrained from fully occupying the habitat — although they have sent in small work-crews, totalling a bit more than 32 people, to continue the maintenance of the hab.
+The LLA maintains — not without reason  that these are in fact the first permanent occupants of the habitat.
 
-The habitat is small and simply constructed: it consists of a primary chamber, roughly circular, about 130m in diameter, 20m high at the center, and burried 4m down; the center is occupied by a green-space park, a small circulating stream, and public buildings, with private residences and businesses located in modules coming off the walls of the chamber.
-Five side-tunnles radiate from the cenntral chamber, the longest being about 50m long; these tunnels are lined with smaller modules.
+The habitat is small and simply constructed: it consists of a primary chamber, roughly circular, about 130m in diameter, 20m high at the center, and burried 6m down; the center is occupied by a green-space park, a small circulating stream, and public buildings, with private residences and businesses located in modules set into the wall of the chamber.
+Five side-tunnles radiate from the central chamber, the longest being about 50m long; these tunnels are lined with smaller modules.
 
-The habitat has living space for a little more than three thousand people.
+> **plasmage**: How hard would that be to infiltrate, do you think?
+>
+> **anarcate**: I mean, that's not exactly a detailed description, but probably not hard?
+>
+> **Bauble**: Not hard.
+> They don't have the kind of major security that big, rich habs have.
+> Main access is by by standard air-locks with IR and t-ray cameras, doors in trenches on the surface.
+> They've got standard spimes inside, and that's about it.
+> And they're circle-A, so they're not checking nanotat IDs.
+>
+> **plasmage**: So someone with circle-A rep could just walk in?
+>
+> **Bauble**: Maybe.
+> They're also on guard there, kind of suspicious.
+
+The habitat has living space for a little more than three thousand people — assuming needed maintenance and upkeep is performed, and in particular that the life-support systems are modernised.
 
 > **\/\/ Sentinel Identity Exposure; \/\/ Need-to-Know Only (implied)**
 >
@@ -561,9 +576,14 @@ The habitat has living space for a little more than three thousand people.
 > (And \@plasmage gets real pissy when you open dangerous packages without his permission.)
 > And I couldn't get it to \@anarcat or \@plasmage, so I made the hand-off.
 >
-> They weren't half-assing it, either.
+> They did the hand-off right.
 > They didn't offer information, and I didn't pry — you don't ask questions or make small-talk on these kinds of jobs, unless you *want* them to think you're a cop.
 > My impression wasn't quan-xi background; I think they're learning how to do counter-intel.
+>
+> Like I said, physical security didn't look great.
+> I didn't get a chance to poke around inside the walls, but it looked pretty standard and pretty old.
+> No access control stations or inspections or anything like that, just a thirty-year-old surface airlock with trans-spectral imagers.
+> \@anarcat or I could get in again pretty easily.
 >
 > I'll attach the XP streams I've got.
 >
@@ -571,7 +591,7 @@ The habitat has living space for a little more than three thousand people.
 >
 > **Plasmage**: For the record, I could see the package over the tac-net.
 > It looked like it was smart-matter, probably self-healing, probably with immunogenic capabilities — the kind of thing that could have who-knows-what capabilities.
-> Me and \@anarcat have rigged up that kind of thing, and we usually also fit 'em with sensors that detect if they're being scanned with radar or terrahertz, and explosives in case of a breach.
+> Me and \@anarcat have rigged up that kind of thing before, and we usually also fit 'em with sensors that detect if they're being scanned with radar or terrahertz, and explosives in case of a breach.
 > So we decided not to fuck with it!
 >
 > Also, I was keeping an eye on \@Bauble's telemetry; immunogenics, infosec and psych-scan all stayed clean.
@@ -592,11 +612,11 @@ Chateau Montgolfier is a settlement on Venus consisting of three zeppelins and a
 The three zeppelins are laid out in an "inverted triangle" formation, with two at the port and starboard of the leading edge and one at the back, in an attempt to keep the mesh (relatively) free of prop backwash.
 (The down-side is that the leading zeppelins must maneuver carefully to ensure tension on the front of the mesh, as it will otherwise begin to "flap" dangerously.)
 
-The current carrying capacity of the "chateau" is limited, both in terms of occupants and lifting capacity; it is believed that the collective intends it as much as the starting-point for some other construction project as a permanent habitat in itself — however, given the Collective's drive to house the unhoused, the chantier is filled to capacity, and likely to remain so.
+The current carrying capacity of the "chateau" is limited, both in terms of occupants and lifting capacity; it is believed that the collective intends it as much as the starting-point for some other construction project as a permanent habitat in itself — however, given the Collective's drive to house the unhoused, the chateau is filled to capacity, and likely to remain so.
 (The Chateau is occupied by about 360 people, possibly with further occupants as infomorphs.)
 
-Notably, the Chateau's navigational control is limited; to a great degree, they are at the mercy of the winds.
-They mainly use the zeppelins' thrusters to hold near the equator, far away from the planet's polar vortices.
+Notably, the Chateau's maneuverability is limited, as the non-rigid mesh becomes dangerously unstable at even fairly low airspeeds; to a great degree, they are at the mercy of the winds.
+They use their limited mobility to hold near the equator, far away from the planet's polar vortices, and to avoid dangerous weather formations, traffic lanes, and other aerostats as best they can.
 
 ### Armoise
 
