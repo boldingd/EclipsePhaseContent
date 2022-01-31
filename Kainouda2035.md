@@ -299,18 +299,30 @@ Lacking a fusion (or antimatter) drive, they also do not have the range that a d
 
 ## The Thistledown Cooperative
 
-The Thistledown Cooperative is a large Extropian market-socialist cooperative that has come to dominate the affairs of Kainouda 2035.
+The Thistledown Cooperative is a large Extropian Mutualist cooperative that has come to dominate the affairs of Kainouda 2035.
 Almost three-hundred and fifteen thousand people are members of the Thistledown Cooperative — a solid majority of the asteroid's population.
-The Thistledown Cooperative also owns more than two-thirds of the asteroid's habitable volume, and large portions of its infrastructure (like power and life-support systems).
-The Cooperative's major holding is the Thistledown Cavern, a massive, cylindrical cavern laid out along the axis of rotation (a little like a Jovian "Reagan Cylinder," although the residents prefer to call it a "Bear Habitat").
+The Thistledown Cooperative also owns more than two-thirds of the asteroid's habitable volume, and large portions of its infrastructure (including a large portion of its total power generation and life-support infrastructure).
+The Cooperative's major holding is the Thistledown Cavern, a massive, cylindrical cavern laid out along the axis of rotation, much like a Jovian "Reagan Cylinder" (although the residents prefer to call it a "Bear Habitat," named for twentieth-century writer Greg Bear, whos writing also gave the Cooperative its name).
 
 ### Structure of the Cooperative
 
-The cooperative is organized along market-socialist lines, and run by direct-democratic vote.
-The cooperative's various assets — its habitats, infrastructure, and productive capital — are owned collectively.
-Infrastructure is administered by the cooperative directly; productive capital, like industrial mechs, minifacturies, and server farms, are held by member-owned community banks and leased to members of the cooperative for productive use.
-These community banks compete with one another, encouraging the efficient allocation of resources; each member of the Thistledown Cooperative is a member of exactly one community bank.
-The community banks and the Cooperative itself are the only institutions allowed to charge rent.
+The Thistledown Cooperative is a large Extropian Mutualist cooperative, owned by its members and organized to hold their habitats and infrastructure and to manage their microcurrency, the Thistle (noted $TSL).
+
+> **Apotheotician**: Bear this point in mind as we go through this: it's a giant co-op.
+> It does some of the things that a socialist government would do, but it's *not* a government.
+> It exists to hold the habitat, to run it for its members, and to manage the micro-currency economy that we use.
+> 
+> **Padre**: Not to jump the gun, but what kind of difference does that make?
+
+Their major assets are held by the Cooperative, and either operated directly by it for the benefit of its members or leased to Mutualist microcoprs and cooperatives for productive use.
+This includes several habitats, including the Thistledown Chamber; the supporting infrastructure, including power and life-support; and major facilities, including minifacturies.
+These resources are used to provide housing, power, life-support, and other basic necessities to members of the Cooperative at no (individual) cost; of course, being an individualist anarchist systems, members are also free make their own provisions on the open market.
+
+Some smaller pieces of capital — including cornucopia machines, smaller microfacture or nanofacture facilities, industrial mechs, and other industrial hardware — are held by Mutualist Capital Banks and leased to members for productive use.
+Similarly, some smaller facilities — including some smaller modules and habitats, and some of the buildings in the Thistledown Chamber — are also leased to microcorps to provide services on the open market.
+There are also traditional Lending Banks and Credit Unions (also member-owned, of course) that exist to provide credit in Thistle.
+
+Mutualists reject both private-property and rent-seeking: thus, the cooperative itself, and the various microcorps that it licenses (the various banks), are the only entities that are allowed to charge *rent*; and also the cooperative and those licensed microcorps are allowed to reclaim and redistribute capital that a lease-holder has ceased to put to productive use.
 
 > **RategoryTheory**: So, basically, I get to "own" a cornucopia machine, as long as I pay a recurring fee to an institution that the community controls?
 >
@@ -349,6 +361,48 @@ The community banks and the Cooperative itself are the only institutions allowed
 >
 > **anarcat**: Well, it actually kind of does, funnily enough.
 > I guess we'll find out if it meets with your approval when we get to that part of the write-up.
+
+These entities — the lending banks, capital banks, and those leasing facilities — together with several microcorps that the Cooperative contracts with to provide services to members, are referred to as Special Status Entities.
+Owing to their special status in the Cooperative, they are subject to regulation and inspection.
+
+The Cooperative also manages the micro-currency used in the cooperative, the Thistle \(\$TSL\), in cooperation with the lending banks.
+Notably, anyone who is a member of the Thistledown Cooperative (or one of the coops they've given license to) is required to accept Thistle in payment.
+
+For all other services — including protection, education, and healthcare — contract on the open market.
+Notably, the Thistledown market is not closed; members may deal freely with outsiders, and outsiders may operate freely in the Cooperative's markets (as long as they are willing to pay in Thistle).
+(Of course, members may not sell or trade assets held by the Cooperative itself; they also may not trade assets leased from a capital bank, without the bank's approval.)
+
+The Thistledown also has not expropriation requirement.
+Members may hold whatever assets they wish in outside economies — and whatever personal property they wish within the Cooperative — so long as they meet all their obligations to the Cooperative.
+
+### Membership Obligations
+
+Fundamentally, the Thistledown Cooperative is a mutualist member-owned cooperative: it provides services to its members, for which it may charge dues and fees; it also holds various assets, some of which it leases to members for use, for which it also charges fees.
+Taken together, this creates a revenue stream; some of this revenue may be returned to members as a dividend, while the rest of it is used to fund operations.
+
+Each member is required to pay dues (currently 500 Thistle per month, equivalent to around 300 Hypercorp Credits), and those who wish to join the cooperative are required to pay an initial fee (currently 5000 Thistle, equivalent to 3000 Hypercorp Credits).
+
+These fees create an obvious barrier for the unemployed and destitute; to ensure that the Cooperative provides access and aide to those who cannot pay, it provides a *job guarantee*.
+Anyone who signs up for the *job guarantee* receives a base wage, and anyone who is assigned a task and performs it satisfacorily receives an additional payout.
+(Those who make a good-faith effort but fail to perform adequately do not receive the additional payout;anyone who is assigned a task and either refuses it or fails to make a good-faith effort forfeits their wage from the program.)
+Applicants may volunteer for specific tasks; jobs go to volunteers first, assuming that the volunteer is qualified.
+The remaining jobs are assigned to the remaining applicants by lottory.
+(Jobs that have more than one volunteer are also assigned by lottory among the volunteers.)
+
+> **Gunslinger#MONOLITH**: How is this not just indenture but nicer?
+>
+> **RategoryTheory**: I mean, according to you, it's indenture every time you have to do anything you don't waaaanaaaaa.
+>
+> **Apotheotician**: That reaction's fairly common from outer-system an-coms and libertarian socialists.
+> For my money, because it's voluntary, because the wage is fair, and because you can quite at any time.
+
+The Cooperative's charter requires that the payout be such that working 20 hours a week, or being enrolled in the lottery for 40, is enough to meet a quarter of the monthly dues; in practice, it is usually much higher.
+(The jobs guarantee is also intended to serve as a kind of indirect minimum wage and market regulation, since no worker would accept a wage much lower or conditions much worse than those provided by the jobs program; for that reason, Cooperative members usually ensure that the payout and conditions are good.)
+At present, work-queue "shifts" are four hours long, with pay currently being 20 $TSL per hour for the queue, and an additional 25 $TSL per hour of work performed.
+(Of course, being "on the queue" does not require that one waits in a physical area; it simple means that one registers for the queue over the mesh, and responds in a timely manner if selected.)
+
+The community banks also provide their members a payout from the fees collected; this serves as a kind of redistribution mechanism, ensuring that a portion of the profits generated by the Thistledown-mediated economy is redistributed to members.
+While membership in one-or-more of the community banks is optional, most members choose to joint at least one.
 
 ## Other Extropians
 
