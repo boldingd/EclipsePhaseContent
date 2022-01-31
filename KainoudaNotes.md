@@ -128,6 +128,33 @@ Tentatively (re-)named one of the stations *Limehouse*, after the part of london
 
 # Re-Working
 
+## Timeline
+
+Reposted from below:
+
+Current timeline:
+
+- BF 21: Kainouda purchased
+- BF 13: Thistledown Cooperative
+- BF 9: Infinite Loop established (in anticipation of spin)
+- BF 8: asteroid spun
+
+From the book:
+
+- A quick timeline is on CRB p.37.
+  - "Argonauts split from hypercorps" and "Belt colonized" in BF 40-20.
+- But also, on CRB p.57
+  > Various forms of anarchism and similar libertarian ideologies were quite common among the first transhumans who settled space in the two decades before the Fall.
+- From CRB p.79
+  > Titan was originally settled in the late 21st century by a European academic consortium, making it the only major body in the system colonized primarily by non-hypercorp interests.
+  - Notably, the write-up in that bloc doesn't exactly match what they've written later -- I don't think -- and it also doesn't make a lot of sense, because it's still assuming a primarily-rep economy.
+- From Rimward p.16
+  > The first ventures to the Main Belt for mining and habitat development were launched decades before the Fall. In addition to Earth corporations that staked their claims to mineral-rich asteroids, there were also plenty of rugged individualists and wealthy entrepreneurs who supported Earth’s expanding reach deeper into space.
+  - That *loosely* ligns up with "BF 40-20" for the colonization of the main belt.
+
+I'm not going to fuck with it for now, because it sounds like BF 21 works out pretty well as far as the book is concerned.
+But I might like it if that process took longer.
+
 ## The Thistledown
 
 I'd like to rethink this and make sure I've got it straight before I write it.
@@ -146,6 +173,34 @@ I'd like to rethink this and make sure I've got it straight before I write it.
   - And this is kind of a departure, because "What Is Mutualism" made it pretty clear that taxes *aren't* ok.
   - Although the EP version says that "community banks can charge interest."
   - And one of those web-sites did mention that "the monetary thinking \[in What is Mutualism\] is out of date."
+
+Rethinking
+
+- I was doing some rethinking alaong the lines of casting the various components as voluntary mutual-aide groups with dues — that might be a little more authentic.
+  - And instead of sticking to the whole "mutual bank" thing, ranging a little more widely, depicting them as webs of mutual-aide groups within a coop structure (or multiple coop structures).
+- I had originally drafted them having a minimum income facilitated by the mutual banks,
+  - but I might rework them as mutual-aide groups with dues.
+  - And that makes the question, "what about the poor," and the answer I came up with was a work guarantee.
+- I guess another option would be to just have them *also* do a minimum income.
+  - They could form a coop that taxes (charges dues on) land and capital uses and provides a minimum payout to members.
+
+Rethinking more
+
+- The Cooperative itself
+  - Owns the habs, runs the micro-currency, provides housing and life-support to members.
+  - Has "dues," which can be paid in thistle.
+  - Runs publics-works projects.
+  - Has a "work guarantee" connected to the thistle supply and public-work requirements,
+    - which serves a purpose a little like social programs/a minimum wage.
+- Mutual-aide organizations
+  - some not *directly* tied to the cooperative — although most also use thistle for currency.
+  - some literal *banks* who manage the Thistle supply, making loans and taking deposits.
+  - some capital reserves, who rent out *capital* for a fee (and are the only ones allowed to charge rent).
+    - these capital reserves are also how the *no private property* rule works — or one way that it works.
+- Especially the member-owned banks serve as a *kind of* minimum income; whether this meets the dues requiremetn for the Thistledown depends on the year.
+  - Joining one or more community-owned banks is *optional*; *most* people do, but it's not required.
+- They don't have an expropriation mechanism; as long as you meet your obligations to the collective, they don't really care what else you own elsewhere.
+  - But the cooperatives and the banks do have some technocrats who are pretty proficient at ensuring that the cooperative's capital reserves grow.
 
 ## The Hypercorps
 
