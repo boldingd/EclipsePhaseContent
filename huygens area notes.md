@@ -11,6 +11,21 @@
   - Oh, actually I didn't.
   I just mispelled it on the first line of the notes.
   That's comforting.
+- Location:
+  - Endicott sits on the gentle slope that connects Syrtis Major Planum (highland) and Isidis Planitia (lowlands), both just north of the equator"
+  - "Syrtis Major Planum is actually a shield volcano, just a really wide and low one (1° slope!).
+  It’s also apparently dark and realtively dust-free.
+  It’s the first surface feature recorded on mars, by Christiaan Huygens!
+  It used to be called the Hourglass Sea."
+
+## Populations
+
+- Endicott: 240K
+- Polygons: 12K
+- The Ditch: unlisted; assume 300-500
+- Gravel: 23K
+- Trace: 1K (?)
+- Total: around 280K 
 
 # Original Text
 
