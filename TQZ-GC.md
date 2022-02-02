@@ -1,68 +1,65 @@
 # The Titan Quarantine Zone Guard Cooperative
 
-> The Titan Quarantine Zone Guard Cooperative is an alternate faction for player-characters, based off a group mentioned in the *Morph Recognition Guide*.
+> The Titan Quarantine Zone Guard Cooperative is an alternative player-character faction for Eclipse Phase, based off a group mentioned in the *Morph Recognition Guide*.
 > 
-> Many groups have trouble with the Panopticon (the open, ubiquitously-surveilled societies of Eclipse Phase), coupled with the very high requirement for secrecy in a Firewall game.
-> The intent of this document is to offer a faction similar to Firewall, that allows GMs to tell similar stories, but relaxes the need for absolute secrecy and paranoia.
-> (And maybe allows players to spend a little more time tromping around in battle armor with plasma guns, which they seem to enjoy.
-> Obviously, it’s up to each individual group whether this to their taste or whether it’s defeating the point of the setting.)
+> Many groups have trouble with the Panopticon (the open, ubiquitously-surveilled societies of Eclipse Phase), and the very high requirement for secrecy that this requires; in my experience as a GM, groups can frequently spend much more time struggling with the implications of the panboptican than they spend resolving the core mystery, which they often don't enjoy.
 > 
-> They should also provide useful allies and interesting additions to Mars games.
+> The goal in creating the TQZ-GC is to offer a faction similar to Firewall; one that allows GMs to tell similar stories, but relaxes the need for absolute secrecy and paranoia.
+> (And maybe allows players to spend a little more time tromping around in battle armor with plasma guns, which they seem to enjoy.)
+> Obviously, it’s up to each individual group whether this to their taste, or whether it’s defeating the point of the setting.
+> 
+> Of course, the GC's should also provide useful allies and interesting additions to games set on Mars.
 
 ## Background
 
-The Titan Quarantine Zone Guard Cooperative is a large cooperative organized to help secure the TQZ.
-They are more commonly known as the G.C., and are sometimes called collectively “the GC’s,” pronounced “gee-cees”.
-They operate all along the border of the TQZ, and their membership is drawn from all walks of Martian society; their goal is to secure the border of the TQZ, quashing TITAN threats.
+The Titan Quarantine Zone Guard Cooperative is a large, decentralized, peer-to-peer cooperative organized to help secure the border of the Titan Quarantine Zone.
+(They are more commonly known as the G.C., with members often called either Guards or "gee-cees.")
+They operate all along the border of the TQZ, and their membership is drawn from all walks of Martian society.
 
-They are an apolitical organization: formally, they stay out of Martian politics, believing (for the most part) that the job of securing the border and containing the TITAN threat is far too important to compromise for partisan gain.
-Since they are organized as a hierarchy-less cooperative, it should be unsurprising that they draw heavily from red-necks, anarchists, and other Movement-aligned groups; however, they do also have their hypercorp members and partners — notably, several hypercorps, and some rich hypercapitalist backers, provide heavy material and financial support.
-(And also legal and political cover, since not all of their operations are strictly legal — they are technically vigilantes, after all.)
+They are an apolitical organization, believing (for the most part) that the job of securing the border and containing the TITAN threat is far too important to compromise for partisan gain.
+Since they are organized as a peer-to-peer cooperative, they draw heavily from rednecks, anarchists, and other Movement-aligned groups; however, they do also have their hypercorp members and partners.
+Notably, wealthy hypercapitalist backers provide not only material and financial support, but also legal and political cover, since not all of their operations are strictly legal, as far as the Tharsis League is concerned.
 
 ## Organization
 
 Formally, every individual is an equal member of the organization.
-Important decisions — those that affect the entire group — are made by a majority vote.
-
-They are geographically very scattered: they maintain their own social network, and rely heavily on it for reputation tracking, decision making and voting.
+Important decisions, including those that affect the entire group, are made by a majority vote.
+They are geographically very scattered, and they have no particular leaders or headquarters; they coordinate using their own social network, and they rely heavily on it (and a secure, distributed storage system) for record-keeping, task-tracking, communication, reputation tracking, decision making, and voting.
 
 Members are organized into working groups.
-Working groups usually form around areas: “all the members near this city,” for example.
-They also form around specific tasks: “securing the network,” for example, or “improving immunogenic systems.”
-If many members from a single organization join, they may be organized into a working group: “the employees of the Olympus Military Vehicle Outfitters,” for example.
-Working groups are mostly independent, and have great freedom in how they organize and operate.
+Working groups usually form around specific areas (for example, all the GCs in a specific city), tasks (for example, securing their network, or improving immunogenic systems), or oganizations (for example, if several members of a specific microcorp join).
+Working groups operate largely independently, and have great freedom in how they organize and operate.
 
-They also partner with other organizations.
-several anarchist coops, small-town volunteer groups, Hypercorps and even a few Argonaut projects have all partnered with the organization.
-Partner organizations provide important support: for example,
+The Coop also partners with other organizations; they've worked with anarchist coops, small-town volunteer groups, Hypercorps and even a few Argonaut projects.
+For example:
 
-- some partner hypercorps provide political cover, legal support and financial resources,
-- some Argonaut organizations provide technological support (threat assessments and nanophage updates), and
-- some minifacturing groups provide military gear and vehicle refits.
+- some partner hypercorps provide political cover, legal support, and financial resources;
+- some Argonaut organizations provide network security and operation, threat assessment and analysis, and nanophage updates; and
+- some minifacturing groups and defense hypercorps provide military gear and vehicle refits.
 
-They have very little centralized infrastructure and very few “full time” members; rather, most tasks are undertaken as they become necessary and as time permits, by the people and organizations in a position to handle them.
+They have very little centralized infrastructure and very few “full time” members; rather, most tasks are undertaken as they become necessary and as time permits, by the people and organizations and in a position to handle them.
 Major tasks and ongoing operations are tackled by dedicated working-groups.
-Permanent working groups currently exist to maintain and secure the GC social network, to develop defenses against TITAN threats, to secure and distribute necessary military hardware, and to train members in the skills they need (most volunteers do not have military training, for example).
+Permanent working groups currently exist to maintain and secure the GC social network, to develop defenses against TITAN threats, to secure and distribute necessary military hardware, and to train members in the skills they need (most volunteers do not have military training).
 
 ## Operations
 
-Actual TITAN break-out scenarios are rare: the TITANs seem content to mill about in the Zone… mostly.
+Actual TITAN break-out scenarios are rare: for whatever reason, TITAN war-machines rarely attack the Zone border directly.
 Much more common are individuals or groups (ranging from hard-luck treasure hunters to well-funded hypercorp black ops) attempting to breach the Zone to recover valuable TITAN technologies.
-Of course, this goes wrong far more often than it goes right.
-(Some might say that there’s no way for such a scenario to “go right.”)
-It frequently falls to the GC to investigate and thwart such efforts, and to contain the fall-out.
+Of course, this goes wrong far more often than it goes right — some might say that there’s no way for such a scenario to “go right" — and it frequently falls to the GC to investigate and thwart such efforts, and to contain the fall-out.
+Smaller TITAN bots and plague-carrying wildlife can also cross the border; there’s always work to be done mopping up bot swarms and plague-carrying crawdiddies.
 
-The GC’s doesn’t know how they do it, but small TITAN bots and plague-carrying wildlife can cross the border; there’s always work to be done mopping up bot swarms and plague-carrying crawdiddies (see X-Risks).
+The GC is also called in to investigate unusual behavior that might be a sign of TITAN infiltration.
+Sometimes towns, facilities or cliques can become suspicious or go dark entirely; when this happens, it often falls to the GC to investigate.
+These investigations can be tricky, as suborned TITAN agents are extremely difficult to detect — not least because there are no generally reliable tests for infection, so it can be almost impossible to prove an individual (or town) is “clean.”
+At the same time, if all suspected infections were treated as confirmed infections, there wouldn’t be anyone left on Mars; it is a difficult ballance to strike.
+In the worse-case scenario, If it turns out that an outbreak is already underway, the GCs might be the ones who have to put a stop to it — an ugly, dangerous, stressful, and morally fraught process.
 
-Sometimes towns, facilities or cliques can become suspicious or go dark entirely; when this happens, the GCs are often called in to investigate.
-These investigations can be tricky, as suborned TITAN agents are extremely difficult to detect—there are no generally reliable tests for infection.
-It can be almost impossible to prove an individual (or town) is “clean,” but if all suspected infections were treated as confirmed infections, then there wouldn’t be anyone left on Mars.
-In the worse-case scenario, If it turns out that an outbreak is already underway, the GCs might be the ones who have to put a stop to it—an ugly, dangerous, psychologically stressful and morally fraught process.
+Sometimes the GCs have solid leads — specific threats identified at specific places — and their mission is the straight-forward elimination of the target.
+Sometimes, however, they get much more nebulous information — rumors, video snapshots, or curious trace evidence — and they have to infiltrate, investigate, and analyze to decide what has to be done.
 
-Sometimes the GCs have solid leads—specific threats identified at specific places—and their mission is the straight-forward elimination of the threat.
-But sometimes they get much more nebulous information—rumors, video snapshots or curious trace evidence—and they have to infiltrate, investigate and analyze to decide what has to be done.
-
-Operations often come either from trusted partners or public reports; they are submitted on the social network, and then passed to the members and working-groups in the best position to respond.
+Operations often come either from trusted partners or public reports.
+Reports and aid-requests are submitted to the social network, and then passed to the members and working-groups in the best position to respond.
+Of course, the Cooperative often receives more tips and requests than it can respond to.
 
 ## Public Status
 
