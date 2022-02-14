@@ -1,5 +1,12 @@
 # Kainouda 2035
 
+> Kainouda 2035 is an Extropian asteroid that has been heavily settled and spun for gravity.
+> It is dominated by a large Mutualist habitat that owns more than half the rock; however, several other groups also call the asteroid home, including other mutualists, an-caps, hypercorps, and Scum.
+>
+> One simple motivation for creating Kainouda 2035 was that I really enjoyed Greg Bear's *Aeon*, and I objected to the characterization of "Reagan cylinders" as a poor design for a hab.
+> Another design goal was to create an environment where many different factions where present in close proximity; this would make it easier for Firewall teams from diverse backgrounds to operate.
+> (Especially the presence of the an-cap and scum communities, where public information sharing and law-enforcement are likely to be particularly *think*.)
+
 | Kainouda 2035 | |
 | --- | --- |
 | Type | Bear Habitat (Chamber in rotating asteroid); beehives (under centrigrav) |
