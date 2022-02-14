@@ -1,6 +1,12 @@
 # the Huygens Metro Area
 
-The Huygens Metro Area is a region located on the slope between the Syrtis Major Planum (a shiled volcano) and Isidis Planitia lowlands, just north of the equator; it contains four major settlements, with a total population around 280 thousand people.
+> The *Huygens Metro Area* is a small region located north of the equator.
+> It includes outposts from a number of factions: an Argonaut facility, two Hypercorp-owned cities, and a Mutualist settlement.
+>
+> I originally created it as a setting for a *Guard Co-Op* campaign I ran for my group; it was a place where a planet-bound team could still encounter a major Cognite holding.
+> And, like many of the settings I come up with, it includes outposts and holdings from several factions, which makes for complex local politics, and also makes it a little easier for teams from diverse backgrounds to operate.
+
+The Huygens Metro Area is a region located on the slope between the Syrtis Major Planum (a shiled volcano) and Isidis Planitia (and impact basin), just north of the equator; it contains four major settlements, with a total population around 280 thousand people.
 
 ## History
 
