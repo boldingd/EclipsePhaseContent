@@ -698,7 +698,7 @@ They use their limited mobility to hold near the equator, far away from the plan
 Armoise is a beehave habitat located inside a roughly-spherical S-type asteroid about 11km in diameter.
 The asteroid was claimed by an Extropian microcorp and mined extensively between BF 19 and 11, after which it was abandoned.
 Over the next fifteen years, it saw occasional visits from scavengers and squatters; in AF 5, it was unoccupied.
-The microcorp that had originally claimed the asteroid had broken up after they finished mining it — not an unusual arrangement.
+The microcorp that had originally claimed the asteroid had broken up after they finished mining it (which is a normal procedure for an Extropian microcorp).
 The Collective contacted several of the principles, who where willing to sell their claim on the rock for a pittance of @-rep and credits, since they had neither the desire not capability to make any use of it.
 
 While almost all of the equipment had since been either stolen or scrapped for feed-stock, the physical hulls of the beehive hab-modules where intact — for the most part, anyway.
@@ -723,14 +723,14 @@ We were keeping a low profile, and that limited what we could do: we dug up some
 > **anarcat**: I'm sure you and \@Bauble are on it, but I do know hab design.
 > I can take a look at that data if you want.
 >
-> **Dash**: I was going to say the same thing.
-> Me an \@Nautílos have a lot of experience rocketing around the 'belt discretely, maybe we'll see something you've missed.
+> **BerkeleyMew**: I was going to say the same thing.
+> Me and \@Nautílos have a lot of experience rocketing around the 'belt discretely, maybe we'll see something you've missed.
 >
 > **Gunslinger\#MONOLITH**: Not here, that data's got me and Bauble's real names and circle-A handles in it.
 > And some of our contacts, too.
-> I'll ask \@curé to add you to the case-file.
+> I'll ask \@Curé to add you to the case-file.
 >
-> \[ A cross-reference with an _operational_file_ was created _here_. \]
+> \[ A cross-reference with an *operational file* was created *here*. \]
 >
 > **Bauble**: Bù cuò!
 >
