@@ -76,6 +76,7 @@ Asteroid habs:
   - \[ A cross-reference with an _operational_file_ was created _here_. \]
   - \[ \@Minerva has created an issue _here_: formal complaint: factional bias. _12_ accounts have subscribed. \]
   - \[ \@Bauble attached files: _XP_recordings_, _comms_records_ \]
+  - I just noticed that \_this\_ isn't underscore; so I should replace the above with asterisks, I guess.
 
 ## Networks
 
