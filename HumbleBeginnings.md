@@ -175,7 +175,7 @@ By working within local legal systems where they exist, the Collective is someti
 > We'll coordinate that in the casefile.
 > Keep at it, I don't want to get blind-sided here.
 >
-> \[ A cross-reference with an _operational_file_ was created _here_. \]
+> \[ A cross-reference with an *operational file* was created *here*. \]
 >
 > **Padre**: Loop me in on that too, if you would.
 > Maybe I can help keep that from turning into a flame-war with Das Fretchen.
@@ -280,9 +280,35 @@ The Skyward Collective is highly polyglot, drawing as it does from fall refugee 
 However, joual, an informal style of Quebecois French, has become the unofficial common language of the collective, owing to the fact that several of the movement's founders where French Canadian (and poor), and most of their early discussions and documents where written first in idiomatic Quebecois French.
 (This is much to the chagrin of those same founders, who wanted to avoid anything so divisive and privileged as an official language.)
 
+> **0514NOMAD**: This explains the uptic of Quebecois idioms I've been seeing on the @-net.
+> And here I thought I'd just made that much of an impact…
+>
+> **plasmage**: Oh hey, maybe you can translate for \@Curé when he gets worked up and goes full-French.
+>
+> **H0N-3**: That's interesting!
+> There are a lot of French Canadians out here on Titan!
+>
+> Where where you from?
+> Maybe I know someone from the same place!
+>
+> **0514NOMAD**: Well, technically I'm from Ontario.
+> The languages are nearly identical, but don't tell any of the boys from Montreal I said that…
+>
+> **Curé**: Hah!
+> Too late, we're *already here*!
+
 A particular variant of Barsoomian is also becoming common — "Barsoomian" being the common name for the creole of French and Arabic commonly spoken in the Sufi and Maker communities on Mars.
 This is happening in spite of the fact that there are very few native speakers of the language in the collective; instead, it appears to be happening because the language is common enough on the circle-A network, and because it is at least partly intelligeable to speakers of both French and Arabic.
 (Of course, the Skyward variant is based on Quebecois rather than continental French, and even includes a few English loan-words and idioms.)
+
+> **0514NOMAD** It's honestly amazing how deeply the languages of our youth stick with us.
+> I've been speaking Barsoomian for more than a decade and people still comment on how much of my Canadian French influence bleeds through into the way I speak it.
+>
+> **Curé**: And why *shouldn't* it?
+> The *Académie française* died with the Fall, unless they've set up a new one on Titan just to fuck with me personally.
+>
+> **anarcat**: I can assure you, as a Titanian citizen, that no such vote has come up in the Plurality.
+> So you're good.
 
 ## Member Collectives
 
@@ -390,8 +416,20 @@ Also like most other work-groups, a vote of the general population can overturn 
 > **Padre**: They restrict dangerous fab blueprints?
 > If I hadn't caught that they support seed AI development, I'd wonder why we were interested in these folks.
 >
-> **Gunslinger\#MONOLITH**: We'll get to it, but they also don't like the Consortium much.
+> **Gunslinger\#MONOLITH**: Well, it's not just that.
+> We'll get to it, but they also don't like the Consortium much.
 > I think \@curé is worried that they'll start a war.
+>
+> **0514NOMAD**: Keep in mind that social norms and rules come from circumstance.
+> I'd personally balk if my community tried to implement these sort of restrictions on weapon fabrication, but that's because we live within spitting distance of the TQZ and have good reason to arm ourselves.
+> On a self-contained and stable hab like this there's much less need for your average civilian to be armed.
+>
+> **anarcat**: And much more dire consequences for the mis-use of weapons.
+> On an isolated habitat, bodies are harder to replace, and enough damage to hab infrastructure could cripple the whole community.
+>
+> **Bauble**: And yet every Scum barge I've been on has had unrestricted fab, and we manage to not shoot each other and the hull.
+>
+> **Plasmage**: I'm gonna call you on that one; I've been on some Scum swarms where the locals had more than a few bullets to say to each-other.
 
 A few additional blueprints are made available only to *trusted* members, or are reserved for members of specific working-groups; additionally, a small number of potentially-abusable blueprints are restricted from members flagged as being *antisocial*.
 
