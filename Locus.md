@@ -12,7 +12,7 @@ I'm an Extropian Mutualist, so I think I can still offer at least a little bit o
 >
 > **Bauble**: So this is going well.
 >
-> **anarcat**: Oh yeah, it's been real rewarding
+> **anarcat**: Oh yeah, it's been real rewarding.
 
 I'm also leaving commenting on; I may come to regret this.
 
@@ -27,9 +27,8 @@ Their particular branch of libertarian socialist theory views flexibility as an 
 (That's my first gripe about the other write-up: they act like Locus doesn't have rules or organization: it does.
 Or, rather, the co-ops on it do.)
 
-The scheme used on Locus descends from a branch of libertarian socialist theory that envisioned a society organized around a stateless web of work worker cooperatives; the station is an attempt to translate that idea into a system that works in a post-industrial modern economy.
+The scheme used on Locus descends from a branch of libertarian socialist theory that envisioned a society organized around a stateless web of worker cooperatives; the station is an attempt to translate that idea into a system that works in an almost-post-scarcity "new economy."
 The station doesn't have an owner or an administrator, but it *is* dominated by a single, large federation of co-ops, the Locus Federation; and the federation pretty much structures their social/economic/political system.
-And it does have rules.
 
 Also, worth noting is that no-one owns the station itself.
 The spars and cross-beams that make up the station, along with the rocks in the orbital neighborhood, are regarded as a commons — something owned by no-one, to be administered by the co-ops using and occupying it for the general benefit of everyone living there.
@@ -51,12 +50,12 @@ These exchanges are mediated by a local social-money, the Locus Federation Excha
 > It turns out there's really only a few ways to coordinate an economy, *especially* if you also reject the idea of a state.
 > But you might want to wait a bit before you start declaring ideological victory.
 
-While members and co-ops have ex-cred balances, those don't actually determine what you can acquire; your current social score does that.
+While members and co-ops have ex-cred balances, those don't actually determine what you can acquire; your current social credit score does that.
 So, let's say I want to buy a piece of artwork that has a price of 80 ex-cred, but my current ex-cred balance is 5; what happens?
-Well, the seller probably looks at my social credit score; if they like my history, and if my score is good, I get the sculpture; my ex-cred balance gets debited, and theirs gets credited.
-My ex-cred balance just goes negative, and that's that — having a negative ex-cred balance doesn't do anything on its own.
-If want to buy another statue, I potentially can; they'll probably check my social score, and if they still like me, my ex-cred balance will just go *more* negative.
-My ex-cred balance doesn't determine what I can get, my social-credit score — my rep — does that.
+Well, the seller probably looks at my social credit score, which includes my ex-cred balance and my social feedback history; if they like my history, and if my score is good, I get the sculpture; my ex-cred balance gets debited, and theirs gets credited.
+To be clear, my ex-cred balance just goes negative; having a negative ex-cred balance doesn't do anything on its own.
+If want to buy another statue, I potentially can; they'll probably check my social score, and if they still like me, I'll get another statue, and my ex-cred balance will just go *more* negative.
+My ex-cred balance doesn't determine what I can and can't "afford," my social-credit score — my rep — does that.
 
 > **rategorytheory**: If it doesn't do anything, what's it *for*?
 >
@@ -73,9 +72,9 @@ This has an effect *kind of* like a minimum income.
 
 > **rategorytheory**: I am even more mystified than I was before.
 >
-> **bauble**: Which is so unsurprising that it almost didn't need to be said!
+> **Bauble**: Which is so unsurprising that it almost didn't need to be said!
 >
-> **curé**: All right, you two.
+> **Curé**: All right, you two.
 > I'd really like it if I didn't have to mod my *own* sentinels.
 
 What your ex-cred balance *does* do is get factored into your social credit score, which the Locus Federation also maintains.
@@ -107,7 +106,7 @@ Eventually, they'll lock you out of account-creation all-together.
 (It's considered a sign of good intentions to link your different profiles on the Exchange — those links don't have to be publicly visible.)
 
 OK, but can you go it on your own if you *want* too?
-In fact, yes, you can; if just over 90% of the population of locus is in the Federation, the just under 10% *isn't*.
+In fact, yes, you can; if just over 90% of the population of locus is in the Federation, then just under 10% *isn't*.
 Some of these people may be members of smaller, self-sufficient cooperatives, and some of them may just be highly competent (or very well-supplied) individuals.
 
 > **rategorytheory**: OK, I have to ask.
@@ -162,7 +161,7 @@ But, after that, you're on your own; most people will shun you, and you'll get c
 (Remember, the Locus Federation is a web of worker co-ops.
 Basically anything you get is coming from one of those co-ops, and they're not going to give you a damned thing if your social credit score is crazy negative.)
 Eventually, in theory, either you'll stop being an antisocial element, or you'll learn to enjoy living off gruel.
-Or leave.
+Or you'll leave.
 
 > **Minerva**: I find it very amusing that even on Locus, Diogenes would still be Diogenes.
 >
@@ -184,7 +183,7 @@ Or leave.
 ### Comparison
 
 Ultimately, all this works well enough.
-The Locus Exchange and its price signal help to direct the Locus economy: it points people at useful work that needs doing and nudging them towards doing it, without allowing one group to gather immense wealth to themselves or crushing the rest of society in debt.
+The Locus Exchange and its price signal help to direct the Locus economy: it points people at useful work that needs doing and nudges them towards doing it, without allowing one group to gather immense wealth to themselves or crushing the rest of society in debt.
 And it does that without requiring a state structure or planning committee that might become an authoritarian force in their society.
 And Locus is a relatively egalitarian society: some people still have much higher ex-cred balances or social-credit scores than others, but in general, there's a much narrower gap between the best- and worst-off than on, say, Mars.
 And it's self-sustaining; the Locus Federation's economy can support all of its members at a comfortable level.
@@ -194,7 +193,7 @@ By pretty much any reasonable estimate, per-capita GDP is notably lower than Ext
 If you try to assign a number in credits to the per-capita GDP of Locus, Locis will start yelling at you; you can, however, measure feed-stock, energy, and other resource-consumptions, and the Loci median is around two-thirds of the Venusian median, for example.
 
 I should also say, many Locis will tell you that they're specifically trying to avoid resource depletion and over-consumption (and then launch into a frothing critique of "capitalist infinite growth").
-I'll let the reader decide how they feel about that.
+I'll let the reader decide if they find that argument compelling.
 
 > **Minerva**: I do not think you fairly represent this point.
 > Over-consumption caused significant devastation on old Earth, and there is good reason to believe that it will also soon become a problem on Mars.
@@ -217,9 +216,9 @@ I'll let the reader decide how they feel about that.
 >
 > **Curé**: OK, I think maybe we should move on before this turns into a shit-fight.
 >
-> **Minerva**: \@Curé, given that you are yourself and Extropian Mutualist, you should consider the way that your prejudices, and your association with \@anarcat, may impact your moderation decisions.
+> **Minerva**: \@Curé, given that you are yourself an Extropian Mutualist, you should consider the way that your prejudices, and your association with \@anarcat, may impact your moderation decisions.
 >
-> **curé**: And you really need to learn to drop it when the channel mod says to drop it.
+> **Curé**: And you really need to learn to drop it when the channel mod says to drop it.
 
 Ultimately, your opinion of this economic system may come down to how much value you place on strong egalitarianism, or on having a society where it's very difficult to become desperately poor, versus how much you'd like a highly productive economy.
 I don't think there's necessarily a right answer there.
@@ -227,7 +226,7 @@ I don't think there's necessarily a right answer there.
 > **anarcat**: I don't want to put this in the main text because it will turn this write-up into even more of a shit-show than it's already going to be, but I'm going to point out: rhetoric to the contrary, Locus is still a society that has haves and have-nots, only on Locus, it's determined by who can and cannot maintain a good reputation.
 >
 > Your current social credit score determines your access to resources (and other people's willingness to work with you), and your ability to make friends and influence people ends up having a profound impact on your social feedback and social credit score.
-So "social-climber" types tend to have much better social-credit scores than other people, other factors notwithstanding; and, conversely, the awkward, shy, and introverts tend to struggle to keep a positive score.
+So "social-climber" types tend to have much better social-credit scores than other people, other factors notwithstanding; and, conversely, the awkward, shy, and introverted tend to struggle to keep a positive score.
 >
 > (And for what it's worth, this isn't just a capitalist criticism; I have a contact from a democratic-socialist hab who refers to Locus as "a place where you starve if your neighbors don't like you.")
 >
@@ -240,7 +239,7 @@ So "social-climber" types tend to have much better social-credit scores than oth
 > I don't mean to condemn Locus too much; I'd still rather live on Locus than anywhere in the Jovian Republic, for example.
 > But it's important to have a *realistic* assessment of this society, one that includes its flaws and drawbacks.
 >
-> **Gunslinger\#MONOLITH**: First, fuck you using neurodiverse people as a prop.
+> **Gunslinger\#MONOLITH**: First, fuck you for using neurodiverse people as a prop.
 > Second, calling it the "Jovian *Republic*" really shows your stripes.
 > Third, you're a goddamn Extropian!
 > What, capitalist "anarchy" is better because you can also be working poor?
@@ -257,9 +256,9 @@ So "social-climber" types tend to have much better social-credit scores than oth
 > **Minerva**: While I do find \@anarcat's use of issues faced by neurodiverse people to make a political point to be highly distasteful, I am forced to say that he is in fact correct.
 > There is a significant literature on the difficulties faced by neurodiverse people in reputation economies; Locus in particular is well-studied, and the "one-half score" figure is well-supported in the literature.
 > While I think that such attempts to rank individuals are highly dubious, both scientifically and ethically, I should also say that there exists a literature seeking to compare individual personality assessments with social-credit scores.
-> These have also found a very strong correlation between social intelligence, extraversion and agreeableness on the one hand and social reputation on the other.
+> These have also found a strong correlation between social intelligence, extraversion and agreeableness on the one hand and social reputation on the other.
 >
-> **Bauble**: Gunslinger's being a cunt, but I think he's right.
+> **Bauble**: Gunslinger's being a bit of a cunt, but I think he's right.
 > It sounds like the worst thing you can say about Locus is "nerds and jerks do worse than social butterflies in the rep economy."
 > Well, you're a capitalist: poor people's kids do *much* worse than rich people's kids in your society, so what's your point?
 >
@@ -274,7 +273,7 @@ So "social-climber" types tend to have much better social-credit scores than oth
 > Capturing rocks is tough.
 > Sometimes you don't have good candidates or you dig into them and they don't have the carbon you need; it happens to Extropians and Hypercorps, too.
 >
-> **anarcat**: Except that was preventable; problem wasn't they couldn't find the rocks, problem was that the whaling co-ops hadn't been whaling.
+> **anarcat**: Except that was preventable; problem wasn't they couldn't find the rocks, problem was that the mining co-ops hadn't been mining.
 > And also, you're missing the point: they starved the *unpopular*.
 
 ## Justice
@@ -380,8 +379,8 @@ Sometimes this works well, but it can also have all the problems you'd expect it
 >
 > **Gunslinger\#MONOLITH**: Fucking good, we'd re-invent money just to pay you to fuck off.
 >
-> \[\@rategorytheory has temporarily been muted]
-> \[\@Gunslinger has temporarily been muted]
+> \[\@rategorytheory has received a warning\]
+> \[\@Gunslinger has temporarily been muted\]
 >
 > **Bauble**: Nǐ xīn kǔ le!
 >
@@ -397,6 +396,7 @@ Sometimes this works well, but it can also have all the problems you'd expect it
 > They can definitely help, but, like Gunslinger kind of said earlier, they're not always impartial or available.
 > There aren't a lot of them, so they can't cover everything.
 > And they're not always impartial; the low-rep can find themselves at a distinct disadvantage.
+> And they're not necessarily qualified, since they generally don't have licensing requirements or training programs or degrees or anything.
 > And you have to actually request them; they're not assigned by the co-op (like my mutualist co-op does), or built into every contract (like an-caps usually do).
 >
 > **Gunslinger\#MONOLITH**: The Extropian versions provides more "justice" to people who have more ability to pay, so I'll take our version.
@@ -484,7 +484,7 @@ And, more to the point, I think operatives heading to Locus should know how this
 The rest of the write-up on Locus is reasonably good.
 The community is pretty progressive: AGIs and uplifts have person-hood, as will any other exotic and weird type of intelligence that comes along, probably.
 The society is also fairly permissive: unlike some other fairly leftist outer-system social experiments, the Locis tend to have a fairly individualist-libertine viewpoint — their distaste for collective "hard power" and coercion wouldn't be out-of-place on an Extropian habitat, although I'm sure they're going to hate me for saying it.
-Basically, you can be a bigoted shit if you want too; people won't like you and you'll loose rep for being a prick, but they won't space you or "reeducate" you.
+Basically, you can be a bigoted shit if you want to; people won't like you and you'll lose rep for being a prick, but they won't space you or "reeducate" you.
 
 The society is also pretty open and non-judgmental — maybe not as much as your average scum swarm, but still more than Venus and a lot more than the Jovian Republic.
 You sleeve a critter and mod it to have dicks for fingers, and people will scowl at you, but they usually won't start screaming at you.
@@ -499,7 +499,7 @@ Basically everything is legal on Locus, as long as it doesn't pose a large-scale
 And even then, if you're a well-heeled co-op that people support, you can probably get away with it — as the "Toybox" cooperative does.)
 
 Party drugs, weird morphs, lurid personal mods, and assault weapons; it's all allowed on Locus — although availability might be an issue, given their more sluggish economy.
-And antisocial usages will get you rep hits, and a possible "collective reaction."
+(Of course, antisocial usage will get you rep hits, and a possible "collective reaction.")
 
 ## Unrestricted Technology
 
@@ -508,7 +508,7 @@ And that brings us to probably the last thing I'd like to discuss: unrestricted 
 This is one area where I differ with my fellow Extropians: I'm pretty skeptical of unrestricted nanofab.
 I think the reasons why should be fairly obvious to everyone here: if you've been a Sentinel long enough, you've been in a situation where you've produced something with a hacked fabber that's done a lot of damage to someone's infrastructure.
 
-> **plasmage**: I leveled a small mountain on an exoworld!
+> **Plasmage**: I leveled a small mountain on an exoworld!
 >
 > **Gunslinger\#MONOLITH**: I know, I was there!
 >
@@ -516,9 +516,10 @@ I think the reasons why should be fairly obvious to everyone here: if you've bee
 >
 > **Gunslinger\#MONOLITH**: I remember you being pretty enthusiastic at the time.
 >
-> **anarcat**: Difference was, that was an op, and there wasn't any collateral damage.
+> **anarcat**: I mean, fair enough.
+> But, difference was, that was an op, and there wasn't any collateral damage.
 >
-> **H0N3**: You didn't have anything to do with that blueprint?
+> **H0N-3**: I always thought you had something to do with that blueprint.
 > Didn't it come from curé?
 >
 > **anarcat**: I mean, that's kind of my *point*: I've helped write blueprints that can turn a fuel tank into a fusion bomb, and I'm telling you that it should probably be a *lot harder* to do that.
@@ -544,6 +545,10 @@ And it's not just light personal weapons: public fabbers won't have it on their 
 And acquiring blueprints isn't much of a problem, especially if you have a decent social-credit score and know the right people.
 
 > **Padre**: I'm not really looking forward to this comment thread.
+>
+> **anarcat**: Yeah, this has definitely been a "fun" experience for me.
+>
+> **Plasmage**: I mean, you knew it was going to be like this.
 
 Unrestricted fabrication isn't the only problem.
 There's no real restrictions on technological tinkering or R&D.
@@ -562,7 +567,7 @@ The damned fools started experimenting with different ways to interpret it, and 
 They'd already had their systems go black-screen-full-fan *more than once* when *somebody* detonated a bunch of hell-balls in their module, taking care of that whole problem.
 Hopefully.
 
-> **plasmage**: That doesn't sound like something that hell-balls would destroy.
+> **Plasmage**: That doesn't sound like something that hell-balls would destroy.
 >
 > **rategorytheory**: Yeah, I'm not sure off the top of my head if that would even melt surface lithography.
 >
@@ -577,13 +582,13 @@ And just for good measure, lest you think that blind hostility and factional ani
 >
 > **anarcat**: I mean, Ratty's kind of right.
 > It's not like they didn't have the support of their neighbors, right up until they exploded.
-> Maybe even after.
+> They might still, the dust hasn't settled yet on the circle-A net.
 >
 > **Gunslinger\#MONOLITH**: If they still have public support even after they exploded, then what's the problem?
 >
 > **anarcat**: *Oof*, man.
 >
-> **plasmage**: Yeah, that's a swing and a miss.
+> **Plasmage**: Yeah, that's a swing and a miss.
 >
 > **rategorytheory**: By the way, do we know what they where building?
 >
@@ -592,7 +597,8 @@ And just for good measure, lest you think that blind hostility and factional ani
 > **Bauble**: We can safely say it was explosive.
 
 Now, to be fair, a counter-argument is that Locus doesn't have the kind of economic or social organization to run the kind of big, black-budget labs that the Consortium sets up.
-I don't think that's *entirely* true — there are plenty of decently-sized co-ops on Locus that have managed to fuck up in dangerous ways — but it is at least *partly* true in that most of those labs have lower access to resources, and there's relatively less motivation to engage in that kind of research, so the threat coming from Locus is at least lower than the threat coming from the Consortium.
+I don't think that's *entirely* true — there are plenty of decently-sized co-ops on Locus that have managed to fuck up in dangerous ways — but it is at least *partly* true in that most of those labs have lower access to resources, and there's relatively less motivation to engage in that kind of research.
+So the threat coming from Locus is at least lower than the threat coming from the Consortium.
 
 > **rategorytheory**: So wait, "we're too broke to be dangerous" is a positive thing now?
 >
