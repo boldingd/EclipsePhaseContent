@@ -44,7 +44,7 @@ These exchanges are mediated by a local social-money, the Locus Federation Excha
 
 > **rategorytheory**: Wait… you're telling me that these sanctimonious "to each according to their needs" pricks have a *capital market* at the center of their economy?
 >
-> \[\@rategorytheory received a warning]
+> \[\@rategorytheory received a warning\]
 >
 > **anarcat**: More or less, yes.
 > It turns out there's really only a few ways to coordinate an economy, *especially* if you also reject the idea of a state.
@@ -308,7 +308,7 @@ In the other write-up, the author just sort of flippantly asserts that crime jus
 It's true that, in an egalitarian society without poverty, there's certainly *less* crime — there basically are no crimes of poverty or desperation.
 But the basic assertion is still bullshit: crime definitely still happens.
 
-Read the neighborhood mesh posts in any rich, well-off block on Mars, and you'll discover that safe, comfortable human beings can still find all manor of grudges, grievances, hates, and hurts to hold against one-another.
+Read the neighborhood mesh posts in any rich, well-off block on Mars, and you'll discover that safe, comfortable human beings can still find all manner of grudges, grievances, hates, and hurts to hold against one-another.
 There's the old meme about a married couple shooting each other in a fight over what to watch, and that kind of interpersonal shit still happens on Locus.
 
 > **Anarcat**: I really don't want to cross a line, but I have to emphasize just how wrong this idea is.
@@ -347,13 +347,13 @@ What if you carved a message into your neighbor while you where in their module 
 Well, that starts out being between you and your neighbor — again, the occupants of Locus reject the idea of a state, even a communist one, so there isn't any law or law enforcement.
 
 > **rategorytheory**: Really, really struggling to bite my tongue, here.
-> So, if someone breaks into my module and stabs me, the rest of Locus just down-votes him, and its my problem after that?
+> So, if someone breaks into my module and stabs me, the rest of Locus just down-votes them, and its my problem after that?
 >
 > **Gunslinger\#MONOLITH**: Depends.
 > For *you*, probably.
 > For people who can get their rep scores above zero, there are a lot of co-ops that provide medical services, social support, emotional support…
 >
-> **plasmage**: I mean, didn't you just kind of concede her point?
+> **Plasmage**: I mean, didn't you just kind of concede her point?
 > If you're unpopular and someone stabs you, too bad.
 >
 > **Bauble**: If you want people to care when you get stabbed, don't make people want to stab you.
@@ -395,7 +395,7 @@ Sometimes this works well, but it can also have all the problems you'd expect it
 >
 > They can definitely help, but, like Gunslinger kind of said earlier, they're not always impartial or available.
 > There aren't a lot of them, so they can't cover everything.
-> And they're not always impartial; the low-rep can find themselves at a distinct disadvantage.
+> And they're not always impartial; the low-rep can find themselves at a distinct disadvantage, as can people from stigmatized groups.
 > And they're not necessarily qualified, since they generally don't have licensing requirements or training programs or degrees or anything.
 > And you have to actually request them; they're not assigned by the co-op (like my mutualist co-op does), or built into every contract (like an-caps usually do).
 >
@@ -411,7 +411,7 @@ These can include rep-hits, restitution, and at worst, suspension — basically,
 (This doesn't mean getting physically thrown off the station, since it's an un-owned commons; this means getting locked out of the rep-economy, and loosing access to the co-ops in the Federation and the resources they produce.)
 
 There's a catch here, though, and it's a big one.
-Notice that the worst thing that happens is that your account gets locked and you get thrown out on your own; that also means that the worst thing that happens *if your neighbor takes revenge on you* is that their account gets locked or they're on their own.
+Notice that the worst thing that happens is that your account gets locked and you get thrown out on your own; that also means that the worst thing that happens *to your neighbor* if your neighbor takes revenge on you is that *their* account gets locked and they're thrown out on their own.
 So, basically, the *real* worst-case scenario is that the person you victimize gets a few of their friends together and they come after you with their torturer's tools.
 
 > **Bauble**: As the local representative of the Scum, I'd like to stick up for the direct approach.
@@ -433,9 +433,9 @@ So, basically, the *real* worst-case scenario is that the person you victimize g
 >
 > **Padre**: Honestly, curé, I've never understood how you run your team.
 
-This also means that major conflicts can descend into some good old-fashioned blood-feuding.
+This means that major conflicts can descend into some good old-fashioned blood-feuding.
 This is pretty rare, but it *does* happen.
-There are, in fact, at the time that I write this, three publicly-known ongoing feuds on Locus (and there may be more that we simple aren't aware of).
+There are, in fact, at the time that I write this, three publicly-known ongoing feuds on Locus (and there may be more that we simply aren't aware of).
 The oldest one has been going on for nine years — that's right, it started before the Battle of Locus.
 The main effect, for most of these, is that Parties A and B keep as far apart as possible most of the time — because everyone else on Locus regards getting in a gunfight as an antisocial behavior to be discouraged, and rep-hits are applied appropriately.
 
@@ -472,7 +472,7 @@ Of course, the rest of Locus will basically just stay out of it, as long as they
 > **anarcat**: I mean yes, but it's also just all-around more complex than that.
 > Locis generally don't care who you where before — or who you are elsewhere, within reason — as long as you maintain a good rep in their community.
 
-Now, many Locis would tell you that, overall, crime and violence in their society is much rarer than on, say, Mars — and that's generally true — so the details of how their society handles crime don't really matter that much.
+Now, many Locis would tell you that, overall, crime and violence in their society is much rarer than on, say, Mars — and that's partly true — so the details of how their society handles crime don't really matter that much.
 Some would also argue that their system, all things considered, still stacks up pretty well against the Martian or Jovian justice systems — and you know, I've never met someone outside the J.R. with a real positive view of *their* justice system, either.
 Some Locis even take it as a point of pride — "have no fear sending your egocast to me, because if I fork-nap you and my neighbors find out, they'll pop my stack with a rusty spoon," to paraphrase one of the old Firewall guides.
 
@@ -483,11 +483,11 @@ And, more to the point, I think operatives heading to Locus should know how this
 
 The rest of the write-up on Locus is reasonably good.
 The community is pretty progressive: AGIs and uplifts have person-hood, as will any other exotic and weird type of intelligence that comes along, probably.
-The society is also fairly permissive: unlike some other fairly leftist outer-system social experiments, the Locis tend to have a fairly individualist-libertine viewpoint — their distaste for collective "hard power" and coercion wouldn't be out-of-place on an Extropian habitat, although I'm sure they're going to hate me for saying it.
+The society is also fairly permissive: unlike some other fairly leftist outer-system social experiments, the Locis tend to have a fairly individualist-libertine viewpoint — their distaste for state power and coercion wouldn't be out-of-place on an Extropian habitat, although I'm sure they're going to hate me for saying it.
 Basically, you can be a bigoted shit if you want to; people won't like you and you'll lose rep for being a prick, but they won't space you or "reeducate" you.
 
 The society is also pretty open and non-judgmental — maybe not as much as your average scum swarm, but still more than Venus and a lot more than the Jovian Republic.
-You sleeve a critter and mod it to have dicks for fingers, and people will scowl at you, but they usually won't start screaming at you.
+You sleeve a critter and mod it to have dicks for fingers, and people will scowl at you, but they usually won't *confront* you.
 (And many of them have a certain flair for the eccentric; there's one Mercurial-aligned Loci who floats around in a giant stone head of Richard M. Stallman.
 Locis get a kick out of it when "Stall-doz" flies up to a newcomer and vomits ectos on them.)
 
@@ -520,7 +520,7 @@ I think the reasons why should be fairly obvious to everyone here: if you've bee
 > But, difference was, that was an op, and there wasn't any collateral damage.
 >
 > **H0N-3**: I always thought you had something to do with that blueprint.
-> Didn't it come from curé?
+> Didn't it come from Curé?
 >
 > **anarcat**: I mean, that's kind of my *point*: I've helped write blueprints that can turn a fuel tank into a fusion bomb, and I'm telling you that it should probably be a *lot harder* to do that.
 >
@@ -546,7 +546,8 @@ And acquiring blueprints isn't much of a problem, especially if you have a decen
 
 > **Padre**: I'm not really looking forward to this comment thread.
 >
-> **anarcat**: Yeah, this has definitely been a "fun" experience for me.
+> **anarcat**: You're telling me.
+> This has definitely been a "fun" experience for me.
 >
 > **Plasmage**: I mean, you knew it was going to be like this.
 
@@ -555,7 +556,7 @@ There's no real restrictions on technological tinkering or R&D.
 *Boister's Armory* is a good example: blueprints available for… basically anything dangerous, including weapons capable of threatening ships and asteroids!
 
 And There are other co-ops and individuals poking around other technological avenues.
-People tinkering with bleeding-edge gene-modding, psychosurgical techniques, cognitive designs, self-sustaining nanotech, exotic reactors… all restrained only by "self-policing," rep-hits if you admit to doing something stupid, and the threat of retaliation if you screw up too badly.
+People tinkering with bleeding-edge gene-modding, psychosurgical techniques, cognitive designs, self-sustaining nanotech, exotic reactors… all restrained only by "self-policing," rep-hits if you do something stupid (and either admit it or get caught), and the threat of retaliation if you screw up too badly.
 
 I know, "the plural of anecdote isn't data," but just five weeks ago, one coop's hab-module got *digested* by a nanoswarm they where experimenting with and lost control of.
 Fortunately, the outer hull and seals held, but as far as can be discerned, the swarm ate pretty much everything out to the hull; exothermically, too, it was hot in there.
@@ -592,7 +593,7 @@ And just for good measure, lest you think that blind hostility and factional ani
 >
 > **rategorytheory**: By the way, do we know what they where building?
 >
-> **anarcat**: I mean, ask the routers what the other cells know — but not as far as I know.
+> **anarcat**: I mean, ask the routers — but not as far as I know.
 >
 > **Bauble**: We can safely say it was explosive.
 
@@ -613,3 +614,4 @@ So the threat coming from Locus is at least lower than the threat coming from th
 > **Plasmage**: lol
 >
 > You recruited both these people, this is your own fault.
+
