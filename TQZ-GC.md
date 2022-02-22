@@ -2,7 +2,7 @@
 
 > The Titan Quarantine Zone Guard Cooperative is an alternative player-character faction for Eclipse Phase, based off a group mentioned in the *Morph Recognition Guide*.
 > 
-> Many groups have trouble with the Panopticon (the open, ubiquitously-surveilled societies of Eclipse Phase), and the very high requirement for secrecy required of a Firewall team; in my experience as a GM, groups can frequently spend much more time struggling with the implications of the panoptican than they spend resolving the mystery itself.
+> Many groups have trouble with the Panopticon (the open, ubiquitously-surveilled societies of Eclipse Phase), and the very high requirement for secrecy that it requires of a Firewall team; in my experience as a GM, groups can frequently spend much more time struggling with the implications of the panopticon than they spend resolving the mystery itself.
 > 
 > The goal in creating the TQZ-GC is to offer a faction similar to Firewall, that supports telling many of the same kinds of stories, but that relaxes the need for absolute secrecy and paranoia.
 > (And maybe allows players to spend a little more time tromping around in battle armor with plasma guns, which players also seem to enjoy.)
@@ -23,7 +23,7 @@ Formally, every individual is an equal member of the organization; there are no 
 Decisions are made by open discussions and votes of the entire membership, facilitated through their social network; the same network is used to track tasks, coordinate operations, keep records, track member feedback and status, and interact with the public.
 
 Members are organized into *working groups*.
-Working groups usually form around specific areas (for example, all the GCs in a specific city), tasks (for example, securing their network, or improving immunogenic systems), or oganizations (for example, a specific team might organize themselves with a working-group).
+Working groups usually form around specific areas (for example, all the GCs in a specific city), tasks (for example, securing their network, or improving immunogenic systems), or organizations (for example, a specific team might organize themselves with a working-group).
 
 Among other tasks, permanent working groups currently exist to maintain and secure the GC social network; to develop defenses against TITAN threats; to secure and distribute necessary military hardware; and to train members in the skills they need, since most volunteers do not have military training.
 
@@ -44,7 +44,7 @@ Smaller TITAN bots and plague-carrying wildlife can also cross the border; there
 The GC is also called in to investigate unusual behavior that might be a sign of TITAN infiltration.
 Sometimes towns, facilities or cliques can become suspicious or go dark entirely; when this happens, it often falls to the GC to investigate.
 These investigations can be tricky, as suborned TITAN agents are extremely difficult to detect — not least because there are no generally reliable tests for infection, so it can be almost impossible to prove an individual (or town) is “clean.”
-At the same time, if all suspected infections were treated as confirmed infections, there wouldn’t be anyone left on Mars; it is a difficult ballance to strike.
+At the same time, if all suspected infections were treated as confirmed infections, there wouldn't be anyone left on Mars; it is a difficult balance to strike.
 In the worse-case scenario, If it turns out that an outbreak is already underway, the GCs might be the ones who have to put a stop to it — an ugly, dangerous, stressful, and morally fraught process.
 
 Sometimes the GCs have solid leads — specific threats identified at specific places — and their mission is the straight-forward elimination of the target.
@@ -56,7 +56,7 @@ Of course, the Cooperative often receives more tips and requests than it can res
 
 ## Public Status
 
-Perhaps surprisingly for an anarchist-leaning cooperative, the Guard Coop operates publically and openly.
+Perhaps surprisingly for an anarchist-leaning cooperative, the Guard Coop operates publicly and openly.
 They operate as transparently as they safely can.
 They maintain extensive public records, and their debates and votes are held in the open on their social network.
 
@@ -108,10 +108,9 @@ The group also includes a member of a local Argonaut terraforming initiative, wh
 
 ### Nguyen, Basu, Williamson and Associates
 
-**Nguyen, Basu, Williamson and Associates** is a powerful legal Hypercorp that is partnered with the GC’s.
-They provide the GC’s with pro bono legal services.
+**Nguyen, Basu, Williamson and Associates** is a powerful legal Hypercorp that is partnered with the GC’s, providing pro bono legal services.
 
-Two of the partners, Basu and Williamson, each hold stakes in other hypercorps totaling more than a billion credits; both can fairly be called oligarchs.
+Two of the partners, Basu and Williamson, each have assets totaling more than a billion credits; both can fairly be called oligarchs.
 The pair also financially support the Guard Cooperative, and wield their considerable influence to protect the GC’s and their operations.
 
 ### Sufis
@@ -130,7 +129,7 @@ Mayer Defense Technologies is a weapons manufacturing hypercorp based out of Noc
 They provide licensed weapons to the GCs for free, on the condition that the GCs not disclose those blueprints to third-parties.
 While many of the more anarchist-aligned GCs grumble, the value of having free blueprints for heavy military firepower is hard to argue.
 
-They have occasionally performed manufacturing runs and customization services to groups operating near Noctis-Qianjiao; in one notable incident, they “militarized” a mars buggy for a group dealing with a TITAN bot-swarm operating south of Arsia Mons.
+They have occasionally performed manufacturing runs and provided customization services to groups operating near Noctis-Qianjiao; in one notable incident, they "militarized" a mars buggy for a group dealing with a TITAN bot-swarm operating south of Arsia Mons.
 
 ### Franz Roth Mueller
 
