@@ -18,7 +18,7 @@
 
 Kainouda 2035 is an asteroid colony in the main belt.
 It was originally — and to a great extent still is — an Extropian project; it was claimed by the Kainouda 2035 Development Company (The KDC), which then sold shares of it to other parties, chiefly Extropians, for development.
-Since then, it has come to be dominated by the Thistledown Cooperative, a large Extropian Mutualist cooperative – although large swaths of the asteroid are still run along anarcho-capitalist lines, and it hosts outposts of several other polities as well.
+Since then, it has come to be dominated by the Thistledown Cooperative, a large Extropian Mutualist cooperative – although large swaths of the asteroid are still run along anarco-capitalist lines, and it hosts outposts of several other polities as well.
 
 > **Anarcat**: this hab is kind of what I love about the belt; so many different people and communities, all crammed in together, and managing to get along pretty well.
 >
@@ -31,7 +31,7 @@ Since then, it has come to be dominated by the Thistledown Cooperative, a large 
 > Who's judging this?
 > The channel at large?
 >
-> **RategoryTheory**: I don't think either are real interested in Gunny's thoughts.
+> **RategoryTheory**: I don't think either of us are real interested in Gunny's thoughts.
 > Your fellow mutualists?
 >
 > **Apotheotician**: Well, if you want the full list of other mutualists in this thread, I think that's me and \@curé.
@@ -277,7 +277,7 @@ As a final measure, the asteroid also has some defense emplacements on its surfa
 >
 > **H0N3**: Why couldn't you do that with a person?
 >
-> **anarcat**: Too big; either too warm or made of too much metal — sometimes both; too impatient to wait two months, and the breathy ones can't cary that much air; most of the breathy ones also can't get *that* cold, even in medical statis; too easy to see, because all these satellites and habs are also covered in cameras.
+> **anarcat**: Too big; either too warm or made of too much metal — sometimes both; too impatient to wait two months, and the breathy ones can't carry that much air; most of the breathy ones also can't get *that* cold, even in medical stasis; too easy to see, because all these satellites and habs are also covered in cameras.
 >
 > **H0N3**: Why is falling slowly important?
 > Why not fall quickly?
@@ -292,14 +292,14 @@ As a final measure, the asteroid also has some defense emplacements on its surfa
 #### Ships
 
 Ships and drones take a secondary role in defense.
-The KDEC fields relatively few drones, relying on fewer than three dosen fighter craft.
+The KDEC fields relatively few drones, relying on fewer than three dozen fighter craft.
 In their place, it fields several larger craft, four "corvettes" and three "clippers."
 
-The "corvettes" are intended to act as deterrants for larger attackers, like pirates.
+The "corvettes" are intended to act as deterrents for larger attackers, like pirates.
 The corvettes are about the size of an SOTV, and carry heavy weaponry: two of them are armed with batteries of anti-ship missiles, while the third carries a naval-scale particle-beam weapon and a point-defense system.
 
 The "clippers," in turn, are intended to patrol commercial traffic in the space near the hab.
-They are about the size of an LOTV, and are more lightly armed than the corvettes, carrying only two lower-energy particle-beam weapons; howevery, they also carry a large radar system, imaging and inspection systems, point-defense systems, and a small compliment of marines and security drones.
+They are about the size of an LOTV, and are more lightly armed than the corvettes, carrying only two lower-energy particle-beam weapons; however, they also carry a large radar system, imaging and inspection systems, point-defense systems, and a small compliment of marines and security drones.
 
 Of course, while these craft are durable, they are not armored the way that a destroyer would be.
 Lacking a fusion (or antimatter) drive, they also do not have the range that a destroyer would.
@@ -358,7 +358,7 @@ Mutualists reject both private-property and rent-seeking: thus, the cooperative 
 > **Gunslinger#MONOLITH**: I repeat: imagine looking at market-anarchists and saying "too socialist."
 >
 > **plasmage**: I'm just amused we got to see ratty and catty be on opposite sides of something.
-> Usually the Firewall chapter of the John Stuart Mill fan-club are pretty much on the same page.
+> Usually the Firewall chapter of the Adam Smith fan-club are pretty much on the same page.
 >
 > **Padre**: We just need ratty and gunny to get on the same side of something, and we'll be right on track for the eschaton.
 >
