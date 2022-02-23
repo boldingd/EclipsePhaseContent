@@ -204,6 +204,10 @@ Rethinking more
 
 I'm still just not happy with this.
 
+The Wikipedia article for [Proudhon](https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon) mentions that his views on capital evolved in his later life, and that he came to view it in (deliberately) contradictory terms -- as simultaneously an evil and a necessity.
+He also may have come to have a brighter view of state-like federations.
+So those contradictions might be fun to play with.
+
 ## The Hypercorps
 
 Who owns what, since I've written two sentences and written myself into answering that.
