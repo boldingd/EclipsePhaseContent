@@ -178,12 +178,16 @@ So far, the Tharsis League has been intransigent, seeminly content to contain th
 > **Gunslinger\#MONOLITH**: Hmmm, the Tharsis League has been intransigent?
 > I wonder why.
 >
-> **Padre**: I support "reducing" the Zone, but I can tell one good arguments against it that I've heard: if we start shooting into the zone, than something inside the zone might decide to start shooting *back*.
-> So, you might just end up waking up a TITAN and re-igniting the Fall.
+> **Padre**: I support "reducing" the Zone, but I can tell one good argument against it: if we start shooting into the zone, then something inside the zone might decide to start shooting *back out*.
+> So, you might just end up pissing off a TITAN and re-igniting the Fall.
 >
 > **Plasmage**: I feel like reprisal is only a problem if there's a major asset that survives a first strike.
 > And hey, we can see into the Zone from orbit; there aren't any major "major assets" in there, besides Qurain.
 > And I know a cell with a few KEWs fabbed up that could make a pretty damned compelling first strike, never mind the Consortium's fleet assets.
+>
+> **anarcat**: We have good attestation for there being self-replicating nanoswarms in there; you couldn't see something like that from orbit, or guarantee you've sterilized it with a KEW.
+> Also, this is weirdly gung-ho for you.
+> When did you turn into Akimbo?
 >
 > **rategorytheory**: To be clear, you're talking about an anonymous non-state actor launching weapons of mass destruction against a target on the surface of a planet with a population of more than one hundred million people.
 > That's what we're talking about here.
@@ -192,10 +196,12 @@ So far, the Tharsis League has been intransigent, seeminly content to contain th
 >
 > **Curé**: I would also prefer that we not start a solar-system-rending factional war 10 years after we watched Terran political battles *spiral into the Fall*.
 >
-> **Plasmage**: Would you prefer being eaten by whatever comes out of the Zone in five or ten years?
+> **Plasmage**: \>\@anarcat You might also be a little pissed about the League dragging its heels if you lived within yelling distanze of the Zone.
+>
+> \>\@Curé Would you prefer being eaten by whatever comes out of the Zone in five or ten years?
 >
 > **Curé**: You make a good point, that *would* be inconvenient.
-> Let's save the TITANs the trouble and just do ourselves in, then, mon tabarnak.
+> So let's save the TITANs the trouble and just do ourselves in, then, mon tabarnak.
 >
 > \[ This thread has been locked by \@Padre.  Reason: "Let's not fight in front of the kids." \]
 
