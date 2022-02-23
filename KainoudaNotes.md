@@ -202,6 +202,8 @@ Rethinking more
 - They don't have an expropriation mechanism; as long as you meet your obligations to the collective, they don't really care what else you own elsewhere.
   - But the cooperatives and the banks do have some technocrats who are pretty proficient at ensuring that the cooperative's capital reserves grow.
 
+I'm still just not happy with this.
+
 ## The Hypercorps
 
 Who owns what, since I've written two sentences and written myself into answering that.
