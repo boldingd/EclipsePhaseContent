@@ -143,6 +143,17 @@ He’s also crossed paths with teams in the field; he’s an excellent marksman,
 There is some discussion about why he hasn’t joined the organization.
 The leading theory is that he’s unwilling to place GC missions ahead of either his academic career or his partner.
 
+> **\/\/ Sentinel Identity Exposure; \/\/ Need-to-Know Only (implied)**
+>
+> **Plasmage** I'm kind of annoyed you made the wiki and I didn't, Franz.
+> I've bailed them out of more than a few disasters, and then stuffed what's left of their teams in my healing vats.
+>
+> **Gunslinger\#MONOLITH**: It's probably because I'm so good looking.
+>
+> **anarcat**: I mean, it'd make sense if it was your ass, it sure as shit isn't your personality or your aim.
+>
+> **Gunslinger\#MONOLITH**: Now now, jealousy is so unbecoming!
+
 ### Compromise Position
 
 One of the shadier working-groups, **Compromise Position** are all enforcers for the Moderates criminal gang.
@@ -156,6 +167,39 @@ Their reputation averages positive but fluctuates wildly; it is buoyed by their 
 There is a building consensus that the cell needs to either reform — to stop abusing their credentials at the very least — or be removed from the organization.
 
 Unsurprisingly, Compromise Position is frequently used as an argument against the GCs by their opponents.
+
+### Reduction Working Group
+
+The Reduction working-group is dedicated to making headway against the T.I.T.A.N. threat in the 'Zone — that is, to *reducing* the area covered by the TQZ.
+Little material action can be taken without the cooperation of the Tharsis League, since the Zone border itself prevents any attack from without as well as from within; therefore, most of the working-group's product has been in planning, preparation, and politicing — wargaming out attacks, developing strategies that will destroy or remove the threat without spreading it; stockpiling (or *developing*) weapons specialized to the TITAN threat and the operations required; and attempting to persuade the public, the Tharsis League, and the oligarchs of the Consortium that gaining ground on the TITAN threat is a vital interest of transhumanity.
+
+So far, the Tharsis League has been intransigent, seeminly content to contain the TITAN threat behind the border; however, public sentiment is turning against inaction, if slowly.
+
+> **Gunslinger\#MONOLITH**: Hmmm, the Tharsis League has been intransigent?
+> I wonder why.
+>
+> **Padre**: I support "reducing" the Zone, but I can tell one good arguments against it that I've heard: if we start shooting into the zone, than something inside the zone might decide to start shooting *back*.
+> So, you might just end up waking up a TITAN and re-igniting the Fall.
+>
+> **Plasmage**: I feel like reprisal is only a problem if there's a major asset that survives a first strike.
+> And hey, we can see into the Zone from orbit; there aren't any major "major assets" in there, besides Qurain.
+> And I know a cell with a few KEWs fabbed up that could make a pretty damned compelling first strike, never mind the Consortium's fleet assets.
+>
+> **rategorytheory**: To be clear, you're talking about an anonymous non-state actor launching weapons of mass destruction against a target on the surface of a planet with a population of more than one hundred million people.
+> That's what we're talking about here.
+>
+> **Gunslinger\#MONOLITH**: If the Consortium's gonna get pissy about jurasdiction, they could get off their asses and *do something*.
+>
+> **Curé**: I would also prefer that we not start a solar-system-rending factional war 10 years after we watched Terran political battles spiral into the fucking Fall.
+>
+> **Plasmage**: Would you prefer being eaten by whatever comes out of the Zone in five or ten years?
+>
+> **Curé**: You make a good point, that *would* be inconvenient.
+> Let's save the TITANs the trouble and just do ourselves in, then, mon tabarnak.
+>
+> \[ This thread has been locked by \@Padre.  Reason: "Let's not fight in front of the kids." \]
+
+----
 
 ## Rules
 
