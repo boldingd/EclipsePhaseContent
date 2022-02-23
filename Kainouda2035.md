@@ -24,68 +24,6 @@ Since then, it has come to be dominated by the Thistledown Cooperative, a large 
 >
 > **Apotheotician**: Why thank you.
 > Also, hello; I'm the local they called in for comment.
->
-> **RategoryTheory**: \@anarcat 500 $Cr says you cannot concisely define "mutualism."
->
-> **anarcat**: If you'll take the equivalent value in local co-op credit, you're on.
-> Who's judging this?
-> The channel at large?
->
-> **RategoryTheory**: I don't think either of us are real interested in Gunny's thoughts.
-> Your fellow mutualists?
->
-> **Apotheotician**: Well, if you want the full list of other mutualists in this thread, I think that's me and \@curé.
->
-> **RategoryTheory**: Can we get an outsider for a tie-breaker vote?
->
-> **anarcat**: I'll take the \@Padre, if he'll do it.
->
-> **RategoryTheory**: Deal.
->
-> **anarcat**: OK, here goes.
-> Wrong, but informative: "market anarchy, without private property."
-> Compare-and-contrast with an-caps: "anarco-capitalism, but without private property."
->
-> **RategoryTheory**: Jury?
->
-> **Apotheotician**: I agree, wrong but informative.
-> One vote for.
->
-> **curé**: About the best you could do in five words.
-> One vote for.
->
-> **Padre**: I mean, it's catchy, but it's not really an answer.
-> One vote against.
->
-> **Gunslinger\#MONOLITH**: You didn't say "mutual aide," so half-credit.
->
-> **RategoryTheory**: \>\@Gunslinger We very specifically didn't ask you.
->
-> **anarcat**: The ayes have it.
->
-> **RategoryTheory**: Arright, credits on their way to the 'belt.
-> Interested in Rount 2?
-> How does this actually work?
-> What institutions does this society have?
->
-> **anarcat**: Honest answer: yeah, that's the tough question.
-> Glib answer: Whatever institutions and mutual-aide societies they choose to build.
->
-> **curé**: Yeah, you, uh, kinda missed that.
-> One vote against.
-> Sorry, AC.
->
-> **Apotheotician**: He did kinda miss it, but I still agree.
-> One vote for.
->
-> **Padre**: It's an honest non-answer, but it's still a non-answer.
-> One vote against.
->
-> **anarcat**: Shit.
-> No hard feelings curé.
-> Arright, I'll ready an offering to the currency exchange.
->
-> **plasmage**: This really is what you people do for fun, isn't it?
 
 The asteroid is oblong, about 35km long (along its major axis) and 10km in diameter at its widest point (along its minor axis).
 It is M-type, relatively rich in iron, nickel, and other metals, but poorer in organics, volatiles, and silicate rocks — although extensive mining and development has denuded it of most of its valuable metals.
@@ -308,108 +246,141 @@ Lacking a fusion (or antimatter) drive, they also do not have the range that a d
 
 The Thistledown Cooperative is a large Extropian Mutualist cooperative that has come to dominate the affairs of Kainouda 2035.
 Almost three-hundred and fifteen thousand people are members of the Thistledown Cooperative — a solid majority of the asteroid's population.
-The Thistledown Cooperative also owns more than two-thirds of the asteroid's habitable volume, and large portions of its infrastructure (including a large portion of its total power generation and life-support infrastructure).
-The Cooperative's major holding is the Thistledown Cavern, a massive, cylindrical cavern laid out along the axis of rotation, much like a Jovian "Reagan Cylinder" (although the residents prefer to call it a "Bear Habitat," named for twentieth-century writer Greg Bear, whos writing also gave the Cooperative its name).
+The Thistledown Cooperative also owns more than two-thirds of the asteroid's habitable volume, and large portions of its infrastructure (including transportation, power, and life-support systems).
+
+Thistledown Cavern is one of the cooperative's major holdings; it is a massive, cylindrical cavern laid out along the axis of rotation, much like a Jovian "Reagan Cylinder" (although the residents prefer to call it a "Bear Habitat," named for twentieth-century writer Greg Bear, whose writing also gave the Cooperative its name).
 
 ### Structure of the Cooperative
 
-The Thistledown Cooperative is a large Extropian Mutualist cooperative, owned by its members and organized to hold their habitats and infrastructure and to manage their microcurrency, the Thistle (noted $TSL).
+Fundamentally, The Thistledown Cooperative is a large Extropian Mutualist cooperative, owned by its members and organized to hold and operate several habitats, industrial facilities, and their supporting infrastructure, and to manage their microcurrency, the Thistle ($TSL).
 
-> **Apotheotician**: Bear this point in mind as we go through this: it's a giant co-op.
+> **Apotheotician**: If you're coming from an inner-system polity, it'll probably help to bear this point in mind as we go through this: it's a giant co-op.
 > It does some of the things that a socialist government would do, but it's *not* a government.
-> It exists to hold the habitat, to run it for its members, and to manage the micro-currency economy that we use.
-> 
-> **Padre**: Not to jump the gun, but what kind of difference does that make?
+>
+> It exists to hold assets and provide services to its members.
+> It does not exist to "govern" territory.
+>
+> **Padre**: What kind of difference does that make?
+> If the Thistledown Cooperative owns some territory, provides services people in that territory, and administers the economy in that territory, isn't it *basically* a municipal government?
+>
+> **Apotheotician**: Well, for one, membership is voluntary.
+> Nobody is a "subject" of the Thistledown; you join because you want the services that the Cooperative provides.
+>
+> And for another, we don't really "govern" the territory.
+> There aren't laws, and there aren't government agents that enforce them.
+>
+> **anarcat**: I'm actually going to quibble with you a little bit there.
+> The Thistledown Cooperative doesn't have laws or cops *as such*, but it has some definite limits on what can go in contracts, and in some cases it works out to about the same.
+>
+> If I where a member of the Cooperative, for example, I couldn't charge someone rent in Thistle; you might not call it a law, but I'm still forbidden from doing that.
+> I also can't exploit or abuse you, I *definitely* can't indenture you, and, depending on the industry, there's a whole bunch of other limits on what I can and can't do.
+>
+> And there are definite limits on the kinds of things that DROs can do.
+> DROs can't enforce contracts that violate the Thistledown's rules, for one thing.
+>
+> **rategorytheory**: Actually, I was going to ask, if it's just a not-a-government federation of cooperatives, how is this not just outer-system libertarian socialism?
+>
+> **Apotheotician**: We're a mixed economy, not a rep economy; we reject communism and expropriation, so you're allowed to retain private property; and we allow wage labor.
+>
+> **Plasmage**: OK, so if you're a credit economy with private property and wage labor, how are you not just an-caps?
+>
+> **Apotheotician**: *Jesus.*
+>
+> We reject rent-seeking, we have limits on the kind of "private property" that we allow, we have limits ont he kinds of contracts we allow, and we build different institutions.
+> Like Ratty said, we're a federation of worker cooperatives and mutual-aid groups, not a mesh of profit-seeking microcorps.
+> The Thistledown is *very* different than something you'd build if you where out to run a for-profit business, as opposed to providing mutual-aid to your members.
+>
+> **rategorytheory**: But "we're not assholes" isn't something that you can write down as a rule and enforce.
+>
+> **Apotheotician**: Admittedly, no, it's more of a norm than a rule.
+> But, limits on rent, contracts, and private property *are* things we can write down and enforce.
 
-Their major assets are held by the Cooperative, and either operated directly by it for the benefit of its members or leased to Mutualist microcoprs and cooperatives for productive use.
-This includes several habitats, including the Thistledown Chamber; the supporting infrastructure, including power and life-support; and major facilities, including minifacturies.
-These resources are used to provide housing, power, life-support, and other basic necessities to members of the Cooperative at no (individual) cost; of course, being an individualist anarchist systems, members are also free make their own provisions on the open market.
+Their major assets are held by the Cooperative, and operated directly by it for the benefit of its members.
+This includes several habitats, including the Thistledown Chamber; supporting infrastructure, including power and life-support systems; and major facilities, including minifacturies.
+Through these assets, the Cooperative provides housing, power, life-support, and other basic necessities to its members at no (direct) cost.
+(Of course, being libertarian anarchists, members are also free to make their own provisions on the open market.)
 
-Some smaller pieces of capital — including cornucopia machines, smaller microfacture or nanofacture facilities, industrial mechs, and other industrial hardware — are held by Mutualist Capital Banks and leased to members for productive use.
+Some smaller pieces of capital — including cornucopia machines, smaller microfacture or nanofacture facilities, industrial mechs, and other industrial hardware — are entrusted to Mutualist Capital Banks, and then leased to members for productive use.
 Similarly, some smaller facilities — including some smaller modules and habitats, and some of the buildings in the Thistledown Chamber — are also leased to microcorps to provide services on the open market.
 There are also traditional Lending Banks and Credit Unions (also member-owned, of course) that exist to provide credit in Thistle.
 
-Mutualists reject both private-property and rent-seeking: thus, the cooperative itself, and the various microcorps that it licenses (the various banks), are the only entities that are allowed to charge *rent*; and also the cooperative and those licensed microcorps are allowed to reclaim and redistribute capital that a lease-holder has ceased to put to productive use.
+Mutualists reject rent-seeking; thus, only the cooperative itself, and the various capital banks that it entrusts resources to, are allowed to charge *rent*.
 
-> **RategoryTheory**: So, basically, I get to "own" a cornucopia machine, as long as I pay a recurring fee to an institution that the community controls?
->
-> So, you guys went to a lot of trouble to re-invent market-anarchist taxes?
->
-> **anarcat**: I mean, actually, yes.
-> The intent is to create a social-distribution system that can run without a dangerous central authority.
-> And hey, look at that, we did!
->
-> **Apotheotician**: You say "we" but, for the record, you are not a member of the Thistledown Cooperative.
->
-> **anarcat**: Oh, right.
-> That's correct.
-> I'm a mutualist, but I'm not from the Thistledown.
->
-> **RategoryTheory**: \>\@anarcat I mean, yes, obviously, but this doesn't strike you as inefficient?
-> Or maybe seem like wasted effort, given that they wound up with "basically a state" anyway?
->
-> **Apotheotician**: No?
-> Compare our system to the government of any Venusian habitat and tell me we're the ones wasting effort.
->
-> And anyway, I thought you where a big fan of markets, what part of this don't you like?
->
-> **Bauble**: Spoiler: it's the socialist part she doesn't like.
->
-> **Gunslinger#MONOLITH**: I repeat: imagine looking at market-anarchists and saying "too socialist."
->
-> **plasmage**: I'm just amused we got to see ratty and catty be on opposite sides of something.
-> Usually the Firewall chapter of the Adam Smith fan-club are pretty much on the same page.
->
-> **Padre**: We just need ratty and gunny to get on the same side of something, and we'll be right on track for the eschaton.
->
-> **RategoryTheory**: \>\@Apotheotician It's the part where I'm still paying taxes — to a group I *have to join* — but we're not calling it a "government" so that's totally fine and we're totally still anarchists.
->
-> Or, actually, it's the part where the not-a-government gets to tax me, but doesn't guarantee my rights or enforce laws I get to vote on or run an impartial court system or anything.
->
-> **anarcat**: Well, it actually kind of does, funnily enough.
-> I guess we'll find out if it meets with your approval when we get to that part of the write-up.
+Mutualists' relationship with private property are often somewhat more complex.
+The Thistledown Cooperative rejects communism and expropriation, and so allows members to own private property; however, it does place limits on the kinds of private property that members may own, in an attempt to prevent a dangerous concentration of capital.
 
-These entities — the lending banks, capital banks, and those leasing facilities — together with several microcorps that the Cooperative contracts with to provide services to members, are referred to as Special Status Entities.
-Owing to their special status in the Cooperative, they are subject to regulation and inspection.
+The Cooperative also contracts with some other Mutualist Microcorps to provide basic services to members; notably, this includes several Extropian Dispute Resolution Organizations, *effectively* providing law-enforcement and legal services to their members.
+(Of course, members are free to refuse those services, receiving instead a stipend in Thistle to purchase their own services on the free market.)
 
 The Cooperative also manages the micro-currency used in the cooperative, the Thistle \(\$TSL\), in cooperation with the lending banks.
-Notably, anyone who is a member of the Thistledown Cooperative (or one of the coops they've given license to) is required to accept Thistle in payment.
+(Notably, all members of the Thistledown Cooperative are required to accept payment in Thistle.)
 
-For all other services — including protection, education, and healthcare — contract on the open market.
+The microcorps that the Cooperative contracts with, together with the capital-banks that they license, are referred to as *Public Trust Groups*, and are subject to additional restrictions, and to regular monitoring by the Cooperative's small "executive" body.
+
+For all other services, members contract on the open market.
 Notably, the Thistledown market is not closed; members may deal freely with outsiders, and outsiders may operate freely in the Cooperative's markets (as long as they are willing to pay in Thistle).
 (Of course, members may not sell or trade assets held by the Cooperative itself; they also may not trade assets leased from a capital bank, without the bank's approval.)
 
-The Thistledown also has not expropriation requirement.
-Members may hold whatever assets they wish in outside economies — and whatever personal property they wish within the Cooperative — so long as they meet all their obligations to the Cooperative.
-
 ### Membership Obligations
 
-Fundamentally, the Thistledown Cooperative is a mutualist member-owned cooperative: it provides services to its members, for which it may charge dues and fees; it also holds various assets, some of which it leases to members for use, for which it also charges fees.
+Fundamentally, the Thistledown Cooperative is a mutualist member-owned cooperative: it provides services to its members, for which it may charge dues and fees; and it holds various assets, some of which it leases to members for use, for which it also charges fees.
 Taken together, this creates a revenue stream; some of this revenue may be returned to members as a dividend, while the rest of it is used to fund operations.
 
 Each member is required to pay dues (currently 500 Thistle per month, equivalent to around 300 Hypercorp Credits), and those who wish to join the cooperative are required to pay an initial fee (currently 5000 Thistle, equivalent to 3000 Hypercorp Credits).
 
 These fees create an obvious barrier for the unemployed and destitute; to ensure that the Cooperative provides access and aide to those who cannot pay, it provides a *job guarantee*.
-Anyone who signs up for the *job guarantee* receives a base wage, and anyone who is assigned a task and performs it satisfacorily receives an additional payout.
+Anyone who signs up for the *job guarantee* receives a base wage, and anyone who is assigned a task and performs it satisfactorily receives an additional payout.
 (Those who make a good-faith effort but fail to perform adequately do not receive the additional payout;anyone who is assigned a task and either refuses it or fails to make a good-faith effort forfeits their wage from the program.)
+
 Applicants may volunteer for specific tasks; jobs go to volunteers first, assuming that the volunteer is qualified.
-The remaining jobs are assigned to the remaining applicants by lottory.
-(Jobs that have more than one volunteer are also assigned by lottory among the volunteers.)
+The remaining jobs are assigned to the remaining applicants by lottery.
+(Jobs that have more than one volunteer are also assigned by lottery among the qualified volunteers.)
 
 > **Gunslinger#MONOLITH**: How is this not just indenture but nicer?
 >
 > **RategoryTheory**: I mean, according to you, it's indenture every time you have to do anything you don't waaaanaaaaa.
 >
 > **Apotheotician**: That reaction's fairly common from outer-system an-coms and libertarian socialists.
-> For my money, because it's voluntary, because the wage is fair, and because you can quite at any time.
+> For my money, because it's voluntary, because the wage is fair, and because you can quit at any time.
 
 The Cooperative's charter requires that the payout be such that working 20 hours a week, or being enrolled in the lottery for 40, is enough to meet a quarter of the monthly dues; in practice, it is usually much higher.
 (The jobs guarantee is also intended to serve as a kind of indirect minimum wage and market regulation, since no worker would accept a wage much lower or conditions much worse than those provided by the jobs program; for that reason, Cooperative members usually ensure that the payout and conditions are good.)
 At present, work-queue "shifts" are four hours long, with pay currently being 20 $TSL per hour for the queue, and an additional 25 $TSL per hour of work performed.
 (Of course, being "on the queue" does not require that one waits in a physical area; it simple means that one registers for the queue over the mesh, and responds in a timely manner if selected.)
 
-The community banks also provide their members a payout from the fees collected; this serves as a kind of redistribution mechanism, ensuring that a portion of the profits generated by the Thistledown-mediated economy is redistributed to members.
-While membership in one-or-more of the community banks is optional, most members choose to joint at least one.
+The community banks also provide their members a payout from the fees collected on leased capital; this serves as a kind of redistribution mechanism, ensuring that a portion of the profits generated by the Thistle-mediated economy is redistributed to members.
+While membership in one-or-more of the community banks is optional, most members choose to joint at least one; banks may have their own membership requirements.
+
+### Governance
+
+Major decisions are made by a direct-democratic vote of the Cooperatives members; each member is accorded a single vote.
+Most issues are decided by a simple majority, although some important votes (like a change to the Cooperative Charter) require a strong majority (that is, a two-thirds vote) and strong support (at least one third of the population participating in the vote) to pass.
+
+> **Apotheotician**: The last one is an attempt to prevent celebrities and memes from wrecking our direct democracy, without making it too hard for legitimate votes to pass.
+>
+> **Padre**: Does it work?
+>
+> **Apotheotician**: For the most part.
+> We actually had a close scare a year ago, where a meta-celebrity pop-star drove a vote to make herself the "benevolent dictator for life."
+> Word leaked out, and we organized a counter-campaign; the vote actually cleared the one-third-participation hurdle, but didn't get a strong majority.
+>
+> **RategoryTheory**: Ah, direct democracy without institutions.
+>
+> **Plasmage**: Wait, so they actually won?
+>
+> **Apotheotician**: They won a *simple* majority, but that's not enough to declare yourself *dictator*.
+>
+> There, ah, has been some discussion of trying to add some other kind of "break" to the process, so that doesn't happen again.
+
+The Cooperative does perform a few important "governance" functions: it organizes the jobs guarantee, using that pool of labor to help execute public works; it spends money, collected from dues and revenues, to fund programs useful to its members; and it limits and regulates certain types of contracts and microcorps.
+
+It also has a small Civil Service Group, tasked with overseeing the Cooperatives executive functions.
+Among their roles, they include:
+
+- the Public Trust Monitor Group, who are responsible for overseeing the various Public Trust Groups; and
+- the Peace and Justice Group, who operate a small peace force, and who are the final court of appeal after the parties DROs have failed.
+
+### Thistledown Chamber
 
 ## Other Extropians
 
@@ -420,6 +391,9 @@ Of course, there
 ### Anarcho-Capitalists
 
 ### The Spaceport
+
+The spaceport is one of the few pieces of major infrastructure still in anarco-capitalist hands.
+It's built into the 
 
 ### Objectivists
 
