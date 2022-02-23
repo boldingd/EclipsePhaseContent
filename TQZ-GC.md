@@ -190,7 +190,7 @@ So far, the Tharsis League has been intransigent, seeminly content to contain th
 >
 > **Gunslinger\#MONOLITH**: If the Consortium's gonna get pissy about jurasdiction, they could get off their asses and *do something*.
 >
-> **Curé**: I would also prefer that we not start a solar-system-rending factional war 10 years after we watched Terran political battles spiral into the fucking Fall.
+> **Curé**: I would also prefer that we not start a solar-system-rending factional war 10 years after we watched Terran political battles *spiral into the Fall*.
 >
 > **Plasmage**: Would you prefer being eaten by whatever comes out of the Zone in five or ten years?
 >
