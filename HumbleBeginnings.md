@@ -292,7 +292,7 @@ However, joual, an informal style of Quebecois French, has become the unofficial
 > Maybe I know someone from the same place!
 >
 > **0514NOMAD**: Well, technically I'm from Ontario.
-> The languages are nearly identical, but don't tell any of the boys from Montreal I said that…
+> Ontario French is nearly identical, but don't tell any of the boys from Montreal I said that…
 >
 > **Curé**: Hah!
 > Too late, we're *already here*!
