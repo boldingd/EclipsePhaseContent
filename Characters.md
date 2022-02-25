@@ -243,10 +243,10 @@ Bauble is noted for being cool in a crisis and particularly quick-witted, and ha
 >
 > **plasmage**: So much so that it's more than worth the number of disasters that she *causes*.
 >
-> **BerkeleyMew**: J’suis tanné, mon tabarnak.
+> **BerkeleyMew**: Chu tanné en tabarnak.
 >
 > **curé**: Criss.
-> Nous devons discuter un peu.
+> Toi-la, on vas jaser un peut, toi pis moi.
 
 Bauble is also notable for being something of a skin-walker, experimenting with a wide variety of exotic sleeves, and for her quiet presence in Firewall's queer subgroup (as she is non-binary and asexual).
 
@@ -308,7 +308,7 @@ In any case, one vital service the Padre provides is access to the subtle, unoff
 
 **BerkeleyMew** is a sentinel who operates in the Extropian belt with her partner \@Nautílos.
 In an environment where the boundary between the legal and the criminal can be thin indeed, she works as a bounty-hunter, bodyguard, and enforcer.
-She's cultivated a diverse array of skills, focusing on combat, but also including intimidation, interrogation, deceipt, pursuit, and some basic piloting.
+She's cultivated a diverse array of skills, focusing on combat, but also including intimidation, interrogation, deceit, pursuit, and some basic piloting.
 She also provides access to a web of connection in both the Extropian and criminal networks.
 
 Her overall feedback is strong, with particular positive feedback from an operation on the slopes of Olympus that became *interesting* and *fluid*.
