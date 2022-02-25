@@ -20,7 +20,7 @@ Kainouda 2035 is an asteroid colony in the main belt.
 It was originally — and to a great extent still is — an Extropian project; it was claimed by the Kainouda 2035 Development Company (The KDC), which then sold shares of it to other parties, chiefly Extropians, for development.
 Since then, it has come to be dominated by the Thistledown Cooperative, a large Extropian Mutualist cooperative – although large swaths of the asteroid are still run along anarco-capitalist lines, and it hosts outposts of several other polities as well.
 
-> **Anarcat**: this hab is kind of what I love about the belt; so many different people and communities, all crammed in together, and managing to get along pretty well.
+> **anarcat**: this hab is kind of what I love about the belt; so many different people and communities, all crammed in together, and managing to get along pretty well.
 >
 > **Apotheotician**: Why thank you.
 > Also, hello; I'm the local they called in for comment.
@@ -217,7 +217,7 @@ As a final measure, the asteroid also has some defense emplacements on its surfa
 >
 > **anarcat**: Too big; either too warm or made of too much metal — sometimes both; too impatient to wait two months, and the breathy ones can't carry that much air; most of the breathy ones also can't get *that* cold, even in medical stasis; too easy to see, because all these satellites and habs are also covered in cameras.
 >
-> **H0N3**: Why is falling slowly important?
+> **H0N-3**: Why is falling slowly important?
 > Why not fall quickly?
 >
 > **anarcat**: You need to burn thrusters to start and stop, and burning thrusters means being seen in IR.
@@ -341,7 +341,7 @@ The remaining jobs are assigned to the remaining applicants by lottery.
 > **RategoryTheory**: I mean, according to you, it's indenture every time you have to do anything you don't waaaanaaaaa.
 >
 > **Apotheotician**: That reaction's fairly common from outer-system an-coms and libertarian socialists.
-> For my money, because it's voluntary, because the wage is fair, and because you can quit at any time.
+> For my money, because it's voluntary, and because you're paid a fair wage.
 
 The Cooperative's charter requires that the payout be such that working 20 hours a week, or being enrolled in the lottery for 40, is enough to meet a quarter of the monthly dues; in practice, it is usually much higher.
 (The jobs guarantee is also intended to serve as a kind of indirect minimum wage and market regulation, since no worker would accept a wage much lower or conditions much worse than those provided by the jobs program; for that reason, Cooperative members usually ensure that the payout and conditions are good.)
@@ -382,6 +382,39 @@ Among their roles, they include:
 
 ### Thistledown Chamber
 
+### Axis city
+
+Axis City is a small complex located at the center of the axial light tube in the Thistledown Chamber.
+The name is slightly misleading; it's a relatively small complex, essentially equivalent to a small module hab.
+(The name is, of course, also a reference to Greg Bear's writing.)
+
+Axis City holds facilities for the Thistledown Cooperative's Civil Service Group, including servers, back-up facilities, and physical meeting-spaces and offices.
+Notably, the Peace and Justice Group operates out of offices on Axis City.
+
+The complex has been designed to be fairly durable, given the important nature of the systems there.
+It's hull is capable of holding against vacuum, despite being inside the (pressurized) Thistledown Chamber, and it has significant access control, physical defense, and surveillance systems (the details of which the cooperative has not made generally available).
+
+> **Apotheotician**: I actually have a little more information about this one, but, short version, it's the same answer: the infiltration guys tell me its generally not worth it.
+> 
+> **Gunslinger\#MONOLITH**: I'm curious.
+>
+> **Apotheotician**: What you'd expect.
+> Trans-spectral cameras, t-ray spotlights, and radar, all around the thing.
+> Immunogenic swarms, breach sensors, and self-repair systems in the hull — although the outside hull isn't smart-matter as far as I can tell, so it shouldn't fight back.
+> Unknown bots on patrol around it, probably something like 'angels for surveillance, probably something fightier under active cammo.
+>
+> Heavy screening at access-points, smart-matter barriers and lock-bots for some critical infrastructure (like the servers).
+> And some generally pretty chunky internal bulkheads, for good measure.
+>
+> Other security TBD.
+>
+> **H0N-3**: If it's at the middle of the light tube, how do you get up to it?
+>
+> **Apotheotician**: Elevators in spars.
+> There are three spars coming out of the center of the complex, running to the chamber floor.
+> 
+> You can also fly up to it, actually.
+
 ## Other Extropians
 
 ### Other Mutualists
@@ -393,7 +426,12 @@ Of course, there
 ### The Spaceport
 
 The spaceport is one of the few pieces of major infrastructure still in anarco-capitalist hands.
-It's built into the 
+It consists of a primary spar extending some 300m from the asteroid, and a complex at the base of the spar that includes visitor screening, a body-bank and resleeving facilities, fuel reserves, cargo handling and storage facilities, and more.
+
+The spar extends from one of the "poles" of the asteroid, along the axis of rotation.
+The spar does not rotate with the asteroid, however, so that docked ships don't have to bear a load; it's attached at the base with a giant magnetic bearing.
+
+The an-cap microcorp that runs the spare are fairly well-respected; they remained on good terms with the Thistledown Cooperative during the burst of violence in BF 10, and 
 
 ### Objectivists
 
