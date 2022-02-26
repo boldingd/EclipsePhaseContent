@@ -361,14 +361,14 @@ Most issues are decided by a simple majority, although some important votes (lik
 > **Padre**: Does it work?
 >
 > **Apotheotician**: For the most part.
-> We actually had a close scare a year ago, where a meta-celebrity pop-star drove a vote to make herself the "benevolent dictator for life."
+> We actually had a close scare a year ago, when a meta-celebrity pop-star drove a vote to make herself the "Empress of the Thistles."
 > Word leaked out, and we organized a counter-campaign; the vote actually cleared the one-third-participation hurdle, but didn't get a strong majority.
 >
 > **RategoryTheory**: Ah, direct democracy without institutions.
 >
 > **Plasmage**: Wait, so they actually won?
 >
-> **Apotheotician**: They won a *simple* majority, but that's not enough to declare yourself *dictator*.
+> **Apotheotician**: They won a *simple* majority, but that's not enough to declare yourself *empress*.
 >
 > There, ah, has been some discussion of trying to add some other kind of "break" to the process, so that doesn't happen again.
 
@@ -381,6 +381,49 @@ Among their roles, they include:
 - the Peace and Justice Group, who operate a small peace force, and who are the final court of appeal after the parties DROs have failed.
 
 ### Thistledown Chamber
+
+Thistledown Chamber is one of the Thistledown Cooperative's main holdings.
+The cavern is massive: it's roughly cylindrical, 20km long, and 7km in radius.
+It's constructed along the asteroid's axis of rotation, so that the asteroid's 0.16 rpm produces a hair less than 0.3G at the chamber floor.
+
+The chamber floor is broken into square or rectangular "blocks," each one being around 100m to a side and about 30m tall.
+On top of each block, there are green-spaces, woods, ponds, and similar "natural" public spaces; usable space ("builds") are into the sides of the blocks, and under them.
+The "road-level" floor of the chamber is an irregular grid of narrow walkways and scooter-ways cutting between the blocks.
+Sometimes, a greenspace or wood will span multiple blocks; in these cases, blocks may be joined by bridges or cannecting platforms.
+In one of the most dramatic instances, the Thistledown High River runs a complete circuit of the chamber: it flows through Federation Park, a large complex spanning several blocks and featuring a central pond; and it also flows over (but does not directly connect with) two flooded blocks, occupied by aquatic morphs.
+The High River is clean, sandy-bottomed, and slow; swimming (or tubing) the river is a popular way to relax.
+
+A second river, Thistledown Wide River, makes a circuit of the chamber at floor level; its path takes it under the *Lonely Mountain*, through *Mountain-Kin Plaza*.
+Thistledown Wide River is deeper, wider, and swifter, enough so that swimming near the center is dangerous for inexperienced swimmers.
+
+The chamber is also broken by three "crystal cities," dense thickets of closely-packed towers that can raise more than half-way to the axis (facilitated by the relatively low gravity of the chamber).
+The "cities" provide a significant ammount of living and working space, and are densely-populated.
+
+> **Apotheotician**: I'm biased, but the view from the top of one of the towers is *breathtaking*.
+>
+> **anarcat**: If you're lazy like me, then drifting in the High River is a great way to kill an hour.
+>
+> **Gunslinger\#MONOLITH**: Hey, pumas aren't supposed to like water!
+>
+> **anarcat**: I mean, I'm *also* human.
+>
+> **Bauble**: I'm imagining a lazy puma in an innertube, and it's kind of adorable.
+>
+> **Plasmage**: Like with a fruity drink with an umbrella in it?
+> \@Apotheotician you guys should use that on your tourist brochures.
+>
+> **Apotheotician**: Somehow I don't think the Eye would approve.
+
+### Lonely Mountain
+
+The Lonely Mountain is an irregular protrusion of asteroid rock, about 1.2km around the base (about 35m across at the widest) and about 500m high.
+The "mountain" was formed when the chamber was excavated, because several an-caps owned parcels in the middle of the chamber and refused to sell to the Thistledown Cooperative; there are still occupied an-cap habs inside the mountain.
+Carved into the base of the mountain is a wide cavern, with an open plaza built on its floor.
+Officially named *Distant Kin Plaza*, but sometimes called *Wayward Brothers Plaza*, it provides space for mutualists and an-caps to mingle, where an-caps can hock their wares, and where mutualists (or visiters from the outer system) can easily interface with the credit-mediated capitalist economy.
+
+### Ayn Rand Hillock
+
+If the mutualists of the Thistledown Cooperative view their an-cap neighbors 
 
 ### Axis city
 
@@ -461,6 +504,9 @@ For example, OSI pays a service fee to Infinite Loop; KHHC owns a seventy-one-pe
 > Capitalism!
 >
 > **Bauble**: Weeb.
+>
+> **anarcat**: And it worked out, they built the track under terms that worked for everyone.
+> So what's your damned problem?
 
 ### Infinite Loop
 
