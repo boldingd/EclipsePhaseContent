@@ -34,12 +34,18 @@ centrigrav:
 - I'm not thrilled with how this math is working.
   In particular, it makes the cooperative kind of pricks if they spin to a comfy 0.2G *for them* even though they're not even half-way to the surface.
   - So I may turn those radii down a little.
-  - Let's try 35km long/10km radius for the rock, and 20kmlong/7km radius
+  - Let's try 35km long/10km radius for the rock, and 20km long/7km radius
   - oh hey, actually, the old numbers probably wouldn't work, because I said "radius" for one and "diameter" for the other.
   - that gives us: 0.16rpm, 117m/s on the chamber floor, and 0.286G / 167.6m/s on the surface.
   - I like that better; they're not crushing the guys on the rim and breaking up the rock at that point.
   - (that's 421.2 km/h at the chamber floor)
   - also that's 0.22G in the Loop.
+- Actually, the "crystal cities" probably require even lower micrograv, so we might slow it down more.
+  - Let's shoot for maybe 0.15, there-abouts, at the chamber floor?
+  - 0.16g at the chamber floor gives us 0.143rpm / 104.8m/s angular, for Thistledown Chamber.
+  - and 0.143 rpm gives us ...
+  - Fuck it, I'm sticking with current numbers, too lazy to redo everything.
+    I'll come back to it.
 
 Notably for Infinite Loop, the [Shanghai Maglev](https://en.wikipedia.org/wiki/Shanghai_maglev_train) ([maglevs](https://en.wikipedia.org/wiki/Maglev)) can cover a distance of 30.5 km in 8 minutes at about 430km/h-ish.
 So the bounce-train might still work in some form.
