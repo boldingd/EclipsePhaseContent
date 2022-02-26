@@ -277,18 +277,18 @@ Notably, some of their working-groups appear to enjoy both greater access to res
 ### Language
 
 The Skyward Collective is highly polyglot, drawing as it does from fall refugee and infugee populations, and from those at the bottom rungs of other societies.
-However, joual, an informal style of Quebecois French, has become the unofficial common language of the collective, owing to the fact that several of the movement's founders where French Canadian (and poor), and most of their early discussions and documents where written first in idiomatic Quebecois French.
+However, joual, an informal style of Quebecois French, has become the unofficial common language of the collective, owing to the fact that several of the movement's founders hailed from working-class communities in Montreal, and most of their early discussions and documents where written first in idiomatic Quebecois French.
 (This is much to the chagrin of those same founders, who wanted to avoid anything so divisive and privileged as an official language.)
 
 > **0514NOMAD**: This explains the uptic of Quebecois idioms I've been seeing on the @-net.
 > And here I thought I'd just made that much of an impact…
 >
-> **plasmage**: Oh hey, maybe you can translate for \@Curé when he gets worked up and goes full-French.
+> **Plasmage**: Oh hey, maybe you can translate for \@Curé when he gets worked up and goes full-French.
 >
 > **H0N-3**: That's interesting!
 > There are a lot of French Canadians out here on Titan!
 >
-> Where where you from?
+> Where were you from?
 > Maybe I know someone from the same place!
 >
 > **0514NOMAD**: Well, technically I'm from Ontario.
@@ -305,10 +305,9 @@ This is happening in spite of the fact that there are very few native speakers o
 > I've been speaking Barsoomian for more than a decade and people still comment on how much of my Canadian French influence bleeds through into the way I speak it.
 >
 > **Curé**: And why *shouldn't* it?
-> The *Académie française* died with the Fall, unless they've set up a new one on Titan just to fuck with me personally.
+> If you're embarrassed by *la belle province*, then I'm locking you out of the Eye.
 >
-> **anarcat**: I can assure you, as a Titanian citizen, that no such vote has come up in the Plurality.
-> So you're good.
+> **Plasmage**: Yup, that's about how I thought that'd go.
 
 ## Member Collectives
 
