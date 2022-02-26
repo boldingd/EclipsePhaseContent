@@ -277,12 +277,13 @@ Bauble is also notable for being something of a skin-walker, experimenting with 
 The **Padre** is a proxy operating primarily out of the Jovian Republic.
 He typically does not directly coordinate operations; he is mainly involved in gathering intelligence from within the Republic, and providing resources and support to teams that need to operate in Jovian space.
 
-While the Padre leans conservative (unsurprisingly), he is known for his moderate temperament, for his surprisingly cosmopolitan outlook, and for his moderate political stance (in terms of Firewall's internal politics).
+While the Padre leans conservative (unsurprisingly), he is known for his moderate temperament, for his cosmopolitan outlook, and for his moderate political stance (in terms of Firewall's internal politics).
 Notably, he is one of few solid Conservatives who still commands trust and respect in Pragmatist circles, and so he is an important peacemaker and trusted broker within the organization.
 
 It is widely held that the Padre's name is literal — that he is in fact a priest or minister in some religious organization in the Jovian Republic.
 The common theory is that he isn't Catholic — while Catholicism is far and away the majority religion of the Jovian Republic, it is neither the sole nor official religion there.
 There are also communities from several other Christian denominations, of various Muslim and Jewish sects, and of non-Abrahamic religions.
+
 In any case, one vital service the Padre provides is access to the subtle, unofficial chain of religious leaders and movements operating in the solar system — most prominently in the Jovian Republic, in the Muslim communities of Mars, and the Buddhist and Taoist communities on Luna.
 (Some informally refer to this as "religion-net".)
 
@@ -290,7 +291,7 @@ In any case, one vital service the Padre provides is access to the subtle, unoff
 >
 > **Gunslinger#MONOLITH**: Fuck, I thought Richard Dawkins was dead.
 >
-> **bauble**: You just don't have a filter at all, do you?
+> **Bauble**: You just don't have a filter at all, do you?
 >
 > **anarcat**: The Padre knows I'm not taking a swipe.
 > Well, not much of one.
@@ -308,10 +309,14 @@ In any case, one vital service the Padre provides is access to the subtle, unoff
 
 **BerkeleyMew** is a sentinel who operates in the Extropian belt with her partner \@Nautílos.
 In an environment where the boundary between the legal and the criminal can be thin indeed, she works as a bounty-hunter, bodyguard, and enforcer.
-She's cultivated a diverse array of skills, focusing on combat, but also including intimidation, interrogation, deceit, pursuit, and some basic piloting.
+She's cultivated a diverse array of skills and connections.
+She is obviously a capable combatant, but also has some competency in social manipulation, interrogation, pursuit, and piloting.
 She also provides access to a web of connection in both the Extropian and criminal networks.
 
-Her overall feedback is strong, with particular positive feedback from an operation on the slopes of Olympus that became *interesting* and *fluid*.
+A minor downside is a certain eccentric streak, including a predilection for bladed weapons; she prefers morphs that have enhanced strength and speed, in an attempt to make best use of her preferred weapons.
+A certain amount of *nudging* is required to coax her into using conventional weapons and tactics.
+
+Her overall feedback is strong; an operation on the slopes of Olympus was a particular highlight, where she earned high marks for adapting to the situation as it became *fluid*.
 
 ### Cyrano de Bergerac's Pansexual Cephalopod Understudy
 
@@ -330,13 +335,13 @@ Notes:
   It's original display-name was "8xAkimbo Raging Bulls", and it's commonly referred to as "Akimbo" or "RBs" in conversation.
   (Note, you can use \[this\] or \[account-name:*id*\] with an account-id to use the account's current display name, which will be rendered like this: *Cyrano de Bergerac's Pansexual Cephalopod Understudy*.)
 
-Commonly called "Akimbo" or "RBs," *Cyrano de Bergerac's Pansexual Cephalopod Understudy* is a sentinel known for his effectiveness in combat and infiltration, and more recently for his support and advisory work.
-He has an excellent track-record and good feedback; his only real demerits are a slightly irritable personal style and being more than a little "gung-ho."
+Commonly called "Akimbo" or "RBs," *Cyrano de Bergerac's Pansexual Cephalopod Understudy* is a sentinel known for his effectiveness in combat and infiltration roles, and more recently for his support and advisory work.
+He has an excellent track-record and good feedback; his only real demerits are a slightly irritable personal style and being more than a little gung-ho.
 
-Being an octopus uplift, Akimbo prefers morphs that resemble his natural form and provide it's advantages — although experience has shown that he is perfectly capable of functioning in conventional humanoid morphs.
+Being an octopus uplift, Akimbo prefers morphs that resemble his natural form and provide its advantages — although experience has shown that he is perfectly capable of functioning in conventional humanoid morphs.
 
-Akimbo was initially recruited by \@curé and operated in his cell, but, for reasons unknown, has since been moved to a safe-house and assigned to support cells.
-In his current capacity, he has contributed to CASE:ENFIELD, a cell developing libraries of useful fabber blueprints, and CASE:MELCHETT, a cell providing training and support to teams who lack combat expertise.
+Akimbo was initially recruited by \@curé and operated in his cell, but, for reasons that have been need-to-know, has since been moved to a safe-house and assigned to support operations.
+In his current capacity, he has contributed to CASE:ENFIELD, a cell developing libraries of useful fabber blueprints, and CASE:MELCHETT, a cell providing training and support (and skillsofts) to teams who lack combat expertise.
 (Unlike \@anarcat, Akimbo's arrangement is temporary, and he will be returned to field work once the issue has been resolved — whatever that issue was.)
 
 ### 0514NOMAD
