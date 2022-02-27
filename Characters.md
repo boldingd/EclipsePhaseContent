@@ -38,13 +38,31 @@ He's also made more of a show of abiding by the organization's rules, at least i
 | RategoryTheory | |
 | --- | --- |
 | Identity | AGI, she/her |
-| Languages | English (Native), German (Fluent), Hebrew (Conversational) |
+| Languages | English (Native), German (Fluent) |
 | Rank | Sentinel |
 | Reputation | Good |
 | Skills | infosec, psychosurgery, hypercorp connections |
 | Tags | |
 
-**RategoryTheory**
+**RategoryTheory** is a *sentinel* active on Venus and Mars, skilled in infosec, programming, psychosurgery, and conventional psychology and psychotherapy.
+She is also active in several civic and hypercapitalist social-networks; in particular, she has done a fair amount of freelance work for Cognite, and maintains contacts within the hypercorp.
+(Cognite, of course, has been responsible for more than their fair share of Firewall operations, and points of access into the organization are few; this makes "Ratty's" contacts in Cognite highly valuable.)
+
+> **Gunslinger\#MONOLITH**: Operating on Mars even though she's an AGI.
+> That's some dedicated bootlicking.
+>
+> **anarcat**: Said the Martian.
+> How's the weather out towards Noctis-Qianjiao?
+> Or rent, for that matter.
+> Still high?
+>
+> **rategorytheory**: He doesn't pay rent, remember?
+> He lives on a dozen hectares of his own.
+
+She's also known for a particular center-line liberal political outlook, which puts her at odds with some of Firewall's more fiery autonomists; of course, the fact that she's an AGI wins her few friends among Firewall's most conservative flanks, which means that she can take fire from multiple fronts.
+(By most accounts, she has more than enough fight in her for it.)
+
+> **anarcat**: I do appreciate having some back-up when trying to punch through the Locus bubble.
 
 ### Gunslinger\#MONOLITH
 
@@ -153,16 +171,16 @@ He is also reputed to have particular trouble when resleeving, being prone to st
 
 **Anarcat** is a jack of all trades, but a master of none; his most developed skills lie in engineering and infiltration, and he is currently serving a "technical support" roll in *@Curé*'s cell.
 
-Anarcat has, to a greater or lesser extent, cultivated a wide variety of skills: he has connections on circle-a, civic-net, and r-net; he is a competent freerunner, unarmed fighter, and infiltrator; he has a graduate degree in engineering, and good competency with related hardware and programming fields; and is trained as a "first responder" on his habitat, which includes a thin spattering of first-aid, militia, and damage-control training.
-However, he has not particularly perfected any of these talents — his most developed skills lie in engineering and infiltration.
-These skills and a bit of craftyness, however, have been sufficient for him to make a valuable contribution on several missions, and he has earned high marks for the use of field-retrofitted bots and for technologically-enabled infiltrations.
+Anarcat has, to a greater or lesser extent, cultivated a wide variety of skills: he has connections on circle-a, civic-net, and r-net; he is a competent freerunner, unarmed fighter, and infiltrator; he has a graduate degree in mechanical engineering, and good competency with related hardware and programming fields; and is trained as a "first responder" on his habitat, which includes a thin spattering of first-aid, militia, and damage-control training.
+However, he has not particularly perfected any of these talents; his most developed skills lie in engineering and infiltration, and he often settled into those roles in his cell.
+These skills and a bit of craftyness, however, have been sufficient for him to make a valuable contribution on several missions; he has good marks for field-retrofitting conventional bots, and for technologically-enabled infiltration.
 
 Somewhat controversially, Anarcat has been "withdrawn from field work" by his router \@Curé, allegedly because of the objections of his (anarcat's) partner.
-This individual was never made aware of the details of Firewall — but, not being an idiot, could figure out that Anarcat was involved in *something* unsavory.
+This individual was never made aware of the details of Firewall, but was able to determine that Anarcat was involved in something outside the law.
 Curé is something of a patron of Anarcat's, and decided to "reassign" him away from field work rather than have him leave the organization entirely.
 (Strictly speaking, Firewall does not work this way; however, when you have your router's support, and when your router has make-up-the-rules-level rep, you can do whatever he says you can do.)
 
-Anarcat currently serves in a support role, providing bots and technology to other cells, and running or advising on long-running infiltrations.
+Anarcat currently serves in a support role, providing bots and technology to other cells, and running or advising on long-running infiltration campaigns.
 
 > **Gunslinger\#MONOLITH**: Word is that he's gotten into Xyphos — maaaybe into the parts that the Ultimates really don't want you to see.
 >
@@ -170,8 +188,8 @@ Anarcat currently serves in a support role, providing bots and technology to oth
 >
 > **Plasmage**: lol
 
-Open-minded — or perhaps non-committal — in everything, he regards himself as a cosmopolitan 'Belter.
-Although he is a member of an Extropian Mutualist community in 'Belt, he spent his formative years on Venus, went to university on Titan, and still maintains Titanian citizenship.
+Open-minded – or perhaps non-committal – in everything, he regards himself as a cosmopolitan 'Belter.
+Although he is a member of an Extropian Mutualist community in 'Belt, he spent his formative years on Venus, and went to university on Titan – in fact, he still maintains Titanian citizenship.
 
 > **Gunslinger\#MONOLITH**: "Open-minded," hah.
 > He's just a contrarian prick.
