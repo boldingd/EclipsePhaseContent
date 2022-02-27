@@ -15,7 +15,7 @@ They're notable for their particular brand of hedonist collective anarchism, for
 >
 > **anarcat**: Yeah, I feel like there's definitely going to be one main reason that we're interested in these folk.
 >
-> **Lola**: You're telling me.
+> **BerkeleyMew**: You're telling me.
 
 It should be noted early that, because of their preference for ad-hoc organization, different Skyward habs can have very different social structures.
 Some habs may have permanent working-groups that others do not; some may have very different lists of allowed nanotechnology; and some even have fundamentally different economic models.
@@ -58,7 +58,7 @@ The overarching Skyward Collective does, however, have certain requirements that
 While an individual habitat could choose to leave the collective — or to violate these requirements and be expelled — this has not yet happened; this is likely to due to care that the Skyward Collective takes in constituting and populating new habitats, the benefits of remaining within the collective, and cultural connections between different habitats.
 
 Notably, the Skyward Collective can also intervene in the event of a conflict between different habitats.
-When settling a dispute between member collectives, or voting to expell a collective, a two-thirds vote among the *entire* membership of the Skyward Collective is required.
+When settling a dispute between member collectives, or voting to expel a collective, a two-thirds vote among the *entire* membership of the Skyward Collective is required.
 (The final level of appeal for all "local" matters is a direct-democratic polling of the entire hab populace, usually requiring either a simple (one-half) or strong (two-thirds) majority.)
 
 Beyond this, each member collective is given near-complete autonomy, with complete freedom to establish their own norms, assemble their own institutions and conduct their own affairs.
@@ -83,11 +83,12 @@ By working within local legal systems where they exist, the Collective is someti
 >
 > Two things are important to point out here: one is that they *are* nonviolent, and the other is that they definitely aren't the only vanguardist group in the outer-system.
 >
-> But, *\@curé*'s pretty worried that, long-term, these folk are going to lead to more inter-factional conflict in the solar system, not less.
+> But, @Curé's pretty worried that, long-term, these folk are going to lead to more inter-factional conflict in the solar system, not less.
 >
-> **Minerva**: While I share *\@curé*'s concerns, I am dismayed that he only seems to apply them to peacefully expansionist anarchist communities, and not to violently expansionist or repressive capitalist ones.
+> **Minerva**: While I share \@curé's concerns, I am dismayed that he only seems to apply them to peacefully expansionist anarchist communities, and not to violently expansionist or repressive capitalist ones.
 >
 > **anarcat**: If you think he has no criticisms of the Consortium, you don't know the man at all.
+> And I'll remind you that's he's a *mutualist*.
 >
 > **Plasmage**: Also, that's not helpful *right now*.
 >
@@ -102,7 +103,7 @@ By working within local legal systems where they exist, the Collective is someti
 >
 > **Padre**: I think Curé is loath to step in and silence criticism of *himself*, so I'm going to make an executive decision here.
 > This is not the time for this conversation.
-> If you'd like to make a complaint, I can pull some concerned proxies together and we can hear you out, but we're not going to do that in a comment thread in the middle of an intel report.
+> If you'd like to make a complaint, I can pull some proxies together and we can hear you out, but we're not going to do that in a comment thread in the middle of an intel report.
 >
 > **Minerva**: Very well, but I would like to register my objections formally.
 >
@@ -128,7 +129,7 @@ By working within local legal systems where they exist, the Collective is someti
 > **Gunslinger\#MONOLITH**: I mean, that's kind of beyond the scope of the mission — but lucky you, we knew what \@Curé's interest was, so we checked.
 >
 > The Venusians officially don't care.
-> They're already sharing the skies with an aerostat from another faction, so it doesn't make matters much worse if a bunch of anarchists tie a bunch of balloons together and call it home.
+> They're already sharing the skies with a hypercorp aerostat, so it doesn't make matters much worse if a bunch of anarchists tie a bunch of balloons together and call it home.
 >
 > The Lunars are a little pissier; they're more conservative, so they're not real happy about outer-system-types making a home next door.
 > But the way the LLA is set up, there isn't a whole lot they can do about it; as long as the Collective doesn't start a fight — or try to join the LLA — the LLA doesn't get to have a say.
@@ -165,12 +166,11 @@ By working within local legal systems where they exist, the Collective is someti
 > **Gunslinger\#MONOLITH**: I think the evidence is a little stronger there though.
 >
 > Bauble and I put out some feelers on the Guanxi, and we've got some responses.
-> Nothing to report — yet — but it's a distinct possibility.
+> Nothing to report – yet – but it's a distinct possibility.
 >
 > **Plasmage**: You guys don't have much, do you?
 >
-> **Curé**: Bon.
-> Good work, you two.
+> **Curé**: Good work, you two.
 > I think it's worth it to push on those Guanxi contacts.
 > We'll coordinate that in the casefile.
 > Keep at it, I don't want to get blind-sided here.
@@ -178,7 +178,7 @@ By working within local legal systems where they exist, the Collective is someti
 > \[ A cross-reference with an *operational file* was created *here*. \]
 >
 > **Padre**: Loop me in on that too, if you would.
-> Maybe I can help keep that from turning into a flame-war with Das Fretchen.
+> Maybe I can help keep that from turning into a flame-war with Das Frettchen.
 >
 > **Curé**: Invite sent.
 
@@ -245,7 +245,7 @@ Notably, some of their working-groups appear to enjoy both greater access to res
 >
 > **Plasmage**: What about infosec?
 >
-> **Gunslinger\#MONOLITH**: Meine Entschuldigung, aber — we didn't try hacking.
+> **Gunslinger\#MONOLITH**: Meine Entschuldigung, aber – we didn't try hacking.
 > Neither of us are infosec experts, and we didn't want to risk trying to hack a target that might have an ASI active.
 > Certainly not without making a preliminary report first.
 >
