@@ -27,6 +27,10 @@ German notes for Franz/Gunslinger
 - (more saying sorry, with different scenarios)[https://www.germanpod101.com/blog/2019/09/12/how-to-say-sorry-in-german/#2]
 - A [searchable list of German idioms](https://matterhornlanguages.com/)
 
+Also notable for Franz: Noctis-Qianjiao is near the Zone, and has lots of Germans.
+So that's probably where his compound was.
+(I don't remember and the old Program document didn't say.)
+
 Code names:
 
 - "Akimbo" → Otto Quazar
