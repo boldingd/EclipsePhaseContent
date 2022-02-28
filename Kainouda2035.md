@@ -147,7 +147,7 @@ The Comms Consortium is also responsible for maintaining the security of the sys
 >
 > **Bauble**: Spoiler: if you need to get onto the Thistledown discretely, either use the spaceport, use surface access, or, smartest way, dark-cast to Limehouse and then purchase an egocast over the local mesh from any random an-cap with a radio.
 >
-> **plasmage**: Or bring along some infosec talent that can make some room once you've got local mesh access.
+> **Plasmage**: Or bring along some infosec talent that can make some room once you've got local mesh access.
 >
 > **Bauble**: Or that, yes.
 >
@@ -184,13 +184,13 @@ As a final measure, the asteroid also has some defense emplacements on its surfa
 >
 > And thermodynamics doesn't *actually* let you do most of the stuff that you've seen in movies.
 > 
-> **Apotheotician**: Again, not my area of expertise, but that's the impression I've got from the sneakier Sentinels that have come through: hard enough to be a practical impossibility.
+> **Apotheotician**: Again, not my area of expertise, but that's the impression I've got from the sneakier Sentinels that have come through: hard enough that it's not worth it.
 > 
 > Those point-defense satellites are the other problem: you get shredded very shortly after you're detected.
 >
 > **Bauble**: I'll say it again.
 > This hab, like most habs, you'll want to dark-cast.
-> Or find some way to go through the space-port "legit."
+> Or find some way to go through the spaceport "legit."
 >
 > **Gunslinger\#MONOLITH**: Stupid question, but could jamming or hacking work?
 > I'm guessing jamming is a no-go because they've probably got ALIs on the platforms that take over.
@@ -207,7 +207,7 @@ As a final measure, the asteroid also has some defense emplacements on its surfa
 > And they can afford to fall slowly, taking weeks or months to drift to the target.
 >
 > One time I used an orange — a literal orange!
-> Flesh has a pretty low radar return, so I put a protean hive inside an orange, covered it in dull-black organic grease and adhesive, cooled it, and gently lobbed it at the target.
+> Flesh has a pretty low radar return, so I put a protean hive inside an orange, covered it in dull-black organic grease and adhesive, cooled it, and *threw* it at the target.
 > Damn thing took two-and-a-half months to get captured and spiral in.
 > When it hit, it stuck to the surface, made some proteans, the proteans scurried out and made a bot, and the bot pinged me.
 >
@@ -267,16 +267,21 @@ Fundamentally, The Thistledown Cooperative is a large Extropian Mutualist cooper
 > Nobody is a "subject" of the Thistledown; you join because you want the services that the Cooperative provides.
 >
 > And for another, we don't really "govern" the territory.
-> There aren't laws, and there aren't government agents that enforce them.
+> We don't make laws, and we don't have government agents that enforce them.
 >
 > **anarcat**: I'm actually going to quibble with you a little bit there.
-> The Thistledown Cooperative doesn't have laws or cops *as such*, but it has some definite limits on what can go in contracts, and in some cases it works out to about the same.
+> The Thistledown Cooperative doesn't have laws *as such*, but it has some definite limits on what can and can't go in contracts.
+> And given how contracts structure Extropian society, it can kind of work out the same.
 >
-> If I where a member of the Cooperative, for example, I couldn't charge someone rent in Thistle; you might not call it a law, but I'm still forbidden from doing that.
-> I also can't exploit or abuse you, I *definitely* can't indenture you, and, depending on the industry, there's a whole bunch of other limits on what I can and can't do.
+> If I where a member of the Cooperative, for example, I couldn't charge someone rent in Thistle; I just can't put that in a contract, and even if I did an you signed it, I wouldn't be allowed to enforce it.
+> I also can't exploit or abuse you, I *definitely* can't indenture you, and, depending on the industry, there's a whole bunch of other limits on what I can't put in a valid contract.
 >
 > And there are definite limits on the kinds of things that DROs can do.
 > DROs can't enforce contracts that violate the Thistledown's rules, for one thing.
+>
+> And it kind of does have cops.
+> You have the Peace and Justice Group.
+> They're tiny, and they only come into play if the DROs fail, but debatably, they are cops.
 >
 > **rategorytheory**: Actually, I was going to ask, if it's just a not-a-government federation of cooperatives, how is this not just outer-system libertarian socialism?
 >
@@ -286,14 +291,16 @@ Fundamentally, The Thistledown Cooperative is a large Extropian Mutualist cooper
 >
 > **Apotheotician**: *Jesus.*
 >
-> We reject rent-seeking, we have limits on the kind of "private property" that we allow, we have limits ont he kinds of contracts we allow, and we build different institutions.
-> Like Ratty said, we're a federation of worker cooperatives and mutual-aid groups, not a mesh of profit-seeking microcorps.
+> We reject rent-seeking, we have limits on the kind of "private property" that we allow, we have limits on the kinds of contracts we allow, and we build different institutions.
+> And like Ratty said, we're a federation of worker cooperatives and mutual-aid groups, not a mesh of profit-seeking microcorps.
 > The Thistledown is *very* different than something you'd build if you where out to run a for-profit business, as opposed to providing mutual-aid to your members.
 >
 > **rategorytheory**: But "we're not assholes" isn't something that you can write down as a rule and enforce.
 >
 > **Apotheotician**: Admittedly, no, it's more of a norm than a rule.
-> But, limits on rent, contracts, and private property *are* things we can write down and enforce.
+> But it's a norm we tend to stick to.
+>
+> And limits on rent, contracts, and private property *are* things we can write down and enforce.
 
 Their major assets are held by the Cooperative, and operated directly by it for the benefit of its members.
 This includes several habitats, including the Thistledown Chamber; supporting infrastructure, including power and life-support systems; and major facilities, including minifacturies.
@@ -341,7 +348,7 @@ The remaining jobs are assigned to the remaining applicants by lottery.
 > **RategoryTheory**: I mean, according to you, it's indenture every time you have to do anything you don't waaaanaaaaa.
 >
 > **Apotheotician**: That reaction's fairly common from outer-system an-coms and libertarian socialists.
-> For my money, because it's voluntary, and because you're paid a fair wage.
+> My answer is, because it's voluntary, and because you're paid a fair wage.
 
 The Cooperative's charter requires that the payout be such that working 20 hours a week, or being enrolled in the lottery for 40, is enough to meet a quarter of the monthly dues; in practice, it is usually much higher.
 (The jobs guarantee is also intended to serve as a kind of indirect minimum wage and market regulation, since no worker would accept a wage much lower or conditions much worse than those provided by the jobs program; for that reason, Cooperative members usually ensure that the payout and conditions are good.)
@@ -371,6 +378,11 @@ Most issues are decided by a simple majority, although some important votes (lik
 > **Apotheotician**: They won a *simple* majority, but that's not enough to declare yourself *empress*.
 >
 > There, ah, has been some discussion of trying to add some other kind of "break" to the process, so that doesn't happen again.
+>
+> **Plasmage**: Right, but they still *won*.
+> More than a third of your population voted, and more than half of the people who voted, voted for a meme-Empress.
+>
+> **Apotheotician**: In our defense, we aren't he only society that's seen memetic movements have an actual political impact.
 
 The Cooperative does perform a few important "governance" functions: it organizes the jobs guarantee, using that pool of labor to help execute public works; it spends money, collected from dues and revenues, to fund programs useful to its members; and it limits and regulates certain types of contracts and microcorps.
 
@@ -401,7 +413,7 @@ The "cities" provide a significant ammount of living and working space, and are 
 
 > **Apotheotician**: I'm biased, but the view from the top of one of the towers is *breathtaking*.
 >
-> **anarcat**: If you're lazy like me, then drifting in the High River is a great way to kill an hour.
+> **anarcat**: If you're lazy like me, then drifting in the High River is a great way to kill time.
 >
 > **Gunslinger\#MONOLITH**: Hey, pumas aren't supposed to like water!
 >
@@ -423,7 +435,11 @@ Officially named *Distant Kin Plaza*, but sometimes called *Wayward Brothers Pla
 
 ### Ayn Rand Hillock
 
-If the mutualists of the Thistledown Cooperative view their an-cap neighbors 
+If the mutualists of the Thistledown Cooperative view their an-cap neighbors as wayward kin, they take a much dimmer view of the Objectivists of Ayn Rand Hillock.
+Somewhat like the Lonely Mountain, the Hillock is a spot where the Cooperative's plans for the Thistledown Chamber where disrupted by the inability to buy out an existing module; unlike the Lonely Mountain, however, the objectivist *Roark Burrow* doesn't project into the chamber itself.
+Instead, blocked sub-surface infrastructure, causing a "bump" in the chamber's floor where piping and hull material had to be routed above it.
+
+The chamber floor here is an open green space, sitting over a reinforced patch of hull, and there are no access-points directly from the Thistledown to the Burrow; the residents of Roark Burrow are engaged in experimental psychosurgery, and it is expected that they will soon descend into violence.
 
 ### Axis city
 
@@ -434,22 +450,42 @@ The name is slightly misleading; it's a relatively small complex, essentially eq
 Axis City holds facilities for the Thistledown Cooperative's Civil Service Group, including servers, back-up facilities, and physical meeting-spaces and offices.
 Notably, the Peace and Justice Group operates out of offices on Axis City.
 
-The complex has been designed to be fairly durable, given the important nature of the systems there.
+The complex has been designed to be durable and secure, given the important nature of the systems there.
 It's hull is capable of holding against vacuum, despite being inside the (pressurized) Thistledown Chamber, and it has significant access control, physical defense, and surveillance systems (the details of which the cooperative has not made generally available).
 
-> **Apotheotician**: I actually have a little more information about this one, but, short version, it's the same answer: the infiltration guys tell me its generally not worth it.
+> **Apotheotician**: I actually have a little more information about this one, but, short version, it's tough.
 > 
 > **Gunslinger\#MONOLITH**: I'm curious.
 >
 > **Apotheotician**: What you'd expect.
 > Trans-spectral cameras, t-ray spotlights, and radar, all around the thing.
-> Immunogenic swarms, breach sensors, and self-repair systems in the hull — although the outside hull isn't smart-matter as far as I can tell, so it shouldn't fight back.
-> Unknown bots on patrol around it, probably something like 'angels for surveillance, probably something fightier under active cammo.
 >
-> Heavy screening at access-points, smart-matter barriers and lock-bots for some critical infrastructure (like the servers).
-> And some generally pretty chunky internal bulkheads, for good measure.
+> The hull isn't smart-matter *as such*, but it is a "tissue."
+> It's wormed with channels for guardian and fixer swarms; it's got surface-breach sensors all through it, a little like pain-sensing neurons; it's got pockets of nanofluid so it can self-heal small punctures; and it's pretty thick.
 >
-> Other security TBD.
+> Bots patrol around it, but I haven't been able to get much on those.
+> Fair bet is, a large numbers of something similar to a Guardian Angel for surveillance, and probably smaller numbers of some kind of fighter or security drones.
+>
+> Public access points are pretty locked down.
+> It's a commonly-held space, so we're allowed to just *walk in*, but you'll have to go through rare-element scanners, metal detectors, and t-ray screening.
+>
+> There are some secured facilities *in there*, like back-ups of our financial and rep data.
+> Those are guarded with smart-matter barriers, lock-bots, all the things you'd expect.
+>
+> Other security TBD; I'm still working on it.
+>
+> **Plasmage**: I feel like a COT would have decent odds of cutting a channel through the outer hull at least, possibly with some careful imaging and some task-specific programming.
+> \@anarcat you agreee?
+>
+> **anarcat**: Even odds, I feel like; lower if you want to also avoid popping a self-sealing capsule or triggering a pain neuron.
+>
+> Also, the COT's swarm would take damage in return; if the hull is thick enough, it might not get all the way through before it's depleted.
+>
+> **Plasmage**: Depends on the kinds of swarms they have defending it.
+> Get me a profile of their specific swarm and some time to work, and I can up those odds.
+>
+> **Bauble**: That might be easier than going through the front door; rare-element detectors are a bitch to trick.
+> Of course, the easiest thing to do is just to turn someone on the inside.
 >
 > **H0N-3**: If it's at the middle of the light tube, how do you get up to it?
 >
@@ -457,14 +493,57 @@ It's hull is capable of holding against vacuum, despite being inside the (pressu
 > There are three spars coming out of the center of the complex, running to the chamber floor.
 > 
 > You can also fly up to it, actually.
+>
+> **H0N-3**: Oh, that sounds awesome!
+>
+> **Plasmage**: You're the best of us, H0N.
+
+### The Thistledown Open Culture Center
+
+The Thistledown Open Culture Center is the Open Culture Initiative's main outpost on Kainouda 2035, backed by resources from the Thistledown Cooperative.
+The Center is a large habitat built about 350m beneath Endurance City, the "southern-most" city in the Thistledown Chamber.
+The Center is a complex of modules, roughly rectangular, with smaller ones on top of larger ones – the structure might resemble a ziggurat, if it where "above-ground."
+All-told, the center is roughly 300m to a side, and 120m high.
+
+It's facilities are extensive.
+It includes museum, gallery, and performance spaces; meeting spaces; extensive data-centers; a large preservation lab complex; and extensive collections.
+It is a center of activity, ranging from a vast-and-growing archive of as much "digital culture" as can be saved; constant displays of art, performance, and culture; hosting academic archives, working-groups, discussion forums, and peer-review lists; and performing research into different ways to preserve culture.
+
+One of their more ambitious (and slightly controversial) programs has been to build *skillsofts* that capture endangered languages, arts, and cultures.
+The potential is great, as it might allow the OCC to preserve and make available a "living memory" of a culture, possibly long after the last living member of that culture has passed away (or ceased to identify with or represent it).
+While the project does have its detractors, so far, public sentiment has been with it; in the wake of the massive cultural destruction of the Fall, most seem to feel that any kind of preservation is worth the cost.
+
+### Feynman Center for Science Education
+
+The Feynman Center for Science Education is an Argonaut outpost maintained with the support of the Thistledown Cooperative; it takes up most of a block of the Thistledown Chamber floor.
+The facility is not a lab; rather, it is devoted to furthering the public's understanding of science, through education and communication.
+The facilities include several classrooms and lecture-halls; museum spaces; a "makers lab"; and a server-farm, dedicated to hosting educational simulspaces.
 
 ## Other Extropians
 
 ### Other Mutualists
 
-Of course, there 
+Of course, there are other mutualist cooperatives and federations operating on the asteroid.
+Many of them have a long history on Kainouda 2035, but a few are more recent; occasionally, some group or other will come into conflict with the larger Cooperative, and depart to found their own community.
+Mutualists generally view this as a benefit of their system: if someone does not like the rules and norms of a given community, they can simply leave.
 
 ### Anarcho-Capitalists
+
+There is still a large anarco-capitalist population on the Thistledown.
+This includes five large Covenant Communities, a web of smaller microcorps and habs, and a large number of independant burrows.
+
+### King's Court
+
+Far more often called the sack, the tit, the mast, or something similarly *evocative*, King's Court is a large, low-cost habitat module.
+It is an amourphous, *roughly* spherical habitat, about 300 meters in diameter.
+It is run through with branching access ways and irregular, haphazardly-placed, densely-packed, roughly-spherical individual chambers; the layout is similar to alveoli in the human lung.
+
+The habitat is more than 30 years old, predating the spinning of Kainouda 2035 by more than a decade.
+It was originally designed for microgravity, where it's layout was far more practical.
+Since the habitat has been spun for gravity, the structure has "settled" somewhat; to accomodate the gravity, a semi-rigid support structure has been added, and the access-ways have been re-designed.
+
+King's Court was a minor crisis in the planning and negotiations to spin the asteroid: it was (and still is) a vital fixture of the local economy, as it is one of the primary providers of low-cost housing; however, its design was very poorly suited to gravity, not least because the primary access-way was located at the *top*.
+Ultimately, the solution to the problem was a pragmatic one: the Thistledown Cooperative paid part of the cost of retrofitting King's Court for gravity.
 
 ### The Spaceport
 
@@ -474,11 +553,28 @@ It consists of a primary spar extending some 300m from the asteroid, and a compl
 The spar extends from one of the "poles" of the asteroid, along the axis of rotation.
 The spar does not rotate with the asteroid, however, so that docked ships don't have to bear a load; it's attached at the base with a giant magnetic bearing.
 
-The an-cap microcorp that runs the spare are fairly well-respected; they remained on good terms with the Thistledown Cooperative during the burst of violence in BF 10, and 
+The an-cap microcorp that runs the spaceport are well-respected; they remained on good terms with the Thistledown Cooperative during the burst of violence in BF 10, have an excellent track-record for trust and integrity, and maintain strong Civic-net and circle-A reputations.
+
+Notably, they partner with several visitor-services microcorps, which provide packages of Extropian service contracts to visitors; this makes it relatively easy to acquire DRO services, housing, and other services for a short stay.
+Visitors who are unfamiliar with Extropian habitats are particularly advised to consider their services.
 
 ### Objectivists
 
-## Minarchists
+More than half of the asteroid's already-small Objectivist population departed during the conflict with the Thistledown Cooperative; the remainder are concentrated in a three small burrows, and a scattering of freeholds.
+
+One of the most notable is **Roark Burrow** – named for Howard Roark, who Ayn Rand described as being "born without the ability to consider others."
+Many of the occupants of Roark Burrow are involved in Project Hickman – a reference to William Edward Hickman, a serial killer who Rand admired.[^rand]
+Project Hickman is an attempt to remove empathy and social instinct from the transhuman cognome, and to maximize self-interest and competitiveness.
+
+Disturbingly, Project Hickman appears to have met with substantial success; many of the residents of the burrow have undergone psychosurgical modifications that appear to have substantially dulled their ability to experience empathy, any social or cooperative instincts they had, and any ability or willingness to consider others.
+Contrary to the expectations of its initiators, as the project has progressed, society within the burrow has broken down.
+Maintenance of common infrastructure has ground to a halt, residents have stockpiled weaponry, and there are reports of bloody intrigues and betrayals as the residents jocky for power.
+
+It is widely expected that a "spasm of violence" will break out in the near future.
+Essentially, one individual is likely to make an open play for power, which will likely trigger reprisals and opportunistic attacks.
+The result will be a short, intense conflict, that likely leaves one (or a few) "top predators" standing in the burrow.
+
+For this reason, many of the surrounding communities have reinforced their habitats and improved their security, and controlls have been added to intersetions that connect to the burrow.
 
 ## Hypercorps
 
@@ -534,19 +630,35 @@ While they do have facilities of their own — including two small fusion power 
 A number of hypercorps run habs connected to the loop, covering a wide array of designs, styles, and budgets.
 Most are relatively small, around the size of old-Earth mid-rises and including housing for between 50 and 200 people, as well as shared recreational spaces.
 
-> **Gunslinger#MONOLITH**: And the difference between a hypercorp hab and an extropian hab would be…
+> **Gunslinger\#MONOLITH**: And the difference between a hypercorp hab and an extropian hab would be…
 >
 > **anarcat**: The fabbers are locked down, you get paid in real actual Bank-of-Progress credits and not a micro-currency pegged to them, and you're a hypercorp resident, so you get to "vote" for a rep in the Planetary Congress and your hypercorp gets representation in the Ministry.
 >
-> **Gunslinger#MONOLITH**: Right, their fabbers are locked down, unless they take a five-minute tram ride to ancapistan, where they can buy all the scary, subversive toys their hearts desire.
+> **Gunslinger\#MONOLITH**: Right, their fabbers are locked down, unless they take a five-minute tram ride to ancapistan, where they can buy all the scary, subversive toys their hearts desire.
 >
 > **Apotheotician**: They don't even have to do that.
-> There are a couple of Extropian microcorps that specialize in fabbing proscribed items and then delivering them to hypercorpers by drone.
+> Most Extropian microcorps in the rest of the rock will just ship into the Loop by drone.
+> A few even specialize in it.
 >
-> **Gunslinger#MONOLITH**: And K-whatever can't stop them from doing that?
+> **Gunslinger\#MONOLITH**: And K-whatever can't stop them from doing that?
 >
 > **Apotheotician**: The KHHC doesn't care.
-> They're not super concerned about staying in the Hypercorp Council's good graces.
+> They've pretty much written off any hope of staying in the Hypercorp Council's good graces.
+>
+> **Bauble**: One thing anarcat didn't mention is that Hypercorp habs require nanotat IDs.
+> Which is *inconvenient* if you're there for less-than-legal business.
+>
+> **Apotheotician**: There's actually a microcorp here that partners with Infinite Loop for "identity services."
+> Basically, you verify that you control a circle-A account that meets certain minimum history and rep standards, and they give you a temporary tatoo.
+> They still won't let you into certain sensitive areas, but it's enough to walk around.
+>
+> **Gunslinger\#MONOLITH**: That seems fairly easy to game.
+>
+> **Apotheotician**: It is.
+> If they suspect you're gaming the system, they can revoke the ID, or require a brain-print.
+>
+> **Plasmage**: I had the opposite thought.
+> You're trusting a microcorp to inject you with active nanotech, and you've only got their word that it's actually temporary or that it's only doing what they say its doing.
 
 ### Outer System Industries
 
@@ -560,6 +672,177 @@ In particular:
   - in particular, this includes the production of morphs, animals, and bots, since these still cannot be produced effectively with nanofabrication.
 - They contribute to open-source software and fab-blueprint projects, with the understanding that they can license those things and sell them for profit in the inner system.
 - The produce goods covered by restrictive licenses, and exchange them for rep and local microcurrencies.
+
+Their facility on the Thistledown primarily serves as a central office: it provides a secure facility for central servers and record-keeping, and serves as a venue, located in relatively "neutral ground," for meetings between OSI's hypercapitalist owners and executives and prominent autonomists with whom they wish to do business.
+
+> **Gunslinger\#MONOLITH**: Horse.
+> Fucking.
+> Shit.
+> I will personally skin any bootlicker who does business with these ghouls.
+>
+> **rategorytheory**: Yeah, your support for the freedom of the individual is really coming through.
+> You've created a society that grants freedom and dignity to everyone!
+> Until someone betrays the revolution by buying something for money, then you kill them!
+>
+> **anarcat**: \>\@Gunslinger Then you're gonna have to kill about fifty thousand Titanians, because OSI runs a morph-works in Saturnian orbit, and they've provided about that many bodies to the Commonwealth.
+>
+> **Plasmage**: How does that even work?
+> How'd they get paid?
+>
+> **anarcat**: Well, in that specific example, they just got paid in credits; the Titanian Commonwealth actually does have a reserve of Consortium Credits, thanks to their interest in Gatekeeper.
+>
+> In general, there are a bunch of ways.
+> You can convert rep and favors to credits (and vice-versa) by going through either Lunar or Extropian banks – and hey, conveniently enough, both credits and rep spend in Extropian habs like the K2035, anyway.
+> Sometimes the Titanians license technology for sale by OSI in the inner system – for example, there's a line of smart-matter vac-suits that OSI sells, that's actually just a Titanian design that the Titanians granted OSI the right to sell for a profit, and then OSI ran it through the Consortium's blueprint signing process.
+> And there's always just good old barter: sometimes the Titanians will just straight-swap valuables, like rare element feedstock, for mass-microfactured goods or morphs.
+>
+> **\*Akimbo**: And you know all of this because…?
+>
+> **anarcat**: Because I'm a Titanian citizen and all these deals came up for votes in the Plurality.
+>
+> **rategorytheory**: So, wait.
+> Gunslinger's red terror is now going to have to claim *"everyone who voted yes in the Plurality?"*
+>
+> **anarcat**: To be fair, Gunslinger is not *necessarily* representative of outer-system autonomists.
+> Most of them don't have a lot of enthusiasm for, you know, purges.
+>
+> **Plasmage**: Oh hey, Akimbos.
+> It's been a hot minute.
+>
+> **\*Akimbo**: Hi Plasmage.
+> Yeah, it's been a while.
+> I don't think we've dropped together since you got your titular plasma rifle.
+>
+> But I've got something to add, actually.
+> We've got someone placed in OSI, and I've worked with them to push a few blueprints into the Eye's pool.
+> If you need a signed blueprint for a flexible middleweight mech chassis, odds are that's something we got from our contact in OSI.
+>
+> **Apotheotician**: Funnily enough, I don't actually have a lot of contact with \[them\], since we're in different servers.
+> But yeah, \[they have\] a pretty good track record.
+>
+> Worth noting is that our agent in OSI is a Register, not a Router, so they're not really set up to deal with Sentinels directly – but it would be possible in an emergency.
+>
+> **Padre**: So, call ahead first.
+>
+> **Bauble**: When isn't it an emergency?
+
+One of the facility's noted features is an elaborate, winding park, which is used both for personal relaxation and for secured meetings.
+The environment is based on various mountain biomes, with rocky outcroppings, oaks, pines, mountain laurels, and even appropriate fauna, including squirrels, raccoons, hawks, and lynx.
+The landscaping is rocky and vertiginous, using winding trails, elevation changes, and trees to visually break the environment up, so several different "vistas" can be packed into a fairly small area.
+Private meetings are accomplished with a few clearings, marked by stone columns; the columns are capable of deploying a metal-rich smart-matter barrier, which can rapidly isolate an area, both physically, electrmagnetically, and sonically.
+On rare occassion, OSI leases these picturesque facilities to other parties, or opens them to the public.
+
+> **\/\/ Sentinel Identity Exposure; \/\/ Need-to-Know Only (implied)**
+>
+> **Plasmage**: So, wait, they set a lynx loose in their meeting-park?
+>
+> \[ \@anarcat has requested that this conversation be marked for: Sentinel Identity Exposure.
+> Posts will be held pending review. \]
+>
+> **anarcat**: Multiple lynx, and yes, they did.
+> The park has a sophisticated microbot swarm that keeps track of them, and the trails are equipped with sonic defenses that drive them away if visitors are threatened.
+> But people kept feeding them, so now nobody's really worried about those chunkers "threatening" anyone.
+>
+> **\*Akimbo**: OK, and why do you know *that*?
+>
+> **Plasmage**: Come on, Otto.
+>
+> \[ \@conjurer has marked this conversation for: Sentinel Identity Exposure \]
+>
+> **Apotheotician**: The man himself.
+> Hey, Raniere.
+> We really don't see much of each other, to be neighbors.
+>
+> **\*Akimbo**: Sorry Conjurer, but I wasn't going to let you and Chester get away with this bullshit.
+> \:P
+>
+> **conjurer**: Haha!
+> Fair enough.
+>
+> **\*Akimbo**: Also, \@Plasmage started it.
+>
+> **conjurer**: That's true, he did.
+> What about it, Plasmage?
+> That wasn't very proxy-like.
+>
+> **Plasmage**: I also didn't want to let you and Chester get away with that shit.
+>
+> **conjurer**: heh
+>
+> **Apotheotician**: Yeah, mind if I ask?
+> I've gotten a heads-up about anarkitty heading over to our neck of the woods a couple of times, but I've never known what for.
+>
+> **conjurer**: Couple of reasons.
+> AC's helped me "refurbish" some assets that some other cells, ah, didn't properly maintain.
+> He and Otto have used our facilities for Reasons.
+> And he's also helped to broker a couple of the deals between OSI and the Commonwealth.
+>
+> **Apotheotician**: Son of a bitch, like that LOTV that *mostly* came back from Legba?
+> I wondered why you wanted that thing.
+> I think Pyrrhos still thinks he put one over on you.
+>
+> **conjurer**: Oh, I'm sure he does.
+> AC plugged the holes in it, gave it a good polish, and it's back in Firewall service.
+>
+> **anarcat**: Can't blame an Extropian for having a side hustle.
+> =D
+>
+> **Apotheotician**: I mean, you don't have to justify yourself to me.
+> OSI gets some credits, the Titanians get *fifty thousand bodiees*, everyone wins.
+> And thanks for fixing up that LOTV, you two.
+> Glad it's still in the family.
+>
+> **\*Akimbo**: It's probably a good thing Gunny's not on the approved list for this thread, or he'd swear a blood oath against all of you filthy capitalists.
+>
+> And also, hey, I helped with that LOTV, too.
+> I'm why it has guns on it.
+>
+> **Apotheotician**: Ooh, big guns?
+> Well, thank you too, Otto.
+> Man, wouldn't it be nice to actually have the advantage in firepower on an op?
+>
+> **\*Akimbo**: Well, if you ever need a couple kJ of portable fuck-you, I've got the LOTV for you.
+
+## The Ahmes Laboratory
+
+The Ames Laboratory is a large, secure Argonaut facility built near the southern terminus of the asteroid – the "southern" end being the one furthest from the spaceport.
+In stark contrast to the Feynman Center in the Thistledown Chamber, the Ahmes Laboratory facility does conduct active research, and access to it is strictly controlled.
+
+The laboratory consists of two mirrored modules on opposite ends of the asteroid, coupled with arcing tracks that connects them; the tracks arc to avoid passing between the Thistledown Chamber and the southern end-cap, in case the Thistledown Chamber even needs to access the end-cap.
+The two modules are each 350m long, 100m wide, and 70m tall.
+
+It is known that the facilities have their own fusion power system and body-bank; the Argonauts have not disclosed what research is being conducted there.
+
+> **Apotheotician**: I don't have much on this one.
+> Actually, given the overlap, I've been meaning to ask someone with Argonaut and/or Pragmatist connections if we have any idea what's going on in there.
+> \@Plasmage?
+>
+> **Plasmage**: No idea.
+> I've sleeved at those body-banks before, and I've been to conferences in there.
+> So part of what they're doing is just hosting mirrors and conducting secure meetings.
+>
+> But they do also have working labs there, and fairly energy-hungry ones.
+> Asking around discretely didn't turn up much; they're very need-to-know-only.
+>
+> I don't have any particular reason to think it's dangerous, though.
+>
+> **Apotheotician**: Well that's less comforting than I'd wanted.
+> I guess I was hoping that it might be one of ours.
+>
+> **Plasmage**: It's possible, but then it's a little odd that I wouldn't know about it.
+>
+> **Curé**: Compartmentalization of information?
+>
+> **Plasmage**: Maybe, do you know something I don't?
+>
+> **Curé**: No.
+> Anyone who wouldn't talk to you, *definitely* wouldn't talk to me.
+>
+> **Padre**: I'm not aware of anything coming up in conservative circles, so I guess we don't have any reason to think it's dangerous either.
+> It might be a Backup project, I have a few contacts I can ask.
+>
+> **Apotheotician**: I'd appreciate it.
+> It'd be pretty unusual for the Argonauts to get up to something stupid, but it has happened before, and if it is dangerous I'd rather know *before* it blows up or escapes.
 
 ## Near-Orbit Habs
 
@@ -621,13 +904,13 @@ People tend to repeat things that work, so people who prove to be good at keepin
 >
 > **Bauble**: It does not.
 >
-> **plasmage**: \>\@Bauble Thank you for being civil.
+> **Plasmage**: \>\@Bauble Thank you for being civil.
 >
 > **Bauble**: \>\@plasmage I'll blow your dad and swallow your brother, lǎodà.
 >
 > **anarcat**: Well then.
 >
-> **plasmage**: 我應該知道的更好。
+> **Plasmage**: 我應該知道的更好。
 >
 > Wait, aren't you asexual?
 > Wasn't that the point?
@@ -648,7 +931,7 @@ In practice, Limehouse is broken into crews and gangs.
 | Faction | Extropian Mutualist |
 
 The Carbon Compact a small (in relative terms) Extropian Mutualist habitat near (also in relative terms) Kainouda 2035.
-It is held by a single cooperative, and is run using an unusual variant of direct democracy that is intended to capture the fact that not every votes is invested in every decision.
+It is held by a Mutualist cooperative federation, and is run using an unusual variant of direct democracy that is intended to capture the fact that not every votes is invested in every decision.
 The Carbon Compact hosts a university, several affiliated think-tanks and research labs, and a number of small luxury resorts.
 
 > **anarcat**: God, this frustrates me.
@@ -666,7 +949,7 @@ The Carbon Compact hosts a university, several affiliated think-tanks and resear
 In some ways, the Carbon Compact habitat is similar to the Thistledown, if much smaller.
 It is also a Bear Habitat — an asteroid that has had a large central chamber constructed, which is then spun for gravity.
 The Carbon Compact's habitat was constructed in a small, oblong, C-type asteroid (hence the "carbon" part of the name) that was towed into the orbital neighborhood of the Thistledown in AF 3.
-The asteroid itself is irregular and oblong, about 315m on its long axis and 285m on its short axis.
+The asteroid itself is irregularly-shaped, about 315m on its long axis and 285m on its short axis.
 
 The asteroid contains a single main chamber, about 285m long and 245m in diameter at the middle, and spun to 0.3G (a little less than Martian surface gravity).
 (Note that the chamber itself is rotated, but the asteroid itself is not.)
@@ -731,7 +1014,7 @@ Visitors, in turn, usually consist of students, scholars, and vacationers.
 
 > **Gunslinger#MONOLITH**: So, every old-earth city populated by rich investor-class assholes.
 >
-> **plasmage**: And Atlanta, for some reason.
+> **Plasmage**: And Atlanta, for some reason.
 >
 > **BerkeleyMew**: Hey, I'm going to defend Toronto.
 > I don't know how, but I will.
@@ -744,7 +1027,7 @@ Visitors, in turn, usually consist of students, scholars, and vacationers.
 >
 > **anarcat**: Ohhh I didn't know that.
 >
-> **plasmage**: Real useful discussion you're having there.
+> **Plasmage**: Real useful discussion you're having there.
 >
 > **anarcat**: Oh come on, less useful than 'slinger bitching about Dubai?
 
@@ -793,7 +1076,7 @@ Notably, the locals have a conservationist bent and a long-term view; they empha
 > And, more useful, a few of the associated underlings, handlers, managers, and brokers.
 >
 > For what it's worth, while they're fairly high-class places, Carbon Cove and Grand Chorus aren't the kinds of places that cater to oligarchs proper.
-> Rumor has it that one or two of those folks *have* come to visit, but they have smaller, off-the-books, private arrangements.
+> Rumor has it that one or two of those folks *have* come to visit, but they have smaller, off-the-books arrangements.
 
 ### Rapid Transit
 
@@ -805,3 +1088,5 @@ This allows travellers to get an initial "boost" of speed without spending react
 The track is kept in motion, because accelerating it and decelerating would require energy; it typically rotates with an angular velocity of 40m/s (which means that someone hanging off of it would experience 0.52 centrigrav).
 The track can be adjusted, should either more "free" acceleration or less subjective centrigrav be desired, although this is rare, because the energy requirements to speed it up or slow it down are significant.
 With just the free boost from the track, the 500km journey to the Thistledown would take about three and a half hours.
+
+[^rand]: See [here](http://michaelprescott.freeservers.com/romancing-the-stone-cold.html) for example.
