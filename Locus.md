@@ -1,7 +1,7 @@
 # Locus
 
-\[iNet Internal Wiki]
-\|Primary Author: \[\@anarcat|sentinel, advisory\]
+\[iNet Internal Wiki]  
+\|Primary Author: \[\@anarcat | sentinel, advisory\]  
 \|Editing: editing is _locked_ by \[\@curé|proxy\]
 
 Previous briefs on Locus have been pretty one-sided and also kind of shallow; I thought I'd try to correct both problems, going a little deeper into how Locus is organized, and casting a bit more of a critical eye.
