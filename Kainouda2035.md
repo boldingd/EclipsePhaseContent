@@ -159,7 +159,7 @@ The Comms Consortium is also responsible for maintaining the security of the sys
 
 ### Defensive Systems and the KEDC
 
-The KDC is also responsible for the defence of the asteroid, which is managed through the Kainouda External Defense Consortium.
+The KDC is also responsible for the defense of the asteroid, which is managed through the Kainouda External Defense Consortium.
 
 One of the few on-going obligations that an owner incurrs when purchasing a plot of Kainouda 2035 from the KDC is to contribute dues to the KDC to pay for the ongoing defence of the asteroid; the KDC in turn does this via a special contract with the Kainouda External Defense Consortium.
 The KEDC, in turn, contracts out to various microcorps to construct, operate, and crew the satellites defences.
@@ -883,11 +883,11 @@ In the years since the fall, several of the stations residents have joined eithe
 
 ### Organization
 
-Like most Scum swarms, Limehouse has no formal organization, rule-making or governings systems, or economic system.
-The locals tend to be anti-authoritarian, individualistic and libertine, and hedonistic.
+Like most Scum swarms, Limehouse has no formal organization, rule-making, governings, or economic system.
+The locals tend to be anti-authoritarian, individualistic, libertine, and hedonistic.
 Clear, mutual, informed consent and staying out of what doesn't concern you are the two corner-stones of society on Limehouse.
 
-Unlike many other genera of anarchism, the Scum generally don't concern themselves with theory or hold themselves to formal process; instead, Scum swarms tend to run on a mix of personal authority, reputation, tradition, reciprocity, and violence — ranging from the pointed shove to the angry mob.
+Unlike many other genera of anarchism, the Scum generally don't concern themselves with theory or hold themselves to formal process; instead, Scum swarms tend to run on a mix of personal authority, reputation, tradition, reciprocity, and violence — ranging from pointed shoves to angry mobs.
 Limehouse is no different: there are no reputation scores, no affinity groups or workers' councils, and no public decision-making system.
 The "civil society" of Limehouse instead runs on informal authority, a certain kind of tradition, and shouted obscenities.
 Those who command the respect of their peers — either through toughness, a commanding personality, a reputation for getting important jobs done, or armed back-up — corral groups of their fellows into action.
@@ -917,7 +917,8 @@ People tend to repeat things that work, so people who prove to be good at keepin
 >
 > **Bauble**: I don't let that get in the way of a good threat.
 
-In practice, Limehouse is broken into crews and gangs.
+In practice, Limehouse is broken into crews and gangs — "crews" beinig the more Circle-A-aligned civil anarchist, and "gangs" being the more Guan-Xi-aligned criminal groups.
+These groups tend to be small, and their memberships are fluid — while they may have a few central personalities or missions, members of the general population come and go as suits them.
 
 ## The Carbon Compact
 
