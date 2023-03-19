@@ -236,7 +236,7 @@ So far, the Tharsis League has been intransigent, seeminly content to contain th
 > **Gunslinger\#MONOLITH**: Hmmm, the Tharsis League has been intransigent?
 > I wonder why.
 >
-> **Padre**: I support "reducing" the Zone, but I can tell one good argument against it: if we start shooting into the zone, then something inside the zone might decide to start shooting *back out*.
+> **Padre**: I support "reducing" the Zone, but I can tell you one good argument against it: if we start shooting into the zone, then something inside the zone might decide to start shooting back out.
 > So, you might just end up pissing off a TITAN and re-igniting the Fall.
 >
 > **Plasmage**: I feel like reprisal is only a problem if there's a major asset that survives a first strike.
@@ -261,7 +261,7 @@ So far, the Tharsis League has been intransigent, seeminly content to contain th
 > **Curé**: You make a good point, that *would* be inconvenient.
 > So let's save the TITANs the trouble and just do ourselves in, then, tabarnak.
 >
-> \[ This thread has been locked by \@Padre.  Reason: "You are not the proxies I thought I'd be moderating today." \]
+> \[ This thread has been locked by \@Padre.  Reason: "You are not the people I thought I'd be moderating today." \]
 
 ----
 
