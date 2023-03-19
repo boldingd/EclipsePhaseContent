@@ -4,4 +4,6 @@ emdash —
 ellipses …
 arrow →
 
+division symbol ÷
+
 Oh hey, (Unicode Points)[https://unicode-table.com/en/sets/arrow-symbols/#right-arrows]
