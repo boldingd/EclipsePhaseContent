@@ -374,8 +374,8 @@ In his current capacity, he has contributed to CASE:ENFIELD, a cell developing l
 | Tags | Limited Access |
 
 0514NOMAD is a Sentinel known for her combat effectiveness, her academic background and skill as a sociologist, and her deep connections in the Martian outback, particularly in the Maker and Sufi Nomad communities.
-While her feedback and track-record are good, her current access to i-net is limited, owing to her current situation: for the last 16 months, she has been travelling with a Scum swarm in the Martian outback, interacting heavily with Sufi nomads, and assisting the Titan Quarantine Zone Guard Cooperative.
-Firewall has an official "hands-off" policy in regard to the latter group, as they operate in the open, and thus are almost certainly under active surveilance by other intelligence agencies.
+While her feedback and track-record are good, her current access to i-net is limited, owing to her current situation: for the last 16 months, she has been traveling with a Scum swarm in the Martian outback, interacting heavily with Sufi nomads, and assisting the Titan Quarantine Zone Guard Cooperative.
+Firewall has an official "hands-off" policy in regard to the latter group, as they operate in the open, and thus are almost certainly under active surveillance by other intelligence agencies.
 (She hasn't been removed from Firewall because our sources of intelligence on the Martian outback in general and the Sufi Nomad communities in specific are perilously few, and her op-sec is good.)
 
 0514NOMAD is known for being *reserved* in her personal style, cool in a crisis, and professional.
