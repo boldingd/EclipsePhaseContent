@@ -56,6 +56,11 @@ Asteroid habs:
 - Oh hey, Wikipedia has an article on [asteroid habs](https://en.wikipedia.org/wiki/Colonization_of_the_asteroids).
 - And [asteroids in general](https://en.wikipedia.org/wiki/Category:Asteroids).
 
+Oh, hey.
+[Jupiter aerostats](https://ntrs.nasa.gov/api/citations/20070014644/downloads/20070014644.pdf).
+Is this really a NASA source?
+See also the [wikipedia page on the exploration of Jupiter](https://en.wikipedia.org/wiki/Exploration_of_Jupiter) and [this IEEE article on windbots](https://ieeexplore.ieee.org/document/7943618).
+
 ## Mutualism Notes
 
 - King K recommended — or at least name-dropped — Clarence Swartz as a source on mutualism.
