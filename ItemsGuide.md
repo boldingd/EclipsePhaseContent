@@ -12,21 +12,22 @@
 ### Clever Bandit
 
 The Clever Bandit is the result of a Firewall project to create an infiltration-focused biomorph.
-This makes it both unusual (since infiltration, like combat, is often best-handled by synthmorphs, or through indirect means) and rare (since Firewall lacks the resources to produce a morph line at large scale – obviously).
+This makes it both unusual (since infiltration, like combat, is often best handled by synthmorphs, or through indirect means) and rare (since Firewall obviously lacks the resources to produce a morph line at large scale).
 The genetics and templates for the Clever Bandit are made available on the Eye – subject to demonstrable need-to-know, of course – and a few are kept ready near major population centers.
 
 Within the Eye, the Clever Bandit is developed as a collaborative, open-source project.
 The project's current maintainer is @Runblader, and discussion happens in a CASE: PRIMORDIAL CRAFT subgroup.
-As a small, open-source project, a number of forks and variants have been created, and the project sometimes reflects the quirks and preferences of the maintainers more than any systematic analysis of agents' needs.
+As a small, open-source project, several branches and forks have been created, and the project sometimes reflects the quirks and preferences of the maintainers more than any systematic analysis of Sentinels' needs.
 
 **\/\/ Need-to-Know Only: Asyncs**
 
-Some specialist work has gone into the morph's brain, to maximize it's utility for asyncs.
+The morph was created to cater to async infiltrtors, so extensive work has gone into the biological portions of the morph's brain.
 Unlike most other pods, more than half of the original raccoon brain has been kept intact – notably including the large portions of the somatosensory cortex that process the raccoons unique sense of touch.
 Among other things, this extra nervous tissue makes the use of "sleights" significantly easier and more effective than most other pods.
 
-Keeping so much brain intact would normally make resleeving much more time-consuming, because it would require the medical nanites produced by ego bridge to read or write much more organic tissue; to avoid this, the nervous tissues have been augmented with specialized "state channels" connecting to the cyberbrain.
-These channels make it possible for the cyber-brain to read synapse more than half of the synapse-states without the use of cortical nanites; in turn, this sigificantly speeds up sleeving and backups.
+Keeping so much brain intact would normally make resleeving much more time-consuming, because it would require the medical nanites produced by an ego bridge to read or write much more organic tissue; to avoid this, the nervous tissues have been augmented with specialized "state channels" connecting to the cyberbrain.
+These channels make it possible for the cyberbrain to update synapse efficiencies directly; in turn, this sigificantly speeds up sleeving and backups.
+This is very useful when all that is needed is a weight update; however, it does not help when bulk *rewiring* is required.
 All told, this means that, despite having significantly more organic cortex present, resleeving takes the same amount of time as a standard pod brain.
 
 - Type: Morph (Pod)
@@ -45,10 +46,11 @@ All told, this means that, despite having significantly more organic cortex pres
 > I don't think I understand what this is for.
 >
 > **0514NOMAD**: I was wondering that.
-> Isn't this just a knock-off Scurrier built fromm raccoon smart-pet parts?
+> Isn't this just a knock-off Scurrier built from raccoon smart-pet parts?
 >
 > **Bauble**: That's exactly what it is.
-> It's a Gatecrasher thing: lots of places in Sol, the body banks won't have Scurriers, but you can buy wet-fab time.
+> It's a Gatecrasher thing.
+> Lots of places in Sol, the body banks won't have Scurriers, but you can buy wet-fab time.
 >
 > **H0N-3**: But wouldn't something like a Blackbird be better for being sneaky?
 >
@@ -59,13 +61,12 @@ All told, this means that, despite having significantly more organic cortex pres
 > With all the 'ware they loaded this thing up with, it's odd they left off the Scurrier's grip-pads.
 >
 > **Curé**: They couldn't get them to work with the dense touch-receptors in the palms.
-> Same with chameleon skin.
-> They wanted this thing to pass for a raccoon smart-pet, so they wanted to keep the fur.
-> And they couldn't get the chameleon skin to work with the fur.
+> That's also why there's no chameleon skin.
+> They wanted this thing to pass for a raccoon smart-pet, so they wanted to keep the fur, and they couldn't get the chameleon skin to work with the fur.
 >
-> **anarcat**: That said, it's easy enough to provide those things through gear.
+> **anarcat**: That said, it's easy enough to buy grip-gloves or a modded vacsuit.
 >
-> **Plasmage**: The cool thing about keeping the fur is that we can borrow some polar-bear DNA and get cold resistance, water resistance, and IR screening.
+> **Plasmage**: The cool thing about keeping the fur is that we can borrow some polar-bear DNA, adjust to fit, and get cold resistance, water resistance, and IR screening.
 >
 > **Gunslinger\#MONOLITH**: So, would you say it's a… polar waschbär?
 >
@@ -78,9 +79,9 @@ All told, this means that, despite having significantly more organic cortex pres
 > Why is everything "optional?"
 > If it comes with all those things, why would you remove them?
 >
-> **Padre**: I can answer that.
-> It's because some habitats restrict nanotech far more than others.
-> Walking around with any nanotech in the Republic – even masked nanotech – and you take a risk.
+> **Padre**: It's because some habitats restrict nanotech far more than others.
+> Walk around with any nanotech in the Republic – even masked nanotech – and you take a risk.
+> So they made it easy to disable those components in the template.
 
 ### Coop Revered Armor
 
@@ -90,14 +91,14 @@ It's similar to a smart-matter vac-suit, but significantly upgraded.
 ### Ranger Utilitool
 
 The *ranger utilitool* (or "cop utilitool") is an enhanced utilitool fielded by some law-enforcement agencies on Mars, notably Mars Rangers.
-The ranger utilitool is larger than a standard utilitool, and is designed to be either carried by hand (like a normal utilitool) or fixed to standard under-barrel mount-points.
+The ranger utilitool is significantly larger than a standard utilitool, and is designed to be either carried by hand (like a normal utilitool) or fixed to standard under-barrel mount-points.
 
 Besides the functions of a normal utilitool, the ranger utilitool is capable fo functioning as a *cross-spectrum light*, a *t-ray emitter*, a *baton*, a *bayonet*, or a *vibroblade*.
-When used as a weapon, it is also capable of delivering shocks \[as a Shock attack\] – although it cannot deliver the voltage that standard police batons and shock-gloves can carry \[\+10 to tests to resist\], because the nanites in the tool have a limited ability to assemble wiring.
+When used as a weapon, it is also capable of delivering shocks \[as a Shock attack\] – although it cannot deliver the voltage that standard police batons and shock-gloves can carry \[\+10 to tests to resist\], because the nanites in the tool have a limited ability to assemble wiring (and obviously cannot carry current themselves).
 
 The tool also has four extendible grip-pads around the face-plate, which can be used to lock the device to a surface (either magnetically or by a "gecko-pad" effect).
 In this configuration, the device can also be placed in a "drill" or "breach" mode, which can be used to breach many surfaces and barriers.
-This mode has been a source of controversy, however, as there are reports of the device being used in this way on people in custody.
+This mode has been a source of controversy, as there are reports of the device being used in this way on people in custody.
 
 - Type: Gear
 - Available: Tharsis League (Mars Ranger standard equipment), Planetary Consortium (police standard equipment)
@@ -113,7 +114,7 @@ This mode has been a source of controversy, however, as there are reports of the
 > There are some Rangers who are past due for "accidents."
 >
 > **0514NOMAD**: I know it doesn't help anything, but I did once see a Ranger use the breach-mode to get the stack out of a 9 Lives, a Gede.
-> So sometimes it does happen to people who have it coming.
+> So sometimes it does happen to people who have it coming, at least.
 
 ### Sentinel Utilitool
 
@@ -127,6 +128,56 @@ The Sentinel utilitool was contributed and maintained by \@anarcat, and publishe
 - Type: Gear
 - Available: The Eye (blueprint for \[Medium\])
 
-Besides the functions of a standard utilitool, the sentinel utilitool can connect to devices it is brought in contact with (as *skinlink*), and can resist infection by hostile nanotech (as the *immunogenic system* mod).
+Besides the functions of a standard utilitool, the sentinel utilitool can connect to devices it is brought in contact with (as *skinlink*), and can resist infection by hostile nanotech it comes into contact with (as the *immunogenic system* mod).
 It also has programming to mimic (most of) the functions of a COT – although it is less effective at doing so (-20 penalty to tests), as it is missing some of the more specialized components and swarm elements that COTs use.
 Finally, the Sentinel utilitool is designed to pass as a standard utilitool (treat as though the additional features are *masked* upgrades).
+
+### Wildcat
+
+The Wildcat is a common, mass-produced combat bot that appears throughoug the inner system.
+While it mainly produced and deployed within the Planetary Consortium, it can also be found in the police forces of the Morningstar Constellation, in the Lunar-LaGrange Alliance, and even in parts of the Extropian main belt.
+Physically, they are small, quadrupedal bots, with a lean layout built to run, and a turret mounted top-and-center.
+There is no "head" to abstruct the turrets field of view; sensors are positioned around the bot, and the cyberbrain is well-protected in the center of the mech.
+(Because this would limit the bot's ability to peek around or over obstacles, it is equipped with a single, articulated fiberoptic camera, mounted center-front.)
+
+Though it specifications might not be impressive, the bot should not be underestimated.
+It is a practical and efficient piece of military hardware, well adapted to its particular roles.
+In particular, it is cheap enough to be deployed in tens and hundres, and it is designed to be particularly effective in groups; Sentinels should never assume thay are only facing one Wildcat.
+
+Sentinels should also note the specialized gear that the Wildcat is equipped with, which will foil many standard tactics and strategies.
+The bots boast an redundant and boosted antenna array, which gives them a powerful edge in jamming; built-in farcasters make them effectively impossible to hack without careful planning; the bot ALIs include an infosec defense package, which allows them to put up surprising resistance even if they are compromised; and sonar and x-ray systems allow them to defeat most forms of optical chamoflage (including invisible metamaterials).
+
+- Type: Bot
+- Layout: Quadruped
+- Movements: Quadruped 4/20/35
+- Size: Small
+- Durability (WT): 30 (6)
+- Advantages: Inherant Armor 5E/5K, *Radio Array*, Turret (top-center, 360 degree rotation), +1 Speed
+- Enhancements: 360-Degree Vision, Chameleon Skin, Claws, Echolocation, Enhanced Hearing, Enhanced Vision, Fiberoptic Camera (1m length, articulated, facing front), Magnetic System, Radio Booster, Radio Farcaster, T-Ray Emitter, X-Ray Emitter
+- Available: Character Creation (30 CP, Firewall characters only); the Eye (blueprints are [Low], grown morphs are [Extreme])
+- **Military Variant**: includes *Laser Array* (functions as *laser rangefinder*, *laser target designator*, and *LIDAR system*, but restrained to narrow arc of fire in front of bot) and Reduced Signature (-10 Radar, IR, and Terrahertz) mods
+- **Police Variant**: includes *Fireproofing*, *Lotus Coating*, and *Shock Proof* armor mods; includes Searchlight (equivalent to *Flashlight*) and Holoprojectors
+- **Ranger Variant**: includes *Enhanced Smell*, *Fixers*, *Nanophages*, and *Wrist-Mounted tools* mods
+
+- Type: Software (ALI)
+- Aptitudes: COG 15, COO 20, INT 15, REF 20, SAV 10, SOM 20, WIL 20
+- Skills: Beam Weapons 35, Climb 30, Fray 40, Freefall 30, Freerunning 35, Infosec \[Defense] 40, Interfacing [Jamming] 30, Kinetic Weapons 40, Knowledge: Squad Tactics 40, Perception 40, Stealth 40, Unarmed Combat \[Defense\] 35
+
+> **Bauble**: The sonar amuses me.
+> Some hight-tech meta-material skin that costs more than most 'Liberators whole morph, and it gets defeated by a pre-spaceflight sensor that bats use to catch bugs.
+>
+> **anarcat**: And x-ray for good measure.
+>
+> **Gunslinger\#MONOLITH**: Yeah, t-ray and x-ray.
+> The whole cop checkpoint kit.
+>
+> **\*Akimbo**: One weakness is that they don't have any kind of nanological defense.
+> That means that disassemblers and skinlink will both still work.
+> And, you know, just blowing them up will, too.
+> They're not actually *that* durable.
+> But remember that t-ray emitter if you're planting IEDs, don't hide 'em under something they can see through.
+>
+> **H0N-3**: Why the t-ray emitter and not the x-ray emitter?
+>
+**\*Akimbo**: The x-ray emitter requires more energy.
+> It's also ionizing radiation
