@@ -127,3 +127,8 @@ Probably still enough of them that thet setting still works, but fewer.)
 
 The write-up in the book is good; it starts on Rimward p.54.
 Locus proper starts on Rimward p.58.
+
+## General Notes
+
+Oh hey, it looks like [the whole text of the EP2 core book is hosted on github](https://eclipsephase.github.io/en/license.html).
+Is this official, or did a fan do this?
