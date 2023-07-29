@@ -21,12 +21,12 @@ As a small, open-source project, several branches and forks have been created, a
 
 **\/\/ Need-to-Know Only: Asyncs**
 
-The morph was created to cater to async infiltrtors, so extensive work has gone into the biological portions of the morph's brain.
+The morph was created to cater to async infiltrators, so extensive work has gone into the biological portions of the morph's brain.
 Unlike most other pods, more than half of the original raccoon brain has been kept intact – notably including the large portions of the somatosensory cortex that process the raccoons unique sense of touch.
 Among other things, this extra nervous tissue makes the use of "sleights" significantly easier and more effective than most other pods.
 
 Keeping so much brain intact would normally make resleeving much more time-consuming, because it would require the medical nanites produced by an ego bridge to read or write much more organic tissue; to avoid this, the nervous tissues have been augmented with specialized "state channels" connecting to the cyberbrain.
-These channels make it possible for the cyberbrain to update synapse efficiencies directly; in turn, this sigificantly speeds up sleeving and backups.
+These channels make it possible for the cyberbrain to update synapse efficiencies directly; in turn, this significantly speeds up sleeving and backups.
 This is very useful when all that is needed is a weight update; however, it does not help when bulk *rewiring* is required.
 All told, this means that, despite having significantly more organic cortex present, resleeving takes the same amount of time as a standard pod brain.
 
@@ -134,15 +134,15 @@ Finally, the Sentinel utilitool is designed to pass as a standard utilitool (tre
 
 ### Wildcat
 
-The Wildcat is a common, mass-produced combat bot that appears throughoug the inner system.
+The Wildcat is a common, mass-produced combat bot that appears throughout the inner system.
 While it mainly produced and deployed within the Planetary Consortium, it can also be found in the police forces of the Morningstar Constellation, in the Lunar-LaGrange Alliance, and even in parts of the Extropian main belt.
 Physically, they are small, quadrupedal bots, with a lean layout built to run, and a turret mounted top-and-center.
-There is no "head" to abstruct the turrets field of view; sensors are positioned around the bot, and the cyberbrain is well-protected in the center of the mech.
+There is no "head" to obstruct the turrets field of view; sensors are positioned around the bot, and the cyberbrain is well-protected in the center of the mech.
 (Because this would limit the bot's ability to peek around or over obstacles, it is equipped with a single, articulated fiberoptic camera, mounted center-front.)
 
 Though it specifications might not be impressive, the bot should not be underestimated.
 It is a practical and efficient piece of military hardware, well adapted to its particular roles.
-In particular, it is cheap enough to be deployed in tens and hundres, and it is designed to be particularly effective in groups; Sentinels should never assume thay are only facing one Wildcat.
+In particular, it is cheap enough to be deployed in tens and hundreds, and it is designed to be particularly effective in groups; Sentinels should never assume that they are only facing one Wildcat.
 
 Sentinels should also note the specialized gear that the Wildcat is equipped with, which will foil many standard tactics and strategies.
 The bots boast an redundant and boosted antenna array, which gives them a powerful edge in jamming; built-in farcasters make them effectively impossible to hack without careful planning; the bot ALIs include an infosec defense package, which allows them to put up surprising resistance even if they are compromised; and sonar and x-ray systems allow them to defeat most forms of optical chamoflage (including invisible metamaterials).
@@ -152,7 +152,7 @@ The bots boast an redundant and boosted antenna array, which gives them a powerf
 - Movements: Quadruped 4/20/35
 - Size: Small
 - Durability (WT): 30 (6)
-- Advantages: Inherant Armor 5E/5K, *Radio Array*, Turret (top-center, 360 degree rotation), +1 Speed
+- Advantages: Inherent Armor 5E/5K, *Radio Array*, Turret (top-center, 360 degree rotation), +1 Speed
 - Enhancements: 360-Degree Vision, Chameleon Skin, Claws, Echolocation, Enhanced Hearing, Enhanced Vision, Fiberoptic Camera (1m length, articulated, facing front), Magnetic System, Radio Booster, Radio Farcaster, T-Ray Emitter, X-Ray Emitter
 - Available: Character Creation (30 CP, Firewall characters only); the Eye (blueprints are [Low], grown morphs are [Extreme])
 - **Military Variant**: includes *Laser Array* (functions as *laser rangefinder*, *laser target designator*, and *LIDAR system*, but restrained to narrow arc of fire in front of bot) and Reduced Signature (-10 Radar, IR, and Terrahertz) mods
