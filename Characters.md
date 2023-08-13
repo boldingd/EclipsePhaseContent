@@ -163,7 +163,7 @@ He is also reputed to have particular trouble when resleeving, being prone to st
 | Anarcat | |
 | --- | --- |
 | Identity | Human, he/him |
-| Languages | English (Native), Skandinaviska (Fluent), French (Belgian) (Basic) |
+| Languages | English (Venusian) (Native), Skandinaviska (Fluent), French (Belgian) (Basic) |
 | Rank | Sentinel |
 | Reputation | Good |
 | Skills | engineering, infiltration, programming, needlers |
@@ -196,7 +196,7 @@ Although he is a member of an Extropian Mutualist community in 'Belt, he spent h
 > You could show him the worst habitat full of the worst assholes, and he'd find something positive to say about them.
 > And he'd find something negative to say about the Super Awesome Habitat of Eternal Peace and Love.
 >
-> **Padre**: I mean, there's something to be said for not having a black-and-white view of *everything*.
+> **Padre**: I mean, there is something to be said for not having a black-and-white view of everything.
 >
 > **Gunslinger\#MONOLITH**: The Jovian would stick up for him.
 >
@@ -237,7 +237,7 @@ While her skills have been invaluable to a number of teams and her reputation is
 
 | Bauble | |
 | --- | --- |
-| Identity | Human, flexible (she/her, or appropriate for morph) |
+| Identity | Human, flexible (she/her, any, or appropriate for morph) |
 | Languages | Mandarin (Native), English (Fluent) |
 | Rank | Sentinel |
 | Reputation | Very Good |
@@ -273,7 +273,7 @@ Bauble is also notable for being something of a skin-walker, experimenting with 
 | Padre | |
 | --- | --- |
 | Identity | Human, he/him |
-| Languages | English (Native), Spanish (Native), Classical Greek (Fluent), Medieval Latin (Fluent), Aramaic (Basic), Classical Hebrew (Basic) |
+| Languages | English (American), (Native), Spanish (American) (Native), Classical Greek (Fluent), Medieval Latin (Fluent), Aramaic (Basic), Classical Hebrew (Basic) |
 | Rank | Proxy |
 | Reputation | Very Good |
 | Skills | Intelligence, Logistical Support |
@@ -286,33 +286,36 @@ Bauble is also notable for being something of a skin-walker, experimenting with 
 >
 > **Plasmage**: I can tell you with confidence that you shouldn't believe everything you read in a proxy's bio.
 >
-> **Gunslinger\#MONOLITH**: Modern or old?
+> **Gunslinger\#MONOLITH**: \@Padre Modern or old?
 >
 > **Padre**: Column A, column B.
-> I got a disorganized crash-course when I spent a year doing research in Mosul.
-> And I'd like to point out that I never said I was *good* at Aramaic.
+> I got a disorganized crash-course when I spent a year in Mosul researching for a book.
+> And I'd like to point out that I never said I was *good* at it.
 
 The **Padre** is a proxy operating primarily out of the Jovian Republic.
 He typically does not directly coordinate operations; he is mainly involved in gathering intelligence from within the Republic, and providing resources and support to teams that need to operate in Jovian space.
 
-While the Padre leans conservative (unsurprisingly), he is known for his moderate temperament, for his cosmopolitan outlook, and for his moderate political stance (in terms of Firewall's internal politics).
+While the Padre leans conservative (unsurprisingly), he is known for his moderate temperament, cosmopolitan outlook, and moderate stance on  Firewall's internal politics.
 Notably, he is one of few solid Conservatives who still commands trust and respect in Pragmatist circles, and so he is an important peacemaker and trusted broker within the organization.
 
 It is widely held that the Padre's name is literal — that he is in fact a priest or minister in some religious organization in the Jovian Republic.
 The common theory is that he isn't Catholic — while Catholicism is far and away the majority religion of the Jovian Republic, it is neither the sole nor official religion there.
 There are also communities from several other Christian denominations, of various Muslim and Jewish sects, and of non-Abrahamic religions.
 
-In any case, one vital service the Padre provides is access to the subtle, unofficial chain of religious leaders and movements operating in the solar system — most prominently in the Jovian Republic, in the Muslim communities of Mars, and the Buddhist and Taoist communities on Luna.
+In any case, another vital service the Padre provides is access to the subtle, unofficial chain of religious leaders and movements operating in the solar system — most prominently in the Jovian Republic, in the Muslim communities of Mars, and the Buddhist and Taoist communities on Luna.
 (Some informally refer to this as "religion-net".)
 
-> **anarcat**: Doesn't the fact that a bunch of wildly different religions all clustered into a peer-group kind of make them fungible in a way that suggests they're not real?
+> **anarcat**: Doesn't the fact that a bunch of wildly different religions all clustered into a peer-group kind of suggest that they're fungible in a way that suggests they're not real?
 >
 > **Gunslinger#MONOLITH**: Fuck, I thought Richard Dawkins was dead.
 >
 > **Bauble**: You just don't have a filter at all, do you?
 >
-> **anarcat**: The Padre knows I'm not taking a swipe.
-> Well, not much of one.
+> **Plasmage**: Which one of them?
+>
+> **Bauble**: Either of them.
+>
+> **anarcat**: The Padre knows I'm not serious.
 
 ### BerkeleyMew
 
@@ -345,22 +348,34 @@ Her overall feedback is strong; an operation on the slopes of Olympus was a part
 | Rank | Sentinel |
 | Reputation | Very Good |
 | Skills | Combat, Tactics, Infiltration |
-| Tags | |
+| Tags | \/\/ Need-to-Know Only: Previous Identity Disclosure |
 
-Notes:
-
-- You should probably set a nickname for this account, it changes handles a lot.
-  It's original display-name was "8xAkimbo Raging Bulls", and it's commonly referred to as "Akimbo" or "RBs" in conversation.
-  (Note, you can use \[this\] or \[account-name:*id*\] with an account-id to use the account's current display name, which will be rendered like this: *Cyrano de Bergerac's Pansexual Cephalopod Understudy*.)
+**Note**:  
+You should probably set a nickname for this account, since it changes handles a lot.
+It's original display-name was "8xAkimbo Raging Bulls", so he's commonly referred to as "Akimbo" or "RBs" in conversation.
+You can use `[account-name:ID]`, where `ID` is this account's ID, to get the account's current display name; it will be will be rendered like this: *Cyrano de Bergerac's Pansexual Cephalopod Understudy*.
+Within this wiki article, you can also use `[this]`, which will inject this article's current title (which should always be his display name).
 
 Commonly called "Akimbo" or "RBs," *Cyrano de Bergerac's Pansexual Cephalopod Understudy* is a sentinel known for his effectiveness in combat and infiltration roles, and more recently for his support and advisory work.
 He has an excellent track-record and good feedback; his only real demerits are a slightly irritable personal style and being more than a little gung-ho.
 
 Being an octopus uplift, Akimbo prefers morphs that resemble his natural form and provide its advantages — although experience has shown that he is perfectly capable of functioning in conventional humanoid morphs.
 
-Akimbo was initially recruited by \@curé and operated in his cell, but, for reasons that have been need-to-know, has since been moved to a safe-house and assigned to support operations.
-In his current capacity, he has contributed to CASE:ENFIELD, a cell developing libraries of useful fabber blueprints, and CASE:MELCHETT, a cell providing training and support (and skillsofts) to teams who lack combat expertise.
-(Unlike \@anarcat, Akimbo's arrangement is temporary, and he will be returned to field work once the issue has been resolved — whatever that issue was.)
+Akimbo was initially recruited by \@Curé and operated in his cell; however, for reasons restricted by need-to-know, he has since been moved to a safe-house and assigned to support operations.
+In his current capacity, he has contributed to CASE:ENFIELD, a server developing libraries of useful fabber blueprints, and CASE:MELCHETT, a server providing training and support (and skillsofts) to teams who lack combat expertise.
+(Unlike \@anarcat, Akimbo's current assignment is temporary; he will be returned to field work once the underlying issue has been resolved.)
+
+**\/\/ No External Circulation; \/\/ Need-to-Know Only**
+
+Akimbo's cover has been previously breached, by Experia of all things.
+Current assessment is that someone in Akimbo's personal life figured out he was involved in some kind of vigilantism, tried to sell the story to the media, and did a particularly bad job of hiding his identity – not that it was going to help, given the kind of data-mining capabilities the Consortium has.
+We pulled him out quick and scrubbed as much as we could, hopefully before someone in Ozma or Oversight figured out what they had.
+
+Current balance of opinion is that this was not Akimbo's fault; this is just the risk we all take, as long as we still have personal lives.
+
+The Neo-Octopus population is currently pretty small, and it's *very* hard to disguise an octopus ego as something else; this severely limits the number of places where he can conceivably be re-deployed.
+If you've got a line on somewhere, send \@\*Akimbo or \@Curé a ping, or message the admins of CASE: MELCHETT.
+(DO NOT post in their public channel!)
 
 ### 0514NOMAD
 
@@ -373,10 +388,12 @@ In his current capacity, he has contributed to CASE:ENFIELD, a cell developing l
 | Skills | Combat, Tactics, Survival, Academic Sociology, Psychoanalysis |
 | Tags | Limited Access |
 
-0514NOMAD is a Sentinel known for her combat effectiveness, her academic background and skill as a sociologist, and her deep connections in the Martian outback, particularly in the Maker and Sufi Nomad communities.
+0514NOMAD is a Sentinel known for her combat effectiveness; her academic background and skill as a sociologist; and her deep connections in the Martian outback, particularly in the Maker and Sufi Nomad communities.
+
 While her feedback and track-record are good, her current access to i-net is limited, owing to her current situation: for the last 16 months, she has been traveling with a Scum swarm in the Martian outback, interacting heavily with Sufi nomads, and assisting the Titan Quarantine Zone Guard Cooperative.
 Firewall has an official "hands-off" policy in regard to the latter group, as they operate in the open, and thus are almost certainly under active surveillance by other intelligence agencies.
-(She hasn't been removed from Firewall because our sources of intelligence on the Martian outback in general and the Sufi Nomad communities in specific are perilously few, and her op-sec is good.)
+(She hasn't been completely removed from Firewall for a number of reasons, among them her excellent track record, but also that our sources of intelligence on the Martian outback in general and the Sufi Nomad communities in specific are perilously few.
+Her op-sec is generally good, so the consensus is that the risk is low.)
 
 0514NOMAD is known for being *reserved* in her personal style, cool in a crisis, and professional.
 Notably, owing to her experience with the organization and professional demeanor, she often falls into an unofficial "command" role in operations, and has also been a valuable guide and mentor for new and inexperienced Sentinels.
