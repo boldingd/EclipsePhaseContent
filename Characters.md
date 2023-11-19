@@ -273,7 +273,7 @@ Bauble is also notable for being something of a skin-walker, experimenting with 
 | Padre | |
 | --- | --- |
 | Identity | Human, he/him |
-| Languages | English (American), (Native), Spanish (American) (Native), Classical Greek (Fluent), Medieval Latin (Fluent), Aramaic (Basic), Classical Hebrew (Basic) |
+| Languages | English (American) (Native), Spanish (American) (Native), Classical Greek (Fluent), Medieval Latin (Fluent), Aramaic (Basic), Classical Hebrew (Basic) |
 | Rank | Proxy |
 | Reputation | Very Good |
 | Skills | Intelligence, Logistical Support |
@@ -305,7 +305,7 @@ There are also communities from several other Christian denominations, of variou
 In any case, another vital service the Padre provides is access to the subtle, unofficial chain of religious leaders and movements operating in the solar system — most prominently in the Jovian Republic, in the Muslim communities of Mars, and the Buddhist and Taoist communities on Luna.
 (Some informally refer to this as "religion-net".)
 
-> **anarcat**: Doesn't the fact that a bunch of wildly different religions all clustered into a peer-group kind of suggest that they're fungible in a way that suggests they're not real?
+> **anarcat**: Doesn't the fact that a bunch of wildly different religions all clustered into a peer-group kind of indicate that they're fungible in a way that suggests they're not real?
 >
 > **Gunslinger#MONOLITH**: Fuck, I thought Richard Dawkins was dead.
 >
@@ -353,13 +353,13 @@ Her overall feedback is strong; an operation on the slopes of Olympus was a part
 **Note**:  
 You should probably set a nickname for this account, since it changes handles a lot.
 It's original display-name was "8xAkimbo Raging Bulls", so he's commonly referred to as "Akimbo" or "RBs" in conversation.
-You can use `[account-name:ID]`, where `ID` is this account's ID, to get the account's current display name; it will be will be rendered like this: *Cyrano de Bergerac's Pansexual Cephalopod Understudy*.
+You can use `[account-name:ID]`, where `ID` is this account's ID, to get the account's current display name; it will be rendered like this: *Cyrano de Bergerac's Pansexual Cephalopod Understudy*.
 Within this wiki article, you can also use `[this]`, which will inject this article's current title (which should always be his display name).
 
 Commonly called "Akimbo" or "RBs," *Cyrano de Bergerac's Pansexual Cephalopod Understudy* is a sentinel known for his effectiveness in combat and infiltration roles, and more recently for his support and advisory work.
 He has an excellent track-record and good feedback; his only real demerits are a slightly irritable personal style and being more than a little gung-ho.
 
-Being an octopus uplift, Akimbo prefers morphs that resemble his natural form and provide its advantages — although experience has shown that he is perfectly capable of functioning in conventional humanoid morphs.
+Being an octopus uplift, Akimbo prefers morphs that resemble his natural form and provide its advantages (and unique neural layout) — although experience has shown that he is perfectly capable of functioning in conventional humanoid morphs.
 
 Akimbo was initially recruited by \@Curé and operated in his cell; however, for reasons restricted by need-to-know, he has since been moved to a safe-house and assigned to support operations.
 In his current capacity, he has contributed to CASE:ENFIELD, a server developing libraries of useful fabber blueprints, and CASE:MELCHETT, a server providing training and support (and skillsofts) to teams who lack combat expertise.
@@ -374,7 +374,7 @@ We pulled him out quick and scrubbed as much as we could, hopefully before someo
 Current balance of opinion is that this was not Akimbo's fault; this is just the risk we all take, as long as we still have personal lives.
 
 The Neo-Octopus population is currently pretty small, and it's *very* hard to disguise an octopus ego as something else; this severely limits the number of places where he can conceivably be re-deployed.
-If you've got a line on somewhere, send \@\*Akimbo or \@Curé a ping, or message the admins of CASE: MELCHETT.
+If you've got a line on somewhere, send \@\*Akimbo or \@Curé a ping, or message the admins of CASE:MELCHETT.
 (DO NOT post in their public channel!)
 
 ### 0514NOMAD
