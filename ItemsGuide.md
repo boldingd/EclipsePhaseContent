@@ -183,29 +183,29 @@ Finally, the Sentinel utilitool is designed to pass as a standard utilitool (tre
 ### Wildcat
 
 The Wildcat is a common, mass-produced combat bot that appears throughout the inner system.
-While it mainly produced and deployed within the Planetary Consortium, it can also be found in the police forces of the Morningstar Constellation, in the Lunar-LaGrange Alliance, and even in parts of the Extropian main belt.
+While it is mainly produced and deployed within the Planetary Consortium, it can also be found in the police forces of the Morningstar Constellation, in the Lunar-LaGrange Alliance, and even in parts of the Extropian main belt.
 Physically, they are small, quadrupedal bots, with a lean layout built to run, and a turret mounted top-center.
 There is no "head" to obstruct the turret's field of view; sensors are positioned around the bot, and the cyberbrain is well-protected in the center of the mech.
-(Because this would limit the bot's ability to peek around or over obstacles, it is equipped with a single, articulated fiberoptic camera, mounted center-front.)
+(Because this would limit the bot's ability to peek around or over obstacles, it is equipped with a single, articulated fiberoptic camera, mounted on the front of the mech.)
 
 Though its specifications might not be impressive, the bot should not be underestimated.
 It is a practical and efficient piece of military hardware, well adapted to its particular role.
-In particular, it is cheap enough to be deployed in tens and hundreds, even by relatively small police forces, and it is designed to be particularly effective in groups; Sentinels should never assume that they are only facing one Wildcat.
+In particular, it is cheap enough to be deployed in tens and hundreds, even by relatively small police forces, military hypercorps, and mercenary outfits, and it is designed to be particularly effective in groups; Sentinels should never assume that they are only facing one Wildcat.
 
-Sentinels should also note the specialized gear that the Wildcat is equipped with, which allow it to foil many common tactics.
-The bots boast an redundant and boosted antenna array, which gives them a powerful edge in jamming; built-in farcasters make them effectively impossible to hack without careful planning; the bot ALIs include an infosec defense package, which allows them to put up surprising resistance even if they are compromised; and sonar and x-ray systems allow them to defeat most forms of optical chamoflage (including invisible metamaterials).
+Sentinels should also note the specialized gear that the Wildcat is equipped with, which allow it to counter many expected threats in its various roles.
+The bots boast a redundant and boosted antenna array, which gives them a powerful edge in jamming; built-in farcasters make them effectively impossible to hack without careful planning; the bot ALIs include an infosec defense package, which allows them to put up meaningful resistance even if they are compromised; and sonar and x-ray systems allow them to defeat most forms of optical camouflage (including invisible metamaterials).
 
 - Type: Bot
 - Layout: Quadruped
 - Movements: Quadruped 4/20/35
 - Size: Small
 - Durability (WT): 30 (6)
-- Advantages: Inherent Armor 5E/5K, *Radio Array*, Turret (top-center, 360 degree rotation, compatible with most infantry weapons), +1 Speed
+- Advantages: Inherent Armor 5E/5K, *Radio Array*, Turret (top-center, 360 degree rotation, weapon-mounts equivalent to most infantry small arms), +1 Speed
 - Enhancements: 360-Degree Vision, Chameleon Skin, Claws, Echolocation, Enhanced Hearing, Enhanced Vision, Fiberoptic Camera (1m length, articulated, facing front), Magnetic System, Radio Booster, Radio Farcaster, T-Ray Emitter, X-Ray Emitter
 - Available: Most capitalist polities, sometimes requiring licensing; typically \[Medium\]
 - **Military Variant**: includes *Laser Array* (functions as *laser rangefinder*, *laser target designator*, and *LIDAR system*, but restrained to narrow arc of fire in front of bot) and Reduced Signature (-10 Radar, IR, and Terrahertz) mods
-- **Police Variant**: includes *Fireproofing*, *Lotus Coating*, and *Shock Proof* armor mods; includes Searchlight (equivalent to *Flashlight*) and Holoprojectors
-- **Ranger Variant**: includes *Enhanced Smell*, *Fixers*, *Nanophages*, and *Wrist-Mounted tools* mods
+- **Police Variant**: includes *Fireproofing*, *Lotus Coating*, and *Shock Proof* armor mods; includes Enhanced Smell, Holoprojectors, and Searchlight (equivalent to *Flashlight*)
+- **Ranger Variant**: includes Bug Zapper (mounted externally); includes Enhanced Smell, Fixers, Nanophages, and Wrist-Mounted tools mods
 
 - Type: Software (ALI)
 - Aptitudes: COG 15, COO 20, INT 15, REF 20, SAV 10, SOM 20, WIL 20
@@ -227,6 +227,6 @@ The bots boast an redundant and boosted antenna array, which gives them a powerf
 >
 > **H0N-3**: Why worry about the t-ray emitter and not the x-ray emitter?
 >
-**\*Akimbo**: The x-ray emitter requires more energy.
+> **\*Akimbo**: The x-ray emitter requires more energy.
 > It's also ionizing radiation.
 > So they don't run it continuously, only when they have something specific they want to check out.
