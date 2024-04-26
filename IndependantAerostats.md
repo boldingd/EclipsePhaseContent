@@ -35,24 +35,24 @@ The aerostat they built was sturdily-constructed, and intended mainly for indust
 At the same time, it was lightly populated, housing a crew of only 190 people.
 However, within a decade, rapid improvements in nanofabrication rendered much of the existing industrial equipment obsolete; at the same time, increases in the number of people accepting indentures to get off Earth led to the original workforce slowly being replaced by people who were effectively slaves.
 
-Discharged workers often had nowhere else to go; attempts to evict them were practical death sentences.
-Because of this, they often encountered significant resistance, which frequently turned violent.
+Discharged workers often had nowhere else to go; attempts to evict them were practical death sentences, which often led to violent resistance.
 Riots began to break out in the later months of BF 12, leading to a wildcat strike in early BF 11.
 Organized strikes and disorganized riots continued to break out for the next several years, culminating in BF 8 when the aerostat's overseers were overthrown and the SPCDV's loyalists and enforcers were thrown overboard.
-The hastily-organized union then entered into direct negotiations with the SPCDV; rather than negotiate with the union, the SPCDV shifted their focus to newer aerostats – aerostats which did not need extensive refits or updates, and that did not have embedded local populations that the SPCDV did not control.
+The hastily-organized union then entered into direct negotiations with the SPCDV.
+Rather than negotiate with the union, the SPCDV shifted their focus to newer aerostats – aerostats which did not need extensive refits or updates, and that did not have embedded local populations that the corporation did not control.
 
-This also left Botany without an economy or primary industry.
-An operating agreement was struck with the SPCDV, which allowed Botany to limp along; under the agreement, in exchange for a relative pittance and access to the SPCDV's internal markets, the aerostat stored surplussed equipment, provided manufacturing support during emergencies, and served as a punishment detail for problem employees from other operations.
+This left Botany without an economy or primary industry.
+Eventually, an operating agreement was struck with the SPCDV, which allowed the aerostat to limp along; under the agreement, in exchange for a pittance in payment and access to the SPCDV's internal markets, the aerostat stored surplussed equipment, provided manufacturing support during emergencies, and served as a punishment detail for problem employees from other operations.
 Botany had been frozen out of most of the early hypercapitalist markets, leading to chronic shortages.
-Early nanofabrication had at least made it to the aerostat; the habitat's residents broke down several large pieces of industrial machinery, and retrofitted the aerostat to support its much larger population.
+Early nanofabrication had at least made it to the aerostat, which the habitat's residents used to break down several large pieces of industrial machinery, and to retrofit the aerostat to support its much larger population.
 The union had substantially failed to improve local conditions, and had lost public support; lacking any other power structure, gangs had begun to spring up.
 
-When the Fall came, the SPCDV was substantially wiped out, abruptly leaving Botany independent.
+When the Fall came, the SPCDV was substantially wiped out, abruptly turning Botany into an independent aerostat.
 By that time, a balance of power had emerged between the largest gangs on the habitat, the remnants of the original union movement, and a nascent punk-anarchist movement.
-After the Fall, the arrangement was formalized: in AF 3, the Botany Truce was struck between the habitat's four largest gangs, the remnants of the Botany Union, and the "Live from the Skies over Hell", the largest punk-anarchist (what we now call the Scum) community on the hab.
+After the Fall, the arrangement was formalized: in AF 3, the Botany Truce was struck between the habitat's four largest gangs, the remnants of the Botany Union, and the "Live from the Skies over Hell" cooperative, the largest punk-anarchist (what we now call the Scum) community on the hab.
 
-In the years since the Fall, the communities on Botany have connected with external communities – the gangs making connection with other criminals and gangs on Venus, and the Botany Union and Scum reaching out to contacts in the outer system.
-And modern nanofabrication finally came to Botany, leading to substantial updates to much of the habitat's infrastructure and making local life much less desperate.
+In the years since the Fall, the various groups and communities on Botany have connected with external allies – the gangs making connection with other criminals and gangs on Venus, and the Botany Union and Scum reaching out to contacts in the outer system.
+More modern nanofabrication finally came to Botany through these channels, leading to substantial updates to much of the habitat's infrastructure and making local life much less desperate.
 
 Today, Botany has become something of a nexus for criminals and outsiders on Venus.
 Botany hosts a substantial number of hackers, so the local digital piracy scene flourishes.
@@ -60,6 +60,8 @@ Cracked apps and blueprints, current exploits, stolen data, and backdoors are al
 Botany is also something of a nexus of smuggling on Venus, with countless stolen or illegal goods up for sale in its markets.
 The habitat also offers a number of illicit services.
 The Scum offer any number of hedonistic pursuits, mediated only by consent, while criminal gangs offer darker services – a notable example being the SP Crew, an especially brutal gang that specializes in strike-breaking.
+And the Botany Union protects the aerostat's few legitimate businesses, while also handling the thankless task of keeping the habitat from plummeting from the sky.
+
 While soul-traders have been substantially kept away from Botany, the habitat also hosts Ereshkigal, a black-market psychosurgeon notable for her willingness to do anything to any ego, subject only to payment.
 She is also notable for her entourage, which is also a demonstration of power: she is escorted by eight people whose egos she accessed and conditioned for complete obedience.
 
@@ -78,7 +80,7 @@ It is also involved in a collaborative project with Miquelon, designing self-gro
 | --- | --- |
 | Type | Aerostat |
 | Gravity | Venus gravity (0.9G) |
-| Population | Variable; 5K permanent, up to 7K visitors |
+| Population | Variable; 15K (9K permanent, up to 6K visitors) |
 | Languages | English, Spanish, Greek |
 | Location | Venus |
 | Faction | Morningstar Constellation |
@@ -86,7 +88,8 @@ It is also involved in a collaborative project with Miquelon, designing self-gro
 
 Brunswick, named after a town in the pre-Fall south-eastern United States, is a member of the Skyfarer's League.
 The habitat uses a left-minarchist scheme that verges on mutualism, and it has strong ties to mutualist habitats in the main belt.
-Like many Extropian habitats, Brunswick is something of an open market; anything that cannot be found there can be imported from the 'belt.
+Like a proper Mutualist habitat, Brunswick is something of an open market; anything that cannot be found there can be imported from the 'belt.
+These are also the roles that it serves in the Skyfarer's League: a thriving marketplace that helps drive the League's economy, and an access-point to the Extropian 'belt.
 
 Brunswick's minarchist scheme mirrors many mutualist communities.
 While the habitat has a civilian government, it has a very limited set of roles:
@@ -112,36 +115,38 @@ For everything else, residents rely on private contracts within the habitat's ma
 
 *Calypso* is a minor member of the Morningstar Constellation, closely associated with Octavia.
 
-It began life during the Fall, when it was constructed to receive refugees from the Fall.
+It began life during the Fall, when it was constructed to receive refugees.
 After the Fall, the habitat became a possession of Octavia, in a deal that gave the aerostat access to money and resources for development it would not otherwise have had – and made it relatively easy for a portion of the population to move to Octavia, to benefit from the more vibrant economy.
-It was retrofitted and upgraded during AF 3; after it relaunched, it began to host a number of luxury and service hypercorps.
-Calypso was carried into the Morningstar Constellation when Octavia left the Planetary Consortium in AF 6; in turn, Calypso voted to separate from Octavia in AF 7, becoming an independent member of the Morningstar Constellation.
-Since then, the aerostat has operated independently, with an economy largely focused on tourism and luxury – although it a member of the Morningstar Constellation, and it remains closely associated with Octavia.
+It was retrofitted and upgraded in AF 3; after it relaunched, it began to host a number of luxury tourism hypercorps.
+Calypso was carried into the Morningstar Constellation when Octavia left the Planetary Consortium in AF 6; the following year, Calypso voted to separate from Octavia, becoming an independent member of the Constellation.
+It has since maintained strong ties with Octavia – it has been called a "suburb" of the larger hab.
 
-The habitat is something of a storm-chaser; it is willing to approach large cloud formations much more closely than most other aerostats – sometimes ranging quite far afield to do so, and sometimes passing through the storms it pursues.
-While this can provide particularly breathtaking vistas, it also means that the habitat often closely approaches storms, and is exposed to risks that other aerostats would avoid.
-For this reason, the habitat is more heavily-reinforced than many other small aerostats usually are, and that it also has particularly large and powerful electrofan motors.
+The moniker describes a cultural connection to Octavia, but not a physical one.
+The habitat is something of a storm-chaser; it is willing to approach large cloud formations much more closely than most other aerostats – sometimes ranging quite far afield to do so.
+While this can provide particularly breathtaking vistas, it also means that the habitat is exposed to risks that other aerostats would avoid.
+Sometimes, it even passes through sulfuric-acid storm-clouds themselves; this offers guests a unique experience, but also exposes the habitat and its mechanisms to significant wear.
+For this reason, the habitat is more heavily-reinforced than other small aerostats usually are, and its systems are particularly designed for resistance to sulfuric acid; it also has particularly large and powerful electrofan motors.
 
 Physically, the habitat has something of a "double teardrop" shape, with the large, spherical upper module smoothly tapering to a slender "neck," then expanding to a smaller lower module.
-The upper module is larger, roughly 300m in radius, and contains the living and working spaces.
-The lower module is smaller, about 125m in diameter and contains the habitats material reserves, bulk storage, support systems, and their few industrial centers.
+The upper module is larger, roughly 350m in diameter, and contains living spaces, open parks and promenades, and resort facilities.
+The lower module is smaller, about 125m in diameter, and contains the habitats material reserves, bulk storage, support systems, and their few industrial centers and minifacturies.
 The smaller module is of course much denser than the upper one, and serves to counter-weight it, keeping the habitat upright.
 The whole habitat is roughly 700m high.
 
-The hull of the habitat is made of a doped aluminum-oxide – which the locals often refer to as "sapphire," even though it isn't blue.
-Instead, it is a translucent ochre, matching the color of the Venusian atmosphere.
-The large observation blisters are doped differently, making them significantly more transparent, providing tourists an astonishing view of the Venusian skies.
+The hull of the habitat is made of aluminum-oxide, doped for both corrosion resistance and color.
+The whole outer hull is transparent; much of it is a translucent ochre, allowing Venus's dim natural light to filter in while affording residents and visitors a measure of privacy, but the observation blisters are a transparent and neutral, providing an excellent view of the skies and storm-clouds of Venus.
 
 The upper module contains eight large terraces, in a "1-3-3-1" layout – one on bottom, forming a torus around the central support pylon that feeds into the connecting neck; three below the "equator" of the habitat, with large, transparent blisters looking downward; three above the "equator", with large blisters looking upward; and one on top, with a blister looking towards the sky.
 While the layouts of the terraces are different, most are laid out like deformed cylinders, and most are roughly 150m in diameter, and roughly 40m high at the center.
-They are laid out with various environments, 
-(Notably, each of the large terraces is designed to be sealed in emergencies, as is the central column within the upper sphere module.)
+They support various environments: one of the lower terraces is laid out like a park, with paved sidwalks and grass lawns in a broad arc around the downward-facing observation blister; meanwhile, one of the upper terraces is dominated by a small patch of deciduous forrest, complete with pines, oaks, and a small population of squirrels, hares, and owls, all ringed with an elevated faux-timber promenade.
+(The squirrels are hated by residents nearly as much as they are loved by visitors; even more controversial is a small population of smart raccoons, which have proven to be particularly adept at both charming visitors and escaping the environment.)
+Notably, each of the large terraces is designed to be sealed in emergencies, as is the central column within the upper sphere module.
 
-It's something of an open secret that the habitat has a notable secondary industry.
+It's something of an open secret that the habitat has a secondary industry.
 Calypso has relatively robust privacy laws, sometimes ranges far from other aerostats – sometimes even wandering out of mesh contact, and has a relatively "flexible" approach to many of the Constellation's financial reporting laws; for all of these reasons, it also serves as something of hypercorporate tax haven.
 
 > **anarcat**: "Hypercorporate tax haven" is just the well-supported part.
-> Less credible rumors run from the reasonable – secret disaster-recover backups, compute facilities, maybe even quantum-computing centers – to the absurd, like secret labs or Factor toe-holds.
+> Less credible rumors run from the reasonable (secret disaster-recover backups, compute facilities, maybe even quantum-computing centers) to the absurd (like secret labs or Factor toe-holds).
 >
 > **RategoryTheory**: A quantum-compute center is an interesting idea.
 > Quantum computing is a mature-enough technology that you could set up a useful QC facility with relatively little outside talent or special equipment, and an out-of-the-way QC center set up somewhere with lax reporting could be useful for the Constellation too.
@@ -199,7 +204,7 @@ Miquelon is a small aerostat primarily devoted to designing
 | --- | --- |
 | Type | Aerostat |
 | Gravity | Venus gravity (0.9G) |
-| Population | 6K - 7K |
+| Population | 6.5K - 8k |
 | Languages | English, Arabic, Turkic |
 | Location | Venus |
 | Faction | Independant |
@@ -212,20 +217,32 @@ Each "petal" sports three gold-colored domes: one large dome on top, and two sma
 Each petal is 250m long, and each of the oval domes is roughly 200m long; this makes Siniyah much larger than other independent aerostat.
 As on most aerostats, a "bulb" containing the habitat's industrial equipment and material reserves is suspended beneath it, connected by a long, tapering "neck".
 
-The habitat is private, and access to it is tightly restricted.
-Airships are allowed to dock, but only for refueling or maintenance; their crews are restricted to the docks, however, and no other public access is granted.
-As a result, information about the habitat's layout, population, or facilities is minimal.
+Siniyah is private, and access to it is tightly restricted.
+Airships are allowed to dock, but only for refueling or maintenance; their crews and passengers are restricted to the docks.
+As a result, information about the habitat's layout, population, or facilities is minimal; what little information that is available is gathered from mesh-traffic and civic-net monitoring.
 
 It is believed to house a population of between six and seven thousand people.
-Two of the "leaves" appear to be given over to lavish residences for a thousand other elites, plus four thousand people serving as assistants, servants, or working in the habitat's service industry; though tightly controlled, the mesh and social-network footprint of these people allows us to be *relatively* confident of the numbers and layout.
+Two of the "leaves" appear to be given over to lavish residences for a thousand hyper-elites, plus four thousand people serving as assistants, servants, or workers in the habitat's service industry; the mesh and social-network footprint of these people allows us to be *relatively* confident of the numbers and layout.
 It is believed that the rents paid by these tenant hyper-elites are a significant source of income and political support for the Wells-al-Nair-Iyer family.
-The third leaf is appears to be given over to facilities for the family's private organizations and operations; we have little reliable information about what these may be, although the clan's access to specialized morphs and biotechnology suggest that they include gene-hacking facilities, wet-fab facilities, and morph-works.
-The fourth habitat dome atop the central hub is conjectured to be a private, ultra-lux residence for the family itself.
+The third leaf appears to be given over to facilities for the family's private organizations and operations; we have little reliable information about what these may be, although the clan's access to specialized morphs and biotechnology suggest that they include gene-hacking labs, wet-fab facilities, and morph-works.
+The fourth habitat dome atop the central hub is conjectured to be a private, ultra-lux residence for the family itself; very little information has escaped this environment.
 
 The aerostat is owned by the Siniyah Holding Company; Ellis and Samira Wells-al-Naar-Iyer, the oligarchs at the center of the family, own a 72% stake in the SHC.
 There is a case to be made that the aerostat is therefore in effect a kingdom: while there is a veneer of private ownership and administration using a hypercapitalist model, possession and command of the habitat ultimately traces back to two people, Ellis and Samira Wells-al-Naar-Iyer.
 Since the habitat is independent of any other organization, it is ultimately under no authority but theirs.
 
-While the level of secrecy is concerning – to say nothing of the moral discomfort from sharing the skies with a kingdom – we have no specific information regarding an active X-risk originating from the habitat at this time.
-If anything, the clan's distrust of "hackable" technology and their lack of access to a major fighting force (*à la* Direct Action for the Consortium) makes them less likely to pose a threat than most other hypercapitalist habitats.
+Notably, despite operating on a hypercapitalist model, both the habitat itself and the Wells-al-Naar-Iyer family are independents; they are members of neither the Planetary Consortium nor the Morningstar Constellations.
+It is believed to do business with – and host hyperelite tenants from – both.
+This may give the habitat (and its controlling hyper-elite dynasty) access to a broad base of power and support on Venus.
+
+The Wells-al-Naar-Iyer clan's distrust of hackable technology (and external dependencies) has impacted the design of the habitat and its infrastructure.
+It is believed that the habitat uses a neural substrate for control, rather than a traditional hab-ops center; unlike outer-system efforts, which use neuromorphic nanotissue, it is believed that Siniyah uses an entirely organic system.
+What digital infrastructure they do have appears to be a mix of private in-house software and patched open-source code; they have a deep-seated distrust of software that they do not control that rivals the most paranoid free-software activist.
+They also place a heavy emphasis on security, aggressively defending any system that is publicly accessible, and moving anything even remotely sensitive off the public mesh.
+
+Their extreme paranoia in regards to infosec is another reason that relatively little information is known about the hab.
+However, it should also be noted that they are limited by the availability of resources; their pool of infosec talent is relatively small, and they simply do not have the resources to re-implement as much of the modern mesh "stack" as they might like.
+
+While the level of secrecy is concerning – to say nothing of the moral discomfort Venusians may feel from sharing the skies with a kingdom – we have no specific information regarding an active X-risk originating from the habitat at this time.
+If anything, the clan's distrust of "hackable" technology and their lack of access to a major fighting force (*à la* Direct Action for the Consortium) makes them less likely to pose a threat than other hypercapitalist habitats.
 Infiltration efforts are ongoing, but are not a priority at this time.
