@@ -13,7 +13,7 @@ They're notable for their particular brand of hedonist collective anarchism, for
 
 > **Gunslinger\#MONOLITH**: 🎵 one of these things is not like the others 🎵
 >
-> **anarcat**: Yeah, I feel like there's definitely going to be one main reason that we're interested in these folk.
+> **anarcat**: Yeah, I feel like there's definitely going to be one main reason that we're interested in these folks.
 >
 > **BerkeleyMew**: You're telling me.
 
@@ -44,7 +44,7 @@ For example, most outer-system habitats tend more towards libertarian socialism 
 
 > **RategoryTheory**: And the difference between "libertarian socialism" and "anarchist communism" would be…?
 >
-> **anarcat**: A flameware that we don't need to have, I'm going to say, before Gunslinger decides to "help".
+> **anarcat**: A fight that we don't need to have, I'm going to say, before Gunslinger decides to "help".
 
 ## The Structure of the Collective
 
@@ -108,7 +108,7 @@ By working within local legal systems where they exist, the Collective is someti
 > **Minerva**: Very well, but I would like to register my objections formally.
 >
 > **Padre**: You may.
->
+
 > Anyway, \@Gunslinger and \@Bauble, you where saying?
 >
 > \[ \@Minerva has created an issue _here_: formal complaint: factional bias.
