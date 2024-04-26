@@ -1,7 +1,16 @@
 # Independent Habitats and Minor Factions of Venus
 
-> In some of my games, I've added a "long tail" of small, independent aerostats.
-> I think this works for two reasons: one is that it makes sense, because if producing zeppelins is easy, then it should also be relatively easy to produce small habitats; the other is that it makes Venus more interesting, because it creates an independent social structure, somewhat like the small towns and souks of Mars – which can make politics more interesting, add variety, and provide a space for criminals, outsiders, and Firewall agents to operate.
+> In some of my games, I've added a "long tail" of small, independent aerostats on Venus, along with accompanying minor factions.
+> I like this for three reasons:
+> 1) it makes sense, because if it's easy to produce smaller airships, it should also be relatively easy to produce small habitats;
+> 2) it makes Venus more interesting, because it creates a parallel, independent social structure, similar to the small towns and souks of Mars;
+> 3) it provides an opportunity for many more factions to have a presence on Venus (even if it's only a small presence).
+>
+> Here is a sampling of small aerostats (and a space ship), as well as some minor factions.
+
+\[iNet Internal Wiki\]  
+\|Maintainers: \[\@Requin | proxy, router\]; \[\@anarcat | sentinel, advisory\]  
+\|Editing: editing is _open_
 
 The large aerostats of the Morningstar Constellation share the skies of Venus with a number of smaller aerostats.
 Some of these are minor members of the Constellation; others are members of other factions, with only a minor presence on Venus; and still others are entirely independent.
@@ -53,6 +62,41 @@ The habitat also offers a number of illicit services.
 The Scum offer any number of hedonistic pursuits, mediated only by consent, while criminal gangs offer darker services – a notable example being the SP Crew, an especially brutal gang that specializes in strike-breaking.
 While soul-traders have been substantially kept away from Botany, the habitat also hosts Ereshkigal, a black-market psychosurgeon notable for her willingness to do anything to any ego, subject only to payment.
 She is also notable for her entourage, which is also a demonstration of power: she is escorted by eight people whose egos she accessed and conditioned for complete obedience.
+
+## Bremerhaven
+
+Bremerhaven is minor aeorstat whose primary industry is ship-building.
+It provides the Skyfarer's League – as well as other independent aerostats – with the ability to design and construct new airships.
+
+The habitat hosts a number of hypercorps designed in aerospace design and construction, as well as a number of dockyards and construction facilities; several detached airship drydocks also float nearby.
+Notably, the habitat is the primary point of construction for the *Osprey*, a small fighter-drone used by the League for defense.
+It is also involved in a collaborative project with Miquelon, designing self-growing and self-modifying airships using technologies similar to those used in Hamilton cylinders.
+
+## Brunswick
+
+| Brunswick | |
+| --- | --- |
+| Type | Aerostat |
+| Gravity | Venus gravity (0.9G) |
+| Population | Variable; 5K permanent, up to 7K visitors |
+| Languages | English, Spanish, Greek |
+| Location | Venus |
+| Faction | Morningstar Constellation |
+| Economy | Transitional |
+
+Brunswick, named after a town in the pre-Fall south-eastern United States, is a member of the Skyfarer's League.
+The habitat uses a left-minarchist scheme that verges on mutualism, and it has strong ties to mutualist habitats in the main belt.
+Like many Extropian habitats, Brunswick is something of an open market; anything that cannot be found there can be imported from the 'belt.
+
+Brunswick's minarchist scheme mirrors many mutualist communities.
+While the habitat has a civilian government, it has a very limited set of roles:
+
+- they administer the habitat's major infrastructure, and maintain their public systems, like public fabbers;
+- they operate the habitat's civil defense force;
+- they run a minimal police and judicial system, which is mainly intended to oversee the network of dispute-resolution organizations;
+- and they oversee the habitat's minimum-income scheme.
+
+For everything else, residents rely on private contracts within the habitat's markets.
 
 ## Calypso
 
@@ -109,7 +153,7 @@ Calypso has relatively robust privacy laws, sometimes ranges far from other aero
 
 ## Lazy Susan
 
-| Calypso | |
+| Lazy Susan | |
 | --- | --- |
 | Type | Spaceship; Module hab, with two toruses |
 | Gravity | 0.5G and 0.25G |
@@ -117,7 +161,7 @@ Calypso has relatively robust privacy laws, sometimes ranges far from other aero
 | Languages | Mandarin, Hindi, German, French |
 | Location | Mobile |
 | Faction | Morningstar Constellation |
-| Economy | Transitional |
+| Economy | Transitional, Mixed |
 
 The Lazy Susan is an unusual, large construction that blurs the line between spacecraft and habitat.
 The 'Susan consists of two large centrigrav habitats, connected by a central structure, and propelled by a large fusion motor.
@@ -134,3 +178,54 @@ In order to keep the fabric shell under tension and to provide some mechanical d
 While the Lazy Susan does carry cargo, its primary industries are aerospace design, fashion, and banking.
 Notably, when it left the LLA, it carried with it a branch of one of the LLA's highly effective banks.
 This represents something of a powerful asset, giving the Venusians access to both the Lunar banks' skill at working in the outer-system rep economies, and access to a credit system other than the Consortium's credits.
+
+## Miquelon
+
+| Siniyah | |
+| --- | --- |
+| Type | Aerostat |
+| Gravity | Venus gravity (0.9G) |
+| Population | 45K |
+| Languages | French, English, others |
+| Location | Venus |
+| Faction | Skyfarer's League |
+| Economy | Transitional, Hypercapitalist |
+
+Miquelon is a small aerostat primarily devoted to designing
+
+## Siniyah
+
+| Siniyah | |
+| --- | --- |
+| Type | Aerostat |
+| Gravity | Venus gravity (0.9G) |
+| Population | 6K - 7K |
+| Languages | English, Arabic, Turkic |
+| Location | Venus |
+| Faction | Independant |
+| Economy | Transitional, Hypercapitalist |
+
+Siniyah is an independent aerostat owned (indirectly) by the Wells-al-Naar-Iyer family, a small clan of hyper-elites and oligarchs.
+
+The habitat has a "trifoil" design, with three long "petals" extending from a central hub.
+Each "petal" sports three gold-colored domes: one large dome on top, and two smaller domes on the bottom.
+Each petal is 250m long, and each of the oval domes is roughly 200m long; this makes Siniyah much larger than other independent aerostat.
+As on most aerostats, a "bulb" containing the habitat's industrial equipment and material reserves is suspended beneath it, connected by a long, tapering "neck".
+
+The habitat is private, and access to it is tightly restricted.
+Airships are allowed to dock, but only for refueling or maintenance; their crews are restricted to the docks, however, and no other public access is granted.
+As a result, information about the habitat's layout, population, or facilities is minimal.
+
+It is believed to house a population of between six and seven thousand people.
+Two of the "leaves" appear to be given over to lavish residences for a thousand other elites, plus four thousand people serving as assistants, servants, or working in the habitat's service industry; though tightly controlled, the mesh and social-network footprint of these people allows us to be *relatively* confident of the numbers and layout.
+It is believed that the rents paid by these tenant hyper-elites are a significant source of income and political support for the Wells-al-Nair-Iyer family.
+The third leaf is appears to be given over to facilities for the family's private organizations and operations; we have little reliable information about what these may be, although the clan's access to specialized morphs and biotechnology suggest that they include gene-hacking facilities, wet-fab facilities, and morph-works.
+The fourth habitat dome atop the central hub is conjectured to be a private, ultra-lux residence for the family itself.
+
+The aerostat is owned by the Siniyah Holding Company; Ellis and Samira Wells-al-Naar-Iyer, the oligarchs at the center of the family, own a 72% stake in the SHC.
+There is a case to be made that the aerostat is therefore in effect a kingdom: while there is a veneer of private ownership and administration using a hypercapitalist model, possession and command of the habitat ultimately traces back to two people, Ellis and Samira Wells-al-Naar-Iyer.
+Since the habitat is independent of any other organization, it is ultimately under no authority but theirs.
+
+While the level of secrecy is concerning – to say nothing of the moral discomfort from sharing the skies with a kingdom – we have no specific information regarding an active X-risk originating from the habitat at this time.
+If anything, the clan's distrust of "hackable" technology and their lack of access to a major fighting force (*à la* Direct Action for the Consortium) makes them less likely to pose a threat than most other hypercapitalist habitats.
+Infiltration efforts are ongoing, but are not a priority at this time.
