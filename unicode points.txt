@@ -1,5 +1,5 @@
 https://en.wikipedia.org/wiki/Dash
-endash – 
+endash –
 emdash —
 ellipses …
 arrow →
