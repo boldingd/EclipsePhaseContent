@@ -26,6 +26,10 @@ Some habs may have permanent working-groups that others do not; some may have ve
 > **Bauble**: Yes, and yes.
 > We'll get into it.
 
+The Collective was established 17 months after the TITANs' disappearance, with the intent of counter-balancing the much greater rate at which the Capitalist polities of the Inner System were capable of resleeving infugees.
+(As a point of trivia, it was originally named after its founding habitat, Humble Beginnings.
+Later, for different reasons, both were renamed, the hab to Égalité and the Collective to Skyward.)
+
 ## Founding Values
 
 The Skyward Collective was founded by small cooperative of anarchist thinkers, activists, and partisans operating on an autonomist-aligned habitat in the Jovian Greeks.
@@ -55,9 +59,9 @@ The collective as such is not a government, and does not control the individual 
 The collective does oversee the acquisition and population of new habitats, and the establishment of new collectives; because it oversees how new collective are established, it does tend to be able to ensure that most habitats start out "on the straight and narrow."
 
 The overarching Skyward Collective does, however, have certain requirements that an individual member collective must meet to remain a *member in good standing*; these include the collective ownership of capital, direct-democratic government, and an impartial justice system.
-While an individual habitat could choose to leave the collective — or to violate these requirements and be expelled — this has not yet happened; this is likely to due to care that the Skyward Collective takes in constituting and populating new habitats, the benefits of remaining within the collective, and cultural connections between different habitats.
+While an individual habitat could choose to leave the collective — or to violate these requirements and be expelled — this has not yet happened; this is likely to due to the care that the Skyward Collective takes in constituting and populating new habitats, the benefits of remaining within the collective, and cultural connections between different habitats.
 
-Notably, the Skyward Collective can also intervene in the event of a conflict between different habitats.
+Notably, the over-arching Skyward Collective can intervene in the event of a conflict between different habitats.
 When settling a dispute between member collectives, or voting to expel a collective, a two-thirds vote among the *entire* membership of the Skyward Collective is required.
 (The final level of appeal for all "local" matters is a direct-democratic polling of the entire hab populace, usually requiring either a simple (one-half) or strong (two-thirds) majority.)
 
@@ -67,17 +71,21 @@ Unsurprisingly, individual habitats can vary quite a bit.
 
 ### Expansion
 
-One of the overarching Skyward Collectives major goals is acquire and populate new habitats.
+One of the overarching Skyward Collectives major goals is to acquire and populate new habitats.
 Unlike most Autonomist organizations, the Skyward Collective aims to expand their reach and grow their numbers, with the specific aim of providing a counter-weight to the inner-system capitalist governments.
 
-The collective's founders where concerned by the much greater rate at which the capitalist economies of the inner-system where resleeving and integrating infugees: many outer-system polities, with slower and less-productive economies and lower incentive for growth, only slowly selected and reinstantiated infugee egos, while Mars in particular was capable of sustaining a much larger population, and the hypercapitalist economy was capable of producing morphs at a much greater rate, and of matching them with infugee egos and indentures.
+The collective's founders where concerned by the much greater rate at which the capitalist economies of the inner-system were resleeving and integrating infugees.
+Many outer-system polities, with slower and less-productive economies and lower incentive for growth, only slowly selected and reinstantiated infugee egos; meanwhile, Mars in particular was capable of sustaining a much larger population, the hypercapitalist economy was capable of producing morphs at a much greater rate, and the labor markets of Mars provided a vast demand for new labor.
 Therefore, one of their major goals for the Skyward Collective was to create a collectivist-anarchist model that could be implemented throughout the system, and that could rapidly resleeve and integrate infugees, providing the Autonomist Alliance with desperately needed numbers.
 
-The collective rejects violence, for both moral and practical reasons — the Collective could never defend itself against an attack by either the Planetary Consortium or the Jovian Republic.
+At the same time, however, the collective rejects violence and direct confrontation.
+It does this for both moral and practical reasons: the Collective could not feasibly defend itself against an attack by either the Planetary Consortium or the Jovian Republic.
+
 In order to expand, the Collective acquires old or abandoned habitats through legitimate means (by whatever definition the "owning" group or polity uses) and establishes new peer collectives in them.
 This nonviolent strategy does allow them to avoid outright conflict with existing powers, but it can also subject the collective's colonization efforts to high costs and open-ended delays — especially if the current owner's factional government is unwilling to see one of their habitats pass into Autonomist hands.
 
-By working within local legal systems where they exist, the Collective is sometimes able to establish new member collectives "behind enemy lines," within the inner system; for example, they have purchased a small surface hab on Luna, have occupied an abandoned mining outpost in the inner belt, and have built an improvised "aerostat" on Venus by attaching three large zeppelins and a dozen smaller envelopes to a large mesh on Venus.
+By working within local legal systems where they exist, the Collective is sometimes able to establish new member collectives "behind enemy lines," within the inner system.
+For example, they have purchased a small surface hab on Luna, have occupied an abandoned mining outpost in the inner belt, and have built an improvised "aerostat" on Venus by attaching three large zeppelins and a dozen smaller envelopes to a large mesh.
 
 > **Gunslinger\#MONOLITH**: So this is the other reason that we're interested in these guys.
 >
@@ -101,7 +109,7 @@ By working within local legal systems where they exist, the Collective is someti
 > **Plasmage**: Take a breath, 'cat.
 > \[ Edited \]
 >
-> **Padre**: I think Curé is loath to step in and silence criticism of *himself*, so I'm going to make an executive decision here.
+> **Padre**: I think Curé is loath to step in and silence criticism of himself, so I'm going to make an executive decision here.
 > This is not the time for this conversation.
 > If you'd like to make a complaint, I can pull some proxies together and we can hear you out, but we're not going to do that in a comment thread in the middle of an intel report.
 >
@@ -118,39 +126,39 @@ By working within local legal systems where they exist, the Collective is someti
 >
 > Anyway, yeah.
 > These guys are peaceful expansionists.
-> They're not violent directly, but they are buying up old, abandoned habs and planting autonomist seeds behind capitalist lines.
-> And the hypercorps are not thrilled.
+> They're not violent directly, but they are planting autonomist seeds behind capitalist lines.
+> And the hypercorps aren't thrilled.
 >
 > **Plasmage**: Children, if you can't stop fighting, I'm gonna have to separate you.
 >
 > **anarcat**: Interesting choice of words, there.
 > The hypercorps aren't thrilled; how are the other polities taking it?
 >
-> **Gunslinger\#MONOLITH**: I mean, that's kind of beyond the scope of the mission — but lucky you, we knew what \@Curé's interest was, so we checked.
+> **Gunslinger\#MONOLITH**: I mean, that's beyond the scope of the mission — but lucky you, we knew what \@Curé's interest was, so we checked.
 >
 > The Venusians officially don't care.
-> They're already sharing the skies with a hypercorp aerostat, so it doesn't make matters much worse if a bunch of anarchists tie a bunch of balloons together and call it home.
+> They're already sharing the skies with a hypercorp aerostat, so it doesn't make matters much worse if a bunch of anarchists tie a bunch of balloons together and call it a home.
 >
 > The Lunars are a little pissier; they're more conservative, so they're not real happy about outer-system-types making a home next door.
 > But the way the LLA is set up, there isn't a whole lot they can do about it; as long as the Collective doesn't start a fight — or try to join the LLA — the LLA doesn't get to have a say.
-> At least, not officially.
+> Not officially, anyway.
 >
-> On mars, the Skywards' presence sort-of gets folded in to the fight between the Movement and the Consortium.
-> Technically, owing to their being nonviolent (and really not wanting to piss the Consortium off just yet), they've been avoiding getting pulled into the fight — but its real obvious which side they're on.
+> On mars, the Skyward's presence gets folded in to the fight between the Movement and the Consortium.
+> Technically, owing to their being nonviolent (and really not wanting to piss the Consortium off just yet), they've avoided getting pulled into the fight — but it's real obvious which side they're on.
 >
 > So far, they haven't occupied a hab in the Jovian hegemony — at least not that we could find, not on the record.
-> But every indication is that the Jovians would not be real welcoming neighbors.
+> But every indication is that the Jovians would not be welcoming neighbors.
 >
 > **Bauble**: No offense to the Padre.
 >
 > **Padre**: None taken.
 >
-> **anarcat**: Salute to Gunslinger for not throwing sharper elbows there, I know you have *Opinions* about the Movement and the League.
+> **anarcat**: Salute to Gunslinger for not throwing sharper elbows there, I know you have Opinions about the Movement and the League.
 >
 > **Plasmage**: You said "on the record."
 > Are there any indications that they've got something going off-the-record in Jovian space?
 >
-> **BerkeleyMew**: For that matter, we know that these folks keep some secrets: any indications that they have some not-so-non-violent deniable ops?
+> **BerkeleyMew**: For that matter, we know that these folks keep some secrets: any indications that they have some not-so-nonviolent deniable ops?
 >
 > **Bauble**: *\>\@Plasmage* duì bù qǐ.
 > Some, but nothing definitive.
@@ -181,13 +189,17 @@ By working within local legal systems where they exist, the Collective is someti
 > Maybe I can help keep that from turning into a flame-war with Das Frettchen.
 >
 > **Curé**: Invite sent.
+>
+> **anarcat**: Also, don't speak of the devil, he might appear!
 
-In principle, membership in a collective is open to anyone; in practice, however, the Collective has a preference for those who lack their own resources, and for those who can be indoctrinated into the Collective's communist values.
-For this reason, they preferrentialy recruit from the ranks of Fall infugees, and from the unprivileged and oppressed at the fringes of other societies.
+In principle, membership in a collective is open to anyone; in practice, however, the Collective has a preference for those who lack their own resources, and for those who can be indoctrinated into the Collective's anarchist-communist values.
+For this reason, they preferentially recruit from the ranks of Fall infugees, and from the unprivileged and oppressed at the fringes of other societies.
 
-The Collective does usually make an attempt to verify a new member's identity and check their history, checking relevant reputation scores and verifying brainprint scans when possible (if a record exists, and if the new member consents).
+The Collective does usually make an attempt to verify a new member's identity and to check their history, checking relevant reputation scores and verifying brainprint scans when possible (if a record exists, and if the new member consents).
 Members are rarely rejected outright.
-Instead, new members undergo a short probationary period; those with solid circle-A reputations are put through a shorter probation, while those with "red flags" (or entirely without records) are subject to a longer probationary period.
+Instead, new members undergo a short probationary period; those with solid circle-A reputations are put through a shorter probation, while those with "red flags" (or those who lack records) are subject to a longer probationary period.
+
+They also conduct screening for Exsurgent infection; when new members arrive in physical form, they are also checked for physical infection, and for dangerous or proscribed technologies.
 
 > **plasmage**: OK, question: if they'll take any random wash-out sight-unseen, how is infiltrating these people hard?
 >
@@ -200,17 +212,17 @@ Instead, new members undergo a short probationary period; those with solid circl
 >
 > **Padre**: And I'm guessing those ALIs get very interested in anyone who seems too curious about those groups.
 >
-> **Gunslinger\#MONOLITH**: We don't know, because we can't see their code.
+> **Gunslinger\#MONOLITH**: We don't know, their code is also secret.
 > But that's likely.
 
 So far, despite their goals, their numbers remain relatively small; the entire collective numbers slightly more than 140,000 people (as nearly as can be determined).
 
 ### Technology, Research, and Safe Seed AI
 
-The Skywards Cooperative also maintains a number of working-groups running research projects.
+The Skyward Collective also maintains a number of working-groups running research projects.
 (And somewhat at odds with the society's resource-spare hedonistic norms, some of these working-groups are fairly well resourced.)
 
-The Cooperative engages in research in automation and ALI development, the better to operate their society in the near-total absence of human labor; and in organic and nano-tissue construction materials for general use.
+The Collective engages in research in automation and ALI development, the better to operate their society in the near-total absence of human labor; and in organic and nano-tissue construction materials for general use.
 
 Very unusually, they are advocates for the development of safe super-intelligence and seed intelligence.
 The founders argued — and the collective generally accepts — that the development of these technologies is inevitable, that their potential is enormous — even fundamentally transformative, for both individuals and society — and that it can be done safely and equitably.
@@ -260,7 +272,7 @@ Notably, some of their working-groups appear to enjoy both greater access to res
 > These people creep me the fuck out.
 > There's something not right happening here.
 > I don't like it when anarchists start keeping secrets.
-> I'll bet you half a grand their ASI group has an active project. 
+> I'll bet you half a grand their ASI group has an active project.
 >
 > **Gunslinger\#MONOLITH**: Abstain.
 > Unsure.
@@ -272,7 +284,7 @@ Notably, some of their working-groups appear to enjoy both greater access to res
 >
 > All right, I'll start the paperwork.
 >
-> **anarcat**: I'll get my infiltration pants on.
+> **anarcat**: I'll get my infiltration shoes on.
 
 ### Language
 
@@ -283,7 +295,8 @@ However, joual, an informal style of Quebecois French, has become the unofficial
 > **0514NOMAD**: This explains the uptic of Quebecois idioms I've been seeing on the @-net.
 > And here I thought I'd just made that much of an impact…
 >
-> **Plasmage**: Oh hey, maybe you can translate for \@Curé when he gets worked up and goes full-French.
+> **Plasmage**: Oh hey, I didn't know  you were Quebecois.
+> Maybe you can translate for \@Curé when he gets worked up and goes full-French.
 >
 > **H0N-3**: That's interesting!
 > There are a lot of French Canadians out here on Titan!
@@ -295,11 +308,16 @@ However, joual, an informal style of Quebecois French, has become the unofficial
 > Ontario French is nearly identical, but don't tell any of the boys from Montreal I said that…
 >
 > **Curé**: Hah!
-> Too late, we're *already here*!
+> Too late, we're already here!
 
 A particular variant of Barsoomian is also becoming common — "Barsoomian" being the common name for the creole of French and Arabic commonly spoken in the Sufi and Maker communities on Mars.
-This is happening in spite of the fact that there are very few native speakers of the language in the collective; instead, it appears to be happening because the language is common enough on the circle-A network, and because it is at least partly intelligeable to speakers of both French and Arabic.
+This is happening in spite of the fact that there are very few native speakers of the language in the collective; instead, it appears to be happening because the language is common enough on the circle-A network, and because it is at least partly intelligible to speakers of both French and Arabic.
 (Of course, the Skyward variant is based on Quebecois rather than continental French, and even includes a few English loan-words and idioms.)
+
+Notably, Barsoomian is very difficult to learn, being a very irregular combination of two unrelated languages.
+There have been some projects to simplify and standardize the language.
+These, in turn, have been met by pushback from the nomadic communities on Mars, who view the effort as a kind of cultural vandalism.
+This conflict plays out on Skyward's mesh, as it does throughout the circle-A network.
 
 > **0514NOMAD** It's honestly amazing how deeply the languages of our youth stick with us.
 > I've been speaking Barsoomian for more than a decade and people still comment on how much of my Canadian French influence bleeds through into the way I speak it.
@@ -329,7 +347,7 @@ Each member of the cooperative is granted a portion of the resources (feed-stock
 
 Each habitat in the cooperative is administered as an ad-hoc direct-democracy.
 They use on-line polling of the entire hab population to make major decisions, while members form "working groups" to make smaller decisions and tackle ongoing tasks and problems.
-They prefer ad-hoc forms of social-organization and decision-making to fixed institutions and rules, using votes to make decisions on a case-by-case basis, creating working-groups as the need arises, and dissolving them when the issue is resolved. 
+They prefer ad-hoc forms of social-organization and decision-making to fixed institutions and rules, using votes to make decisions on a case-by-case basis, creating working-groups as the need arises, and dissolving them when the issue is resolved.
 In principle, the cooperative attempts to keep the number and duration of working-groups to a minimum; in practice, most habitats establish a certain number of permanent working-groups, with set internal structures, to tackle important concerns like hab-maintenance or civil justice.
 
 > **anarcat**: This is one of the potential fault-lines for this society, I think.
@@ -341,10 +359,13 @@ In principle, the cooperative attempts to keep the number and duration of workin
 >
 > **Gunslinger\#MONOLITH**: Yeah, their particular brand of communism holds that kind of "power-collection" is a Bad Thing, as far as I've been able to find.
 
+There is some criticism that the ad-hoc nature of their governance leads to lop-sided and inconsistent outcomes.
+The outcome of public debate can depend more on how individuals are perceived than on the details of this specific conflict or the merits of that project.
+
 Absent these two mechanisms, there is no formal government or rule-making: individuals are free to conduct their affairs as they see fit.
 
 Owing largely to their low-to-zero labor expectation, the cooperative tends not to be very productive.
-For comparison, per-capita resource allocations sit between one-half and one-third of the median resources consumed by a citizen of the Titanian Commonwealth, depending somewhat on the specific habitat and time.
+For comparison, per-capita resource allocations sit between one-half and one-third of the median resources consumed by a citizen of the Titanian Commonwealth, depending on the specific habitat and time.
 
 > **rategorytheory**: One-half to one-third of the *median*?
 >
@@ -399,11 +420,12 @@ This can lead to provocative and seemingly contradictory positions: the Skyward 
 
 ### "Economy," Capital, and Fabbing
 
-The Skyward Collective has a fairly strict communist scheme: allowed personal property is very narrowly construed, consisting mostly of clothing, furniture, pieces of art, and personal effects; everything else is owned collectively by the Cooperative.
+The Skyward Collective has a fairly strict communist scheme: allowed personal property is very narrowly construed, consisting mostly of clothing, furniture, keepsakes, and personal effects; everything else is owned collectively by the Cooperative.
 Notably, this means that almost all of the habitat infrastructure and productive technology is owned and administered by the cooperative: hab hulls, life support and power systems, resource drones, maintenance drones, and auto-manufacturing systems are all owned collectively.
-Notably, all nanofabricators are collectively owned; private ownership of nanofabricators is restricted.
+Unlike much of the outer system, all nanofabricators are collectively owned; private ownership of nanofabricators is restricted.
 
-Unlike most other Autonomist groups, owing to their socially-conscious and precautionist views, the Skyward Collective restricts and tracks its members use of nanofabrication — they believe that each cooperative has a legitimate interest in preventing members from producing grenades, nano-plagues, weapons of mass destruction, or other dangerous technologies.
+Unlike most other Autonomist groups, owing to their socially-conscious and precautionist views, the Skyward Collective restricts and tracks its members use of nanofabrication.
+They believe that each cooperative has a legitimate interest in preventing members from producing grenades, nano-plagues, weapons of mass destruction, or other dangerous technologies.
 Public nanofabricators will only produce blueprints approved and signed by the community (and private ownership of CMs is not allowed).
 Libraries of signed blueprints are made available to members, covering a wide variety of food, clothing, furniture, and useful technologies; members can request anything from the library and, subject to their resource limits, it will be manufactured by a nearby public CM and either delivered by a drone or held for pick-up.
 
@@ -433,16 +455,17 @@ Also like most other work-groups, a vote of the general population can overturn 
 A few additional blueprints are made available only to *trusted* members, or are reserved for members of specific working-groups; additionally, a small number of potentially-abusable blueprints are restricted from members flagged as being *antisocial*.
 
 The Cooperative also maintains large nanofabbing and conventional minifacturing facilities on several of its habs, the former for the production of large hardware (like habitat systems) and the latter for manufacturing common objects (like clothing, furniture, tableware and tools) more efficiently than on-demand nanofacture.
-The collective also makes use of conventional agriculture and hydroponics, both for food (and drug) production and for environmental maintenance.
+The collective also makes use of conventional agriculture and hydroponics, both for food (and drug) production and for environmental maintenance; many of their habitats sport large zero-G or low-G hydroponics modules.
 
 Their economy has a very low per-capita productivity — another aspect of their "responsible communist hedonism."
 Public sentiment runs along the lines of, "we have enough for everyone to be comfortable, as long as no-one gets greedy," where there is a particular stigma attached to "being greedy".
 Most of their habitats sport sufficient automated resource-gathering and industry to provide their members a comfortable (if not luxurious) standard of living.
-Notably, their particular strict-socialist scheme is not set up to encourage members to be much more productive, since any additional resources or capital they produce would be yielded to the Cooperative to be equitably distributed.
+Notably, their particular strict-collectivist scheme is not set up to encourage members to be much more productive, since any additional resources or capital they produce would be yielded to the Cooperative to be equitably distributed.
 (In the minds of the founders of the Skyward Collective, at least, this is a feature rather than a bug; they tend to place a high premium on equitable distribution, and to have a dim view of excess and waste.)
 
-While it may be an academic point, Skywards is technically a command economy, rather than a reputation economy.
+While it may be an academic point, Skyward is technically a mix of command and gift economies, rather than a reputation, social-credit, or social-money economy.
 While the Collective does administer a social network and keep reputation scores, these do not affect individual members' resource allocations; rather, each member receives an equal base resource payout, potentially with resource bumps earned by volunteering for a task from a work-queue.
+
 Beyond the operations of drones, auto-manufacturies and public fabbing, very little economic activity occurs, and so there is very little economic organization to speak of.
 
 > **Gunslinger\#MONOLITH**: These guys are old-school, and I might be a fan.
@@ -450,6 +473,18 @@ Beyond the operations of drones, auto-manufacturies and public fabbing, very lit
 > **Bauble**: I'm not a fan of the fab restrictions.
 >
 > **anarcat**: You can really start to see the ways that these folks don't quite line up with the rest of the Autonomist Alliance.
+
+Some tasks still require skilled labor by individuals.
+While member collectives do want to incentivize people to serve the community as doctors, EMTs, advocates, engineers, and technicians, they are extremely reticent to mandate labor, establish hierarchies, or allow the accumulation of capital (physical or social).
+For these things, most member collectives use an informal gift system.
+Services rendered are tracked as gifts, favors, or contributions; member-collectives then track these gifts on their social network.
+Members may then take into account whether someone is contributing to others, or to the community at large – or not – when dealing with others.
+
+However, there is no obligations that these contributions be repayed, other than that from social convention.
+Someone who racks up favors cannot expect to demand repayment, either from individuals or from the community.
+This means that especially hard-working or talented individuals often get little direct reward for their labor.
+Not only can this discourage contributions, it can also lead to some individuals seeking to sell their skills elsewhere – either leading to participation in illicit underground markets, or even to outright departure from the collective.
+This in turn can lead to a kind of brain-drain, as the brightest and most industrious in the Collective have an incentive to depart for habitats and polities where their skills will be more highly valued.
 
 ### Work-Groups, Trusted Members and the Antisocial
 
@@ -482,12 +517,13 @@ Most are allowed fairly wide latitude in their internal arrangement, forming the
 >
 > **anarcat**: Oh yeah, that's pretty familiar.
 > My mutualist hab also uses a work-group structure kind of like that, and we also have public vote participation of around twelve percent.
+> And the working-group proposals usually go through.
 
 Some working-groups also have access to specialized hardware or blueprints that the general populace may not be allowed; for example, Defense working-groups may have access to military weaponry that the general populace does not.
 Some working-groups may also have special authority granted to them or their members; Civil Peace and Justice working-groups, for example, have the power to act as a peace-force and judicial system, respectively, and they can grant the authority to their members to act as peace officers, social workers, public prosecutors, or public defenders.
 Many working-groups have internal training and qualification systems; Civil Peace, Civil Justice, Engineering, and Education working-groups all typically train and qualify their members.
 (The structure of Education working-groups is interesting: they spend more time on certifying teachers and developing materials than on direct education.
-Learning is often at the learner's discretion, and "off-line.")
+Learning is often undertaken independantly, at the learner's discression.)
 
 Of course, working-groups are as dependent on volunteers as the rest of the collective, and so the amount of training and professional work they can do is limited; still, the permanent working-groups represent a reserve of expertise that many other outer-system autonomist societies fail to establish at all.
 
@@ -497,7 +533,7 @@ Some restricted technologies are only available to trusted members; protean swar
 
 Conversely, some members are designated as *antisocial*; this is often done as a temporary measure in response to minor crime, or sometimes in response to consistent, minor antisocial behavior.
 Antisocial members *loose* access to some technologies or blueprints, and may suffer other minor disciplinary actions as well.
-(Of course, labelling a member as antisocial is not the extent of the Skyward justice system; their Civil Peace and Justice working-groups have access to many of the tools and remedies that other justice-systems do.)
+(Of course, labelling a member as antisocial is not the extent of the Skyward justice system; their Civil Peace and Justice working-groups have access to many of the tools and remedies that other justice systems do.)
 
 ### The Justice System
 
@@ -511,7 +547,7 @@ Some smaller habitats will only sport a single Peace, Justice and Aide working-g
 
 The Skyward Collective as such requires that each member collective see to public peace, and allows for trial-by-jury of those who abuse others and the potential imprisonment of members who pose a danger to the rest of the collective.
 (As elsewhere, a full, direct-democratic poling of the entire habitat is the final recourse of their justice system, with a two-thirds vote required to sustain a conviction.)
-However, the abuse, neglect or viovlation of prisoners is also strictly forbidden; prisoners are still members of the collective, and beneficieries of all the rights, priviledges and protections that come with that.
+However, the abuse, neglect or viovlation of prisoners is also strictly forbidden; prisoners are still members of the collective, and beneficieries of all the rights, priviledges and protections that come with it.
 
 > **Gunslinger\#MONOLITH**: Here's the part I don't like: anarchist cops.
 >
@@ -521,20 +557,80 @@ However, the abuse, neglect or viovlation of prisoners is also strictly forbidde
 > **anarcat**: Well, at least they have a justice system.
 > Plenty of autonomist habs don't.
 >
-> **Padre**: You're an Extropian.  *You* don't.
+> **Padre**: You're an Extropian.
+> *You* don't.
 >
-> **anarcat**: touché
->
+> **anarcat**: touché.
 > I mean, we kind of do.
 > We use private Dispute Resolution Agencies, like most Extropians, but we're mutualists, so we regulate and license them.
 >
 > **Gunslinger\#MONOLITH**: I'm gonna laugh when Ratty's more OK with that than she is with any anarchist system.
 >
-> **RategoryTheory**: I mean, at least it's not random strangers voting on whether I'm guilty of murder or not based on my social-media profile.
+> **RategoryTheory**: At least it's not random strangers voting on whether I'm guilty of murder or not based on my social-media profile.
 >
-> **Padre**: Well, to be fair, he's an Extropian, so that is an anarchist system.
+> **Padre**: Well, to be fair, 'cat is an Extropian, so that is an anarchist system.
 >
 > **Gunslinger\#MONOLITH**: "At least."
+
+### Crime
+
+Compared to other societies, crimes of need are rare in Collective habitats, but interpersonal crimes are not.
+Offenses, grievances, grudges, and vendettas are as common in the Collective as they are anywhere else.
+While the Collective's social and hedonistic tendencies may blunt them somewhat, the crowded nature of their habitats can also amplify them.
+Perversely, the lack of a labor requirement may amplify tensions as well; small injuries can fester when nothing prevents a person from obsessing over them.
+
+Within the Collective, many forms of exchange and compensation are either taboo or illegal.
+This leads to a somewhat unusual form of crime: underground labor markets.
+While information is scarce, a few of them are publically known.
+Allegedly, the largest is *le marché du diable*, an invite-only market burried deep inside encrypted networks and onion-router protocols.
+*Le marché* allows members to exchange goods and services for credit, using a local micro-currency.
+An underground economy has forned on *Le marché*, one that is more productive and profitable than the command/gift economy used by the collective as a whole.
+This is a notable source of friction, as those who participate in *le marché* – or at least those who are reputed to – slowly become better off than those who do not, which offends the Collective's egalitarian values.
+
+Another, *eumlat alshaytan* – devil's coin – is a local crypto-currency.
+While other local cryptos exist, most of them do not allow outsiders to own or exchange coins – whichc keeps them relatively in the Collective's good graces.
+The devil's coin, on the other hand, allows outsiders to own and trade tokens, and is listed on cryptocurrency exchanges in the Extropian 'belt and Saturnian orbit.
+Because of this, the devil's coin provides a (thin) connection between the underground markets of the Skyward Collective and public markets in the main 'belt and the Titanian Commonwealth.
+
+> **Bauble**: This is a fight between Gunslinger and me.
+> I say these are far too good to be true.
+> Especially that crypto!
+> We can buy information and access, while risking nothing and staying anonymous?
+> How helpful the Collective is, to leave us such an opening!
+>
+> **Gunslinger\#MONOLITH**: I think we agree that a large portion of the activity on these things is legitimate – authentic?
+> What it appears to be.
+> But we also agree that Civil Peace almost certainly has compromised them to some extent.
+> We're just not sure what the ratio is.
+> I agree with Bauble that these people are too good at tradecraft to have left this door wide open.
+>
+> **curé**: Have you made any use of them so far?
+>
+> **Gunslinger\#MONOLITH**: Some.
+> We've been going slow.
+> Bauble is very concerned that, if we try to push it, we'll get picked up by some superhuman dataminer and eaten whole.
+>
+> We've set up some accounts and started buying coins.
+> We haven't gone to the Devil's Market yet; it looks like that's run out of Égalité, and we'd like to avoid their mesh.
+> Instead, we've been using one of their runner-up markets, the Fox-Market.
+> They seem to have better opsec, and they're running out of Armoise, not Égalité.
+>
+> **Bauble**: It's weird.
+> Most posts are written in English, with American spellings.
+> But most of the usernames are Vietnamese or Spanish.
+> Best guess is that it was put together by the weird, assimilated grandkids of anticommunist refugees.
+> Bet they're real happy they woke up on Égalité rather than Extropia.
+>
+> **Padre**: Could that be why they're on Armoise?
+> It's easier to work with Extropians if you're already in the main belt.
+>
+> **Bauble**: It's very possible.
+> We think there's a darkcast route somewhere from a Skyward hab to an Extropian one, and the Fox-Market people might be running it.
+> They'd have to have a farcaster physically shipped in from somewhere, or shipped out, so it's likely it's somewhere in the main belt, either Armoise or Greed.
+> We've been looking at traffic in and out of those habs, and we've narrowed it down to a few candidates.
+>
+> **Gunslinger\#MONOLITH**: I hate to invite the devil in, but we could use either catty or ratty's help.
+> They might be more interested in an Extropian.
 
 ## Habitats
 
@@ -557,11 +653,11 @@ During the second year, it was decided allowing the founding hab to share the sa
 
 The 540m-radius torus hab was originally built by a pre-fall hypercorp in an asteroid family in the Jovian Greeks to support mining operations.
 It was abandoned by its original hypercorp owner when major mining operations ceased in BF 6.
-(It should be noted that the asteroids in the family still contain small veins of metals; mining ceased because the hypercorp could not compete with cheapter metals mined in the primary asteroid belt and inner system.)
+(It should be noted that the asteroids in the family still contain small veins of metals; mining ceased because the hypercorp could not compete with cheaper metals mined in the primary asteroid belt and inner system.)
 The station's next occupants arrived barely three years later, aided by contacts in the former hypercorp owner's administration; this group had formed around a core of anarchist-communist theorists and activists.
 
 Infugee influx during the Fall dramatically expanded their population; during and after the Fall, sleeving, integrating and indoctrinating the new arrivals was a primary concern.
-The stations activist founders watched on with concern as the Hypercorp Consortium set about combing through the infugee egos that they had received, sleeving them, and integrating them; concern for the Hypercorp Consortium's growing population led the occupants to launch an initiative to similarly grow the Autonomist Alliance's ranks with infugees; and thus the Skyward Collective was born.
+The station's activist founders watched with concern as the Hypercorp Consortium set about combing through the infugee egos that they had received, sleeving them, and integrating them; concern for the Hypercorp Consortium's growing population led the occupants to launch an initiative to similarly grow the Autonomist Alliance's ranks with infugees; and thus the Skyward Collective was born.
 
 Égalité remains the largest and most populous of the Skyward Collective's habs.
 Égalité is a torus hab with a radius of 544m, a rim-width of 89m, and a rim-height of 73m; it's spun to three-quarters of G, and a human-baseline environment is maintained inside — that is, one atmosphere of pressure, a 24-hour day/night cycle, a temperature between 14C and 27C, and a year-long seasonal cycle.
@@ -595,9 +691,9 @@ All of the judges in their court system are required to be Trusted Members, who 
 
 Dewi's Refuge is a small community burrowed into the surface of Luna.
 It's named for Suharto Dewi, an Indonesian entrepreneur who constructed the habitat more than forty years before the Fall.
-More fortunate than many, Dewi survived the Fall; he decided to sell off the old hab rather than modernise it, and the Skywards Collective purchased it from him.
+More fortunate than many, Dewi survived the Fall; he decided to sell off the old hab rather than modernise it, and the Skyward Collective purchased it from him.
 
-Complicating matters is that the hab was still occupied, if only by a hand-full of people.
+Complicating matters is that the hab was still occupied, if only by a handfull of people.
 The collective has worked hard to win these people over, and has enjoyed some success — cancelling rent being an excellent way to make a positive impression on someone — but they are not yet confident that they have enough public support to carry a vote to depart the LLA.
 
 For this reason, the factional status of the habitat is disputed.
@@ -619,8 +715,8 @@ The habitat has living space for a little more than three thousand people — as
 > That op ended with me owing the collective a circle-a favour.
 > They had me smuggle a package past the LLA into this hab, Dewi's Refuge.
 >
-> They weren't fucking around.
-> The package had a smart-matter case, and I didn't want to fuck with it — I didn't think I could get past it without pissing off whatever was inside, even with a COT.
+> The package was fuck-off secure.
+> It had a smart-matter case, and I didn't think I could get past it without pissing off whatever was inside, even with a COT.
 > (And \@plasmage gets real pissy when you open dangerous packages without his permission.)
 > And I couldn't get it to \@anarcat or \@plasmage, so I made the hand-off.
 >
@@ -628,7 +724,7 @@ The habitat has living space for a little more than three thousand people — as
 > They didn't offer information, and I didn't pry — you don't ask questions or make small-talk on these kinds of jobs, unless you *want* them to think you're a cop.
 > My impression wasn't quan-xi background; I think they're learning how to do counter-intel.
 >
-> Like I said, physical security didn't look great.
+> Physical security at the hab wasn't nearly as impressive.
 > I didn't get a chance to poke around inside the walls, but it looked pretty standard and pretty old.
 > No access control stations or inspections or anything like that, just a thirty-year-old surface airlock with trans-spectral imagers.
 > \@anarcat or I could get in again pretty easily.
@@ -695,20 +791,111 @@ They use their limited mobility to hold near the equator, far away from the plan
 | Faction | Autonomist, Skyward Collective |
 
 Armoise is a beehave habitat located inside a roughly-spherical S-type asteroid about 11km in diameter.
-The asteroid was claimed by an Extropian microcorp and mined extensively between BF 19 and 11, after which it was abandoned.
-Over the next fifteen years, it saw occasional visits from scavengers and squatters; in AF 5, it was unoccupied.
+The asteroid was claimed by an Extropian microcorp and mined extensively between BF 19 and 11; after the asteroid was stripped of most metals, it was abandoned.
+Over the next fifteen years, it saw occasional visits from scavengers and squatters, who removed anything of value that had been left behind.
+
+In AF 5, the Collective decided to purchase the asteroid.
 The microcorp that had originally claimed the asteroid had broken up after they finished mining it (which is a normal procedure for an Extropian microcorp).
-The Collective contacted several of the principles, who where willing to sell their claim on the rock for a pittance of @-rep and credits, since they had neither the desire not capability to make any use of it.
+The Collective contacted several of the principles, who where willing to sell their interest in the rock for a pittance of @-rep and credits, since they had neither the desire not capability to make any use of it.
 
 While almost all of the equipment had since been either stolen or scrapped for feed-stock, the physical hulls of the beehive hab-modules where intact — for the most part, anyway.
 A team was dispatched from Égalité with nanofabbing gear and construction mechs; sixteen months later, basic power and life-support had been established, and enough of the caverns and tunnels had been refurbished to provide living space for more than a thousand people.
 
-Over the last five years, the work has continued; all of the original modules have since been either restored or scrapped for feed-stock, with new construction occuring in mining tunnels and caverns.
+Over the last four years, the work has continued.
+All of the original modules have since been either restored or scrapped for feed-stock, with new construction occuring in mining tunnels and caverns.
 
-While the asteroid does still contain small metal deposites, it is generally metal-poor; fortunately, the residents of Égalité are used to operating without easy access to metals, and have brought with them many techniques perfected in the outer system.
+The asteroid is generally metal-poor, as only a few trace deposits where left behind by the miners; fortunately, the residents of Égalité are used to operating without easy access to metals, and have brought with them many techniques perfected in the outer system.
 
 The asteroid's present population is approximately nine thousand, drawn from the Extropian belt, Mars, and Jupiter.
 If other, similar beehive habs are any guide, the habitat's ultimate carrying capacity might be in the area of ninety thousand people.
+
+### Greed and Envy
+
+| Greed | |
+| --- | --- |
+| Type | Beehive |
+| Gravity | Microgravity |
+| Population | 4K |
+| Languages | Barsoomian (Skyward), French (Quebecois) |
+| Location | Main Belt |
+| Faction | Autonomist, Skyward Collective |
+
+| Envy | |
+| --- | --- |
+| Type | Stone Torus |
+| Gravity | 0.65G (centrigrav) |
+| Population | 10K (3K permanent, 7K rotating) |
+| Languages | Barsoomian (Skyward), French (Quebecois) |
+| Location | Main Belt |
+| Faction | Autonomist, Skyward Collective |
+
+Greed and Envy are a pair of habs in the main belt; they share a lazy binary orbit about a thousand kilometers in diameter.
+In terms of orbit, at least, Greed is the primary; the solid silicat asteroid about is slightly more than four kilometers in diameter.
+Envy, meanwhile, is less massive; the torus hab was constructed from a loose rubble-pile roughly 800m in diameter, consisting of organics, volatiles, and silicates – suspected to be the result of two smaller rubble-pile asteroids, one C-type and one S-type, being captured by Greed and merging.
+
+The area was initially claimed and occupied by an Extropian mining microcorp in BF23.
+They did not intend to permanently occupy the pair, nor did they intend to bring in a large population, so they only needed a small habitat.
+They used construction technique similar to that used to construct Cole bubbles, albeit on a much smaller scale, specialized to loose rubble-piles like Envy; the result was a roughly barrel-shaped "torus" hab roughly 900m in diameter.
+They then proceeded to begin mining Greed, primarily for silicone.
+
+Unfortunately for the Extropians, their cooperative collapsed in BF 19, a victim of both a diclining price for silicone and volatile internal politics.
+The pair sat unoccupied until it was occupied by the Skyward Collective in AF 4.
+Unusually, the Collective occupied the asteroid the asteroids before they arranged to legally purchase them; this was in part because the trail of ownership was so tenuous that they could not identify who held the rights to the pair.
+They finally identified several candidate stakeholders; they convened several Extropian dispute resolution authorities, got a determination that the identified stake-holders were the most likely to hold the rights to the habs, and purchased the pair for a pittance – allegedly less than 10,000 credits.
+
+Presently, Greed and Envy are centers of industrial an trade activity – at least by the standards of the Skywards Collective.
+One member commune, the Forge Cooperative, claims both habs.
+Although Greed is still mined, providing the Collective with a useful source of silicone, its primariy value is as a manufacturing site.
+Greed hosts several minifacturing bays, and sports a prominant spaceport.
+This facility is not used by the Collective directly; instead, it is leased to other Extropian operations in the belt, providing the Collective with an invaluable source of income.
+Additionally, Greed also hosts several vaults and secured facilities; these spaces are also leased to other Autonomists.
+
+Envy, meanwhile, servees primarily as a habitat and research outpost; while Greed is accessible to other Autonomists, Envy is used only by the Collective.
+Envy hosts some of the Collective's few (publically-known) research projects.
+
+Both Greed and Envy have very low permanent populations.
+Instead, workers – both volunteers and draftees, depending on the project and need – are rotated in to work in the various projects operating on the habs.
+The small permanent population consists mainly of a handfull of committed researchers, obsessives, and idiologs who choose to contribute to their projects continuously, as well as a few civilians who prefer a quiet, low-traffic home over the Collective's more crowded habs.
+
+### Estevan
+
+| Estevan | |
+| --- | --- |
+| Type | Sub-Surface Cavern (245m diameter), Sub-Surface Tunnels |
+| Gravity | 0.379G (mars gravity) |
+| Population | 8.5K |
+| Languages | Barsoomian (Martian and Skyward), French (Martian and Quebecois), Arabic (Moroccan, Algerian, Martian) |
+| Location | Mars |
+| Faction | Contested: Autonomist, Skyward Collective; Tharsis League |
+
+Estevan – née Coleman Barrow – is thet Collective's major habitat on Mars.
+
+The settlement is located in the remote and sparsely-populated Terra Cimmeria, in the rugged and cratered highlands west of Hellas Planetia.
+Estevan began as a mining settlement: the site was claimed by the Cimmeria Mining Conglomerate in BF 34; the first permanent outpost at the site was built in BF33; and the central dome was constructed between BF 29 and 28.
+Mining was conducted in the surrounding craters, gullies, and dunes for nineteen years; mining ceased in BF 9, at which point the company abandoned the town.
+By the time the Fall came, Coleman Barrow was a ghost town.
+
+After the Fall, the condition of the settlement was unknown; no TITAN activity was known to have happened anywhere near the hab, but it also was not known to be safe or habitable.
+As normal for hypercorps and microcorps, the CMC was wound down when their original mission was completed; it existed only on paper, to hold the conglomerate's remaining interests and assets.
+The stakeholders had little interest in the hab, and did not expect any other buyer to present themselves; they sold the habitat cheaply, as-was.
+
+As the Skywards Collective has repaired and reoccupied the habitat, they have taken pains to avoid provoking the Planetary Consortium or the Tharsis League – or to at least ensure that they are not worth the effort of enforcement.
+They have gone as far as licensing the construction and maintenance nanotech that they used, and making a show of participating in the League's ego-ID system.
+For that, Estevan is not the servant of two masters; there is no confusion about whether their ultimate allegiance lies with the Skyward Collective or the Tharsis League.
+
+Physically, Estevan consists of the original central habitat – still referred to as Coleman Barrow – as well as several surrounding outbuildings, facilities, and mines.
+Physically, the Barrow is wide, circular cavern, capped over with a dome and covered in gravel.
+From the surface, the barrow itself looks like little more than a wide, gently-rising gravel mound; it is surrounded by wide fields of solar panels, several large industrial garages, a number of greenhouses and hydroponics bays, and several new terraforming stations.
+Inside, however, it is laid out something like a lunar cavern, with verdant greenways snaking between built-up city blocks.
+Many of the city blocks are slightly elevated, constructed on raised rock foundations; this lifts them a few meters above the forrest floor, providing a longer view while still keeping the ground-level view below the canopy.
+The original worker housing was spartan and dense, and the Skywards Collective have kept it so; large barracks sit between public canteens, pavilions, and maker bays.
+
+The Barrow is old enough that it was designed to be accessible to non-Mars-adapted morphs.
+For that reason, the central hab is connected to several nearby mining operations by sealed underground tunnels.
+Skyward has turned some of these mines into living space, equipping them using some of the techniques used in beehive and terrarium habitats.
+They've made heavy use of nano- and micro-swarms in the construction of the caverns; they have a rounded, smoothed, finished-stone look, with wiring and supporting equipment fabbed into narrow channels cut into the walls.
+Under other circumstances, the caverns might be an austere and unwelcoming environment; to combat this, the residents have decorated them with all maner of public art – from physical graffiti to AR vistas to base-reliefs etched into the rock by nanoswarms.
+There is little coordination or control of these decorations, which means that they sometimes clash, becoming in places an uncoordinated mass of color and form.
 
 ### Secret Hab near Égalité
 
@@ -750,3 +937,115 @@ They're willing to do a long-term continuous survey of the place, but they've go
 \@Bauble thinks these guys might be fairly competent at spycraft, and they might already be playing the game, and I agree.
 We think it's also possible that these might be false leads, meant to lead people off the trail, or maybe even a trap.
 Any agent that checks these leads should proceed with caution.
+
+## Status of Operations **\/\/ Ongoing Operations; \/\/ Need-to-Know Only**
+
+First off: threat assessment unsure, possibly high.
+The two avenues \@curé is worried about are:
+
+1. They might be working with an ASI/Seed AI.
+1. They might start an inter-faction war.
+
+Threat for \#2 is low.
+The LLA and Consortium don't love that these guys but habitats on "their" planets, but they've been pretty damn deferential about it.
+The Movement, the Jovians, or the Consortium are all way more likely to start a shooting war.
+Now, *long-term*, if they build up the kinds of numbers they want to have, could that be a problem?
+Sure, but that's a long ways off – like decades.
+
+On threat 1, opinions are split.
+Of the two of us:
+
+- \@Gunslinger\#MONOLITH: Unknown.
+  Those large black-budget working-groups are concerning, but that's it – concerning.
+  We don't nuke every hab that has an off-the-books project.
+  More information is needed.
+- \@Bauble: High.
+  They feel off, creepy as fuck.
+  I do not like it when circle-As keep secrets like this.
+
+Here's where our current operations stand.
+We've gathered most of the intelligence we can gather, without direct contact, risking exposure, or moving resources.
+
+They've been resistant to probing.
+We know they have some off the books projects – even besides the no-public-records working-groups that they also have.
+And we know physical resources are being diverted.
+We suspect that they have some decent tradecraft; exact capabilities and sophistication unknown.
+But we also know they have some weaknesses, like poor physical security on some of their old-ass habs.
+Or at least it looks like it from the outoside.
+
+Ongoing operations are:
+
+1. **Building rep and balance on the Fox-Market.**
+   We want to slow-roll this one; rushing and pushing will just look suspicious, *especially* if we think they might have some super-human expert systems monitoring this thing.
+1. **Working the Guan-Xi to see if we can find an off-the-books shipment.**
+   This one is also going to take time if you don't want to come off like a cop or get picked up by the people you're tracking.
+1. **Trying to find someone who's defected from the Collective.**
+   This one is a little easier, but we also expect less from it.
+   We know people leave.
+   But, as far as we can tell, nobody from the "inner circle" has defected.
+   So, we don't expect anyone we find on the outside to have anything particularly valuable, or a way to get us in.
+
+Of those, the Fox-Market is the best bet.
+It's going to be slow – and expensive, \@curé \@conjurer – but it gives us our best shot at getting in touch with people on the inside who will be willing and able to help us, and it keeps our risk of exposure low.
+Even though it's a trap.
+
+> **\*Akimbo**: I, for one, approve of bauble's paranoia.
+>
+> **Plasmage**: Though maybe not their professionalism.
+>
+> **anarcat**: Careful, I can feel BerkeleyMew glaring at you.
+>
+> **Gunslinger\#MONOLITH**: Real bold to tell a proxy to shut the fuck up!
+> I assume \@curé is goign to threaten to pull your brain-stem out through your face, just to be consistant?
+>
+> **anarcat**: You can open whatever case you want to open, and I'll accept whatever the judgement is.
+> But I think everyone in this chat except Akimbos – sorry you're along for the ride on this – was there when this grudge started.
+> We've all been through it, and we don't want to go through it *again*.
+>
+> **\/\/ Sentinel Identity Exposure; \/\/ Need-to-Know Only (implied)**
+>
+> **Plasmage**: God damn it.
+> I'm going to put the sentinel-identity mark on this.
+>
+> Franz, you are not wrong.
+> If anyone else had said that, anyone who wasn't from the old cell, I would **not** put up with it.
+> But life's not fucking fair, deal with it.
+>
+> Chester, I'm giving you a mod ping.
+> But you're right, I'm just going to avoid Lola in public threads until… she gets over it, fuck.
+> Franz, go ahead and open an issue.
+> Blow your load, do whatever you want.
+>
+> **\/\/ Sentinel Identity Exposre classification mark ends**  
+> \[ \@anarcat has received a moderation warning \]  
+> \[ \@Gunslinger\#MONOLITH has created an issue _here_: formal complaint: proxy favoritism and power abuse. _4_ accounts have subscribed. \]  
+>
+> **Padre**: \@Gunslinger I'm taking this one.
+> No more discussion of this here; direct any messages to me or add comments to the open issue.
+>
+> **\*Akimbo**: … what the fuck did I just see?
+>
+> **curé**: Crisse.
+> \@Padre It's best if I keep my distance.
+> Sorry to stick you with my cell's old mess.
+>
+> \@Bauble \@Gunslinger I'll see what Conjurer and I can scrounge up.
+> \@Conjurer Do you know any routers whith Extropian sentinels with the skills to assist?
+>
+> **Conjurer**: Believe it or not, curé, you're not the only router I know. ;)
+> Give me a few days and I'll see who I can round up.
+
+Next steps are up to \@curé.
+We think there's something to look into here, more work is justified.
+It's router's-choice what that looks like.
+
+### Decision
+
+Good work, you two.
+
+Keep working on the Fox-Market, that sounds like our best bet.
+\@Conjurer and I will find you an Extropian sentinel to work with.
+And some funding.
+
+\@Bauble, \@anarcat's up for a hab infiltration.
+Work with him to pick a hab and get a plan going.
