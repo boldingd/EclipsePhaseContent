@@ -9,6 +9,27 @@
 \|Maintainers: \[\@Equipment-Working-Group | working group, internal\]
 \|Editing: editing is *moderated*; edits are reviewed by maintainers
 
+### Burro
+
+The Burro is a ubiquitous drone truck of Extropian production, found throughout thousands of work site throughout the inner and outer system.
+Despite being a relatively new design, having only launched in AF 4, it has already earned a solid reputation as a reliable, inexpensive, no-frills construction vehicle.
+
+Physically, the Burro consists of a large, open truck bed, mounted on a three-axle electric vehicle frame.
+There are various bed configurations; one of the most common has tie-down attachment points running along the sides.
+The drone does not have any kind of cabin; the front-end is marked only with a prominent arch that rises above the bed and holds various sensor mounts.
+Like most autonomous vehicles, the drone includes a variety of sensors, including cameras, lidar, and radar; some of these are mounted on the mast, while other systems are positioned around the body of the vehicle.
+Notably, some of these sensors face into the bed, allowing the vehicle to actively monitor its cargo while driving.
+
+The Burro is a no-frills, basic, inexpensive design, making limited use of expensive metamaterials.
+Despite that, it is well-regarded for its ruggedness, practicality, and the design of its ALI.
+Burros are known for the relatively sophisticated understanding of job sites, displaying a remarkable ability to "do the right thing" with little or no explicit direction.
+They are also known for their extreme stubbornness about worksite safety – the ALI will refuse to carry out any instructions that it deems to be unsafe (which can be both praiseworthy and frustrating).
+
+The Burro is produced by the Burro Consortium, a (primarily) Extropian conglomerate.
+The Consortium exists solely to produce and distribute the vehicle; it was formed in AF 2 when the Atlas Drone Cooperative, a Mutualist cooperative located on New Pittsburgh in the Main Belt, assembled a web of minor partners for the purpose of producing a new industrial vehicle.
+The Atlas Drone Cooperative is still the dominant presence in the Burro Consortium; they are the largest member, the majority stakeholders in the Consortium, and are primarily responsible for designing and distributing the vehicle.
+However, they include a number of minor members: among them are *Mind of the Burro*, an an-cap microcorp primarily responsible for the fine-tuning of the Burro's famed ALI; New Pittsburgh Design Intelligence, a firm that does feedback, surveying, and requirements-gathering; and Williams, Renault, and Cho, a Mutualist partnership that specializes in export law.
+
 ### Clever Bandit
 
 The Clever Bandit is the result of a Firewall project to create an infiltration-focused biomorph.
