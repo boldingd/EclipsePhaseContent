@@ -77,7 +77,7 @@ See also the [wikipedia page on the exploration of Jupiter](https://en.wikipedia
 
 ## Style Notes
 
-- I was doing markings like this: 
+- I was doing classified markings like this: 
   - **\/\/ No External Circulation; \/\/ Need-to-Know Only**
   - **\/\/ Sentinel Identity Exposure; \/\/ Need-to-Know Only (implied)**
   - (Classification marks can go in text-bits or directly in document text)
