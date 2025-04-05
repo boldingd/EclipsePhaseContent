@@ -61,6 +61,12 @@ Oh, hey.
 Is this really a NASA source?
 See also the [wikipedia page on the exploration of Jupiter](https://en.wikipedia.org/wiki/Exploration_of_Jupiter) and [this IEEE article on windbots](https://ieeexplore.ieee.org/document/7943618).
 
+[A chart for Venus's atmosphere](https://upload.wikimedia.org/wikipedia/commons/c/c6/11214_2023_956_Fig6_HTML.webp).
+[Also this one](https://s3.amazonaws.com/images.spaceref.com/news/2021/ooTheweatherforecast.jpg), which is not from Wikipedia.
+(NB: equator-to-pole circulation on the day side, pole-to-equator circulation on the night side.)
+Oh... venus has "famous" planetary hurricanes.
+That's good to know.
+
 ## Mutualism Notes
 
 - King K recommended — or at least name-dropped — Clarence Swartz as a source on mutualism.
