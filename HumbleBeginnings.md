@@ -830,7 +830,7 @@ If other, similar beehive habs are any guide, the habitat's ultimate carrying ca
 | Faction | Autonomist, Skyward Collective |
 
 Greed and Envy are a pair of habs in the main belt; they share a lazy binary orbit about a thousand kilometers in diameter.
-In terms of orbit, at least, Greed is the primary; the solid silicat asteroid about is slightly more than four kilometers in diameter.
+In terms of orbit, at least, Greed is the primary; the solid silicate asteroid is slightly more than four kilometers in diameter.
 Envy, meanwhile, is less massive; the torus hab was constructed from a loose rubble-pile roughly 800m in diameter, consisting of organics, volatiles, and silicates – suspected to be the result of two smaller rubble-pile asteroids, one C-type and one S-type, being captured by Greed and merging.
 
 The area was initially claimed and occupied by an Extropian mining microcorp in BF23.
@@ -840,7 +840,7 @@ They then proceeded to begin mining Greed, primarily for silicone.
 
 Unfortunately for the Extropians, their cooperative collapsed in BF 19, a victim of both a diclining price for silicone and volatile internal politics.
 The pair sat unoccupied until it was occupied by the Skyward Collective in AF 4.
-Unusually, the Collective occupied the asteroid the asteroids before they arranged to legally purchase them; this was in part because the trail of ownership was so tenuous that they could not identify who held the rights to the pair.
+Unusually, the Collective occupied the asteroids before they arranged to legally purchase them; this was in part because the trail of ownership was so tenuous that they could not identify who held the rights.
 They finally identified several candidate stakeholders; they convened several Extropian dispute resolution authorities, got a determination that the identified stake-holders were the most likely to hold the rights to the habs, and purchased the pair for a pittance – allegedly less than 10,000 credits.
 
 Presently, Greed and Envy are centers of industrial an trade activity – at least by the standards of the Skywards Collective.
@@ -883,7 +883,7 @@ As the Skywards Collective has repaired and reoccupied the habitat, they have ta
 They have gone as far as licensing the construction and maintenance nanotech that they used, and making a show of participating in the League's ego-ID system.
 For that, Estevan is not the servant of two masters; there is no confusion about whether their ultimate allegiance lies with the Skyward Collective or the Tharsis League.
 
-Physically, Estevan consists of the original central habitat – still referred to as Coleman Barrow – as well as several surrounding outbuildings, facilities, and mines.
+Estevan consists of the original central habitat – still referred to as Coleman Barrow – as well as several surrounding outbuildings, facilities, and mines.
 Physically, the Barrow is wide, circular cavern, capped over with a dome and covered in gravel.
 From the surface, the barrow itself looks like little more than a wide, gently-rising gravel mound; it is surrounded by wide fields of solar panels, several large industrial garages, a number of greenhouses and hydroponics bays, and several new terraforming stations.
 Inside, however, it is laid out something like a lunar cavern, with verdant greenways snaking between built-up city blocks.
@@ -894,7 +894,7 @@ The Barrow is old enough that it was designed to be accessible to non-Mars-adapt
 For that reason, the central hab is connected to several nearby mining operations by sealed underground tunnels.
 Skyward has turned some of these mines into living space, equipping them using some of the techniques used in beehive and terrarium habitats.
 They've made heavy use of nano- and micro-swarms in the construction of the caverns; they have a rounded, smoothed, finished-stone look, with wiring and supporting equipment fabbed into narrow channels cut into the walls.
-Under other circumstances, the caverns might be an austere and unwelcoming environment; to combat this, the residents have decorated them with all maner of public art – from physical graffiti to AR vistas to base-reliefs etched into the rock by nanoswarms.
+Under other circumstances, the caverns might be an austere and unwelcoming environment; to combat this, the residents have decorated them with all manner of public art – from graffiti to AR vistas to base-reliefs etched into the rock by nanoswarms.
 There is little coordination or control of these decorations, which means that they sometimes clash, becoming in places an uncoordinated mass of color and form.
 
 ### Secret Hab near Égalité
