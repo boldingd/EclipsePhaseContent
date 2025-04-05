@@ -14,21 +14,64 @@
 The Burro is a ubiquitous drone truck of Extropian production, found throughout thousands of work site throughout the inner and outer system.
 Despite being a relatively new design, having only launched in AF 4, it has already earned a solid reputation as a reliable, inexpensive, no-frills construction vehicle.
 
-Physically, the Burro consists of a large, open truck bed, mounted on a three-axle electric vehicle frame.
-There are various bed configurations; one of the most common has tie-down attachment points running along the sides.
-The drone does not have any kind of cabin; the front-end is marked only with a prominent arch that rises above the bed and holds various sensor mounts.
-Like most autonomous vehicles, the drone includes a variety of sensors, including cameras, lidar, and radar; some of these are mounted on the mast, while other systems are positioned around the body of the vehicle.
+Physically, the Burro consists of a large truck bed, mounted on a three-axle electric vehicle frame.
+The drone is "omni-directional"; it does not have any kind of cabin, and can steer with both the front and rear wheels.
+Like most autonomous vehicles, the drone includes a variety of sensors, including cameras, lidar, and radar; some of these are mounted on masts on the periphery of the drone, while other systems are positioned around the body of the vehicle.
 Notably, some of these sensors face into the bed, allowing the vehicle to actively monitor its cargo while driving.
 
-The Burro is a no-frills, basic, inexpensive design, making limited use of expensive metamaterials.
+The Burro is a no-frills, basic, inexpensive design, making limited use of advanced metamaterials or other expensive components.
 Despite that, it is well-regarded for its ruggedness, practicality, and the design of its ALI.
-Burros are known for the relatively sophisticated understanding of job sites, displaying a remarkable ability to "do the right thing" with little or no explicit direction.
-They are also known for their extreme stubbornness about worksite safety – the ALI will refuse to carry out any instructions that it deems to be unsafe (which can be both praiseworthy and frustrating).
+Burros are known for the sophisticated understanding of job sites, displaying a remarkable ability to "do the right thing" with little or no explicit direction.
+They are also known for their extreme stubbornness about worksite safety – the ALI will refuse to carry out any instructions that it deems to be unsafe (which some love and others revile).
+
+> **Bauble**: Working-class Lunars love these things.
+> There are unions and Liberator cells with Burros on their graphics.
+> Some of the big unions won't take contracts with someone who's swapped the ALIs on their Burros.
+> It's a sure sign they've decided poor folks' and their morphs are disposable.
 
 The Burro is produced by the Burro Consortium, a (primarily) Extropian conglomerate.
 The Consortium exists solely to produce and distribute the vehicle; it was formed in AF 2 when the Atlas Drone Cooperative, a Mutualist cooperative located on New Pittsburgh in the Main Belt, assembled a web of minor partners for the purpose of producing a new industrial vehicle.
 The Atlas Drone Cooperative is still the dominant presence in the Burro Consortium; they are the largest member, the majority stakeholders in the Consortium, and are primarily responsible for designing and distributing the vehicle.
 However, they include a number of minor members: among them are *Mind of the Burro*, an an-cap microcorp primarily responsible for the fine-tuning of the Burro's famed ALI; New Pittsburgh Design Intelligence, a firm that does feedback, surveying, and requirements-gathering; and Williams, Renault, and Cho, a Mutualist partnership that specializes in export law.
+
+> **Gunslinger#MONOLITH**: Wait, this thing's Extropian?
+> So this is the one Extropian coop that values people more than profit?
+>
+> **anarcat**: Come on, Gunslinger.
+> You can do better than that, that's just lazy.
+
+Wide, cheap availability means that Burros are frequently modified.
+A number of after-market kits exist, and many shops have experience doing custom work.
+Notably, many mod kits and after-market replacements also exist for the ALI; many of these kits "relax" the ALI's strict concerns for work-site safety.
+It is a testament to the Burro's wide reach, and the quality of its default ALI, that strikes have been called to prevent the default ALI from being replaced with a more "efficient" one.
+
+A number of operators have also modified the vehicle to serve as a technical.
+The high, open bed allows a weapon mount to be easily installed; a number of weapons have been deployed by guerilla and irregular forces, in conflicts ranging between Extropian squabbles to full-on brush-wars in the Martian outback.
+(Of course, the default ALI is unable to use these weapons; they require either a second operator, a skillsoft for the ALI, or an ALI replacement.)
+
+> **Gunslinger@MONOLITH**: Technical refits are usually pretty minimal, because "cheap and quick" is usually the whole point.
+> They don't do much more than cut a hole in the bed and mount a turret.
+> Sometimes all they do is bolt a tripod down!
+>
+> There are a few in the outback, though, who have put more effort in.
+> There are a few GC teams that have seriously upgraded their Burros, and a few Makers who wanted something a little more permanent.
+
+- Type: Bot
+- Layout: Vehicle (wheeled, six-axle)
+- Movements: Wheeled 8/32/100 (Handling +20)
+- Size: Large
+- Durability (WT): 150 (30)
+- Advantages: Inherent Armor 15E/20K, truck bed
+- Enhancements: 360-Degree Vision, Enhanced Vision, LIDAR, T-Ray Emitter
+- Available: Common \[High\]
+- **Mars Variant**: includes *smart-matter tires*, Improved Temperature Tolerance: Cold
+- **Technical**: configuration varies widely.
+  Commonly includes a turret and weapon mounts; can include upgraded armor (Industrial Armor +10E/+10K, Light Combat Armor +14E/+12K, or Heavy Combat Armor +16E/+16K), armor mods (Chameleon Skin, Chameleon Coating, Reactive Coating), Radar, or other mods.
+- **Supervisor**: includes a Server (10 capacity), Radar, Radio Booster, Maker (bot repair), and Maker (medical supplies)
+
+- Type: Software (ALI)
+- Aptitudes: COG 15, COO 15, INT 15, REF 20, SAV 15, SOM 15, WIL 20
+- Skills: Hardware: Habitat/Industrial 40, Infosec \[Defense\] 20, Interfacing 20, Medicine: First Aid 40, Perception 35, Pilot: Groundcraft \[Wheeled\] 40, Profession: Construction \[Safety\] 70, Protocol 30
 
 ### Clever Bandit
 
@@ -53,7 +96,7 @@ All told, this means that, despite having significantly more organic cortex pres
 
 - Type: Morph (Pod)
 - Layout: Quadruped
-- Movements: Quadruped 3/15, Biped 2/8, Climb 3/12
+- Movements: Quadruped 4/16, Biped 3/12, Climb 3/9
 - Size: Small
 - Armor: 2E/3K
 - Durability (WT): 25 (5)
@@ -146,6 +189,65 @@ This mode has been a source of controversy, as there are reports of the device b
 > **0514NOMAD**: I know it doesn't help anything, but I did once see a Ranger use the breach-mode to get the stack out of a 9 Lives, a Gede.
 > So sometimes it does happen to people who have it coming, at least.
 
+### Roadrunner
+
+Roadrunners are cheap 'bots produced in the Planetary Consortium and sold to law-enforcement agencies in the Tharsis League and Consortium.
+Roadrunners are designed to aid in situational awareness – they are scouts, observers, and pursuit-bots, not combat elements.
+They are intended to be cheap enough to issue several to officers, and for losses of the 'bots to be acceptable.
+While a handful of small weapons modules exist, they are rarely issued; most Roadrunners are deployed unarmed.
+
+Roadrunners are designed to be agile on the ground and in the air.
+(That, as well as their size, gives them their name; they do not have much *direct* resemblance to the old-Earth bird.)
+Their narrow bodies support partially-articulated delta wings, powerful hind legs designed for running and jumping, and thinner forelimbs designed for fine manipulation.
+They are quick for a bot their size, able to pace most transhumans at a run, and easily handle Mars' broken terrain.
+They also include a small internal turbofan engine and a limited supply of methane to power it; this gives them a quick airspeed, and a total flight time of almost thirty minutes.
+Vectored nozzles for and aft, combined with the articulation of the wings, can make the drone surprisingly agile in flight; it can maneuver in tight quarters, can take off from a running leap (or after being thrown), hover for short periods, and land vertically.
+(It is primarily designed for Mars' gravity; under "standard" gravity, it can still fly, but requires more space to take off and land.  It also cannot carry weapons in standard gravity.)
+
+While Roadrunners can run fairly quickly, they are better leapers and flyers; in use, Roadrunners tend to use their facilities with leaping and flying together with their magnetic systems to stay high, above their targets.
+While Roadrunners can use their turbofans in short bursts for quick, powerful leaps, their supply of fuel is limited; once they have the high ground, they often run, leap, and glide to preserve fuel.
+Their powered flight capability is mainly used for open pursuits.
+
+Roadrunners are also equipped with spotlights, holoprojectors, and loudspeakers, so that they can address suspects.
+
+- Type: Bot
+- Layout: Raptor
+- Movements: Bipedal 5/25, Leaping 4/20, Thrust-Vector 9/45/160
+- Size: Tiny
+- Durability (WT): 20 (4)
+- Advantages: Inherent Armor 4E/3K
+- Enhancements: 360-Degree Vision, Claws, Enhanced Vision, Holoemitter, Light Combat Armor (+14E/+12K), Loudspeaker, Magnetic System, *Spotlight* (as trans-spectral light), T-Ray Emitter
+- Available: Inner System law enforcement, \[Low\]
+
+- Type: Software (ALI)
+- Aptitudes: COG 15, COO 20, INT 15, REF 20, SAV 10, SOM 10, WIL 15
+- Skills: Flight 40, Freerunning 40, Gunnery 40, Hardware: Electronics 30, Infiltration 40, Infosec \[Defense\] 30, Interest: *Raptor* specs and maintenance 50, Intimidation 30, Perception 40
+
+### Seeker Carrier
+
+The Seeker Carrier is a cheap, disposable weapons platform designed by an autonomist cooperative and distributed to autonomist-aligned fighters in the Inner System, most notably the Movement.
+It's a very straightforward design: it is a small, four-wheeled robot, equipped with a single turret, and loaded with seekers.
+The bot has just enough 'ware to make its expected performance worth the fab resources; being an open, autonomist design, individual users are free to modify the blueprint according to their needs and resources.
+
+In addition to the 'bot itself, the Autonomists have produced the blueprints for a nanohive; the hive produces Proteans, and the Proteans produce a 'bot and weapons.
+This package is far more dangerous; it allows anyone with a 'faber capable of producing the hive to eventually produce large numbers of seeker-carriers.
+
+We have secured a copy of the drone blueprints for the Eye; current policy, however, minimizes their use, in order to avoid reprisals against third-parties (i.e. to avoid kicking off a major conflict in the Outback).
+We haven not managed to secure a copy of the protean hive.
+
+- Type: Bot
+- Layout: Vehicle (wheeled, two-axle)
+- Movements: Wheeled 8/40/120 (Handling +10)
+- Size: Small
+- Durability (WT): 30 (6)
+- Advantages: Inherent Armor 3E/3K, turret with weapon mounts
+- Enhancements: 360-Degree Vision, Chameleon Skin, Enhanced Vision, Light Combat Armor (+14E/+12K), Radar, T-Ray Emitter
+- Available: as drone without weapons, Autonomists \[Low\] or Firewall \[Low\]; as Protean Hive blueprint for drone and payload \[Extreme\] (payload is either 4 full-sized seekers or two seeker rifles and magazines)
+
+- Type: Software (ALI)
+- Aptitudes: COG 15, COO 20, INT 15, REF 20, SAV 10, SOM 15, WIL 15
+- Skills: Hardware: Armorer 30, Infiltration 40, Infosec \[Defense\] 30, Interest: Insurgent Tactics 60, Interfacing 30, Perception 40, Pilot: Groundcraft \[Wheeled\] 40, Gunnery 40, Seeker Weapons 40
+
 ### Sentinel Mask
 
 The Sentinel Mask is heavily-modified open-source AR headset.
@@ -188,7 +290,7 @@ Conversely, the device also has "secure lock" and "secure shutdown" commands, wh
 ### Sentinel Utilitool
 
 The Sentinel Utilitool is a variant of an open-source utilitool, modified for use by sentinels; it is designed to mimic some of the advanced features of COTs in a cheaper (and more inconspicuous) device.
-The swarm composition of a Sentinel utilitool contains some elements not found in most other utilitools, among them nanites designed to connect to devices, and to resist infection by hostile nanoswarms.
+The swarm composition of a Sentinel utilitool contains some elements not found in other utilitools, among them nanites designed to connect to devices, and to resist infection by hostile nanoswarms.
 However, in order to accommodate the additional hive elements, it is also slightly larger than most utilitools.
 (The additional components are also *masked*, so that it can pass as a normal – if slightly large – utilitool.)
 
@@ -200,6 +302,52 @@ The Sentinel utilitool was contributed and maintained by \@anarcat, and publishe
 Besides the functions of a standard utilitool, the sentinel utilitool can connect to devices it is brought in contact with (as *skinlink*), and can resist infection by hostile nanotech it comes into contact with (as the *immunogenic system* mod).
 It also has programming to mimic (most of) the functions of a COT – although it is less effective at doing so (-20 penalty to tests), as it is missing some of the more specialized components and swarm elements that COTs use.
 Finally, the Sentinel utilitool is designed to pass as a standard utilitool (treat as though the additional features are *masked* upgrades).
+
+### Termite Hive
+
+Termite hives are 
+
+### Tile
+
+Tiles are small bots roughly similar to other scout bots.
+Shaped vaguely like a crab, they are small enough to fit in your hand, have a roughly square layout, and a streamlined cross-section; they are propelled by six legs, and have two small arms in the front.
+They also have two narrow air intakes, given them the appearance of gills.
+(They do not, for the record, have claws.)
+
+Tiles are primarily designed for exploring abandoned outposts and ruins in the Martian outback.
+They were originally developed for the purpose under contract to the Mars Rangers; they are, however, available on the open market, and are also purchased and deployed by a variety of users (from maker nomads to gatecrashers) and deployed in a variety of other locations (from asteroid habs in the belt to the sub-crustal seas of Europa).
+
+Tiles are designed to be cheap and simple enough to produce with fabbers in the field, while also being equipped to detect (if not defeat) the unique hazards posed by possible TITAN opponents.
+This allows Rangers the ability to deploy many of the bots into their areas of operation, giving them good tactical coverage, and a heads-up if Exsurgents threats are present.
+
+The nanophages present on some versions are easily their most expensive and sophisticated component; to keep costs down, versions are available with and without them.
+Notably, the Mars Rangers have their own nanophage package, which is only available on bots that they purchase; the Rangers claim that their package will also attack biological threat, but this has not been verified, and the package's exact capabilities are unknown.
+
+> **\*Akimbo**: The anti-nanotech requirement is infamous in military hardware circles.
+> The Rangers really want some kind of nanite defense, but they also want the bot to be cost-competitive with other scouts.
+>
+> Olympus Military Technology has been flailing around, trying to find some kind of anti-nanotech package that will keep the Rangers happy while somehow costing a quarter of what an open-market nanophage package costs.
+> Meanwhile, the Rangers have been patching in their own custom nanophage package.
+> A lot of old fabbers can't produce it, but they're the goddamn Tharsis League, so they can afford to update their fabbers to current spec.
+
+- Type: Bot
+- Layout: crab-like
+- Movements: Walker 3/15
+- Size: Tiny
+- Durability (WT): 15 (3)
+- Advantages: Inherent Armor 5E/5K
+- Enhancements: 360-Degree Vision, Chameleon Skin, Chemical Sniffer, Enhanced Smell, Enhanced Vision, Improved Temperature Tolerance: Cold, Magnetic System, Nanodetectors, Radio Booster, Radio Farcaster
+- Available: hypercapitalist economies for \[Trivial\]
+- **Mars Ranger Variant**: Includes *Ranger Nanophages*
+  - Available: Mars Rangers for \[Minor\]
+- **Nanophage Variant**: Includes Nanophages
+  - Available: hypercapitalist economies for \[Medium\]
+- **EMP Variant**: includes *EMP Generator* (as EMP micro-grenade; 5 uses)
+  - Available: hypercapitalist economies for \[Minor\]
+
+- Type: Software (ALI)
+- Aptitudes: COG 15, COO 20, INT 15, REF 15, SAV 10, SOM 20, WIL 15
+- Skills: Climbing 40, Freerunning 30, Infiltration 40, Perception 40, Swimming 40
 
 ### Wildcat
 
@@ -214,7 +362,7 @@ It is a practical and efficient piece of military hardware, well adapted to its 
 In particular, it is cheap enough to be deployed in tens and hundreds, even by relatively small police forces, military hypercorps, and mercenary outfits, and it is designed to be particularly effective in groups; Sentinels should never assume that they are only facing one Wildcat.
 
 Sentinels should also note the specialized gear that the Wildcat is equipped with, which allow it to counter many expected threats in its various roles.
-The bots boast a redundant and boosted antenna array, which gives them a powerful edge in jamming; built-in farcasters make them effectively impossible to hack without careful planning; the bot ALIs include an infosec defense package, which allows them to put up meaningful resistance even if they are compromised; and sonar and x-ray systems allow them to defeat most forms of optical camouflage (including invisible metamaterials).
+The bots boast a redundant and boosted antenna array, which gives them an edge in jamming and EW fights; built-in farcasters make them effectively impossible to hack without careful planning; the bot ALIs include an infosec defense package, which allows them to put up meaningful resistance even if they are compromised; and sonar and x-ray systems allow them to defeat most forms of optical camouflage (including invisible metamaterials).
 
 - Type: Bot
 - Layout: Quadruped
