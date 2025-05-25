@@ -28,7 +28,7 @@ Furry mods exist for a number of common morphs, especially low- and midrange syn
 They are usually entirely cosmetic, although some may include sensory packages, claws, or other minor hardware.
 
 - Type: Gear (cyberware)
-- Includes: Synthetic Mask (if Synth), Bodysculpting, Tail, up to two Enhanced Senses
+- Includes: Synthetic Mask (if Synth), Bodysculpting, Tail, up to two Enhanced Senses, claws
 - Available: Common \[Medium\]
 
 ### Gum
@@ -53,4 +53,25 @@ Most can switch between hands (with one or two thumbs), hooves, or claws (like a
 
 ## Morphs
 
+### Lycan
 
+The Lycan is a variant critter morph, designed to resemble a werewolf.
+It isn't aimed at the furry community; it's primarily aimed at horror and fantasy fans.
+
+- Type: Morph (Pod)
+- Layout: Humanoid
+- Movements: Walking 5/25
+- Size: Medium
+- Armor: 2E/3K
+- Durability / Wound Threshold: 40 / 8
+- Advantages: +5 COO, +5 REF, +5 SOM
+- Aptitude Maximum: 30
+- Disadvantages: Non-Human Biochemistry trait, Social Stigma (Pod), Social Stigma (Unusual Morph)
+- 'Ware: Access Jacks (Optional), Basic Biomods, Basic Mesh Inserts, Bioweave Armor, Light (2E/3K), Claws, Cortical Stack, Cyberbrain, Enhanced Respiration, Enhanced Hearing, Enhanced Smell, Mnemonic Augmentation, Temperature Tolerance
+- Available: Character Creation (20 CP); grown morphs are \[Expensive\]
+
+### Neko
+
+### Orion
+
+### Pon-E

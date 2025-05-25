@@ -199,7 +199,7 @@ While a handful of small weapons modules exist, they are rarely issued; most Roa
 Roadrunners are designed to be agile on the ground and in the air.
 (That, as well as their size, gives them their name; they do not have much *direct* resemblance to the old-Earth bird.)
 Their narrow bodies support partially-articulated delta wings, powerful hind legs designed for running and jumping, and thinner forelimbs designed for fine manipulation.
-They are quick for a bot their size, able to pace most transhumans at a run, and easily handle Mars' broken terrain.
+They are quick for a bot their size, able to pace most transhumans at a run, and to easily handle Mars' broken terrain.
 They also include a small internal turbofan engine and a limited supply of methane to power it; this gives them a quick airspeed, and a total flight time of almost thirty minutes.
 Vectored nozzles for and aft, combined with the articulation of the wings, can make the drone surprisingly agile in flight; it can maneuver in tight quarters, can take off from a running leap (or after being thrown), hover for short periods, and land vertically.
 (It is primarily designed for Mars' gravity; under "standard" gravity, it can still fly, but requires more space to take off and land.  It also cannot carry weapons in standard gravity.)
