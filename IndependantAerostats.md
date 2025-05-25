@@ -181,6 +181,84 @@ Calypso has relatively robust privacy laws, sometimes ranges far from other aero
 >
 > **Gunslinger\#MONOLITH**: It wouldn't be the first time that capitalists took risks with other people's lives.
 
+## The Highglands Communities
+
+| Highlands Circle | |
+| --- | --- |
+| Type | Aerostat, Processor Locus |
+| Gravity | Venus gravity (0.9G) |
+| Population | 768 |
+| Languages | English, Spanish, French |
+| Location | Venus |
+| Faction | Independent |
+| Governance | Informal |
+| Economy | Informal (market and favor) |
+| Memes | Unknown |
+
+| Highlands Close | |
+| --- | --- |
+| Type | Satellite, Processor Locus |
+| Gravity | - |
+| Population | 134 |
+| Languages | English, Spanish, French |
+| Location | Venus Orbit |
+| Faction | Independent |
+| Governance | Informal |
+| Economy | Informal (market and favor) |
+| Memes | Unknown |
+
+The Highlands Communities are a pair of habitats that primarily host infomorphs; Highlands Circle is a small aerostat that does have some human-habitable modules, while Highlands Close is an orbiting processor locus.
+The habitats have no particular economy or industry, no formal governance, and no (public) ties to other habitats.
+Nevertheless, they are beginning accession talks with the Skyfarer's League.
+
+Highlands Circle is essentially a large ballon; it is a sphere 250m in diameter.
+All but 17 of Highlands Circle's 768 residents are infomorphs; they reside in on of three server farms located in the bottom of the hab.
+Managing the cooling and power requirements of these server farms is a major factor in the design of the habitat.
+The environment at 50 kilometers is not ideal for a processor locus; to better manage the heat, it floats at an altitude of 60km, where temperatures are lower.
+However, atmospheric pressures are also lower; in order to maintain a lighter construction and lower mass, most of the aerostat's internal volumes are pressurized to only 0.3atm, to match the environment.
+Around the mid-line of the habitat, there is a toroidal module pressurized to a full atmosphere; this is the primary residence of the hab's few physically-sleeved residents.
+Though large, it is sparsely furnished; weight is at a premium.
+The habitat also includes a capsule containing a mix of hydrogen and helium at the top; this both increases its lifting capacity and helps it remain upright.
+
+Highlands Circle carries substantial power-generation and heat-sinking equipment.
+The balloon itself is powered by a small fusion reactor.
+This is not sufficient to power all of the habitat's systems; this is augmented by six "sponsons," secondary balloons floating 110m away, connected to the main hab by a skeletal mast strung with solar panels and radiators.
+The habitat also carries an array of microwave and radio transceivers, which it presumably uses to communicate with Highlands Close.
+
+Highlands Close is more mysterious.
+It is a small, irregular asteroid 189m in diameter at its largest point, not counting surface surface installations.
+An Extropian firm was hired to push a small asteroid out of the belt and insert it into Venus' orbit, and to set up some industrial and fabbing equipment.
+Presumably, this was used to construct the solar-power cells, radiators, and communications equipment that can be seen on its surface, as well as whatever equipment is being operated within.
+The Highlands Communities have claimed ownership of the habitat; while there is no particular reason to doubt this, there is also no public paper trail to prove it.
+They also claim that it hosts a processor locus and carries 112 residents, all infomorphs.
+This would not account for all of the heat dissipation and power generation that the habitat can be seen to carry; it is unknown whether this is merely future-proofing and capacity build-out, or if they are using the asteroid for something else.
+
+The Highlands Close communities also own a small number of microllites, which they use to carry communications between Highlands Close and Highlands Circle.
+Notably, Highlands Close and Highlands Circle do not circle venus in anything like the same period: Highlands Close orbits at an altitude of 2230km, giving it an orbital period of 2 hours and 20 minutes; meanwhile, Highlands Circle moves with the upper-atmospheric winds, allowing it to circle Venus every four days or more.
+The Highlands Communities do not own enough microllites to maintain communication between the two habitats at all times, so they also use commercial communications networks as carriers.
+
+Records are spotty, but the Highlands Communities appear to be the project of a small community of backers, centered around one person: Elizabeth "Glider" Cartwright.
+Cartwright was an engineer and first-gen colonist; she did design work Earth-side for hypercorp clients before taking a contract and moving to Venus orbit in BF33.
+She appears not to have been motivated by any particular political or economic ideology, as much as simple enthusiasm for technology.
+Though never wealthy, she eventually amassed enough savings to begin the early construction of her dream project: a small, simple aerostat.
+She shared her project and progress with friends and acquaintances, and eventually recruited other enthusiasts and backers.
+And thus, in AF 2, Highlands Circle was born.
+
+Within the hypercapitalist system, the habitat belonged to Cartwright; the independence referendum severed any remaining claim the Consortium had over her and Highland Circle, leaving her the sole owner.
+In a sense, she is the  monarch of the Community.
+She has not, however, been particularly prone to assert her will; as far as anyone can tell, she also does not charge her residents any particular rent.
+Technologists more than anything else, the Highlands Communities were not founded with any particular political or economic system.
+Internally, the hab appears to run primarily on tradition.
+
+As their residents have no physical needs, the habitat has no particular economy or industry.
+There are a few notable individuals and coops, including a small aerospace design cooperative, an investment microcorp, and a few simulspace design talents.
+(Notably, this cast does not include Cartwright herself, who has largely vanished from public view.)
+The habitat also has few connections with the outside world; while mesh traffic is not blocked, residents seem to be largely content to amuse themselves in simulspaces and internal affairs.
+
+The Highlands Communities are presently in accession talks to join the Skyfarer's League.
+With few residents and little industry to speak of, the main advantage the Communities bring is simply adding one more hab to the League.
+One novel obstacle is the fact that the habitat has no formal political or economic system; part of the process has been the formation of a government for the Communities themselves.
+
 ## Landis
 
 | Landis | |
@@ -198,6 +276,68 @@ It is not a research outposts; instead, it serves as a secure facility for hosti
 Facilities include physical meeting spaces; archives both secure and public; communications equipment; a farcaster and body-bank; and servers and small quarters for housing visitors both physical and virtual.
 
 Physically, Landis consists of a cylindrical oxygen/nitrogen enclosure 90m high and 100m in radius, with a small reserve of water and feed-stock hanging beneath to serve as a counter-weight.
+
+## Lazy Susan
+
+| Lazy Susan | |
+| --- | --- |
+| Type | Spaceship; Module hab, with two toruses |
+| Gravity | 0.5G and 0.25G |
+| Population | 30K |
+| Languages | Mandarin, Hindi, German, French |
+| Location | Mobile |
+| Faction | Morningstar Constellation |
+| Economy | Transitional, Mixed |
+
+The Lazy Susan is an unusual, large construction that blurs the line between spacecraft and habitat.
+The 'Susan consists of two large torus habitats, connected by a central superstructure, and propelled by a large fusion motor.
+The arrangement is something like the passenger transports common throughout the system, although much larger.
+
+The Lazy Susan was created when two torus habitats voted to leave the LLA and join the Morningstar Constellation.
+They lined the habitats up, connected them with a superstructure running through their central hubs, mounted a fusion motor on one end, and departed the Earth-Luna L1 point for Venus.
+When they arrived they joined the Morningstar Constellation, but they did not dismantle the superstructure and "settle" in Venusian orbit; instead, they remain a large spacecraft – boasting two large toruses and a population of 5 thousand people – traveling routes within the inner system, commonly between Venus and the main belt.
+
+The front torus was constructed by a conglomerate of Chinese aerospace corporations in BF 46, and was formally known as Sēnlín huán zhàn (Forest-Ring Station, 森林環站), named for a continuous forest taking up the upper third of the torus; it is 550m in radius and spun to 0.5g.
+The rear torus was constructed by a conglomerate of Indian proto-hypercorps in BF 42, and was known as Ashoka Chakra (Ashoka's Wheel), a reference to a popular symbol of Indian history and power; it is 475m in radius, and spun to 0.25g.
+The central spine is 1,175m long; it consists of a sturdy open framework, strung with small modules, pressurized passageways, support systems, and cargo containers, all wrapped in a flexible fabric outer layer.
+In order to keep the fabric shell under tension and to provide some mechanical dampening, the central spine has a thin nitrogen atmosphere, pressurized up to 0.1atm.
+
+While the Lazy Susan does carry some cargo, the income from this is far too low to sustain the habitat.
+Its primary industries are aerospace design, fashion, and banking.
+Forest-Ring Station hosted a number of space construction hypercorps, specializing in module design and small-scale ship fabrication; Ashoka's Wheel had been an early center of political power and wealth during India's expansion into space, and still hosted a number of fashion design houses, investment firms, and a branch of one of the LLA's famed investment banks.
+These business where carried to independence when the habitats departed the LLA.
+When they arrived at Venus, some former Lunars departed the habitat, and some Venusians immigrated; they brought with them a handful of Venusian socialites, influencing and enriching the local fashion scene, as well as outposts of a few hospitality hypercorps, catering to both Venusians looking to experience microgravity environments and the locals and dignitaries from the habitats that the 'Susan visits.
+
+The habitat's ascension to the Constellation has increased tensions with the Planetary Consortium.
+Forest-Ring Station's aerospace design capabilities give the Constellation a greater ability to produce a space defense force – which they have not so far pursued – and the presence of a branch of a Lunar bank gives the Constellation access to access to a credit system independent of the Consortium Credit and and access to the outer system's rep economies.
+
+## Miquelon
+
+| Miquelon | |
+| --- | --- |
+| Type | Aerostat |
+| Gravity | Venus gravity (0.9G) |
+| Population | 17K |
+| Languages | French, English, others |
+| Location | Venus |
+| Faction | Skyfarer's League |
+| Economy | Transitional, Hypercapitalist |
+
+Miquelon is a small aerostat primarily devoted to bio-engineering.
+It provides the League with a substantial reserve of scientific and technical expertise.
+
+Before the independence vote, Miquelon was a research installation devoted to the development of the specialized organisms that would be involved in establishing the earliest surface-dwelling biosphere as Venus was terraformed.
+The formation of the Morningstar Constellation and the collapse of the terraforming project left the Miquelon economy in dire straits; while Argonaut ties and led them depart the Consortium, resentment kept them from joining the Constellation, and the habitat became independent.
+Pragmatism (and a stalling economy) later led them to found the Skyfarer's League, together with Brunswick and Bremerhaven.
+
+Miquelon was originally a research outpost, rather than an civil polity with a developed economy.
+While the microcorps and hypercorps of Bremerhaven and Brunswick have begun to put Miquelon's substantial technical talent to work, the transition to a self-sustaining private economy is incomplete, and the habitat still has something of a "college town" atmosphere.
+Similarly, while the habitat has completed the transition to civil government, some old academic loyalties and patronages survive, creating something of an informal reputation network.
+
+While a few design teams still work on designer organisms for a "full" terraforming, most have pivoted to other endeavors.
+A number of hypercorps have formed to pursue joint projects with Bremerhaven's aerospace industry; these include a major long-term project researching the development of organic or nanotissue aerostats, with the long-term goal being to produce aerostats that are capable of growing, repairing, and modifying themselves.
+Others have been recruited for projects in Extropian markets, either on Brunswick itself or through that habitat's ties with the 'Belt.
+As Miquelon's economy has diversified, it has also drawn a handful of researchers from other fields.
 
 ## Moriah
 
@@ -257,63 +397,6 @@ It is not known how the habitat funds its operations; presumably, they are suppo
 > **Padre**: Generally, they don't want to provoke confrontations with other factions that out-gun them, so they'll suffer the presence of a "talkative thing" in the short-term.
 > But it would also depend on what you do.
 > It would not take much to get you expelled, and if there isn't a ship to take you, that's not their problem.
-
-## Lazy Susan
-
-| Lazy Susan | |
-| --- | --- |
-| Type | Spaceship; Module hab, with two toruses |
-| Gravity | 0.5G and 0.25G |
-| Population | 30K |
-| Languages | Mandarin, Hindi, German, French |
-| Location | Mobile |
-| Faction | Morningstar Constellation |
-| Economy | Transitional, Mixed |
-
-The Lazy Susan is an unusual, large construction that blurs the line between spacecraft and habitat.
-The 'Susan consists of two large centrigrav habitats, connected by a central structure, and propelled by a large fusion motor.
-
-The Lazy Susan was created when two torus habitats voted to leave the LLA and join the Morningstar Constellation.
-They lined the habitats up, connected them with a superstructure running through their central hubs, mounted a fusion motor on one end, and departed the Earth-Luna L1 point for Venus.
-When they arrived they joined the Morningstar Constellation, but they did not dismantle the superstructure and "settle" in Venusian orbit; instead, they remain a large spacecraft – boasting two large toruses and a population of 5 thousand people – traveling routes within the inner system.
-
-Physically, the Lazy Susan consists of two older toruses, connected by a central spire or structure.
-The front torus was of Chinese construction, built in BF 46, roughly 550m in radius and spun to 0.5g; the rear torus was of Indian construction, built in BF 42, roughly 475m in radius, and spun to 0.25g.
-The central spine is 1,175m long; it consists of a sturdy open framework, strung with small modules, pressurized passageways, support systems, and cargo containers, all wrapped in a flexible fabric outer layer.
-In order to keep the fabric shell under tension and to provide some mechanical dampening, the central spine has a thin nitrogen atmosphere, pressurized up to 0.1atm.
-
-While the Lazy Susan does carry cargo, this is only an incidental part of its economy.
-Its primary industries are aerospace design, fashion, and banking.
-Notably, when it left the LLA, it carried with it a branch of one of the LLA's highly effective banks.
-This represents something of a powerful asset, giving the Venusians access to both the Lunar banks' skill at working in the outer-system rep economies, and access to a credit system other than the Consortium's credits.
-
-## Miquelon
-
-| Miquelon | |
-| --- | --- |
-| Type | Aerostat |
-| Gravity | Venus gravity (0.9G) |
-| Population | 17K |
-| Languages | French, English, others |
-| Location | Venus |
-| Faction | Skyfarer's League |
-| Economy | Transitional, Hypercapitalist |
-
-Miquelon is a small aerostat primarily devoted to bio-engineering.
-It provides the League with a substantial reserve of scientific and technical expertise.
-
-Before the independence vote, Miquelon was a research installation devoted to the development of the specialized organisms that would be involved in establishing the earliest surface-dwelling biosphere as Venus was terraformed.
-The formation of the Morningstar Constellation and the collapse of the terraforming project left the Miquelon economy in dire straits; while Argonaut ties and led them depart the Consortium, resentment kept them from joining the Constellation, and the habitat became independent.
-Pragmatism (and a stalling economy) later led them to found the Skyfarer's League, together with Brunswick and Bremerhaven.
-
-Miquelon was originally a research outpost, rather than an civil polity with a developed economy.
-While the microcorps and hypercorps of Bremerhaven and Brunswick have begun to put Miquelon's substantial technical talent to work, the transition to a self-sustaining private economy is incomplete, and the habitat still has something of a "college town" atmosphere.
-Similarly, while the habitat has completed the transition to civil government, some old academic loyalties and patronages survive, creating something of an informal reputation network.
-
-While a few design teams still work on designer organisms for a "full" terraforming, most have pivoted to other endeavors.
-A number of hypercorps have formed to pursue joint projects with Bremerhaven's aerospace industry; these include a major long-term project researching the development of organic or nanotissue aerostats, with the long-term goal being to produce aerostats that are capable of growing, repairing, and modifying themselves.
-Others have been recruited for projects in Extropian markets, either on Brunswick itself or through that habitat's ties with the 'Belt.
-As Miquelon's economy has diversified, it has also drawn a handful of researchers from other fields.
 
 ## Siniyah
 
