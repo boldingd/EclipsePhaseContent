@@ -1,8 +1,8 @@
 # Furry Pandering
 
-> I was talking with a friend, and I observed that the Critter morph is not good furry pandering.
-> Clearly, ana attempt was made, it just missed.
->
+> While talking with a friend, I observed that the Critter morph was probably an attempt at pandering to furries, but it was written by someone who didn't "get" us.
+> This short document is an attempt at slightly better furry pandering.
+> It is half serious, half in jest; hopefully normies can find some humor in it – but if the furry at your gaming table wants to actually run some content from it, that's fine too.
 
 \[iNet Internal Wiki]  
 \|Maintainers: \[\@Equipment-Working-Group | working group, internal\]  
