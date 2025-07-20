@@ -222,7 +222,7 @@ The habitat also includes a capsule containing a mix of hydrogen and helium at t
 
 Highlands Circle carries substantial power-generation and heat-sinking equipment.
 The balloon itself is powered by a small fusion reactor.
-This is not sufficient to power all of the habitat's systems; this is augmented by six "sponsons," secondary balloons floating 110m away, connected to the main hab by a skeletal mast strung with solar panels and radiators.
+This is not sufficient to power all of the habitat's systems; this is augmented by six "sponsons," secondary balloons floating 210m away, connected to the main hab by a skeletal mast strung with solar panels and radiators.
 The habitat also carries an array of microwave and radio transceivers, which it presumably uses to communicate with Highlands Close.
 
 Highlands Close is more mysterious.
