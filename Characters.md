@@ -1,3 +1,5 @@
+# Characters
+
 ### Curé
 
 | Curé | |
@@ -118,7 +120,7 @@ Care must be taken when he is placed on a team with either the particularly thin
 | Rank | Proxy |
 | Reputation | Good |
 | Skills | Combat, Nanotechnology, Medicine, Psychosurgery, Ecology |
-| Tags | Unusual Ego, Difficulty Resleeving, Morph Requirements |
+| Tags | Unusual Ego, Difficulty Resleeving, Morph Requirements, \/\/ Need-to-Know Only: Async |
 
 The **Plasmage** is a Proxy operating out of the wilds on Mars.
 Notably, he served as a Sentinel for several years before becoming a proxy in his own right.
@@ -350,11 +352,11 @@ Her overall feedback is strong; an operation on the slopes of Olympus was a part
 | Skills | Combat, Tactics, Infiltration |
 | Tags | \/\/ Need-to-Know Only: Previous Identity Disclosure |
 
-**Note**:  
-You should probably set a nickname for this account, since it changes handles a lot.
-It's original display-name was "8xAkimbo Raging Bulls", so he's commonly referred to as "Akimbo" or "RBs" in conversation.
-You can use `[account-name:ID]`, where `ID` is this account's ID, to get the account's current display name; it will be rendered like this: *Cyrano de Bergerac's Pansexual Cephalopod Understudy*.
-Within this wiki article, you can also use `[this]`, which will inject this article's current title (which should always be his display name).
+> **Note**:  
+> You should probably set a nickname for this account, since it changes handles frequently.
+> It's original display-name was "8xAkimbo Raging Bulls", so he's commonly referred to as "Akimbo" or "RBs" in conversation.
+> You can use `[account-name:ID]`, where `ID` is this account's ID, to get the account's current display name; it will be rendered like this: *Cyrano de Bergerac's Pansexual Cephalopod Understudy*.
+> Within this wiki article, you can also use `[this]`, which will inject this article's current title (which should always be his display name).
 
 Commonly called "Akimbo" or "RBs," *Cyrano de Bergerac's Pansexual Cephalopod Understudy* is a sentinel known for his effectiveness in combat and infiltration roles, and more recently for his support and advisory work.
 He has an excellent track-record and good feedback; his only real demerits are a slightly irritable personal style and being more than a little gung-ho.
@@ -399,3 +401,29 @@ Her op-sec is generally good, so the consensus is that the risk is low.)
 Notably, owing to her experience with the organization and professional demeanor, she often falls into an unofficial "command" role in operations, and has also been a valuable guide and mentor for new and inexperienced Sentinels.
 
 Operatives contacting her for aide or collaboration should be aware that she has a young daughter, and that this can introduce a certain amount of unavoidable logistical drag.
+
+### Briar
+
+| Briar | |
+| --- | --- |
+| Identity | Corvid, he/him |
+| Languages | English (American) (Native), Spanish (American) (Native), Hindi (Basic), Corvidae (proposed Corvid conlang) (Basic) |
+| Rank | Sentinel |
+| Reputation | Very Good |
+| Skills | Flying, Pilot, Negotiation, Business, Improvised Explosives |
+| Tags | |
+
+### Scott Baculum
+
+| \*Vagrant | |
+| --- | --- |
+| Identity | Human, he/him |
+| Languages | Aragonese (Native), Spanish (Fluent), English (Fluent), Barsoomian (Conversational) |
+| Rank | Sentinel |
+| Reputation | Good |
+| Skills | Infiltration, Survival, Gatecrashing |
+| Tags | Unusual Ego, Difficulty Resleeving, \/\/ Need-to-Know Only: Async, \/\/ Need-to-Know Only: Previous Identity Disclosure |
+
+> **Note**:  
+> You should probably set a nickname for this account, since it changes handles frequently.
+> Within this wiki article, you can also use `[this]`, which will inject this article's current title (which should always be his display name).
