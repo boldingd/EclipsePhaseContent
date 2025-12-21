@@ -8,6 +8,48 @@
 \|Maintainers: \[\@Equipment-Working-Group | working group, internal\]  
 \|Editing: editing is *moderated*; edits are reviewed by maintainers  
 
+## A Little History
+
+The Furry community goes back more than a century before the Fall.
+It had its earliest start before the earliest computer networks, in animation- and "funny animal"-themed physical meet-ups and circulars.
+
+The early internet – the centralized, hardwired equivalent to the modern mesh – turned those small circles into a national and then global phenomenon.
+The community started out in the relatively affluent and connected "west," but it spread to the rest of the world as the early internet and digital culture spread.
+
+The Furry community skews educated and left; unsurprisingly, during the early era of space colonization, as Terran governments started to become more restrictive and backward-looking, Furries where slightly more likely than the general population to leave Earth, slightly more likely to be willing to egocast, and more likely to settle in the 'Belt and Outer System.
+Worth nothing, though, these are not strong trends: there are Furries in almost every faction and large habitat.
+
+> **anarcat**: I don't want to put personal anecdotes in the main text, but, just scrolling through my Blue-Hex contacts, I'm seeing a surface worker on Venus, a security expert in the Jovian Republic, an Argonaut working a project at Neptune…
+>
+> **Padre**: I'm curious.
+> You said "almost"; is that just hedging, or are there specific factions that don't allow furries?
+>
+> **anarcat**: Two, actually.
+> Or, rather, they don't specifically prohibit us, but we're strongly stigmatized.
+> Ultimates and Mercurials.
+> I'll talk about them in a bit.
+
+## Furries
+
+Today, furries are still a "mesh-first" sub-culture, distributed sparsely throughout the solar-system.
+
+Coming up with exact numbers is a little tricky – not the least vexing problem is, who counts as a furry? – but I've seen the number 8 million thrown around as an estimate for the total Furry population at the time of the Fall.
+At that time, total system population would have been around 10 billion; that gives us a density of roughly one out of every 1250 people, give or take.
+Because we skewed towards the 'Belt and outer system and away from Earth, we came through the Fall better than some; it looks like there are about 1.1 million of us around today, out of a solar-system population of around 1 billion.
+(Infugees in storage were not counted in either number.)
+
+Notably, most furries don't sleeve furry morphs or live in furry communities.
+First off, we're scattered through the solar-systems, often in small numbers – sometimes only one or two people on smaller habs.
+Second, for many of us, the furry subculture is only one of our many identities and interests.
+That's also one of the reasons that counting furries is tricky: how active in the community do you need to be to count?
+
+> **anarcat**: Due disclosure: both of the main writers here, myself and \@\*Ishtar, are sleeved in furry morphs.
+> And Ishtar does live on a lifestyler habitat.
+>
+> …we are not necessarily representative.
+
+For many of us, the mesh and simulspaces give us ample opportunity to express our furrier sides while still keeping a ha
+
 ## 'Ware
 
 ### Biomask

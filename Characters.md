@@ -427,3 +427,22 @@ Operatives contacting her for aide or collaboration should be aware that she has
 > **Note**:  
 > You should probably set a nickname for this account, since it changes handles frequently.
 > Within this wiki article, you can also use `[this]`, which will inject this article's current title (which should always be his display name).
+
+### 𒀭𒀹𒁯
+
+| \*Ishtar | |
+| --- | --- |
+| Identity | Agi, she/her |
+| Languages | Skandinaviska (Native), *'Sphere* (Fluent), English (Conversational), German (Conversational) |
+| Rank | Sentinel |
+| Reputation | Good |
+| Skills | Infiltration, Survival, Gatecrashing |
+| Tags | Unusual Ego, Difficulty Resleeving, \/\/ Need-to-Know Only: Async, \/\/ Need-to-Know Only: Previous Identity Disclosure |
+
+> **Note**:
+> This account's name is the original, cuneiform spelling of the name of the Sumerian goddess Ishtar.
+> Most people just call her "Ishtar", and set an appropriate alias.
+
+> **Note**:
+> "'Sphere" is a local language spoken on this Sentinel's home habitat.
+> It is a rough creole of English and German.
