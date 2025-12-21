@@ -118,9 +118,12 @@ The surprise is starting to wear off; at this point, most people are bracing for
 ## Colonization
 
 So, Apsu is a primordial world.
-Too much potential to ignore, too long-term to fight for – both the Consortium and Titanians have colonized worlds that already have biospheres *now*, and TerraGenesis has a dozen projects extrasolar projects in the work.
+Too much potential to ignore, too long-term to fight for – both the Consortium and Titanians have colonized worlds that already have biospheres *now*, and TerraGenesis has a dozen extrasolar projects in the works.
 And, of course, bad neighbors: capitalists, anarchists, and fascists all have their plot staked out already.
 
 
 
 ## Factions
+
+### Hypercapitalists
+

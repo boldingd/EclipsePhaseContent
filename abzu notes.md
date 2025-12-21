@@ -32,6 +32,18 @@
   - So, essentially, each major faction is letting their B-teams and minor members fight it out, while backing their side.
   - So, a kind of proxy war.
 
+- I went through some of this with Claude.
+- Turns out that ~20%-30% CO2 would have been completely hellish and unworkable.
+- But ~3%-5% gets me where I want to go.
+  - Surface temperatures between 30C-80C, depending on lattitude and season.
+  - No haze; sulfur will get washed out, water vapor will still form clouds.
+  - Still toxic, so some kind of protection is still required.
+- Very importantly, still more than enough suspended carbon to build a biosphere.
+  - Way *more* than is required, actually.
+- Another minor note: the idea of an equatorial badlands.
+  - It occurred to me since I wrote these notes, I think.
+  - And it still works with the 3%-5% version.
+
 ## Some general gatecrashing notes
 
 Gates:
