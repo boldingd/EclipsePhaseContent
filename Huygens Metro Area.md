@@ -26,9 +26,17 @@ It was the Argonauts that named the region in BF 28; it was named not for Huygen
 
 ## The Ditch
 
-- Population: 7K
-- Faction: Argonaut
-- Industries: Research, Terraforming, Nanoecology
+| The Ditch | |
+| --- | --- |
+| Type | Cavern (sealed natural ravine) |
+| Gravity | Mars gravity (0.38G) |
+| Population | 9k |
+| Languages | English |
+| Location | Mars, Syrtis Major Planum |
+| Faction | Argonaut, Tharsis League |
+| Governance | Institutional |
+| Economy | Institutional, Transitional |
+| Industry | Research, Terraforming, Nanoecology |
 
 The Ditch is an old Argonaut facility with a nearly 50-year history.
 Constructed relatively early in the colonization of Mars, it took advantage of existing terrain features and used local materials; it's built along a gully, which was walled off, roofed over, and sealed with ceramics and concrete made from the local rock.
@@ -57,10 +65,18 @@ On the other hand, the Ditch does not have a body-bank or resleeving facilities,
 
 ## Endicott City
 
-- Population: 250K
-- Faction: Planetary Consortium
-  - Owner: Endicott City Holding Company, Cognite
-- Industries: Research, Therapy, Psychosurgery, Terraforming
+| Endicott City | |
+| --- | --- |
+| Type | Building Complex |
+| Gravity | Mars gravity (0.38G) |
+| Population | 175k |
+| Languages | English, Mandarin |
+| Location | Mars, Syrtis Major Planum |
+| Faction | Planetary Consortium, Tharsis League |
+| Owner | Endicott City Holding Company, Cognite |
+| Governance | Private Ownership with Advisory Votes |
+| Economy | Transitional, Hypercapitalist |
+| Industry | Research, Therapy, Psychosurgery |
 
 Endicott is a large Martian habitat owned (primarily) by Cognite.
 Cognite's motivation in constructing a planet-side installation are somewhat unclear.
@@ -99,8 +115,7 @@ The remainder of the of the shares are distributed between several local compani
 >
 > **Gunslinger\#MONOLITH**: And you believe this actually happened?
 >
-> **anarcat**: If I can maybe put a stop to this before Curé shows up with the Tools, Ratty is in fact correct.
-> I can confirm from the Mutualist side that that did in fact happen.
+> **anarcat**: If I can maybe put a stop to this before Curé shows up with the Tools, I can confirm from the Mutualist side.
 > Now, as to what kind of difference it's going to make, I don't know.
 > Oversight *also* isn't thrilled to have socialists buying shares in Martian habs, even market-socialists.
 >
@@ -125,7 +140,7 @@ Much of the exterior of the habitat is made of a solid, composite, concrete-like
 (Stricly speaking, the thinner material that the domes are made of would provide inadequate protection for morphs without the appropriate biomods; morphs without basic biomods are advised to limite time spent in the domes.)
 The roof of the hab is accessible to residents, and is laid out much like an open, spare park; it also has landing-points for flying cars and helos.
 
-The city is also surrounded by a extensive field of solar panels – the largest of any of the habitats in the area.
+The city is also surrounded by an extensive field of solar panels – the largest of any of the habitats in the area.
 This is augmented with internal fusion power sources, and substantial power storage.
 Unsurprisingly, Endicott City is a major exporter of power – much of which purchased by Gravel to the north.
 
@@ -168,25 +183,33 @@ While not a union itself, each of Endicott's four unions holds a 7% stake apiece
 
 ## the Polygon Steps
 
-- Population: 12K
-- Faction: Extropian (market-socialist)
-  - Owner: Polygon Cooperative
-- Industries: Terraforming, Microfacture
+| The Polygon Steps | |
+| --- | --- |
+| Type | Module, Building Complex |
+| Gravity | Mars gravity (0.38G) |
+| Population | 13k |
+| Languages | English, Spanish, Arabic |
+| Location | Mars, Syrtis Major Planum |
+| Faction | Extropian, Tharsis League |
+| Owner | Polygon Cooperative |
+| Governance | Anarchist, Direct Democracy |
+| Economy | Market Socialism |
+| Industry | Terraforming, Microfacture |
 
-More commonly and simply called the Hexagons, the Polygon Steps are an Extropian market-socialist habitat (often incorrectly referred to as "mutualist") located about a kilometer and a half northwest of Endicott City.
+More commonly and simply called the Hexagons, the Polygon Steps are an Extropian market-socialist habitat located about a kilometer and a half northwest of Endicott City.
 The habitat is owned by the Polygon Cooperative, a market-socialist Extropian cooperative.
 
 The habitat is designed as a closely-clustered set of hexagonal "towers" of various heights, giving it a look a bit like an abstract art installation – although the design is functional as well as cosmetic.
 Construction on the habitat began in BF 1, and continued into the Fall; the design of the Polygons allows them to be constructed cheaply and quickly; to be broken into individual units, each capable of being built, expanded, or modified separately; to be equipped with redundant systems; and to be capable of being isolated from the others.
 
-Each tower has the same "footprint", so that they will fit together: each is a hexagon 50m to a side.
+Each tower has the same "footprint", so that they will fit together or tesselate: each is a hexagon 50m to a side.
 The tallest tower, situated in the middle of the Polygons, is 65m high; the others around it are shorter, *generally* decreasing in height as you move away from the center.
 The exterior walls of each tower are heavily constructed, being about 4m thick; they consist of outer retaining walls made of iron extracted from local rock, with the interior filled with crushed rock.
 Similarly, the roof of each tower is covered with a thick layer of crushed rock almost five meters thick, contained by an outer retaining wall; this provides ample cosmic radiation shielding.
 (A roof that heavy is made significantly more practical in Mars' low gravity.)
 The upper surface of the roofs are typically covered in a fine layer of dust and grit, and are often styled as rock gardens – most as so-called "Zen" gardens, although a few feature other decorations.
 Two towers feature some larger boulders topped planted with lichen, one features watered planters with saplings of hardy mars-adapted ceders, and one, has a small statuary garden.
-(And a few, of course, are equipeed with operating facilites, such as communications towers or landing spaces for flying cars.)
+(And a few, of course, are equipped with operating facilities, such as communications towers or landing spaces for flying cars.)
 The area is often described as sparsely beautiful.
 
 The interior of the habitat is the kind of close-quarters chaos that typifies the main belt, an environment in which maybe only Extropians thrive.
@@ -201,11 +224,123 @@ High-end Korean/Cajun fusion restaurants sit across from walk-up body-mod shops;
 
 Unlike the other habitats in the region, the Polygon Steps don't specialize in any particular industry; true to the Extropian reputation, a little of everything can be found in the vibrant and dynamic markets of the Hexagons.
 Notably, they do possess several minifacturing bays and industrial-scale fabbers; this makes them a surprisingly productive industrial economy, despite their small population.
-Of course, the Hexagons also offer a number of services that are otherwise illegal in Consortium habitats.
+Of course, the Hexagons also boast a thriving service sector, in cluding a range of services that are otherwise illegal in Consortium habitats.
 They often sometimes serve as a refuge for those who wish to operate from a safe or neutral position while they deal with Cognite or Somatek.
 
 ### Market Socialism
 
-The Polygon Cooperative falls into a broad spectrum of market-socialist systems that are often inaccurately described as "mutualist", even though they are not particularly Proudhonian.
+The Polygon Cooperative falls into a broad spectrum of market-socialist and social-anarchist systems.
+They reject the accumulation of capital possible under hypercapitalsim, and the concentration of coercive power possible in statist systems; however, unlike more classically socialist systems, they do not attempt to completely extinguish private property, and they reject the labor theory of value.
 
-The 
+The habitat does not *in general* reject private property, nor does it attempt to distinguish between use-right and capitalist ownership.
+It does, however, reject the private ownership or exclusive exploitation of natural resources, the seeking of rent, and the private ownership of the major infrastructure required for the survival of individuals and the function of the community – i.e. the habitat itself and its major infrastructure.
+
+Similarly, the habitat does not accept the labor theory of value; they allow both freely-priced exchange and wage labor.
+Like many mutualist systems, while they do not directly inveigh into member's private affairs, they do provide both a public dividend and cheap support for new cooperatives, under the assumption that these will prevent exploitative relationships from developing.
+
+In practice, the habitat itself, its infrastructure and major facilities, and its supporting drone fleets are "owned" by the Polygon Coopeprative.
+(They claim the "ownership" of the habitat only so far as it is required by the Tharsis League's laws.)
+Some of the output of these systems are auctioned to members and member-cooperatives for productive use; the remaining resources are distributed to members for their use.
+
+The Cooperative itself is member-held and uses a direct-democratic model of governance.
+In practice, the top-level Cooperative does little.
+Members contract for most services on the habitat's market; as in most Extropian or market-anarchist systems, this even includes conflict-resolution, self-defence, healthcare, and education.
+The Cooperative's main operations are to maintain the habitat, its major facilities, and its drones; to oversee the various cooperatives and private providers of services; and to manage the habitat's defences.
+
+Trading material resources outside of the markete-socialist community requries a special dispensation; the community claims a portion of the price of such sales.
+(One of the few instances of a tax or levy in their society.)
+This is not the case for *services*, however; and the Cooperative has a thriving (if eclective) service economy.
+
+## Gravel
+
+| Gravel | |
+| --- | --- |
+| Type | Burried Dome |
+| Gravity | Mars gravity (0.38G) |
+| Population | 51k |
+| Languages | English |
+| Location | Mars, Syrtis Major Planum |
+| Faction | Planetary Consortium, Tharsis League |
+| Owner | Gravel Development Company, Soma-Tek (indirect), Gravel Non-Human Advocacy Group (indirect) |
+| Governance | Private Ownership with Advisory Votes |
+| Economy | Transitional, Hypercapitalist |
+| Industry | Research, Uplifting, Uplift Accomodations |
+
+Gravel is the newest habitat in the region.
+It was rapidly constructed in AF 7, as a shameless attempt by Soma-Tek to buy a chunk of what was developing into a prosperous economic region and a useful pool of talent.
+
+Even more than Cognite, Soma-Tek was not interested in owning or administering a habitat.
+They also established a holding-company to develop and administer their habitat, and were not discriminating in who they partnered with.
+Today, Soma-Tek has only a 26% share in the Gravel Development Company – still the largest single owner, and more than enough to ensure that their interests are served, but not enough to control the habitat outright.
+They are joined by the *Gravel Non-Human Advocacy Association*, which represents the interests of uplifts in Gravel, at 15%; the *Gravel Association of Microfacturers*, an industrial trade group, at 13%; the Soma-Tek Employee Investment Fund at 11%;Tharsis Capital and Freehold Investing, two hypercapitalist mutual funds, at 9% and 6%, respectively; and a host of smaller investors and partners.
+This leads, unsurprisingly, to both chaotic and nonpartisan management of the habitat.
+
+They also have not been discriminating in who the GDC leases space too, nor has the GDC itself exerted a particularly heavy (or coordinated) hand in civil planning.
+As a result, Gravel is commonly held to be *chaotic* in its internal design and layout.
+The habitat is a riot of designs and styles, with streets meeting at odd angles, irregularly-sized parks and terraces inserted into whatever spaces are available, and gleaming neowestern office tours sitting next to neo-Avian towers.
+
+Being founded by Soma-Tek, the habitat offers uplifts (and AGIs) equal legal status to transhumans; this is an improvement over the Tharsis League's laws, which treats AGIs and uplifts as second-class citizens, subject to legal restriction and requirements that transhumans are not.
+As such, Gravel has attracted a number of Mars' AGIs and uplifts.
+This has not helped the chaos of Gravel's internal design, with many buildings and public spaces designed to cater to different uplift species, from neo-cetaceans to neo-avians.
+
+Gravel's economy is more diverse than Endicott City's; as a result, it is growing faster.
+Soma-Tek's influence has also been much less heavy-handed; they are willing to allow the city to grow and change in ways that do not directly serve their interests – so long as they also do not injure them, of course.
+While the city is still well below it's designed population, it may reach it within another year; the city's growth is fast enough that the GDC has begun consideration of possible expansion.
+Some joke that, in ten years time, Gravel may turn out to be the region's largest and most prosperous habitat.
+
+While Gravel does have it's own solar fields and fusion power plants, it is a net-importer of both power and water.
+This wrankles some, who feel that the simple and communitarian design of the HMAA will be spoiled if permanent producer/consumer relations are established.
+At the same time, the population of Gravel has been useful in checking the interests of Cognite in local politics – if not those of the much larger Endicott city.
+
+### Crime
+
+Gravel has also attracted a criminal element.
+
+> **Regolith**: two bits of information: one, it's not "gangs", it's 9 Lives, Rada family.
+> Two, that might be useful: something went down on Legba a few months ago, and the Rada and Petro aren't happy about it.
+> This could be an opportunity, if anyone wants to take the risk.
+>
+> **0514NOMAD**: Message me.
+> Or ping my router.
+> If you pull anything together, I want to be there.
+>
+> **Plasmage**: I'm in, I'll open the file as proxy-of-record.
+> I can get us at least one more gun-hand if we've got room.
+>
+> **Regolith**: Well hell, this is turning into a party!
+> I'll put the word out, see who feels talkative.
+>
+> **Padre**: I suppose this would not be a good time to give you a speech about proxies not putting themselves at risk in the field.
+> Or factional neutrality.
+> Or wrathfullness and vengeance, come to think of it.
+>
+> **anarcat**: My friend, I think they're too busy polishing their axes to check their messages.
+>
+> **Regolith**: nobody gonna shed a tear for 9 Lives, Padre.
+
+## Huygens Metropolitan Area Authority
+
+The Huygens Metropolitan Area Authority (HMAA) is the civil government of the region.
+It grew out of pre-existing resource-sharing arrangements, first between the Ditch and Endicott City, and later incorporating the Polygon Cooperative.
+The HMAA as such was established to represent the region and its inhabitants in the Tharsis League.
+
+The HMAA is a federation of the area's settlements, empowered to handle only certain tasks, with the settlements themselves remaining otherwise sovereign.
+The HMAA represents the population in the Tharsis League; operates the Hyugens Resource Exchange; maintains a local police force; supports the Rangers assigned to the region; and operates the region's small primary spaceport.
+
+Importantly, this is also how the settlements of the region have gotten away with bending – and sometimes breaking – the League's rules.
+It is the HMAA that is a member of the Tharsis League, and thus it is the HMAA that is responsible for enforcing the League's laws and regulations.
+However, in practice, the Association is controlled by and responsible to its member habitats and their populations.
+Therefore, whenever a conflict between the mandates of the League and the desires of the residents of the Syrtis Major Planum arise, it is the latter that tend to win out.
+
+The HMAA is also a representative democracy – votes are accorded to *residents*, not the settlements themselves.
+This means that large local interests like Cognite and Soma-Tek cannot completely dominated the HMAA; whle they do not want for either political influence or control within their habs, they cannot control (or at least have not yet controlled) the votes of the residents of Endicott or Gravel directly.
+This, together with a large amount of political capital expended by the Ditch and the Polygon Cooperative, has ensured that the HMAA relatively "secular" – far more concerned with local politics, policing, and administration than it is with shutting down insufficiently-licensed Extropian fabs or ensuring that AGIs are locked-down to the letter of the League's law.
+
+> **Plasmage**: 
+
+### Facilities
+
+The HMAA has two major physical outposts in the area: the Area Seat in the southwest, and the Hyugens Spaceport in the southeast.
+
+The Area Seat is a small outpost that hosts the federal government's few facilities.
+It's dominated 

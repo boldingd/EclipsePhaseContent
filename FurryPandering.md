@@ -35,20 +35,34 @@ Today, furries are still a "mesh-first" sub-culture, distributed sparsely throug
 
 Coming up with exact numbers is a little tricky – not the least vexing problem is, who counts as a furry? – but I've seen the number 8 million thrown around as an estimate for the total Furry population at the time of the Fall.
 At that time, total system population would have been around 10 billion; that gives us a density of roughly one out of every 1250 people, give or take.
-Because we skewed towards the 'Belt and outer system and away from Earth, we came through the Fall better than some; it looks like there are about 1.1 million of us around today, out of a solar-system population of around 1 billion.
+Because our population was skewed towards the 'Belt and outer system, we came through the Fall better than some; it looks like there are about 1.1 million of us around today, out of a solar-system population of around 1 billion.
 (Infugees in storage were not counted in either number.)
 
 Notably, most furries don't sleeve furry morphs or live in furry communities.
 First off, we're scattered through the solar-systems, often in small numbers – sometimes only one or two people on smaller habs.
-Second, for many of us, the furry subculture is only one of our many identities and interests.
-That's also one of the reasons that counting furries is tricky: how active in the community do you need to be to count?
+Second, for many of us, the furry subculture is only one of our many identities and interests; we don't sleeve furry morphs full-time for the same reason that fans of fantasy novels don't sleeve morphs based on elves or orcs.
+
+This is also one of the reasons that counting furries is tricky: how active in the community do you need to be to count?
 
 > **anarcat**: Due disclosure: both of the main writers here, myself and \@\*Ishtar, are sleeved in furry morphs.
 > And Ishtar does live on a lifestyler habitat.
 >
 > …we are not necessarily representative.
 
-For many of us, the mesh and simulspaces give us ample opportunity to express our furrier sides while still keeping a ha
+For many of us, the mesh and simulspaces give us ample opportunity to express our furrier sides while still keeping our feet firmly planted in the mundane world.
+
+Both furrsuits and mesh overlays remain popular alternatives for meetups and similar situations.
+A wide range of options exist for both; there are plenty of highly-customizable open-source products available, but there are also any number of artisans and artists who can create bespoke products.
+
+This isn't to say that lifestyler habs and communities don't exist, of course; but you should understand that they aren't the norm.
+The vast majority of furries are normal people, with suits in their closets.
+
+### Meetups and Conferences
+
+For the same reasons – because we are scattered throughout the solar system, only rarely concentrated beyond a small community or group of friends – meetups and conferences are still common.
+Most large habs and cities have at least one furry meet-up group, who organize regular events and gatherings; conventions are larger and rarer, gathering attendees from throughout the solar system – and even beyond, as at least on 'crasher has come back to Sol to attend.
+
+
 
 ## 'Ware
 
@@ -57,10 +71,10 @@ For many of us, the mesh and simulspaces give us ample opportunity to express ou
 Biomasks are still in development, and are not production-ready or generally available; they are included for completeness.
 
 Similar in concept to a synthmask, a biomask is a layer of organic tissue and organs that are applied to the outside of a synthmorph.
-Current-gen biomasks don't offer many advantages over conventional, nanotech synth-masks; the main benefit they offer right now is to authenticists who want their morphs to include some of the actual biology of the animal their 'sona is based on (although biomasks are obviously transgenic).
+Current-gen biomasks don't offer many advantages over conventional, synthetic tissue synth-masks; the main benefit is to authenticists who want their morphs to include some of the actual biology of the animal their 'sona is based on (although biomasks are obviously transgenic).
 
 Plans for future development are ambitious, however.
-Some groups want to integrate small digestive tracts; these could be integrated with the synth's systems, and would allow the biomask's metabolism to provide power to the synth's systems.
+Some groups want to integrate small digestive tracts; these could be integrated with the synth's systems, and would allow the biomask's metabolism to provide power to the synth.
 Even more ambitiously, some hope to eventually integrate a partially-working reproductive system, allowing biomasked synths to carry pregnancies to term (although generating a viable genome and an ova are still at least a decade away; at present, embryos would need to be produced via in-vitro fertilization).
 
 ### Frame Adjusting
@@ -123,8 +137,11 @@ Biomorphs with Gum also benefit from slightly higher armor ratings; they gain +2
 ### Holoskin
 
 *Holoskin* consists of an array of holoprojectors positioned around a morph, which can be used to project a virtual image over its surface.
-Among other things, this allows a morph to display any physical appearance its user desires.
-Unfortunately, because holograms are only visible in the visual spectrum, holoskins are not particularly useful for impersonation or infiltration; however, because they allow a morph to change its appearance at any time, they are popular with those who like to be able to adjust their appearance on the fly, or whose desired physical appearance is fantastical or difficult to achieve – notably including furries.
+Among other things, this allows a morph to display any physical appearance its user desires – subject, of course, to that design fitting over the surface of the physical morph.
+
+Unfortunately for Firewall, because holograms are only visible in the visual spectrum, holoskins are not particularly useful for impersonation or infiltration.
+(Among other limitations; holograms are primarily emissive, for example, and so cannot cast shadows.)
+Because they allow a morph to change its appearance at any time, they are popular with those who like to be able to adjust their appearance on the fly, or whose desired physical appearance is fantastical or difficult to achieve – notably including furries.
 
 - Type: Gear (cyberwear)
 - Available: Common \[Low\]
@@ -133,6 +150,8 @@ Unfortunately, because holograms are only visible in the visual spectrum, holosk
 
 Omnihands are *frame-adjusting* cyberware hands with the ability to assume several configurations.
 Most can switch between hands (with one or two thumbs), hooves, or claws (like a crab's); changing configuration takes a *quick action*.
+
+While omnihands do have practical uses, they were primarily developed to support furry, brony, fantasy, and similar subcultures, to allow morphs that do not normally have hands (ranging from ponies too dragons) to function in a society designed for transhuman hands.
 
 - Type: Gear (cyberwear)
 - Available: Furry Subculture \[Low\], Brony Subculture \[Low\]
@@ -152,9 +171,9 @@ Conventions with a physical-space component often keep a few of Furs on hand so 
 - Size: Medium
 - Armor: 6E/6K
 - Durability / Wound Threshold: 40 / 8
-- Advantages: *Synthmorph Traits*, trait, Inherent Armor 6E/6K, +5 SOM, +5 to one other aptitude of the player's choice
+- Advantages: *Synthmorph Traits*, Inherent Armor 6E/6K, +5 SOM, +5 to one other aptitude of the player's choice
 - Aptitude Maximum: 30
-- Disadvantages: Social Stigma (Unusual Subculture)
+- Disadvantages: Social Stigma (Synth), Social Stigma (Unusual Subculture)
 - 'Ware: Access Jacks (Optional), Basic Mesh Inserts, Bodysculpting, Chameleon Skin/Fur, Claws (Optional), Cortical Stack, Cyberbrain, Enhanced Hearing (Optional), Enhanced Smell (Optional), Enhanced Vision (Optional), Mnemonic Augmentation, Synthetic Mask.  Further mods are common; smart tattoos, wings, prehensile tails, extra limbs, and enhanced jaws are common.
 - Available: Character Creation (30 CP); Furry Subculture \[High\]
 
@@ -167,10 +186,10 @@ Variants:
 ### Lycan
 
 The Lycan is a variant critter morph, designed to resemble a werewolf.
-It is primarily aimed at horror and fantasy fans , and is available in several varieties, designed to mimic different varieties of werewolves from different sources.
+It is primarily aimed at horror and fantasy fans, and is available in several varieties, designed to mimic different varieties of werewolves from different sources.
 (A tailless variant is particularly popular with fantasy ARG players.)
 
-Unfortunately, the morph is a conventional transgenic pod, and so it is not capable of transforming into a human form.
+Unfortunately, the morph is a conventional transgenic pod, and so it is not capable of *transforming* like the werewolves of legend.
 
 The morph is restricted on some habitats, because of its enhanced musculature and claws.
 
@@ -194,8 +213,8 @@ The morph is restricted on some habitats, because of its enhanced musculature an
 
 The Neko adds cat-like physical features to a gene-fixed human morph.
 
-The morph is not a furry morph *per se*.
-Instead, it mainly appeals to anime fans.
+The morph is not designed for the furry subculture *per se*.
+Instead, it is mainly intended for anime fans.
 
 The morph is being developed using a patronage model.
 Those who fund the project can make and vote on feature requests, but the resultant genetics are ultimately released under an open license.
@@ -249,6 +268,7 @@ Many users will arrange it into a roughly humanoid layout, with two points serve
 P1Es (pronounced "pony") are synthmorphs developed by the brony community.
 A bit like furries, bronies have a strong maker culture; the P1E is developed as an open-source project, and at this point the design is fairly mature.
 Being open-source, the morph is also available in a dizzying array of configurations – including, amusingly, a few targeted at gatecrashers and terraformers, who value the morph for being a cheap, well-constructed quadrupedal synthmorph.
+(The quadrupedal construction makes them well-adapted to difficult terrain and heavy loads.)
 
 - Type: Morph (Synth)
 - Layout: Horse-like (~130cm high at shoulder)
@@ -279,6 +299,6 @@ Variants:
 - **Large**: A larger variant, developed becaus some characters from the show were larger than others.
   - Increase size to \[Large\], Increase DUR to 55.
   - Available: unchanged
-- **Pegasus**: Pegasi add wings to the morph.  Unfortunately, the physics of the real world are not as conducive to flight as either children's cartoons or Greek myth; Pegasi fare well in low gravity and microgravity, but struggle in more than half a G.  In order to improve flight capabilities, users sometimes add other propulsion systems; ionic air propulsion is a common choice, because they can be directly integrated into the wings.  However, in order to provide any practical benefit, extensive changes to the morph and wings are required.
-  - Add the Winged (2/10/30) movement mode; profile is given for Mars, and should be adjusted for environment.
+- **Pegasus**: Pegasi add wings to the morph.  Unfortunately, the physics of the real world are not as conducive to flight as either children's cartoons or Greek myth; Pegasi fare well in low gravity and microgravity, but struggle in more than a third of a G.  In order to improve flight capabilities, users sometimes add other propulsion systems; ionic air propulsion is a common choice, because they can be directly integrated into the wings.  However, in order to provide any practical benefit, extensive changes to the morph and wings are required.
+  - Add the Winged (2/10/30) movement mode; profile is given for Mars, and should be adjusted for other environments.
   - Available: unchanged
