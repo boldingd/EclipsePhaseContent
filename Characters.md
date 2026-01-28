@@ -427,3 +427,88 @@ Operatives contacting her for aide or collaboration should be aware that she has
 > **Note**:  
 > You should probably set a nickname for this account, since it changes handles frequently.
 > Within this wiki article, you can also use `[this]`, which will inject this article's current title (which should always be his display name).
+
+### 𒀭𒌓
+
+| \*Shamash | |
+| --- | --- |
+| Identity | AGI, he/him |
+| Languages | Skandinaviska (Native), *'Sphere* (Fluent), English (Conversational), German (Conversational) |
+| Rank | Sentinel |
+| Reputation | Good |
+| Skills | Programming, Habitat Hardware, Robotics |
+| Tags | |
+
+> **Note**:
+> This account's name is the cuneiform spelling of the name of the mesopotamian god Shamash.
+> ("Shamash" in Akkadian, "Utu" in Sumerian.)
+> Most people just call him Shamash, and set an appropriate alias.
+
+> **Note**:
+> "'Sphere" is a local language spoken on this Sentinel's home habitat.
+> It is a rough creole of English and German.
+
+Shamash was recruited (into Firewall) in AF 9.92 by \@K/D/r, after \@K/D/r ran into trouble in an abandoned hab in the 'belt and had to put a call out for nearby help.
+Shamash had combat hardware – developed as a hobbyist, tinkering with blueprints – and was located on a hab less than 20 hours away.
+Desperate times called for desperate measures.
+
+Although Shamash has only been activated a few times, he is merely adequate in the field – if you're in his corner of the belt, you are not likely to be spoiled for choice.
+Much of his positive reputation comes from supporting ongoing projects, and from providing Firewall access to his community's resources.
+(He is a primary maintainer for his hab, and has a high degree of access to its systems.)
+
+### 𒀭𒀹𒁯
+
+| \*Ishtar | |
+| --- | --- |
+| Identity | AGI, she/her |
+| Languages | Skandinaviska (Native), *'Sphere* (Fluent), English (Conversational), German (Conversational) |
+| Rank | Sentinel |
+| Reputation | Good |
+| Skills | Psychosurgery, Negotiation, Infiltration |
+| Tags | |
+
+> **Note**:
+> This account's name is the cuneiform spelling of the name of the mesopotamian goddess Ishtar.
+> ("Ishtar" in Akkadian, "Inanna" in Sumerians.)
+> Most people just call her "Ishtar", and set an appropriate alias.
+
+> **Note**:
+> "'Sphere" is a local language spoken on this Sentinel's home habitat.
+> It is a rough creole of English and German.
+
+\@\*Shamash's "sister" – she's from the same code-line, and they were developed at the same time; the concept is close enough, and it's the word that she uses.
+She was recruited on Shamash's reccomendation.
+
+For good or ill, Ishtar was paired with \@Thor in several of her early activations, so that he could serve as something of a mentor; the experience may have been closer to a hazing, but it did reveal that Ishtar has an aptitude for infiltration.
+She has seen a handful of further activations scattered throughout the 'belt, where her skills in psychosurgery and infiltration can be useful – as well as her ruthless outlook and highly pragmatist leanings.
+
+### Durango
+
+| Durango | |
+| --- | --- |
+| Identity | Human, he/him |
+| Languages | English (Native), *'Sphere* (Fluent) |
+| Rank | Sentinel |
+| Reputation | Good |
+| Skills | Habitat Maintenance, Seekers |
+| Tags | Recent Recruit |
+
+Durango was recruited by \*Shamash and \*Ishtarr, from their home habitat.
+He is a recent recruit, and doesn't yet have much of a track record.
+
+He was recruited out of necessity; Firewall needs more hands and eyes in his corner of the 'belt, and Durango fit the psychological profile in social consciousness, stress handling, and integrity – he's willing to do the work, capable of handling the hell Sentinels are put through (as much as anyone can), and is likely to be loyal to the mission.
+
+The somewhat brutal assessment is that Durango doesn't yet offer any particular skill or capability, beyonda his psychological profile and that he was willing to volunteer; he has been putting in time on "upskilling," on both habitat engineering (maintenance being one of his responsibilities on his home hab) and seeker weapons (he's shown something of a natural aptitude, in one of his few activations).
+
+### Regolith
+
+| Regolith | |
+| --- | --- |
+| Identity | Human, she/her |
+| Languages | Hindi (Native), English (Fluent), Mandarin (Conversational) |
+| Rank | Sentinel |
+| Reputation | Good |
+| Skills | Criminal networking, Smuggling, Physical Combat, Intimidation |
+| Tags | Wanted (LLA) |
+
+Regolith is a lietenant in a gang in Shackle, respsonsible for running a protection racket in a specific sub-cavern of the habitat.
