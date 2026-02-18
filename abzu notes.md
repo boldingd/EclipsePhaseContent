@@ -69,16 +69,20 @@ Gates:
 ## Factions
 
 - Martian Hypercorporate
+  - **Tentative Name**: [Bonaventure](https://en.wikipedia.org/wiki/Bonaventure_Plantation)
   - Martian hypercapitalism, with full-slavery indenture and all.
   - Private, hypercorp-owned settlement.
   - **Alignment**: Capitalists
-- Martian Astra-Liberal
+  - **Combat Profile**: Substantial.  Air-superiority doctrine: sophisticated, stealthy combat drones and long range missiles -- or that's the eventual plan.  They may or may not be planning on wiping the Vanguard (and the rest of the autonomists) out.
+- Martian Astra-Liberal / liberals
+  - **Tentative Name**: Apsu Commonwealth or Apsu League
   - A bit like Venus, a group led by urban liberals and radicals.
   - Want to build a civil government first, hypercapitalist economy second.
   - Idea for a main conflict: get rid of inenture all-together?
     - Their version is run through their state, and less cruel -- but it's still indenture.
     - There's a movement to completely eliminate it.
   - **Alignment**: Capitalists
+  - **Combat Profile**: policing.  Air-mobile cops and rangers.
 - Red-Necks
   - Small towns and settlements.
     - Problematic elements win "lotteries" and are chucked through the Pathfinder gate.
@@ -89,30 +93,134 @@ Gates:
     - They like looking at a plot of land and saying "this is my land."  And they like getting paid for their work.
     - But they still have their close ties with the Makers, and other autonomists through the Movement.
   - **Alignment**: neutral
+  - **Combat Profile**: Minimal.  Armed individuals and ad-hoc organization.
 - Maker Nomads
   - A bit like the red-necks; problematic elements win "lotteries," and through the gate they go!
   - **Alignment**: Autonomists
-- Lib-Socs
+- Lib-Socs / autonomists
   - Need to name this hab.
   - Out-system Autonomists who went through the Fissure gate.
   - Organized along libertarian-socialist lines, a little like (my write-up of) Locus.
   - **Alignment**: Autonomists
+  - **Habitat**: Initial habitat is 
+  - **Combat Profile**: defensive, disorganized.  Militia drilling and asymmetric tactics; highly effective at making it unpleasant to hold their hab, almost useless against an opponent that just wants to kill them.
 - Mercurials
-  - **Alignment**: Neutral
   - First, it was a small population of uplifted yeenas from Locus.
     - But then a large group from SomaTek decided to join them.
     - Others followed.
   - Some Mercurials have strong feels about *socio-economics*; some don't.
-  - **Alignment**: neutral
+  - **Alignment**: Neutral / Multiple
 - Ultimates
   - Come through the Discord gate.
   - Up to no good.  They are not building a city, they're building an encampment.
     - Other factions have probably noticed that they have no pretense of an *industrial base* -- which you'd expect, really.
     - Mainly military barracks and obstacle courses.
+  - Later addition: Nobody will admit to letting them through; very likely they have their own, third gate, reachable from the Discord gate.
+  - Possible motivation/hook: they may not be able to get back.
+    - This makes them a much more immediate threat to everyone else.
   - **Alignment**: Independent
+  - **Population**: tiny (hundreds to thousands): a military outpost
+  - **Combat Profile**: Significant.  Ultimate mercs in power aramor.  Large (~deer-sized) Loyal Squad Mate bots.
+    - Notable lack of numbers, armor, or air power makes them a diminishing threat over time.
+  - **Economic Profile**: negligable: just in-situ nanofabrication for military support.  They are not a growing society.
+  - **Diplomatic Profile**: negligable: they hate almost everyone and almost everyone hates them.
 - Extropians
   - I changed my mind a little, had a little brainwave, and/or just wanted to do this.
   - Extropian Mutualists / sub-culture weirdos.
     - Belt-Con approached L&R for access; they told them to sod off.
     - They set up a new mutualist coop to partner with, that was a little louder about their anti-property stance -- and/or threatened to sling rep and resources to make L&R's life difficult if they didn't bend a little.
     - Result: this tiny mutualist mining coop got to set up shop.
+  - Addendum: they include some autonomist/outer-system members/minders.
+    - They're there to keep the Mutualists on the autonomist straight and narrow.
+  - They're not necessarily trying to build a grand colony; they're an (independant and self-sufficient) mining project.
+    - They're making a beeline for Titanium deposits; they want to control the early supply of this vital metal.
+    - They may also be setting up old-school steel works.  Because stainless steel will be valuable but expensive.
+    - They're staying mobile.  They probably have a few mobile bases and mars buggies (or rough equivalents).  Their encampments are temporary -- temporary structures, open-air pit-fabs (basically big pits or above-ground tanks they throw resources and proteans in).
+  - **Alignment**: Autonomist, Neutral
+  - **Population**: tiny (hundred to thousands): caravan, mining and trading outposts.
+  - **Combat Profile**: improvised, defensive.  Small, mobile seeker-carriers; survey drones outfitted with seekers; FPVs.
+- Maoists / Vanguard
+  - **Tentative name**: Apsu Vanguard
+  - Maoists; authoritarian communists.
+  - Originally/nominally circle-A, but plummeting @-rep and obvious abuses have led to them being largely blackballed.  L&R has specifically cut them off.
+  - Out to violently overthrow Capitalism.
+  - Demand surrender of resources to the fight; otherwise, you're an enemy.
+  - Demand aid and support in the fight; otherwise, you're an enemy.
+  - Use psychosurgery to enforce conformity in their habs.
+  - Highly militarized.
+  - Willing to fire seekers at people; have already fired at Mutualists to drive them off of claims.
+  - **Alignment**: Autonomist
+  - **Combat Profile**: Significant.  Three anti-drone beam-forming microwave vehicles; one also capable of serving as an AESA radar.  Working on blueprints for smaller carriers with similar capabilities (beamforming microwave weapons and AESA radaras).  Their own population, who are drilled and psychosurgically conditioned.  Small, somewhat-stealthy infiltration bot aimed at penetrating Bonaventure to compromise their control systems.
+
+### Lower-Priority / Random Ideas
+
+- Exhumans
+  - Possibly give the "mercurial cluster" a little more heft and distinction.
+  - *possibly* also came through the same gate as the Ultimates; may be related to why the Ultimates are stuck here, if I decide to go that route.
+  - Hmmm!  They might also have egocast in from the Mutualist enclave on Blueblood Paradise, and have egocasted down.
+    - I actually like that a lot more.
+- Dynasty / Oligarchs
+  - It's a stretch, but they're a decent faction and they'd liven up the place.
+
+### Movements
+
+- United Apsu
+  - The U.N.!  A movement aiming to create an inter-faction organization to claim a monopoly on legitimate violence and eliminate inter-factional violence.
+  - More appealing to liberals, autonomists, extropians; bonaventure and vanguard against; rednecks ambivalent.
+- Criminals
+  - probably a few got through, especially from Mars.
+- Firewall
+  - Mutualists were heavily compromised by Firewall; probably spreading out.
+
+## Faction Layout
+
+Quick though: faction (colonist, movement) / affinity layout
+
+- Factions are either colonists (building some kind of independent settlement, like Bonaventure or Vanguard) or movements (having some kind of independent units / diplomacy / *outposts*, but no settlements; dependent on Colonists for support / influence)
+  - In order to keep things simple, Ultimates and Mutualists are Factions -- they're not trying to build large, growing settlements with their own economies, but they do have *independent settlements*.  There is a map point you could attack.
+- And they're grouped into *affinities*: Mercurials, Civics, Autonomists
+  - these categories aren't mutually-exclusive.
+  - ... actually, I just reinvented the rep networks, so we could just call it that.
+
+- Tricky bit: if this were ever a game, movements would have weird win conditions.
+  - UA wins if they get all -- or maybe just most -- factions to join.  (Peace for everyone, everyone wins.)
+  - Criminals may win if they're deeply embedded in another faction that also wins.  (So, their win also isn't mutually-exclusive.)
+  - Firewall may win if they still exist, someone else wins, and an x-risk never got out.
+  - OK, so, that's the answer: it's not a one-winner kind of game, especially not when someone's playing a Movement.
+  - *Maybe* you could also do a points-based thing.  Firewall wins if they stop enough x-risks; criminals win alone if they get rich enough; UA wins if they start building settlements under their own banner -- becoming colonists/a faction, rather than a movement -- and then win conventionally.
+
+(I kind of like the idea that Firewall are goldfish-y / healer-y: they're playing their own game, and nobody notices them until they fail.
+I also like that they'd keep people guessing: did Vanguard sabotage me, or did Firewwall?)
+
+## Planet Notes
+
+Talked to Gemma a bit.
+Some quick notes:
+
+- atmosphere
+  - free oxygen is unlikely unless there's a process producing it.
+    - Methane is more likely.
+    - And so is water vapor -- surface water is fine?
+    - Both of the above are also greenhouse gases.
+  - So our final composition might look something like:
+    - 87% Nitrogen
+    - 3% CO2
+    - 7% Methane (CH4)
+    - Trace elements (Argon) and water vapor (variable)
+  - *Weather systems* are probably more viable/impactful, especially around oceans.  Maybe very humid.
+  - ~~50% surface water and cloud cover helps (it increases albedo)
+- crust / surface
+  -Lot of [basalt](https://en.wikipedia.org/wiki/Basalt) on the surface.
+    - Basalt apparently comprises most of the surface of venus.  It results from slow lava flows and is incredibly common.
+    - Ah.  Per wikipedia:
+      > Basalt generally has a composition of 45–52 wt% SiO2, 2–5 wt% total alkalis,[7] 0.5–2.0 wt% TiO2, 5–14 wt% FeO and 14 wt% or more Al2O3. Contents of CaO are commonly near 10 wt%, those of MgO commonly in the range 5 to 12 wt%.[54]
+  - "Iron, silicone, aluminum, and other metals" will be abundant.
+    - I think silicates (turns out, lotta rocks have SiO2) and good old rust can be efficient oxygen sinks.
+  - Ocean may contain salts, dissolved minerals;
+    - I haven't picked a salinity yet.
+- Magnetosphere does imply a liquid core,
+  - which implies vulcanism and earthquakes.
+- Star: G4V (same class as Sol, a little cooler, still main-sequence)
+- Orbit: *proportially a little further out than Earth*, yielding lower irradiance.  Still in habitable zone.
+- Radius: 1.1r_earth
+- Mass: less, leading to ~0.85G

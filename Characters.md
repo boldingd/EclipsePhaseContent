@@ -512,3 +512,6 @@ The somewhat brutal assessment is that Durango doesn't yet offer any particular 
 | Tags | Wanted (LLA) |
 
 Regolith is a lietenant in a gang in Shackle, respsonsible for running a protection racket in a specific sub-cavern of the habitat.
+
+### Cordyceps
+

@@ -4,7 +4,7 @@
 > I originally came up with it as the setting for a 4X-like game set in the Eclipse Phase universe.
 > The game was just a daydream, but I like the world, so I'm going to write it up.
 
-\[iNet Internal Wiki]  
+\[iNet Internal Wiki\]  
 \|Maintainers: \[\@Exothreat-Working-Group | working group, internal\], \[\@Gatecrasher-Community-Working-Group | working group, internal\], @\*Vagrant  
 \|Editing: editing is *moderated*; edits are reviewed by maintainers  
 \|Last edit: AF 11.38
@@ -14,9 +14,9 @@
 | type | Terrestrial |
 | Primary Star | G3V |
 | Gravity | 0.79 G |
-| Diameter | 17,500 km |
+| Diameter | 14,330 km |
 | Atmospheric Pressure | 0.9 ATM |
-| Atmospheric Composition | Nitrogen 76%, Oxygen 19%, Carbon Dioxide 4.5%, Water 0.5% |
+| Atmospheric Composition | Nitrogen 81%, Methane 9%, Carbon Dioxide 4%, Water Vapor variable |
 | Surface Temperature | 5C (polar winter, night), 35C (middle-latitude settlement, spring or autumn), 85C (equatorial daytime peak) |
 | Day Length | 38 Hours |
 | Orbital Period | 95 cy |
@@ -108,7 +108,8 @@ Somebody eventually said "fuck it, we'll just call it 'silt ball'", somebody els
 In their defense, they did not expect anyone to be in a rush to colonize "silt-ball".
 
 They failed to account for belters.
-An Extropians co-op saw a fixer-upper they could snatch for a bargain, bought the claim to the place, bought time on the Pandora gate, and proceeded colonize 'Paradise itself – they liked how stupid the name was, natch – and were starting to explore some of the other moons when they received a weak signal from a rocky planet in the inner system.
+An Extropians co-op saw a fixer-upper they could snatch for a bargain, bought the claim to the place, bought time on the Pandora gate, and proceeded to colonize 'Paradise itself – they liked how stupid the name was, natch – and were starting to explore some of the other 
+moons when they received a weak signal from a rocky planet in the inner system.
 Turns out, Blueblood Paradise and Apsu are in the same system.
 
 It's probably going to be *decades* before anyone in the Apsu/Silt Ball system builds a ship, so we won't need to worry much about horseshoe crab utopia for the time being.
