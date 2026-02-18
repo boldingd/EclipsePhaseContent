@@ -8,7 +8,7 @@
 > But there's a lot that sets them apart from the rest of the Alliance, and like \@Bauble said, they're hard to get access to.
 > It starts to make you think they have something to hide.
 
-The Skyward Collective is an anarchist-communist cooperative consisting of a number of allied habitats.
+The Skyward Collective is an anarchist-communist collective consisting of a number of allied habitats.
 They're notable for their particular brand of hedonist collective anarchism, for their efforts at building new habitats and morphs, and for their advocacy for experimentation with safe seed AIs and super-intelligences.
 
 > **Gunslinger\#MONOLITH**: 🎵 one of these things is not like the others 🎵
@@ -28,23 +28,23 @@ Some habs may have permanent working-groups that others do not; some may have ve
 
 The Collective was established 17 months after the TITANs' disappearance, with the intent of counter-balancing the much greater rate at which the Capitalist polities of the Inner System were capable of resleeving infugees.
 (As a point of trivia, it was originally named after its founding habitat, Humble Beginnings.
-Later, for different reasons, both were renamed, the hab to Égalité and the Collective to Skyward.)
+Later, for different reasons, both were renamed, the hab to Égalité and the collective to Skyward.)
 
 ## Founding Values
 
-The Skyward Collective was founded by small cooperative of anarchist thinkers, activists, and partisans operating on an autonomist-aligned habitat in the Jovian Greeks.
-It espouses a few core values:
+The Skyward Collective was founded by small collective of anarchist-communist thinkers, activists, and partisans operating on an autonomist-aligned habitat in the Jovian Greeks.
+It espouses five core values:
 
-- **Collectivist Anarchism**: the Cooperative strongly supports anarchist social models, egalitarian values, and the collective ownership of all capital;
-- **Hedonism**: the Cooperative is very pleasure-oriented, rejecting regimes like work in favor of the pursuit of pleasure;
-- **Autonomist Expansion**: the founders of the Cooperative where very concerned that the Planetary Consortium was reinstantiating Fall infugees and integrating them into their society at a much higher rate than the members of the Autonomist Alliance, and wished to create a system that could rapidly absorb and indoctrinate both Fall infugees and the inner-system poor, and could rapidly acquire and populate habitats;
+- **Collectivist Anarchism**: the Collective strongly supports anarchist social models, egalitarian values, the collective ownership of capital, voluntary association, and direct-democratic decision-making;
+- **Hedonism**: the Collective is very pleasure-oriented, rejecting regimes like work in favor of the pursuit of pleasure;
+- **Autonomist Expansion**: the founders of the Collective were very concerned that the Planetary Consortium was reinstantiating Fall infugees and integrating them into their society at a much higher rate than the members of the Autonomist Alliance, and wished to create a system that could rapidly absorb and integrate both Fall infugees and the inner-system poor, and could rapidly acquire and populate habitats;
 - **Tehcnological Progressivism**: the founders saw improving technology as a vital tool both for improving their own lot without the need for labor, and for competing with the Planetary Consortium;
 - **Precautionism**: in the aftermath of the Fall, however, the founders also saw a compelling need to ensure that new and powerful technologies did not pose a direct risk to society.
 
 They developed a form of hedonistic collective anarchism that emphasized these principles, successfully incorporated their own habitat using the scheme, and began to establish other collectives using the same scheme in other habitats.
 
 Notably, some of these principles set them apart from other Autonomist groups.
-For example, most outer-system habitats tend more towards libertarian socialism than anarchist communism, and most autonomist groups strongly support freedom of nanofabrication.
+For example, most autonomist habitats tend more towards libertarian socialism than anarchist communism, and most autonomist groups strongly support freedom of nanofabrication.
 
 > **RategoryTheory**: And the difference between "libertarian socialism" and "anarchist communism" would be…?
 >
@@ -58,7 +58,7 @@ The collective as such is not a government, and does not control the individual 
 
 The collective does oversee the acquisition and population of new habitats, and the establishment of new collectives; because it oversees how new collective are established, it does tend to be able to ensure that most habitats start out "on the straight and narrow."
 
-The overarching Skyward Collective does, however, have certain requirements that an individual member collective must meet to remain a *member in good standing*; these include the collective ownership of capital, direct-democratic government, and an impartial justice system.
+The overarching Skyward Collective does, however, have certain requirements that an individual member collective must meet to remain a *member in good standing*; these include the collective ownership of capital, direct-democratic decision-making, and an impartial justice system.
 While an individual habitat could choose to leave the collective — or to violate these requirements and be expelled — this has not yet happened; this is likely to due to the care that the Skyward Collective takes in constituting and populating new habitats, the benefits of remaining within the collective, and cultural connections between different habitats.
 
 Notably, the over-arching Skyward Collective can intervene in the event of a conflict between different habitats.
@@ -89,7 +89,7 @@ For example, they have purchased a small surface hab on Luna, have occupied an a
 
 > **Gunslinger\#MONOLITH**: So this is the other reason that we're interested in these guys.
 >
-> Two things are important to point out here: one is that they *are* nonviolent, and the other is that they definitely aren't the only vanguardist group in the outer-system.
+> Two things are important to point out here: one is that they *are* nonviolent, and the other is that they definitely aren't the only entryist group in the outer-system.
 >
 > But, @Curé's pretty worried that, long-term, these folk are going to lead to more inter-factional conflict in the solar system, not less.
 >
@@ -192,7 +192,7 @@ For example, they have purchased a small surface hab on Luna, have occupied an a
 >
 > **anarcat**: Also, don't speak of the devil, he might appear!
 
-In principle, membership in a collective is open to anyone; in practice, however, the Collective has a preference for those who lack their own resources, and for those who can be indoctrinated into the Collective's anarchist-communist values.
+In principle, membership in a collective is open to anyone; in practice, however, the Collective has a preference for those who lack their own resources – those who need the help – and for those who can be indoctrinated into the Collective's anarchist-communist values.
 For this reason, they preferentially recruit from the ranks of Fall infugees, and from the unprivileged and oppressed at the fringes of other societies.
 
 The Collective does usually make an attempt to verify a new member's identity and to check their history, checking relevant reputation scores and verifying brainprint scans when possible (if a record exists, and if the new member consents).
@@ -332,7 +332,8 @@ This conflict plays out on Skyward's mesh, as it does throughout the circle-A ne
 Each individual habitat establishes collective ownership of all capital — by a fairly expansive definition that allows little room for personal property.
 The output of productive capital is equally distributed by the (local) collective itself; neither currency nor markets are used.
 Most systems are automated; where intelligent labor is required, volunteers are typically sought, and reward with (small) resource-allocation bumps.
-When required, the Cooperative can compel service: broadly, they can set labor requirements, assign tasks by lottery, or "draft" individuals with unique and necessary skills.
+When required, the collective can compel service: broadly, they can set labor requirements, assign tasks by lottery, or "draft" individuals with unique and necessary skills.
+(Compelling labor is controversial in anarchist-communist theory; it's generally accepted as the price of living in space, where even minor systems failures can spiral into existential crisis for everyone.)
 
 > **rategorytheory**: Who decides what tasks get what resource payouts?
 >
@@ -342,13 +343,13 @@ When required, the Cooperative can compel service: broadly, they can set labor r
 > **Bauble**: Usually it's a task-setting working group, sometimes it's a public vote.
 > *Égalité* has a bunch of work-groups responsible for different parts of the hab, for example, and they publish task lists.
 
-Member cooperatives generally opt for low labor requirements over high productive output: they broadly use the same types of automated resource-extraction and minifacturing that other societies use, but they generally don't supplement it with transhuman labor.
-Each member of the cooperative is granted a portion of the resources (feed-stock and energy) produced by the collective, public fabber time to produce their needs and wants, and housing on their habitats; their obligations in turn are minimal, besides surrendering all capital and answering any labor requirement.
+Member collectives generally opt for low labor requirements over high productive output: they broadly use the same types of automated resource-extraction and minifacturing that other societies use, but they generally don't supplement it with transhuman labor.
+Each member of the collective is granted a portion of the resources (feed-stock and energy) produced by the collective, public fabber time to produce their needs and wants, and housing on their habitats; their obligations in turn are minimal, besides surrendering all capital and answering any labor requirement.
 
-Each habitat in the cooperative is administered as an ad-hoc direct-democracy.
+Each habitat in the collective is administered as an ad-hoc direct-democracy.
 They use on-line polling of the entire hab population to make major decisions, while members form "working groups" to make smaller decisions and tackle ongoing tasks and problems.
 They prefer ad-hoc forms of social-organization and decision-making to fixed institutions and rules, using votes to make decisions on a case-by-case basis, creating working-groups as the need arises, and dissolving them when the issue is resolved.
-In principle, the cooperative attempts to keep the number and duration of working-groups to a minimum; in practice, most habitats establish a certain number of permanent working-groups, with set internal structures, to tackle important concerns like hab-maintenance or civil justice.
+In principle, the collective attempts to keep the number and duration of working-groups to a minimum; in practice, most habitats establish a certain number of permanent working-groups, with set internal structures, to tackle important concerns like hab-maintenance or civil justice.
 
 > **anarcat**: This is one of the potential fault-lines for this society, I think.
 > Despite their best efforts, they've got the seeds for power groups and power-holders — the potential for high-rep members of this-or-that working-group to start treating some-or-other aspect of hab maintenance as their own little fiefdom.
@@ -364,7 +365,7 @@ The outcome of public debate can depend more on how individuals are perceived th
 
 Absent these two mechanisms, there is no formal government or rule-making: individuals are free to conduct their affairs as they see fit.
 
-Owing largely to their low-to-zero labor expectation, the cooperative tends not to be very productive.
+Owing largely to their low-to-zero labor expectation, the collective tends not to be very productive.
 For comparison, per-capita resource allocations sit between one-half and one-third of the median resources consumed by a citizen of the Titanian Commonwealth, depending on the specific habitat and time.
 
 > **rategorytheory**: One-half to one-third of the *median*?
@@ -373,7 +374,7 @@ For comparison, per-capita resource allocations sit between one-half and one-thi
 > They decided they'd rather not have to work than live in a materially prosperous society.
 > Like, that's not snark; that's exactly the decision that they made.
 >
-> **rategorytheory**: Remind me again, these are the people who get super excited about poor people existing in other societies?
+> **rategorytheory**: Remind me again, these are the people who think it's a complete moral failure that poor people existing in other societies?
 > And you're telling me that they *all* subsist on about the same level as the working-poor of Mars?
 >
 > **Gunslinger\#MONOLITH**: Without the "working" part, boot-licker.
@@ -420,12 +421,12 @@ This can lead to provocative and seemingly contradictory positions: the Skyward 
 
 ### "Economy," Capital, and Fabbing
 
-The Skyward Collective has a fairly strict communist scheme: allowed personal property is very narrowly construed, consisting mostly of clothing, furniture, keepsakes, and personal effects; everything else is owned collectively by the Cooperative.
-Notably, this means that almost all of the habitat infrastructure and productive technology is owned and administered by the cooperative: hab hulls, life support and power systems, resource drones, maintenance drones, and auto-manufacturing systems are all owned collectively.
+The Skyward Collective has a fairly strict communist scheme: allowed personal property is very narrowly construed, consisting mostly of clothing, furniture, keepsakes, and personal effects; everything else is owned collectively by the Collective.
+Notably, this means that almost all of the habitat infrastructure and productive technology is owned and administered by the collective: hab hulls, life support and power systems, resource drones, maintenance drones, and auto-manufacturing systems are all owned collectively.
 Unlike much of the outer system, all nanofabricators are collectively owned; private ownership of nanofabricators is restricted.
 
 Unlike most other Autonomist groups, owing to their socially-conscious and precautionist views, the Skyward Collective restricts and tracks its members use of nanofabrication.
-They believe that each cooperative has a legitimate interest in preventing members from producing grenades, nano-plagues, weapons of mass destruction, or other dangerous technologies.
+They believe that each collective has a legitimate interest in preventing members from producing grenades, nano-plagues, weapons of mass destruction, or other dangerous technologies.
 Public nanofabricators will only produce blueprints approved and signed by the community (and private ownership of CMs is not allowed).
 Libraries of signed blueprints are made available to members, covering a wide variety of food, clothing, furniture, and useful technologies; members can request anything from the library and, subject to their resource limits, it will be manufactured by a nearby public CM and either delivered by a drone or held for pick-up.
 
@@ -454,13 +455,13 @@ Also like most other work-groups, a vote of the general population can overturn 
 
 A few additional blueprints are made available only to *trusted* members, or are reserved for members of specific working-groups; additionally, a small number of potentially-abusable blueprints are restricted from members flagged as being *antisocial*.
 
-The Cooperative also maintains large nanofabbing and conventional minifacturing facilities on several of its habs, the former for the production of large hardware (like habitat systems) and the latter for manufacturing common objects (like clothing, furniture, tableware and tools) more efficiently than on-demand nanofacture.
+The Collective also maintains large nanofabbing and conventional minifacturing facilities on several of its habs, the former for the production of large hardware (like habitat systems) and the latter for manufacturing common objects (like clothing, furniture, tableware and tools) more efficiently than on-demand nanofacture.
 The collective also makes use of conventional agriculture and hydroponics, both for food (and drug) production and for environmental maintenance; many of their habitats sport large zero-G or low-G hydroponics modules.
 
 Their economy has a very low per-capita productivity — another aspect of their "responsible communist hedonism."
 Public sentiment runs along the lines of, "we have enough for everyone to be comfortable, as long as no-one gets greedy," where there is a particular stigma attached to "being greedy".
 Most of their habitats sport sufficient automated resource-gathering and industry to provide their members a comfortable (if not luxurious) standard of living.
-Notably, their particular strict-collectivist scheme is not set up to encourage members to be much more productive, since any additional resources or capital they produce would be yielded to the Cooperative to be equitably distributed.
+Notably, their particular strict-collectivist scheme is not set up to encourage members to be much more productive, since any additional resources or capital they produce would be yielded to the Collective to be equitably distributed.
 (In the minds of the founders of the Skyward Collective, at least, this is a feature rather than a bug; they tend to place a high premium on equitable distribution, and to have a dim view of excess and waste.)
 
 While it may be an academic point, Skyward is technically a mix of command and gift economies, rather than a reputation, social-credit, or social-money economy.
@@ -477,14 +478,14 @@ Beyond the operations of drones, auto-manufacturies and public fabbing, very lit
 Some tasks still require skilled labor by individuals.
 While member collectives do want to incentivize people to serve the community as doctors, EMTs, advocates, engineers, and technicians, they are extremely reticent to mandate labor, establish hierarchies, or allow the accumulation of capital (physical or social).
 For these things, most member collectives use an informal gift system.
-Services rendered are tracked as gifts, favors, or contributions; member-collectives then track these gifts on their social network.
+Services rendered are tracked as gifts, favors, or contributions; member-collectives then track these contributions on their social network.
 Members may then take into account whether someone is contributing to others, or to the community at large – or not – when dealing with others.
 
 However, there is no obligations that these contributions be repayed, other than that from social convention.
 Someone who racks up favors cannot expect to demand repayment, either from individuals or from the community.
 This means that especially hard-working or talented individuals often get little direct reward for their labor.
-Not only can this discourage contributions, it can also lead to some individuals seeking to sell their skills elsewhere – either leading to participation in illicit underground markets, or even to outright departure from the collective.
-This in turn can lead to a kind of brain-drain, as the brightest and most industrious in the Collective have an incentive to depart for habitats and polities where their skills will be more highly valued.
+Not only can this discourage contributions, it can also lead to some individuals seeking to sell their skills elsewhere – either leading them to participate in illicit underground markets, or even to them departing the collective entirely.
+This can cause a kind of brain-drain, as the brightest and most industrious in the Collective have an incentive to depart for habitats and polities where their skills will be more highly valued.
 
 ### Work-Groups, Trusted Members and the Antisocial
 
@@ -528,7 +529,7 @@ Learning is often undertaken independantly, at the learner's discression.)
 Of course, working-groups are as dependent on volunteers as the rest of the collective, and so the amount of training and professional work they can do is limited; still, the permanent working-groups represent a reserve of expertise that many other outer-system autonomist societies fail to establish at all.
 
 Beyond the working-groups, the community can also designate some members as *trusted members*.
-As the name implies, *trusted members* have earned the trust of the community; this carries no direct privilege, but it makes them eligible for certain positions of trust that other members do not qualify for.
+As the name implies, *trusted members* have earned the trust of the community; this carries no direct privilege, but it makes them eligible for certain sensitive positions that other members do not qualify for.
 Some restricted technologies are only available to trusted members; protean swarms, for example, are usually only available to trusted members, and dissassemblers are only available to trusted members in certain work-groups.
 
 Conversely, some members are designated as *antisocial*; this is often done as a temporary measure in response to minor crime, or sometimes in response to consistent, minor antisocial behavior.
@@ -547,7 +548,7 @@ Some smaller habitats will only sport a single Peace, Justice and Aide working-g
 
 The Skyward Collective as such requires that each member collective see to public peace, and allows for trial-by-jury of those who abuse others and the potential imprisonment of members who pose a danger to the rest of the collective.
 (As elsewhere, a full, direct-democratic poling of the entire habitat is the final recourse of their justice system, with a two-thirds vote required to sustain a conviction.)
-However, the abuse, neglect or viovlation of prisoners is also strictly forbidden; prisoners are still members of the collective, and beneficieries of all the rights, priviledges and protections that come with it.
+However, the abuse, neglect or violation of prisoners is also strictly forbidden; prisoners are still members of the collective, and beneficieries of all the rights, priviledges and protections that come with it.
 
 > **Gunslinger\#MONOLITH**: Here's the part I don't like: anarchist cops.
 >
@@ -647,8 +648,8 @@ Because of this, the devil's coin provides a (thin) connection between the under
 
 Égalité is the founding hab for the Skyward Collective, and still its single largest member.
 
-Early on, both the founding cooperative and the entire collective movement had the same name, "*Humble Beginnings*."
-During the second year, it was decided allowing the founding hab to share the same name as the whole collective violated the spirit of communist equality; the hab was renamed *Égalité*.
+Initially, both the founding collective and the entire movement had the same name, "*Humble Beginnings*."
+It was quickly decided, however, that allowing the founding hab to share the same name as the whole collective violated the spirit of equality; the hab was renamed *Égalité*.
 (Four months after that, it was decided that a slightly more stirring — and more wieldy — name was required for the collective, and it was renamed *Skyward*.)
 
 The 540m-radius torus hab was originally built by a pre-fall hypercorp in an asteroid family in the Jovian Greeks to support mining operations.
